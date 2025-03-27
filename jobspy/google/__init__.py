@@ -1,10 +1,3 @@
-"""
-jobspy.scrapers.google
-~~~~~~~~~~~~~~~~~~~
-
-This module contains routines to scrape Google.
-"""
-
 from __future__ import annotations
 
 import math
@@ -13,23 +6,21 @@ import json
 from typing import Tuple
 from datetime import datetime, timedelta
 
-from .constants import headers_jobs, headers_initial, async_param
-from .. import Scraper, ScraperInput, Site
-from ..utils import extract_emails_from_text, create_logger, extract_job_type
-from ..utils import (
-    create_session,
-)
-from ...jobs import (
+from jobspy.google.constant import headers_jobs, headers_initial, async_param
+from jobspy.model import (
+    Scraper,
+    ScraperInput,
+    Site,
     JobPost,
     JobResponse,
     Location,
     JobType,
 )
+from jobspy.util import extract_emails_from_text, extract_job_type, create_session
+from jobspy.google.util import log, find_job_info_initial_page, find_job_info
 
-logger = create_logger("Google")
 
-
-class GoogleJobsScraper(Scraper):
+class Google(Scraper):
     def __init__(
         self, proxies: list[str] | str | None = None, ca_cert: str | None = None
     ):
@@ -61,7 +52,7 @@ class GoogleJobsScraper(Scraper):
         )
         forward_cursor, job_list = self._get_initial_cursor_and_jobs()
         if forward_cursor is None:
-            logger.warning(
+            log.warning(
                 "initial cursor not found, try changing your query or there was at most 10 results"
             )
             return JobResponse(jobs=job_list)
@@ -72,16 +63,16 @@ class GoogleJobsScraper(Scraper):
             len(self.seen_urls) < scraper_input.results_wanted + scraper_input.offset
             and forward_cursor
         ):
-            logger.info(
+            log.info(
                 f"search page: {page} / {math.ceil(scraper_input.results_wanted / self.jobs_per_page)}"
             )
             try:
                 jobs, forward_cursor = self._get_jobs_next_page(forward_cursor)
             except Exception as e:
-                logger.error(f"failed to get jobs on page: {page}, {e}")
+                log.error(f"failed to get jobs on page: {page}, {e}")
                 break
             if not jobs:
-                logger.info(f"found no jobs on page: {page}")
+                log.info(f"found no jobs on page: {page}")
                 break
             job_list += jobs
             page += 1
@@ -135,7 +126,7 @@ class GoogleJobsScraper(Scraper):
         pattern_fc = r'<div jsname="Yust4d"[^>]+data-async-fc="([^"]+)"'
         match_fc = re.search(pattern_fc, response.text)
         data_async_fc = match_fc.group(1) if match_fc else None
-        jobs_raw = self._find_job_info_initial_page(response.text)
+        jobs_raw = find_job_info_initial_page(response.text)
         jobs = []
         for job_raw in jobs_raw:
             job_post = self._parse_job(job_raw)
@@ -167,7 +158,7 @@ class GoogleJobsScraper(Scraper):
                 continue
             job_d = json.loads(job_data)
 
-            job_info = self._find_job_info(job_d)
+            job_info = find_job_info(job_d)
             job_post = self._parse_job(job_info)
             if job_post:
                 jobs_on_page.append(job_post)
@@ -209,42 +200,3 @@ class GoogleJobsScraper(Scraper):
             job_type=extract_job_type(description),
         )
         return job_post
-
-    @staticmethod
-    def _find_job_info(jobs_data: list | dict) -> list | None:
-        """Iterates through the JSON data to find the job listings"""
-        if isinstance(jobs_data, dict):
-            for key, value in jobs_data.items():
-                if key == "520084652" and isinstance(value, list):
-                    return value
-                else:
-                    result = GoogleJobsScraper._find_job_info(value)
-                    if result:
-                        return result
-        elif isinstance(jobs_data, list):
-            for item in jobs_data:
-                result = GoogleJobsScraper._find_job_info(item)
-                if result:
-                    return result
-        return None
-
-    @staticmethod
-    def _find_job_info_initial_page(html_text: str):
-        pattern = (
-            f'520084652":('
-            + r"\[.*?\]\s*])\s*}\s*]\s*]\s*]\s*]\s*]"
-        )
-        results = []
-        matches = re.finditer(pattern, html_text)
-
-        import json
-
-        for match in matches:
-            try:
-                parsed_data = json.loads(match.group(1))
-                results.append(parsed_data)
-
-            except json.JSONDecodeError as e:
-                logger.error(f"Failed to parse match: {str(e)}")
-                results.append({"raw_match": match.group(0), "error": str(e)})
-        return results

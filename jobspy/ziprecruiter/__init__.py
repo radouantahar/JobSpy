@@ -1,46 +1,39 @@
-"""
-jobspy.scrapers.ziprecruiter
-~~~~~~~~~~~~~~~~~~~
-
-This module contains routines to scrape ZipRecruiter.
-"""
-
 from __future__ import annotations
 
 import json
 import math
 import re
 import time
-from datetime import datetime
-from typing import Optional, Tuple, Any
-
 from concurrent.futures import ThreadPoolExecutor
+from datetime import datetime
 
 from bs4 import BeautifulSoup
 
-from .constants import headers
-from .. import Scraper, ScraperInput, Site
-from ..utils import (
+from jobspy.ziprecruiter.constant import headers, get_cookie_data
+from jobspy.util import (
     extract_emails_from_text,
     create_session,
     markdown_converter,
     remove_attributes,
     create_logger,
 )
-from ...jobs import (
+from jobspy.model import (
     JobPost,
     Compensation,
     Location,
     JobResponse,
-    JobType,
     Country,
     DescriptionFormat,
+    Scraper,
+    ScraperInput,
+    Site,
 )
+from jobspy.ziprecruiter.util import get_job_type_enum, add_params
 
-logger = create_logger("ZipRecruiter")
+log = create_logger("ZipRecruiter")
 
 
-class ZipRecruiterScraper(Scraper):
+class ZipRecruiter(Scraper):
     base_url = "https://www.ziprecruiter.com"
     api_url = "https://api.ziprecruiter.com"
 
@@ -77,7 +70,7 @@ class ZipRecruiterScraper(Scraper):
                 break
             if page > 1:
                 time.sleep(self.delay)
-            logger.info(f"search page: {page} / {max_pages}")
+            log.info(f"search page: {page} / {max_pages}")
             jobs_on_page, continue_token = self._find_jobs_in_page(
                 scraper_input, continue_token
             )
@@ -91,7 +84,7 @@ class ZipRecruiterScraper(Scraper):
 
     def _find_jobs_in_page(
         self, scraper_input: ScraperInput, continue_token: str | None = None
-    ) -> Tuple[list[JobPost], Optional[str]]:
+    ) -> tuple[list[JobPost], str | None]:
         """
         Scrapes a page of ZipRecruiter for jobs with scraper_input criteria
         :param scraper_input:
@@ -99,7 +92,7 @@ class ZipRecruiterScraper(Scraper):
         :return: jobs found on page
         """
         jobs_list = []
-        params = self._add_params(scraper_input)
+        params = add_params(scraper_input)
         if continue_token:
             params["continue_from"] = continue_token
         try:
@@ -110,13 +103,13 @@ class ZipRecruiterScraper(Scraper):
                 else:
                     err = f"ZipRecruiter response status code {res.status_code}"
                     err += f" with response: {res.text}"  # ZipRecruiter likely not available in EU
-                logger.error(err)
+                log.error(err)
                 return jobs_list, ""
         except Exception as e:
             if "Proxy responded with" in str(e):
-                logger.error(f"Indeed: Bad proxy")
+                log.error(f"Indeed: Bad proxy")
             else:
-                logger.error(f"Indeed: {str(e)}")
+                log.error(f"Indeed: {str(e)}")
             return jobs_list, ""
 
         res_data = res.json()
@@ -152,7 +145,7 @@ class ZipRecruiterScraper(Scraper):
         location = Location(
             city=job.get("job_city"), state=job.get("job_state"), country=country_enum
         )
-        job_type = self._get_job_type_enum(
+        job_type = get_job_type_enum(
             job.get("employment_type", "").replace("_", "").lower()
         )
         date_posted = datetime.fromisoformat(job["posted_time"].rstrip("Z")).date()
@@ -201,13 +194,17 @@ class ZipRecruiterScraper(Scraper):
                 else ""
             )
             description_full = job_description_clean + company_description_clean
-            script_tag = soup.find("script", type="application/json")
-            if script_tag:
-                job_json = json.loads(script_tag.string)
-                job_url_val = job_json["model"].get("saveJobURL", "")
-                m = re.search(r"job_url=(.+)", job_url_val)
-                if m:
-                    job_url_direct = m.group(1)
+
+            try:
+                script_tag = soup.find("script", type="application/json")
+                if script_tag:
+                    job_json = json.loads(script_tag.string)
+                    job_url_val = job_json["model"].get("saveJobURL", "")
+                    m = re.search(r"job_url=(.+)", job_url_val)
+                    if m:
+                        job_url_direct = m.group(1)
+            except:
+                job_url_direct = None
 
             if self.scraper_input.description_format == DescriptionFormat.MARKDOWN:
                 description_full = markdown_converter(description_full)
@@ -215,33 +212,8 @@ class ZipRecruiterScraper(Scraper):
         return description_full, job_url_direct
 
     def _get_cookies(self):
-        data = "event_type=session&logged_in=false&number_of_retry=1&property=model%3AiPhone&property=os%3AiOS&property=locale%3Aen_us&property=app_build_number%3A4734&property=app_version%3A91.0&property=manufacturer%3AApple&property=timestamp%3A2024-01-12T12%3A04%3A42-06%3A00&property=screen_height%3A852&property=os_version%3A16.6.1&property=source%3Ainstall&property=screen_width%3A393&property=device_model%3AiPhone%2014%20Pro&property=brand%3AApple"
+        """
+        Sends a session event to the API with device properties.
+        """
         url = f"{self.api_url}/jobs-app/event"
-        self.session.post(url, data=data)
-
-    @staticmethod
-    def _get_job_type_enum(job_type_str: str) -> list[JobType] | None:
-        for job_type in JobType:
-            if job_type_str in job_type.value:
-                return [job_type]
-        return None
-
-    @staticmethod
-    def _add_params(scraper_input) -> dict[str, str | Any]:
-        params = {
-            "search": scraper_input.search_term,
-            "location": scraper_input.location,
-        }
-        if scraper_input.hours_old:
-            params["days"] = max(scraper_input.hours_old // 24, 1)
-        job_type_map = {JobType.FULL_TIME: "full_time", JobType.PART_TIME: "part_time"}
-        if scraper_input.job_type:
-            job_type = scraper_input.job_type
-            params["employment_type"] = job_type_map.get(job_type, job_type.value[0])
-        if scraper_input.easy_apply:
-            params["zipapply"] = 1
-        if scraper_input.is_remote:
-            params["remote"] = 1
-        if scraper_input.distance:
-            params["radius"] = scraper_input.distance
-        return {k: v for k, v in params.items() if v is not None}
+        self.session.post(url, data=get_cookie_data)

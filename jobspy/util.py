@@ -1,16 +1,19 @@
 from __future__ import annotations
 
-import re
 import logging
+import re
 from itertools import cycle
 
+import numpy as np
 import requests
 import tls_client
-import numpy as np
+import urllib3
 from markdownify import markdownify as md
 from requests.adapters import HTTPAdapter, Retry
 
-from ..jobs import CompensationInterval, JobType
+from jobspy.model import CompensationInterval, JobType, Site
+
+urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 
 def create_logger(name: str):
@@ -129,7 +132,7 @@ def create_session(
     return session
 
 
-def set_logger_level(verbose: int = 2):
+def set_logger_level(verbose: int):
     """
     Adjusts the logger's level. This function allows the logging level to be changed at runtime.
 
@@ -283,3 +286,69 @@ def extract_job_type(description: str):
             listing_types.append(key)
 
     return listing_types if listing_types else None
+
+
+def map_str_to_site(site_name: str) -> Site:
+    return Site[site_name.upper()]
+
+
+def get_enum_from_value(value_str):
+    for job_type in JobType:
+        if value_str in job_type.value:
+            return job_type
+    raise Exception(f"Invalid job type: {value_str}")
+
+
+def convert_to_annual(job_data: dict):
+    if job_data["interval"] == "hourly":
+        job_data["min_amount"] *= 2080
+        job_data["max_amount"] *= 2080
+    if job_data["interval"] == "monthly":
+        job_data["min_amount"] *= 12
+        job_data["max_amount"] *= 12
+    if job_data["interval"] == "weekly":
+        job_data["min_amount"] *= 52
+        job_data["max_amount"] *= 52
+    if job_data["interval"] == "daily":
+        job_data["min_amount"] *= 260
+        job_data["max_amount"] *= 260
+    job_data["interval"] = "yearly"
+
+
+desired_order = [
+    "id",
+    "site",
+    "job_url",
+    "job_url_direct",
+    "title",
+    "company",
+    "location",
+    "date_posted",
+    "job_type",
+    "salary_source",
+    "interval",
+    "min_amount",
+    "max_amount",
+    "currency",
+    "is_remote",
+    "job_level",
+    "job_function",
+    "listing_type",
+    "emails",
+    "description",
+    "company_industry",
+    "company_url",
+    "company_logo",
+    "company_url_direct",
+    "company_addresses",
+    "company_num_employees",
+    "company_revenue",
+    "company_description",
+    #naukri-specific fields
+    "skills",
+    "experience_range",
+    "company_rating",
+    "company_reviews_count",
+    "vacancy_count",
+    "work_from_home_type",
+]

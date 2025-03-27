@@ -1,41 +1,38 @@
-"""
-jobspy.scrapers.glassdoor
-~~~~~~~~~~~~~~~~~~~
-
-This module contains routines to scrape Glassdoor.
-"""
-
 from __future__ import annotations
 
 import re
 import json
 import requests
-from typing import Optional, Tuple
+from typing import Tuple
 from datetime import datetime, timedelta
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
-from .constants import fallback_token, query_template, headers
-from .. import Scraper, ScraperInput, Site
-from ..utils import extract_emails_from_text, create_logger
-from ..exceptions import GlassdoorException
-from ..utils import (
+from jobspy.glassdoor.constant import fallback_token, query_template, headers
+from jobspy.glassdoor.util import (
+    get_cursor_for_page,
+    parse_compensation,
+    parse_location,
+)
+from jobspy.util import (
+    extract_emails_from_text,
+    create_logger,
     create_session,
     markdown_converter,
 )
-from ...jobs import (
+from jobspy.exception import GlassdoorException
+from jobspy.model import (
     JobPost,
-    Compensation,
-    CompensationInterval,
-    Location,
     JobResponse,
-    JobType,
     DescriptionFormat,
+    Scraper,
+    ScraperInput,
+    Site,
 )
 
-logger = create_logger("Glassdoor")
+log = create_logger("Glassdoor")
 
 
-class GlassdoorScraper(Scraper):
+class Glassdoor(Scraper):
     def __init__(
         self, proxies: list[str] | str | None = None, ca_cert: str | None = None
     ):
@@ -64,7 +61,7 @@ class GlassdoorScraper(Scraper):
         self.base_url = self.scraper_input.country.get_glassdoor_url()
 
         self.session = create_session(
-            proxies=self.proxies, ca_cert=self.ca_cert, is_tls=True, has_retry=True
+            proxies=self.proxies, ca_cert=self.ca_cert, has_retry=True
         )
         token = self._get_csrf_token()
         headers["gd-csrf-token"] = token if token else fallback_token
@@ -74,7 +71,7 @@ class GlassdoorScraper(Scraper):
             scraper_input.location, scraper_input.is_remote
         )
         if location_type is None:
-            logger.error("Glassdoor: location not parsed")
+            log.error("Glassdoor: location not parsed")
             return JobResponse(jobs=[])
         job_list: list[JobPost] = []
         cursor = None
@@ -83,7 +80,7 @@ class GlassdoorScraper(Scraper):
         tot_pages = (scraper_input.results_wanted // self.jobs_per_page) + 2
         range_end = min(tot_pages, self.max_pages + 1)
         for page in range(range_start, range_end):
-            logger.info(f"search page: {page} / {range_end-1}")
+            log.info(f"search page: {page} / {range_end - 1}")
             try:
                 jobs, cursor = self._fetch_jobs_page(
                     scraper_input, location_id, location_type, page, cursor
@@ -93,7 +90,7 @@ class GlassdoorScraper(Scraper):
                     job_list = job_list[: scraper_input.results_wanted]
                     break
             except Exception as e:
-                logger.error(f"Glassdoor: {str(e)}")
+                log.error(f"Glassdoor: {str(e)}")
                 break
         return JobResponse(jobs=job_list)
 
@@ -129,7 +126,7 @@ class GlassdoorScraper(Scraper):
             ValueError,
             Exception,
         ) as e:
-            logger.error(f"Glassdoor: {str(e)}")
+            log.error(f"Glassdoor: {str(e)}")
             return jobs, None
 
         jobs_data = res_json["data"]["jobListings"]["jobListings"]
@@ -146,7 +143,7 @@ class GlassdoorScraper(Scraper):
                 except Exception as exc:
                     raise GlassdoorException(f"Glassdoor generated an exception: {exc}")
 
-        return jobs, self.get_cursor_for_page(
+        return jobs, get_cursor_for_page(
             res_json["data"]["jobListings"]["paginationCursors"], page_num + 1
         )
 
@@ -185,9 +182,9 @@ class GlassdoorScraper(Scraper):
         if location_type == "S":
             is_remote = True
         else:
-            location = self.parse_location(location_name)
+            location = parse_location(location_name)
 
-        compensation = self.parse_compensation(job["header"])
+        compensation = parse_compensation(job["header"])
         try:
             description = self._fetch_job_description(job_id)
         except:
@@ -264,12 +261,12 @@ class GlassdoorScraper(Scraper):
         if res.status_code != 200:
             if res.status_code == 429:
                 err = f"429 Response - Blocked by Glassdoor for too many requests"
-                logger.error(err)
+                log.error(err)
                 return None, None
             else:
                 err = f"Glassdoor response status code {res.status_code}"
                 err += f" - {res.text}"
-                logger.error(f"Glassdoor response status code {res.status_code}")
+                log.error(f"Glassdoor response status code {res.status_code}")
                 return None, None
         items = res.json()
 
@@ -321,44 +318,3 @@ class GlassdoorScraper(Scraper):
                 {"filterKey": "jobType", "values": self.scraper_input.job_type.value[0]}
             )
         return json.dumps([payload])
-
-    @staticmethod
-    def parse_compensation(data: dict) -> Optional[Compensation]:
-        pay_period = data.get("payPeriod")
-        adjusted_pay = data.get("payPeriodAdjustedPay")
-        currency = data.get("payCurrency", "USD")
-        if not pay_period or not adjusted_pay:
-            return None
-
-        interval = None
-        if pay_period == "ANNUAL":
-            interval = CompensationInterval.YEARLY
-        elif pay_period:
-            interval = CompensationInterval.get_interval(pay_period)
-        min_amount = int(adjusted_pay.get("p10") // 1)
-        max_amount = int(adjusted_pay.get("p90") // 1)
-        return Compensation(
-            interval=interval,
-            min_amount=min_amount,
-            max_amount=max_amount,
-            currency=currency,
-        )
-
-    @staticmethod
-    def get_job_type_enum(job_type_str: str) -> list[JobType] | None:
-        for job_type in JobType:
-            if job_type_str in job_type.value:
-                return [job_type]
-
-    @staticmethod
-    def parse_location(location_name: str) -> Location | None:
-        if not location_name or location_name == "Remote":
-            return
-        city, _, state = location_name.partition(", ")
-        return Location(city=city, state=state)
-
-    @staticmethod
-    def get_cursor_for_page(pagination_cursors, page_num):
-        for cursor_data in pagination_cursors:
-            if cursor_data["pageNumber"] == page_num:
-                return cursor_data["cursor"]

@@ -1,10 +1,10 @@
 <img src="https://github.com/cullenwatson/JobSpy/assets/78247585/ae185b7e-e444-4712-8bb9-fa97f53e896b" width="400">
 
-**JobSpy** is a simple, yet comprehensive, job scraping library.
+**JobSpy** is a job scraping library with the goal of aggregating all the jobs from popular job boards with one tool.
 
 ## Features
 
-- Scrapes job postings from **LinkedIn**, **Indeed**, **Glassdoor**, **Google**, & **ZipRecruiter** simultaneously
+- Scrapes job postings from **LinkedIn**, **Indeed**, **Glassdoor**, **Google**, **ZipRecruiter**, **Bayt** & **Naukri** concurrently
 - Aggregates the job postings in a dataframe
 - Proxies support to bypass blocking
 
@@ -25,7 +25,7 @@ import csv
 from jobspy import scrape_jobs
 
 jobs = scrape_jobs(
-    site_name=["indeed", "linkedin", "zip_recruiter", "glassdoor", "google"],
+    site_name=["indeed", "linkedin", "zip_recruiter", "glassdoor", "google", "bayt", "naukri"],
     search_term="software engineer",
     google_search_term="software engineer jobs near San Francisco, CA since yesterday",
     location="San Francisco, CA",
@@ -51,6 +51,7 @@ linkedin       Software Engineer - Early Career  Lockheed Martin   Sunnyvale    
 linkedin       Full-Stack Software Engineer      Rain              New York      NY     fulltime  yearly    None        None        https://www.linkedin.com/jobs/view/3696158877      Rain’s mission is to create the fastest and ea...
 zip_recruiter Software Engineer - New Grad       ZipRecruiter      Santa Monica  CA     fulltime  yearly    130000      150000      https://www.ziprecruiter.com/jobs/ziprecruiter...  We offer a hybrid work environment. Most US-ba...
 zip_recruiter Software Developer                 TEKsystems        Phoenix       AZ     fulltime  hourly    65          75          https://www.ziprecruiter.com/jobs/teksystems-0...  Top Skills' Details• 6 years of Java developme...
+
 ```
 
 ### Parameters for `scrape_jobs()`
@@ -58,7 +59,7 @@ zip_recruiter Software Developer                 TEKsystems        Phoenix      
 ```plaintext
 Optional
 ├── site_name (list|str): 
-|    linkedin, zip_recruiter, indeed, glassdoor, google
+|    linkedin, zip_recruiter, indeed, glassdoor, google, bayt
 |    (default is all)
 │
 ├── search_term (str)
@@ -165,6 +166,11 @@ You can specify the following countries when searching on Indeed (use the exact 
 | United Arab Emirates | UK*          | USA*       | Uruguay        |
 | Venezuela            | Vietnam*     |            |                |
 
+### **Bayt**
+
+Bayt only uses the search_term parameter currently and searches internationally
+
+
 
 ## Notes
 * Indeed is the best scraper currently with no rate limiting.  
@@ -215,6 +221,7 @@ JobPost
 │   ├── country
 │   ├── city
 │   ├── state
+├── is_remote
 ├── description
 ├── job_type: fulltime, parttime, internship, contract
 ├── job_function
@@ -224,8 +231,7 @@ JobPost
 │   ├── currency
 │   └── salary_source: direct_data, description (parsed from posting)
 ├── date_posted
-├── emails
-└── is_remote
+└── emails
 
 Linkedin specific
 └── job_level
@@ -240,4 +246,12 @@ Indeed specific
 ├── company_revenue_label
 ├── company_description
 └── company_logo
+
+Naukri specific
+├── skills
+├── experience_range
+├── company_rating
+├── company_reviews_count
+├── vacancy_count
+└── work_from_home_type
 ```
