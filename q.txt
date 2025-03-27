@@ -1,0 +1,76 @@
+
+Geographic Focus
+
+Are there specific regions/cities in France to prioritize beyond what's in transport.json?
+=> this transport.json is not accurate, i don't want to use API, a simple google search "qu'elle est le temps de transport entre {job_location} et {my_place}" can get a right answer. 
+
+Should remote/hybrid roles be prioritized (modify is_remote handling)?
+=> don't care
+
+Role Specificity
+
+Should we add search terms like "Ingénieur Méthodes Industrielles" or "Manager Amélioration Continue" based on your robotics experience?
+=> yes please improve "search_terms": []
+
+Should we exclude management consulting firms despite your Altran experience?
+=> yes i don't want this kind of company
+
+Compensation
+
+Is €50k salary threshold appropriate for target roles? Senior positions might warrant higher minimums.
+=> Reims salary are so high
+
+Experience Level
+
+Should we filter for specific seniority levels (e.g., "Senior", "Lead", "Director") in titles?
+=> no i don't think this filled is accurate
+
+Technical Priorities
+
+Should we boost scoring for specific tools from your resume (PLM/Enovia, JIRA, PowerBI, BPMN2)?
+=> it's alerady boosted no?
+
+Should we emphasize certifications like Six Sigma Green Belt more heavily?
+=> it's alerady boosted no? 
+
+Company Profile
+
+Should we prioritize certain industries (robotics, automotive, manufacturing) visible in your history?
+=> yes
+
+Is company size (startups vs large corps) a relevant factor?
+=> no
+
+Language Requirements
+
+Should we exclude English-only roles or emphasize French-language requirements?
+=> no
+
+Platform Optimization
+
+Are you getting sufficient results from Indeed/LinkedIn? Should we add French platforms like Welcome to the Jungle?
+=> yes, but jobspy module don't support it 
+
+Scoring Feedback
+
+Have you noticed false positives in matches? Any examples of bad matches getting high scores?
+=> some job are not in the transport.json but in the out put, i think the job site propose it even it's far from my place.
+=> some job are for techicien, low seniority level
+
+Performance
+
+Are you experiencing timeout issues with NocoDB API calls?
+=> no it ok
+
+Is the 100-document chunk size working well for processing?
+=> seems ok.
+
+LLM Utilization
+
+Should we use the local LLM to generate personalized application tips based on JD analysis?
+No for the momement juste focus on search job efficiency.
+
+Temporal Factors
+
+Are you seeing stale job postings slip through the 7-day filter?
+=> it's ok

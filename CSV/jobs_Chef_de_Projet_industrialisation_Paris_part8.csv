@@ -1,0 +1,270 @@
+id,site,job_url,job_url_direct,title,company,location,date_posted,job_type,salary_source,interval,min_amount,max_amount,currency,is_remote,job_level,job_function,listing_type,emails,description,company_industry,company_url,company_logo,company_url_direct,company_addresses,company_num_employees,company_revenue,company_description
+gd-1009619947151,glassdoor,https://www.glassdoor.fr/job-listing/j?jl=1009619947151,,Expert Middleware Synchrony Gateway / Secure transport,CONSORT GROUP,Paris,2025-01-31,,direct_data,yearly,45000.0,60000.0,EUR,False,,,organic,,"Mission
+  
+  
+
+**Contexte de la mission :** Middleware Expert on distributed messaging and streaming : migration de Synchrony Gateway vers Secure Transport
+  
+  
+
+**Définition de la mission :**  
+
+Au sein d'une équipe flux (streaming, messaging et file transfert), nous recherchons un candidat avec très forte expérience dans les domaines de messaging et streaming. Vous travaillerez dans un environnement international, en étroite collaboration avec le métier, les équipes MOE, les chefs de projets informatiques ainsi qu'avec notre production basée à Singapour et vous aurez pour missions principales:
+  
+  
+
+Participer à la définition de la nouvelle architecture.
+  
+Participer à l'installation, la configuration ou l'introduction de nouvelles features
+  
+Mise en place de la supervision et monitoring des systèmes supportant ces produits.
+  
+Mettre en place la feuille de route de migration ou de releases sur ces produits.
+  
+Participer aux réunions des référents sur les nouveaux besoins métiers.
+  
+Assurer les évolutions des outils et traiter les obsolescences.
+  
+Mettre en place les API IBM MQ
+  
+Industrialisation des services et automatisation de la création des objets
+  
+Accompagner nos clients sur les choix des outils et des solutions les plus adaptés à leur besoins.
+  
+  
+
+**Profil candidat:**  
+
+Profil
+  
+  
+
+**Environnement technique et linguistique :**  
+
+IBM MQ, Apache Kafka.
+  
+CFT, Synchrony Gateway, Secure Transport, Sentinel, Flow manager.
+  
+Grafana, Kubernetes, Elasticsearch, Docker, Ansible ...
+  
+Script Shell, Yaml, Json...
+  
+Devops
+  
+CI/CD",,https://www.glassdoor.fr/Overview/W-EI_IE8133815.htm,,,,,,
+gd-1009619920255,glassdoor,https://www.glassdoor.fr/job-listing/j?jl=1009619920255,,PMO expérimenté F/H,MBDA,Le Plessis-Robinson,2025-01-31,,,,,,,False,,,organic,,"MBDA recrute :
+
+
+MBDA est le seul groupe européen capable de concevoir et de produire des missiles et systèmes de missiles pour répondre à toute la gamme des besoins opérationnels présents et futurs des trois armées (terre, marine et air).  
+
+Partenaire européen et acteur mondial, MBDA se positionne au coeur de la souveraineté de nos nations européennes et de leurs alliés en leur fournissant des capacités militaires décisives à des fins de sécurité nationale et d'autonomie stratégique. Les produits du Groupe sont en service dans plus de 90 forces armées dans le monde. Avec plus de 13 000 personnes travaillant ensemble en France, au Royaume\\-Uni, en Italie, en Allemagne et en Espagne, MBDA est l'exemple le plus abouti d'intégration industrielle réussie dans le secteur de la défense en Europe. Les compétences des collaborateurs couvrent tous les aspects de la conception, du développement, de la production, du support et des services des systèmes d'armes complexes.  
+
+Chez MBDA, le sens de notre mission est ce qui nous unit : garantir la souveraineté de nos nations et la liberté des démocraties. Pour remplir notre mission, la collaboration et la confiance sont essentielles. Ensemble, nous conjuguons nos compétences techniques et nos qualités humaines pour préparer le futur de notre défense. Motivés par les challenges technologiques, nous repoussons les limites de l'innovation, de la science et de la technologie pour développer des solutions de pointe. Nous encourageons le dépassement de soi dans un environnement unique qui offre des opportunités à chacun d'entre nous. Ensemble, nous sommes fiers du rôle que nous jouons.  
+
+  
+
+**Description du poste**  
+
+Au sein d'une Direction de Programme, vous êtes intégré(e) au service « Business \\& Performance ». Venez partager vos compétences sur notre site du Plessis\\-Robinson, et les développer via un plan de formation spécifique. Rejoindre une équipe de Project Manager Officer (PMO), c'est avoir l'opportunité de travailler en équipe et en interface avec une diversité de métiers (chef de projets, équipes techniques, Qualité, Achats, responsables d'affaires...).  
+
+Vous participez au sein d'une ""Project Business Team"" à la mise en place du référentiel pour la gestion de projet en matière de planification, budgétisation et prévision de ressources et en assurez ensuite le pilotage.  
+
+Grâce à vos compétences, vous :  
+
+* Tenez un rôle opérationnel sur un portefeuille de projets complexes,
+* Formez et coordonnez une équipe de PMO en garantissant la fiabilité des données et l'application des processus de management de projet de l'entreprise,
+* Les accompagnez dans la structuration de projets de développement et validez la cohérence d'ensemble entre WBS, CBS, Fiches de lots, Plannings, Plan de charge,
+* Validez la réalisation et la pertinence des analyses mensuelles de plannings, coûts et ressources proposées par l'équipe PMO et vous assurez de la remontée des alertes sur les dérives potentielles en tant qu'interlocuteur privilégié des parties prenantes,
+* Consolidez les analyses du plan de charge pour un ou plusieurs Programmes et réalisez avec l'équipe PMO les analyses mensuelles de la mise en place des ressources sur votre portefeuille,
+* Participez à l'amélioration continue de la gestion de projet (process, outil, métier) au sein de la société.
+
+
+  
+
+Notre rémunération comporte un salaire fixe et des éléments additionnels individuels (une part variable pour nos salariés cadres et une prime d'ancienneté ainsi qu'une prime annuelle pour nos salariés non\\-cadres) ou collectifs dépendant de la performance et des résultats de l'entreprise (participation, intéressement).  
+
+De nombreux services/avantages sont également proposés : restaurant d'entreprise, épargne salariale (PEG, PERCO), protection sociale (mutuelle et prévoyance), comité d'entreprise, aide au logement, assistant(e)s sociales, infirmerie et service de santé au travail interne...
+MBDA recherche :
+
+
+* Diplômé(e) d'une école d'ingénieur ou équivalent universitaire, vous avez plus de 5 années d'expérience acquises dans le domaine industriel et la gestion de projet.
+* Vous maitrisez les processus et outils de management de projet (par ex Primavera, SAP).
+* Organisé(e), doté(e) d'un bon relationnel, vous savez former, déléguer et êtes reconnu(e) pour votre capacité d'analyse, votre rigueur, votre fiabilité et votre persévérance.
+
+  
+
+  
+
+\\#ORGANISATION \\#RIGUEUR \\#ANALYSE \\#SUPPORT \\#PERSEVERANCE  
+
+  
+
+La perspective de rejoindre un groupe innovant, une équipe dynamique, pluridisciplinaire et multiculturelle vous motive ? Rejoignez\\-vous en postulant à cette offre.  
+
+  
+
+Nos valeurs : \\#INNOVATION \\#ENGAGEMENT \\#INTEGRITE \\#PASSION \\#ESPRIT D'EQUIPE  
+
+016
+Résumé :
+
+
+**Référence** : R12514
+
+
+Le Plessis\\-Robinson \\- Ile\\-de\\-France \\- France
+CDI
+5 à 10 ans d'expérience
+Industrialisation, Production",,https://www.glassdoor.fr/Overview/W-EI_IE36412.htm,https://media.glassdoor.com/sql/36412/mbda-squareLogo-1681292345443.png,,,,,
+gd-1009616659366,glassdoor,https://www.glassdoor.fr/job-listing/j?jl=1009616659366,,Chef de projet survie et des moyens de simulation F/H,MBDA,Le Plessis-Robinson,2025-01-30,,,,,,,False,,,organic,,"MBDA recrute :
+
+
+MBDA est le seul groupe européen capable de concevoir et de produire des missiles et systèmes de missiles pour répondre à toute la gamme des besoins opérationnels présents et futurs des trois armées (terre, marine et air).  
+
+Partenaire européen et acteur mondial, MBDA se positionne au coeur de la souveraineté de nos nations européennes et de leurs alliés en leur fournissant des capacités militaires décisives à des fins de sécurité nationale et d'autonomie stratégique. Les produits du Groupe sont en service dans plus de 90 forces armées dans le monde. Avec plus de 13 000 personnes travaillant ensemble en France, au Royaume\\-Uni, en Italie, en Allemagne et en Espagne, MBDA est l'exemple le plus abouti d'intégration industrielle réussie dans le secteur de la défense en Europe. Les compétences des collaborateurs couvrent tous les aspects de la conception, du développement, de la production, du support et des services des systèmes d'armes complexes.  
+
+Chez MBDA, le sens de notre mission est ce qui nous unit : contribuer à la souveraineté des nations et préserver notre sécurité et notre liberté en Europe. Pour y parvenir, la collaboration et la confiance sont essentielles. MBDA doit relever des défis uniques pour répondre aux besoins des forces armées face à de nouvelles menaces. Motivés par les challenges technologiques, nous repoussons les limites de l'innovation, de la science et de la technologie pour développer des solutions au meilleur niveau.
+  
+
+Nous encourageons le dépassement de soi dans un environnement unique qui offre des opportunités à chacun d'entre nous. Ensemble, nous sommes fiers du rôle que nous jouons.  
+
+  
+
+**Description du poste**  
+
+La direction Engineering soutient nos programmes dans la conduite des activités d'ingénierie et des essais, met en oeuvre les méthodes d'optimisation de notre excellence technique et garantit un service optimal auprès de nos clients.  
+
+Le service Survie est en charge des travaux d'analyse de survie et de pénétration de nos systèmes en service et de concepts futurs face à des systèmes adverses.  
+
+Il se situe dans un écosystème qui regroupe divers métiers (restitution de systèmes d'armes adverses, développement de moyens de simulations, analyse de survie et de pénétration).  
+
+  
+
+En tant que Chef de projet survie, vous êtes responsable des contrats face au client étatique relatif à la survie (contrat d'étude de survie, restitution et développement des moyens de simulation).  
+
+À ce titre, vous réalisez la gestion des contrats en cours (budget, avancement, coordination métiers) et le pilotage des travaux techniques. Vous assurez le lien client, préparez les feuilles de route et la proposition de futurs contrats.  
+
+Par ailleurs, vous avez la responsabilité de l'harmonisation des développements des moyens de simulation pour la survie et, d'études de survie de nos systèmes de frappe air/surface face à des systèmes adverses de défense aérienne et antiaérienne.  
+
+Pour cela vous travaillez à :  
+
+* manager les contrats,
+* définir et crédibiliser la menace,
+* définir et conduire le développement des moyens d'évaluations,
+* soutenir les équipes système pour l'orientation de la spécification,
+* assurer la consolidation et formation métier au sein de l'équipe,
+* assurer l'interface client DGA sur la thématiques survie et menace.
+
+  
+
+  
+
+Notre rémunération comporte un salaire fixe et des éléments additionnels individuels (une part variable pour nos salariés cadres et une prime d'ancienneté ainsi qu'une prime annuelle pour nos salariés non\\-cadres) ou collectifs dépendant de la performance et des résultats de l'entreprise (participation, intéressement).  
+
+De nombreux services/avantages sont également proposés : restaurant d'entreprise, épargne salariale (PEG, PERCOL), protection sociale (mutuelle et prévoyance), comité social et économique, infirmerie et service de santé au travail interne...  
+
+Dans le cadre de vos travaux, vous serez en interface avec de nombreuses équipes métiers et pourrez les piloter pour l'avancement des études. Vous assurez le lien client et le management de contrats en vous appuyant sur les équipes support et le secteur Sales. Vous bénéficierez d'une vision transverse des différentes fonctions qui composent un système d'armes et de la mécanique de la gestion de contrat.
+MBDA recherche :
+
+
+D'une formation école d'ingénieur généraliste, avec une composante aéronautique.  
+
+Vous avez à minima 5 ans d'expériences sur des sujets comme :  
+
+* la modélisation de chaine fonctionnelle,
+* l'évaluation des performances systèmes ou de sous\\-systèmes.
+
+
+  
+
+Vous avez une appétence pour le management de contrat et l'harmonisation des pratiques au sein d'un métier. Une première expérience en gestion de projet serait un plus.  
+
+  
+
+  
+
+006
+Résumé :
+
+
+* Référence : R22087
+* Le Plessis\\-Robinson \\- Ile\\-de\\-France \\- France
+* CDI
+* 5 à 10 ans d'expérience
+* Industrialisation, Production",,https://www.glassdoor.fr/Overview/W-EI_IE36412.htm,https://media.glassdoor.com/sql/36412/mbda-squareLogo-1681292345443.png,,,,,
+gd-1009616659431,glassdoor,https://www.glassdoor.fr/job-listing/j?jl=1009616659431,,Ingénieur en développement de Banc tests SESAR F/H,DASSAULT AVIATION,Saint-Cloud,2025-01-30,,,,,,,False,,,organic,,"Dassault Aviation recrute :
+
+
+Au niveau de la filière commande de vol, le service Développement des Tests Industriels est en charge de la définition, du développement et de la validation du test industriel des équipements électroniques des avions civils et militaires conçus et développés au sein de la Société.  
+
+  
+
+De nouveaux projets sont lancés sur le test des équipements électroniques du Rafale, dans ce cadre, vous aurez en charge :
+
+* Le développement des applicatifs de test sur bancs de test MERMOZ des équipements électroniques du Rafale,
+* La validation de programmes sur banc de test MERMOZ de référence,
+* La rédaction de documentation technique,
+* La gestion des applicatifs sur notre outil référentiel de gestion de configuration,
+* Des essais d'équipements électroniques dans notre laboratoire,
+* De la recherche de panne sur des équipements électroniques,
+* Du traitement de Faits Techniques rencontrés par les clients.
+
+  
+
+Vous travaillerez directement sous la responsabilité du Chef de Service et techniquement dans l'équipe Rafale du service.
+Vous serez en lien avec la Direction Générale du Soutien Militaire et la Direction Générale de la Qualité Totale ainsi qu'avec l'équipe de la Direction Technique d'Argonay de notre site de production et du Bureau de Conception Elecronique.  
+
+  
+
+Des déplacements de durée inférieure à 5 jours sont à prévoir en France.
+
+
+Dassault Aviation recherche :
+
+
+De formation BAC\\+5 ou équivalent, vous justifiez d'une expérience dans le monde du test électronique.
+
+
+Vous savez lire et comprendre un schéma électronique et vous avez des connaissances en langage ATLAS et en langage C, de plus vous savez gérer un projet technique.  
+
+  
+
+Proactivité, rigueur, autonomie, capacité d'analyse et de synthèse, capacité d'adaptation rapide, aisance relationnelle et sens de l'écoute, ainsi que force de proposition pour élaborer des solutions font partie des qualités recherchées pour ce poste.  
+
+  
+
+L'anglais est nécessaire pour la compréhension et la rédaction de documents techniques.
+
+
+Etablissement soumis à enquête administrative.
+
+
+Résumé :
+
+
+* Référence : 2024\\-12701
+* Saint\\-Cloud \\- Ile\\-de\\-France \\- France
+* CDI
+* Industrialisation, Production",,https://www.glassdoor.fr/Overview/W-EI_IE2039103.htm,https://media.glassdoor.com/sql/2039103/dassault-aviation-squarelogo-1560146735443.png,,,,,
+gd-1009616440328,glassdoor,https://www.glassdoor.fr/job-listing/j?jl=1009616440328,,Stagiaire Assistant Chef de Projet Industrialisation,Chanel,Verneuil,2025-01-29,,,,,,,False,,,organic,,"STAGIAIRE ASSISTANT CHEF DE PROJET INDUSTRIALISATION
+Les Ateliers de Verneuil\\-en\\-Halatte, fabricant intégré à la Maison CHANEL, développent et fabriquent des produits de Maroquinerie d'excellence au rythme de 6 collections de prêt\\-à\\-porter par an.
+Au sein du Service Industrialisation, qui pilote le processus d'industrialisation des produits de collection, en garantissant que les conditions de mise au point, de mise en production, de transfert de connaissance et de données techniques soient optimales, jusqu'à la fabrication des premières séries, vous prenez en charge à la fois des missions opérationnelles, en amélioration continue et data management.
+Vos principales missions :
+Reconstruire les KPI’s du service* Repenser la banque de données et les tableaux de bord
+* Reconstruire l’outil de suivi
+* Intégrer les outils existants (analyse de risque, demandes de modification en cours de Production)
+
+
+Consolider la cartographie Sous\\-Traitants* Cartographier le panel SST
+* Définir un outil d’allocation technique
+
+
+Appui opérationnel aux Chefs de Projets Industrialisation* Suivre les levées de risques
+* Suivre les plannings
+* Réaliser les comm’ du service
+
+
+ Profil recherché :
+De formation supérieure bac\\+4/5 type Ecole d’Ingénieur, vous justifiez idéalement d’un 1er stage sur un site de production, et avez une appétence pour l’amélioration continue et l’analyse de données. Vous souhaitez être impliqué(e) dans des missions opérationnelles, dans un environnement en transformation.
+Orienté(e) résultats, vous êtes à l’aise avec les outils informatiques et l’analyse des données. Vous maîtrisez notamment MS Excel, MS Powerpoint, MS PowerBI et les logiciels de gestion de projet. Votre rigueur, vos qualités relationnelles, votre esprit de coopération seront essentiels dans la réussite de vos missions. La réactivité et les capacités d'adaptation aux ajustements rapides de la Mode vous sont naturels.
+Stage à pourvoir dès que possible, basé à Verneuil\\-en\\-Halatte (60\\) \\- Véhicule recommandé",,https://www.glassdoor.fr/Overview/W-EI_IE9399886.htm,https://media.glassdoor.com/sql/9399886/chanel-gmbh-squareLogo-1704214211500.png,,,,,

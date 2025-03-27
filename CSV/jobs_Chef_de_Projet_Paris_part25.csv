@@ -1,0 +1,387 @@
+id,site,job_url,job_url_direct,title,company,location,date_posted,job_type,salary_source,interval,min_amount,max_amount,currency,is_remote,job_level,job_function,listing_type,emails,description,company_industry,company_url,company_logo,company_url_direct,company_addresses,company_num_employees,company_revenue,company_description
+gd-1009601553568,glassdoor,https://www.glassdoor.fr/job-listing/j?jl=1009601553568,,Chef(fe) de Projets Financial Systems /Accounting BFS CDI - F/H/NB,Disneyland Paris,Serris,2025-01-17,,,,,,,False,,,sponsored,,"#### **Résumé du poste:**
+
+
+Le département Business Financial Systems (BFS) pilote et accompagne des projets de transformation, d’alignement et d’optimisation qui impactent la division Finance, qui regroupe les départements de comptabilité transactionnelle (clients et fournisseurs), comptabilité générale et banque, fiscalité, consolidation, contrôle de gestion, crédit, business opérations, et trésorerie \\& paiements. Nous travaillons en partenariat avec les différents services financiers, comptables et informatiques de Disneyland Paris et nos partenaires du groupe Disney aux Etats\\-Unis et en région EMEA.
+
+
+Notre équipe « Order To Cash » (OTC/O2C) agit en tant qu’assistance à maitrise d’ouvrage (AMOA) – cadrage, conseil, définition des besoins, suivi des tests et gestion du changement – sur les projets ou le support qui impactent les flux financiers/comptables vers SAP Finance sur les domaines de ventes, d’encaissement et de facturation en provenance des applications web/mobile, des flux monétiques, des systèmes de réservations de séjour, des points de vente Food \\& Merchandise et Tickets, et des systèmes hôteliers.
+
+
+Nous recherchons **un Chef(fe) de Projets** pour intégrer plus particulièrement le périmètre « Customer Reservation Systems (CRS) et Fulfillment » sur l’activité impactant les flux informatiques financiers en provenance des systèmes de réservations de séjours et des applications web/mobile vers les systèmes de fulfillment de prestations et vers SAP Finance.
+
+**Mission et activités**
+
+
+Intégré.e à notre équipe en tant que Chef(fe) de projets, vous interviendrez sur l'ensemble des projets qui vous sont confiés. Vous en assurerez le cadrage et la mise en œuvre dans le but d'obtenir un résultat optimal et conforme aux exigences métiers :
+
+* Endosser le rôle de partenaire stratégique, expert dans son domaine, pour accompagner nos clients internes dans la transformation de Disneyland Paris
+* Être l'interface privilégiée entre le client interne et les services informatiques de Disneyland Paris, de The Walt Disney Company, des autres Parcs Disney et potentiellement d'autres parties prenantes.
+* Être le garant de la bonne intégration des données financières et comptables dans SAP Finance conformément aux besoins métiers.
+* Conduite et déploiement du projet, avec l’organisation, la coordination et l’animation des sessions de travail avec les différentes parties\\-prenantes
+* Etude, estimation de charge, cadrage du projet et ses impacts sur les flux financiers
+* Accompagner la définition, préparation et rédaction des besoins exprimés par les métiers : Expression de besoins / Spécifications fonctionnelles générales, avec responsabilité du contenu fonctionnel du projet.
+* Être force de propositions avec les analyses de risques associées
+* Définir et gérer le planning d'avancement du projet, en proposant d'éventuelles modifications d'objectifs en arbitrage, le cas échéant
+* Piloter la définition, rédaction, déroulement et suivi des différentes phases de test : unitaires, utilisateurs, intégration, avec suivi et résolution des anomalies le cas échéant
+* Définition et suivi de toutes les actions de conduite du changement : formation, communication, support post\\-déploiement, et accompagnement des utilisateurs
+
+**Profil demandé**
+
+* Solide expérience en projets liés à la mise en œuvre de processus et de systèmes financiers et en support informatique nécessitant réactivité, agilité \\& implication
+* Solides compétences analytiques combinées à un bon sens du business et de bonnes connaissances financières. Connaissances des principes comptables, voire expérience en comptabilité
+* Connaissances du progiciel SAP Finance (SD/FI)
+* Connaissances en flux de ventes, d'encaissements et monétiques, et de la facturation sont nécessaires pour être pleinement à l'aise sur le périmètre
+* Connaissances ou expériences des systèmes de réservations, des canaux de ventes et des canaux de production de prestation ("" fulfillment "") seront un grand atout
+* Rédaction de documentation (spécifications, schémas comptables, diagrammes de processus, scripts de tests, supports de communication et de formation)
+* Savoir diagnostiquer et mettre en place des plans de remédiation
+* Utilisation du Pack Office 365
+* Maîtrise de l'anglais (oral et écrit) nécessaire pour faciliter la collaboration et le suivi des projets
+* Expérience en diverses méthodologies de projets. Certification PMP / Prince2 et/ou expérience en méthode agile / SAFE serait un plus
+* Force de proposition, une bonne communication, sens de l’organisation et de la coordination de ressources, très bon relationnel, et une capacité à travailler en transverse sont des qualités essentielles pour le poste",,https://www.glassdoor.fr/Overview/W-EI_IE894374.htm,https://media.glassdoor.com/sql/894374/disneyland-paris-squarelogo-1594990566378.png,,,,,
+gd-1009599083865,glassdoor,https://www.glassdoor.fr/job-listing/j?jl=1009599083865,,Chef-fe de projet Décentralisation & Expertise Numérique Opérationnelle (H/F),Expertise France,Paris,2025-01-15,,,,,,,False,,,sponsored,,"Expertise France est l’agence publique de conception et de mise en œuvre de projets internationaux de coopération technique. L’agence intervient autour de quatre axes prioritaires :
+
+* gouvernance démocratique, économique et financière ;
+* paix, stabilité et sécurité ;
+* climat, agriculture et développement durable ;
+* santé et développement humain.
+
+
+Dans ces domaines, Expertise France assure des missions d’ingénierie et de mise en œuvre de projets de renforcement des capacités, mobilise de l’expertise technique et joue un rôle d’ensemblier de projets faisant intervenir de l’expertise publique et des savoir\\-faire privés.
+
+  
+
+***Vos principales missions seront les suivantes :***
+
+ **Conseil et Accompagnement :**
+
+* Effectuer une veille technologique pour rester informé des dernières tendances, innovations et meilleures pratiques dans le domaine des technologies de l'information et du numérique.
+* Recommander des solutions techniques adaptées aux spécificités des projets, en veillant à leur alignement avec la stratégie globale de l'entreprise.
+* Offrir un support technique tout au long de la mise en œuvre des projets, en aidant à résoudre les problèmes techniques et en optimisant les processus.
+* Proposer des ajustements et des améliorations aux projets en cours pour tirer parti des nouvelles technologies et des innovations.
+
+ **Coordination et représentation :**
+
+* Orienter les équipes vers les centres d'expertise du DSI pour des besoins spécifiques ou des problèmes complexes, particulièrement vers l’unité Coordination Transversale pour les phases de conception et les taches d’assistance à maîtrise d’ouvrage.
+* Coordonner avec les partenaires externes, les fournisseurs et les autres parties prenantes pour garantir une intégration fluide et optimisée des solutions numériques.
+* Représenter les métiers de l'informatique et des Systèmes d'Information au sein des groupes de travail stratégiques.
+
+ **Stratégie de Décentralisation :**
+
+* Contribuer activement aux groupes de travail dédiés à la mise en œuvre de la stratégie de décentralisation de l'entreprise.
+* Travailler étroitement avec le Chef de Projet Informatique Terrain pour assurer la cohérence et l'efficacité des solutions et modèles organisationnels déployées sur le terrain.
+* Assurer l'efficacité et la performance des systèmes d'information dans un modèle d’organisation décentralisé.
+* S'assurer que toutes les initiatives numériques soutiennent les objectifs stratégiques de l'entreprise et améliorent l'efficacité opérationnelle.
+* Appuyer la Task Force Décentralisation de l’Agence et garantir l’adéquation de sa mise en œuvre avec les préconisation IT :
+
+  
+
+o Contribuer à la définition d’une filière RH relevant des métiers du SI.
+o Contribuer à la « Task force » sur l’ensemble des problématiques relevant des métiers SI.
+o Coordonner et contribuer à la production des livrables documentaires standardisés permettant d’outiller et d’homogénéiser l’activité de l’ensemble des fonctions SI décentralisés.
+o Cadrer et contribuer à la mise en place et au renforcement des capacités des fonctions SI décentralisés, au sein des USP et des bureaux mutualisés le cas échéant.
+o Evaluer les besoins en matière de formation et de renforcement des capacités des équipes décentralisées en charge du SI.  
+
+Les projets opérationnels d'expertise technique d'Expertise France comportent de plus en plus de composantes numériques et informatiques. Rattaché(e) au Secrétariat Général, au sein du Département des Systèmes d’Informations (DSI) et sous la supervision du Responsable du pôle Infrastructure et Support, la/le Chargé(e) de Projet Expertise Numérique Opérationnel accompagne les chefs de projets et les équipes opérationnelles sur ces composantes tout au long de la mise en œuvre de leur projet. Il est disponible pour conseiller et guider les équipes sur les problématiques informatiques et numériques, oriente le cas échéant vers les centres d'expertise du DSI, et propose des solutions techniques rationnelles, conformes à la stratégie de l'entreprise. Il participe et contribue également au groupe de travail dédié à la mise en œuvre de la stratégie de décentralisation de l'entreprise.
+
+  
+
+Fonctionnellement, il/elle intégrera pour une durée déterminée la « Task Force décentralisation » (définie ci\\-après), placée sous la coordination de l’Adjoint à la Direction des Opérations. A ce titre, il/elle participera activement à la « Task Force » sur l’ensemble des tâches et des chantiers relevant du métier du de l’Infrastructure et Support pour garantir l’alignement et le respect des préconisations IT.
+
+  
+
+La « Task Force Décentralisation » a pour objectif de coordonner la consolidation et l’accélération du processus de décentralisation de l’Agence tout en apportant un appui opérationnel à la production de livrables pour accompagner :
+
+* le déploiement des moyens de mise en œuvre, de soutien et de pilotage des activités de l’agence dans le réseau ;
+* le déploiement des Directions Pays, des USP et l’appui à la décentralisation pour les bureaux mutualisés et ceux de l’ensemble des équipes projets basées sur le terrain ;
+* l’organisation de chantiers transverses destinés à cadrer et outiller la décentralisation des activités de l’Agence au sein des Directions Pays, des USP, des bureaux mutualisés et des équipes projets décentralisées.
+
+  
+
+**Compétences Requises:**
+
+* Solide expérience en conception et gestion de projets informatiques.
+* Connaissance approfondie des systèmes d'information et de leur intégration.
+* Connaissances de la gestion de projets d’aide au développement sur financement institutionnels.
+* Compréhension des enjeux opérationnels et organisationnels d’une stratégie de décentralisation.
+* Capacité à travailler en étroite collaboration avec diverses parties prenantes, y compris le Chef de Projet Informatique Terrain et l'unité de coordination transverse du Département des Systèmes d'Information.
+* Aptitude à conseiller et à former des équipes sur des sujets techniques complexes
+
+ **Profil:**
+
+* Diplôme en informatique, en ingénierie des systèmes d'information ou dans un domaine connexe.
+* Expérience significative dans un rôle ou un contexte similaire.
+* Excellentes compétences en communication et en gestion de projet.
+* Capacité à travailler en équipe et à coordonner des initiatives transversales.
+
+  
+
+Statut : Cadre
+
+
+Type d'emploi : Temps plein, CDI
+
+  
+
+Avantages :
+
+* 13ème mois
+* Rémunération variable : Prime d’objectifs jusqu’à 5%
+* Mutuelle 100%
+* Contribution Télétravail
+* RTT (22 jours)
+* Titre\\-restaurant
+
+
+SJ123",,https://www.glassdoor.fr/Overview/W-EI_IE1130081.htm,https://media.glassdoor.com/sql/1130081/expertise-france-squarelogo-1455627317400.png,,,,,
+gd-1009599083867,glassdoor,https://www.glassdoor.fr/job-listing/j?jl=1009599083867,,Chef de projet AMOA SI Finance (H/F),Expertise France,Paris,2025-01-15,,,,,,,False,,,sponsored,,"Expertise France est l’agence publique de conception et de mise en œuvre de projets internationaux de coopération technique. L’agence intervient autour de quatre axes prioritaires :
+
+* gouvernance démocratique, économique et financière ;
+* paix, stabilité et sécurité ;
+* climat, agriculture et développement durable ;
+* santé et développement humain.
+
+
+Dans ces domaines, Expertise France assure des missions d’ingénierie et de mise en œuvre de projets de renforcement des capacités, mobilise de l’expertise technique et joue un rôle d’ensemblier de projets faisant intervenir de l’expertise publique et des savoir\\-faire privés.
+
+  
+
+**Au sein du Département des Systèmes d’Information, le ou la CHEF DE PROJET ASSISTANCE A MAITRISE D’OUVRAGE, a les missions permanentes suivantes :**
+
+**Gérer des projets informatiques**
+
+* Piloter des projets de la pré\\-étude jusqu’à la mise en production directement ou en coordination avec le Chef de Projet MOA lorsqu’il assure la gouvernance du projet. (Définition du plan projet : périmètre, planning, chiffrages ; coordination des actions des contributeurs avec les pilotes Métiers ; communications sur l’avancement du projet, suivi des indicateurs ; animation des comités et ateliers projet …)
+* Etre l’interface entre les équipes MOE (externes ou internes) et les équipes internes, assurer la communication auprès des intervenants
+* Analyser les besoins et concevoir des solutions en collaboration étroite avec les architectes techniques et les équipes de développement ou intégrateurs.
+
+**Coordonner de nouveaux projets/besoins et les demandes de maintenance évolutive des solutions**
+
+* Réaliser les spécifications fonctionnelles détaillées ou les Use Case
+* Assurer la cohérence fonctionnelle générale des solutions
+* Contribuer à l’enrichissement de la base de connaissances fonctionnelles des solutions de l’entreprise
+* Qualifier les anomalies relevées par l’exploitation, les projets ou les utilisateurs (Administrateurs fonctionnels ou Gestionnaires applicatifs).
+* Garantir la qualité des livraisons
+
+**Effectuer la pré\\-qualification des solutions livrées par les équipes IT ou les tiers techniques,**
+
+* Valider la stratégie de test établie par l’équipe projet
+* Contribuer et suivre les campagnes de recette
+
+**Accompagner la conduite au changement**
+
+  
+
+**Expertise France est une agence publique** de mise en œuvre de projets de coopération internationale. Nous sommes placés sous la tutelle des ministères chargés des affaires étrangères et de l'économie et des finances, avec lesquels nous avons un contrat d'objectifs et de moyens.
+
+**Agence interministérielle de coopération technique internationale**, nous sommes l'opérateur de tous les ministères. En 2021, l'agence intègre le groupe AFD (Agence Française de Développement) qui nous apporte des solutions financières et opérationnelles.
+
+**L'objectif d'Expertise France est de lutter contre les inégalités mondiales :** nos projets sont principalement orientés vers la protection des biens publics mondiaux et la réponse aux défis mondiaux auxquels toutes les sociétés du Nord comme du Sud doivent faire face.
+
+
+Notre force est d'assembler les meilleurs savoir\\-faire français et européens afin de proposer des solutions sur mesure à travers un large champ d'expertise qui comprend :
+
+* Gouvernance démocratique, économique et financière.
+* Sécurité, maintien de la paix et de la stabilité.
+* Climat, agriculture et développement durable.
+* Santé et développement humain.
+
+  
+
+**Compétences requises**
+
+* Expérience significative en tant que chef de projet AMOA pour le pilotage de projets ou la mise en œuvre d’une solution intégrée dans le domaine Financier. (**Expérience SAGE X3 fortement souhaitée**)
+* Expérience significative sur des projets de BUILD comme de RUN et de mise en œuvre d’interfaces entre un SI métiers et un SI Finances en tant que chef de projet ou analyste fonctionnel.
+* Connaissance des méthodes de gestion de projet cycle en V et agile
+* Background technique souhaité (connaissances SQL, connaissances sur les environnements et technologies web, digitaux récents)  
+
+Connaissances des outils JIRA.
+
+**Savoir Etre**
+
+* Responsable et autonome, capable de donner de la visibilité sur l’avancement de ses sujets
+* Organisé et rigoureux
+* Communication claire et concise à l’écrit et à l’oral.
+* Concision, esprit de synthèse et travail en Equipe.
+
+  
+
+**La rémunération pour ce poste est composée d'un package annuel comprenant les avantages suivants :**
+
+* Un 13ème mois mensualisé et effectif dès la prise de poste.
+* Une part variable de 3% du salaire brut annuel.
+* Plus de 45 jours de congés annuels, avec la possibilité de monétiser jusqu'à 10 jours de RTT par an.
+* Une part d'intéressement, calculée en fonction des résultats de l'année.
+* Une allocation de 9 euros par jour pour les repas (Carte Swile).
+* Une prise en charge de 50% des frais de transports en commun.
+* Une prime de mobilité de 400 euros par an si vous préférez vous déplacer en vélo.
+* Une mutuelle santé entièrement gratuite, prise en charge par l'agence.
+* La possibilité de télé\\- travailler 2 jours par semaine.
+* Une prime de vacances annuelle de 450 euros.
+
+  
+
+SJ123",,https://www.glassdoor.fr/Overview/W-EI_IE1130081.htm,https://media.glassdoor.com/sql/1130081/expertise-france-squarelogo-1455627317400.png,,,,,
+gd-1009599083853,glassdoor,https://www.glassdoor.fr/job-listing/j?jl=1009599083853,,Chef.fe de Projets Etudes et Cadrages H/F,Expertise France,Paris,2025-01-15,,,,,,,False,,,sponsored,,"Expertise France est l’agence publique de conception et de mise en œuvre de projets internationaux de coopération technique. L’agence intervient autour de quatre axes prioritaires :
+
+* gouvernance démocratique, économique et financière ;
+* paix, stabilité et sécurité ;
+* climat, agriculture et développement durable ;
+* santé et développement humain.
+
+
+Dans ces domaines, Expertise France assure des missions d’ingénierie et de mise en œuvre de projets de renforcement des capacités, mobilise de l’expertise technique et joue un rôle d’ensemblier de projets faisant intervenir de l’expertise publique et des savoir\\-faire privés.
+
+  
+
+Rattaché ( e ) au Département des Systèmes d’Information, vous travaillez en en étroite collaboration avec les chefs de projets métiers, les chefs de projet DSI, et les responsables de pôle pour faciliter la transformation digitale de l’Agence.  
+
+Dans un contexte de digitalisation croissante de notre agence, vous intervenez comme un véritable facilitateur auprès des métiers pour les accompagner dans l’analyse et la recherche de solutions IT, au siège et sur le terrain.
+
+**Vos principales missions seront les suivantes :**
+
+* Identifier et capter les besoins IT émergents de l’ensemble des directions/départements
+* Mener des ateliers de recueil des besoins métier (analyse de l'existant, expression des besoins fonctionnels, pré\\-définition de cible fonctionnelle et technique)
+* Réaliser les études d'opportunités et de faisabilité
+* Prendre en charge les études de marché et benchmark de solutions
+* Gérer les appels d'offres : planification, définition de périmètre, organisation du RFI, rédaction du cahier des charges et des grilles technique et fonctionnelle, sélection du prestataire en lieu et place de la chefferie de projet ou en accompagnement.
+* Travailler en étroite collaboration avec le PMO et le responsable d’unité pour coordonner les études et projets SI
+* Travailler en étroite collaboration avec le pôle Projets et Intégration et le pôle Infrastructures pour les suppléer ou les accompagner dans leurs projets
+* Produire les reportings associés à l’activité
+* Contribuer de manière active à la mise en avant du département des Systèmes d’Information
+
+
+En complément de vos principales missions, vous participerez à l’activité du département des systèmes d’information et à ce titre :  
+
+* vous contribuerez à la mise en place, au suivi et à l’évolution des processus dans le but d’améliorer les services rendus par le DSI.
+* vous contribuerez et veillerez à la bonne préparation des instances de gouvernance du département et des projets.
+  
+
+
+**Expertise France** est une agence public de mise en œuvre de projets de coopération internationale. Nous sommes placés sous la tutelle des ministères chargés des affaires étrangères et de l'économie et des finances, avec lesquels nous avons un contrat d'objectifs et de moyens.
+
+**Agence interministérielle de coopération technique internationale**, nous sommes l'opérateur de tous les ministères. En 2021, l'agence intègre le groupe AFD (Agence Française de Développement) qui nous apporte des solutions financières et opérationnelles.
+
+**L'objectif d'Expertise France est de lutter contre les inégalités mondiales** : nos projets sont principalement orientés vers la protection des biens publics mondiaux et la réponse aux défis mondiaux auxquels toutes les sociétés du Nord comme du Sud doivent faire face.
+
+  
+
+De formation supérieure, vous disposez d’une expérience avérée en études pré\\-projet ainsi qu’en gestion de projet IT.
+
+* Méthodologie d’étude pré\\-projet SI et de projet SI
+* Expérience significative dans la conduite d’études
+* Notions d’UX design (hors graphisme)
+* Excellente maîtrise des outils de rédaction et de communication
+* Excellente communication orale et écrite pour interagir avec des interlocuteurs de tous niveaux
+* Excellent relationnel
+* Esprit de synthèse
+* Orientation client
+
+  
+
+**Le poste est basé à Paris au 40 Bd de Port\\-Royal, 75005 Paris.**
+
+**La rémunération pour ce poste est composée d'un package annuel comprenant les avantages suivants :**
+
+* Un 13ème mois mensualisé et effectif dès la prise de poste.
+* Une part variable de 3% du salaire brut annuel.
+* Plus de 45 jours de congés annuels, avec la possibilité de monétiser jusqu'à 10 jours de RTT par an.
+* Une part d'intéressement, calculée en fonction des résultats de l'année.
+* Une allocation de 9 euros par jour pour les repas (Carte Swile).
+* Une prise en charge de 50% des frais de transports en commun.
+* Une prime de mobilité de 400 euros par an si vous préférez vous déplacer en vélo.
+* Une mutuelle santé entièrement gratuite, prise en charge par l'agence.
+* La possibilité de télétravailler 2 jours par semaine, avec une indemnisation de 20€ par mois, équivalant à 240€ nets de plus par an.
+* Une prime de vacances annuelle de 450 euros.
+
+  
+
+SJ123",,https://www.glassdoor.fr/Overview/W-EI_IE1130081.htm,https://media.glassdoor.com/sql/1130081/expertise-france-squarelogo-1455627317400.png,,,,,
+gd-1009599711322,glassdoor,https://www.glassdoor.fr/job-listing/j?jl=1009599711322,,STAGE - ASSISTANT.E CHEF.FE DE PROJET ARCHITECTURE (F/H) - MARS 2025,Louis Vuitton,Paris,2025-01-15,,,,,,,False,,,organic,,"Poste
+
+
+Depuis plus de 150 ans, les femmes et les hommes de Louis Vuitton partagent le même esprit d'exigence, de passion et réinventent chaque jour leur métier, partout dans le monde. Chez nous, chaque parcours est un véritable voyage, nourri d'émotion et de conquête, d'envie et d'audace. La plus belle façon de vous révéler. Explorer, développer, innover, créer...
+
+
+Louis Vuitton respecte et promeut l’égalité des chances. Nous célébrons et accueillons toutes les singularités et nous engageons à créer un environnement de travail inclusif.
+
+
+A chacun son voyage. Aujourd'hui, Louis Vuitton vous invite à découvrir le vôtre.
+
+  
+
+
+Missions
+
+
+L'équipe
+
+
+Au sein de notre Direction Architecture, vous accompagnerez les équipes en tant qu’Assistant(e) Chef.fe de Projet pour la conception et le suivi de projet magasins.
+
+
+La mission consiste à accompagner les chefs de projets dans l’avancement des différentes phases de conception et d’aménagement de magasins Louis Vuitton.
+
+
+Dans ce cadre, vous participerez aux missions suivantes :
+
+
+* Aménagement de l’espace et design de nouveau mobilier.
+* Design de la façade, développement des systèmes constructifs et matériaux, développement de prototypes.
+* Participation aux réunions, apport d'idées
+* Réalisation de design de mobilier
+* Création d'images 2D et 3D
+* Support en communication Projets, Présentations, Maquettes
+* Développement de Prototypes (Mockups)
+  
+
+
+Profil
+
+
+* Etudiant(e) en école d’architecture, d’architecture intérieure ou équivalent universitaire
+* Logiciels à maîtriser : Autocad 2D / Photoshop, Illustrator /Pack Office/ Sketchup / Rhino ou 3dMax / Indesign
+* Vous faites preuve de créativité et de motivation
+* Vous avez un fort esprit d'équipe
+* Vous avez une certaine habilité à travailler sur différents sujets et avec différentes méthodes au même moment
+* Vous maitrisez parfaitement l'anglais à l'écrit et à l'oral
+
+  
+
+
+
+Convention de stage de 6 mois indispensable (HMO non recevable)
+
+
+Merci de préciser vos dates de disponibilités sur votre CV
+
+  
+
+
+Informations complémentaires
+
+
+POURQUOI NOUS REJOINDRE ?
+
+
+En rejoignant la Maison Louis Vuitton vous évoluerez dans un environnement dynamique et en mouvement
+
+
+constant. Vous découvrirez l’héritage, les codes et la culture de notre Maison.
+
+
+Au cours de votre expérience vous pourrez bénéficier du savoir\\-faire d’excellence de nos équipes et ainsi développer vos compétences, en plus de vos qualités de communication.
+
+
+Un parcours de développement \\& d’animation complet vous sera proposé : sessions d’intégration, ateliers de coaching, points de suivi, afterworks… Vous bénéficierez également d’un accès permanent à notre Learning App !
+
+  
+
+
+
+Type de contrat : Stage
+
+
+Durée : 6 mois
+
+
+Lieu : Paris (1er arrondissement)",,https://www.glassdoor.fr/Overview/W-EI_IE667150.htm,https://media.glassdoor.com/sql/667150/louis-vuitton-squarelogo-1510674933751.png,,,,,

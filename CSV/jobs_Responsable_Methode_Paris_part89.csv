@@ -1,0 +1,520 @@
+id,site,job_url,job_url_direct,title,company,location,date_posted,job_type,salary_source,interval,min_amount,max_amount,currency,is_remote,job_level,job_function,listing_type,emails,description,company_industry,company_url,company_logo,company_url_direct,company_addresses,company_num_employees,company_revenue,company_description
+li-4126132659,linkedin,https://www.linkedin.com/jobs/view/4126132659,https://www.orano.group/jobs/fr/offre/GIE-MOBILE-MANA-16882?idorigine=6555&LCID=1036&urlHash=AdWL,Mobile Services Technical Manager F/H,Orano,"Courbevoie, Île-de-France, France",2025-02-12,fulltime,,,,,,,associate,Information Technology and Project Management,,,"Le Mobile Services Technical Manager Orano pour SI\\-nerGIE, rattaché au Responsable du Domaine End\\-Users Workplace Orano pour SI\\-nerGIE, pilote la fourniture des services sur les périphériques mobiles (smartphone/tablette) des utilisateurs du SI.
+ 
+
+
+
+ Ses objectifs sont la conception et le maintien en conditions opérationnelles et de sécurité des services utilisés par les collaborateurs en situation de mobilité sur site ou en dehors. Ceci en coordination avec tous les intervenants SI\\-nerGIE et externes pour assurer une vision bout en bout de ces services.
+ 
+
+
+
+  
+
+
+
+
+
+**Missions permanentes** 
+
+
+
+* Piloter les services utilisés par les collaborateurs en situation de mobilité (messagerie d’entreprise, conférence, outils métiers, MDM/EMM, …) et garantir leur bon fonctionnement dans les niveaux de services associés
+* Contribuer à la roadmap du Domaine en identifiant les activités et projets à mener afin d’améliorer la qualité des services (démarche Excellence Opérationnelle)
+* Contribuer à la réalisation des projets de mobilités par son expertise technique sur le périmètre
+
+
+
+  
+
+
+
+
+
+**Activités** 
+
+
+
+* Coordination avec les acteurs internes et externes du GIE pour garantir une vision bout en bout du service
+* Maintenir la documentation des processus associés (création de nouveaux services, support opérationnel, fiches consignes support, …)
+* Coordination avec les représentants métiers et DSI sur les besoins et enjeux
+* Identifier les évolutions organisation et technologiques pour améliorer la qualité des services (démarche d’Excellence Opérationnelle)
+* Maintenir à jour le catalogue de services
+* Gestion des escalades N3 et des crises
+* Assurer la veille technologique de son périmètre
+* Définir et mener les plans d’actions associés à la résolution des problèmes de son périmètre
+* Travailler en direct avec les fournisseurs et infogérants du périmètre
+* Reporting d’activités et suivi des capacités des solutions en cours d’usages
+
+
+
+  
+
+
+
+
+
+  
+
+
+
+
+
+**Profil recherché :** 
+
+
+
+* Expertise des solutions de mobilité du marché (MDM/EMM, OS/constructeurs mobiles, …)
+* Sens accru de la qualité de service et du client
+* Capacité à interagir de multiples intervenants internes et externes
+* Qualités relationnelles pour communiquer vers l’ensemble des acteurs métiers
+* Forte sensibilité aux enjeux de sécurité SI liées aux usages en mobilité
+* Expérience dans le déploiement d’applications mobiles, l’enrôlement des terminaux managés et de déploiement physique de terminaux mobiles
+* Qualité rédactionnelle et rigueur
+* Bon niveau d’anglais exigé
+* Expérience de 5 ans dans le pilotage de services/périphériques mobiles ou similaire
+
+
+
+  
+
+
+
+
+
+ Le poste sera basé à Courbevoie dans les locaux de SI\\-nerGIE.",Nuclear Electric Power Generation,https://fr.linkedin.com/company/areva,https://media.licdn.com/dms/image/v2/C4D0BAQE9M6qn5eVy2Q/company-logo_100_100/company-logo_100_100/0/1630537781836/areva_logo?e=2147483647&v=beta&t=yX88YChTT-RzEx-c3UTc2ZweAvm2bd1FXmsd96RiZsM,,,,,
+li-4148404315,linkedin,https://www.linkedin.com/jobs/view/4148404315,https://emploi.beetween.com/apply/job/tmwr2s9d9x9g/responsable-technique-courant-faible-f-h&urlHash=5xO8,RESPONSABLE TECHNIQUE COURANT FAIBLE (F/H),GrandPalaisRmn,"Paris, Île-de-France, France",2025-02-12,fulltime,,,,,,,executive,Engineering,,,"**À propos de nous**
+**Le GrandPalaisRmn recherche au sein de la Direction du Patrimoine Immobilier et Sécurité (DPIS) :**
+**Un responsable technique courant faible (F/H) en CDI pour le Grand Palais**
+**La DPIS** 
+ assure la maintenance, l’entretien et le fonctionnement courant de l’ensemble du patrimoine immobilier du GrandPalaisRmn (Siège social, Grand Palais, Ateliers d'art à Saint\\-Denis, Entrepôt logistique à Garonor) ainsi que la sûreté et la sécurité incendie du Grand Palais, de ses activités (expositions, événements, Palais de la découverte…) et de l’ensemble des sites du GrandPalaisRmn . La DPIS répond aux attentes des utilisateurs internes et externes de l’ensemble des directions de l’établissement, notamment Universcience, en tant que direction support. Elle accompagne le projet de restauration et d’aménagement du Grand Palais en tant que futur exploitant.
+   
+
+  
+
+**Le Grand Palais** 
+ , suite à sa restauration, a été doté de nombreux systèmes d'information qui contribuent à son bon fonctionnement, que ce soit pour la gestion technique du bâtiment (GTB), les systèmes d'éclairage (DALI), ainsi que pour la sûreté et la sécurité incendie (Hypervision, contrôle d'accès, anti\\-intrusion, vidéoprotection). Ces systèmes couvrent également l'accueil des organisateurs et du public, en collaboration avec la DSI, via des solutions telles que le Wi\\-Fi, la fibre opérateur et la signalétique dynamique.
+   
+
+  
+
+**Le responsable technique courant faible (F/H)** 
+ , sous l’autorité du directeur de la DPIS, aura la responsabilité du suivi des systèmes d’informations bâtimentaire et sécuritaire du Grand Palais, à savoir les applications de Gestion Technique Bâtimentaire, de vidéo protection, de contrôle d’accès, d’anti intrusion (ces 3 composantes étant au sein d’une Hypervision), les systèmes d'éclairage DALI, le suivi du système WIFI, du système de guidage pour les malvoyants... Elle/Il pourra être interrogé\\-e sur la signalétique dynamique et la connexion des organisateurs d’événements à l’Internet en lien avec la Direction des événements et des visiteurs du Grand Palais.
+   
+
+  
+
+**Mission**
+* Etudier et analyser les différents systèmes d’informations bâtimentaires du Grand Palais : contrôle d’accès, les systèmes anti\\-intrusion et vidéosurveillance, les systèmes de détection incendie et détection gaz, les systèmes de gestion technique bâtimentaire (GTB) :
+* Mettre en place un référentiel de l’ensemble des applications et de leur infrastructure réseau
+* Vérifier la capacité de continuité de service des systèmes (onduleurs, alimentation double attaches, climatisation des locaux techniques...)
+* Mettre en place les moyens de sauvegarde des applications et des données enregistrées
+* Connaitre les moyens permettant la reconstruction des systèmes (Master) en documentant les procédures de reconstruction avec l’aide des entreprises de la restauration ayant contribué à l’installation de ces systèmes (Phibor)
+* Mettre en place les contrats de support de maintenance pour chacun de ces systèmes d’informations bâtimentaires
+* Prévoir, superviser et contrôler les prestations de maintenance préventives et correctives
+* Prévoir les évolutions de la configuration des systèmes (GTB par exemple) et ainsi que les mises à jour mineures et éventuellement majeures des applications
+* Prévoir les interventions de support des clients internes et externes (système DALI par exemple)
+* Faire l’acquisition des licences nécessaires (CAL pour Hypervision par exemple)
+* Vérifier que les systèmes (serveurs) sont bien à jour dans le cadre de la lutte CyberSécurité
+* Vérifier que l’infrastructure réseau dans le Grand Palais reste efficiente au bon fonctionnement de l’ensemble (Locaux techniques, baies, switch, câblages / brassages,..)
+* Prévoir si nécessaire les formations utilisateurs
+* Prévoir les aspects financiers et budgétaires permettant la réalisation de cette mission
+
+
+**Profil**
+ De formation bac \\+3 en automatisme type Licence pro mention systèmes automatisés, réseaux et informatique industrielle ou équivalent, vous justifiez d’une expérience réussie dans les domaines des systèmes d’information liés à la Gestion Technique Bâtimentaire.
+   
+
+  
+
+ Vous possédez des compétences dans les domaines suivants :
+   
+
+  
+
+* Connaissances des installations courants faibles
+* Connaissances en GTB/GTC :Solution de contrôle/commande dédiée au bâtiment(l'ensemble des installations techniques du bâtiment, de l'intrusion à l'incendie en passant par l'éclairage, le chauffage ... au comptage d'énergie)
+* Connaissances en électricité
+* Gestion de la sous\\-traitance
+
+
+ Orienté(e) technique et service client, vous faites preuve d'autonomie, de rigueur, d’analyse et d’initiative. Vous avez le sens de la méthode, des procédures et de l’organisation.
+   
+
+  
+
+ Vous maîtrisez le pack office et disposez des habilitations électriques B0 H0 H0V
+   
+
+  
+
+**Caractéristiques Du Poste**
+* Poste éligible au forfait annuel en jours
+* Disponibilité pour s’adapter au rythme des événements sur le site : possibilité de travail le week\\-end, les jours fériés ou en nocturne, ponctuellement
+
+
+**Votre candidature** 
+ : Merci de nous faire parvenir votre candidature (CV\\+LM) en précisant vos prétentions salariales
+   
+
+  
+
+ Référence de l'offre : tmwr2s9d9x",Performing Arts and Spectator Sports,https://fr.linkedin.com/company/grandpalaisrmn,https://media.licdn.com/dms/image/v2/D4E0BAQEQA40AkWEe_A/company-logo_100_100/company-logo_100_100/0/1705937450119/reunion_des_musees_nationaux_logo?e=2147483647&v=beta&t=QEz6gJAh22xjekrnXLKmgUVkDpV1OSErqtv7zAAcCqo,,,,,
+li-4150400593,linkedin,https://www.linkedin.com/jobs/view/4150400593,https://careers.thalesgroup.com/global/en/job/TGPTGWGLOBALR0258088EXTERNALENGLOBAL/Responsable-pilotage-technique-H-F?utm_source=linkedin&utm_medium=phenom-feeds&urlHash=xwM0,Responsable pilotage technique (H/F),Thales,"Gennevilliers, Île-de-France, France",2025-02-12,fulltime,,,,,,,not applicable,Engineering and Information Technology,,,"Lieu : Gennevilliers, France
+   
+
+  
+
+**Construisons ensemble un avenir de confiance**
+ Thales est un leader mondial des hautes technologies spécialisé dans trois secteurs d’activité : Défense \\& Sécurité, Aéronautique \\& Spatial, et Cyber \\& Digital. Il développe des produits et solutions qui contribuent à un monde plus sûr, plus respectueux de l’environnement et plus inclusif. Le Groupe investit près de 4 milliards d’euros par an en Recherche \\& Développement, notamment dans des domaines clés de l’innovation tels que l’IA, la cybersécurité, le quantique, les technologies du cloud et la 6G. Thales compte près de 81 000 collaborateurs dans 68 pays.
+   
+
+  
+
+**Nos engagements, vos avantages**
+* Une réussite portée par notre excellence technologique, votre expérience et notre ambition partagée
+* Un package de rémunération attractif
+* Un développement des compétences en continu : parcours de formation, académies et communautés internes
+* Un environnement inclusif, bienveillant et respectant l’équilibre des collaborateurs
+* Un engagement sociétal et environnemental reconnu
+
+
+**Votre quotidien**
+ Le Campus de Gennevilliers est le cœur des activités de conception, de développement et de soutien des grands systèmes de défense : radiocommunications, réseaux et systèmes d’infrastructure résilients, communications par satellite, combat collaboratif et cybersécurité. Situé au nord de Paris, il est rapidement accessible en transports en commun.
+   
+
+  
+
+**Description du projet / rôle / missions** 
+ :
+   
+
+  
+
+ Au sein du Centre de Compétences IRS, vous intégrerez le département NIL, responsable de la conception et du développement de produits. Nos produits sont embarqués sur des aéronefs militaires, des plateformes marines et terrestres, ainsi que sur des missiles, pour des clients en France et à l’export.
+   
+
+  
+
+ En tant que responsable d’ingénierie de la solution, vous :
+   
+
+  
+
+* Pilotez les activités d’ingénierie système au niveau de la solution.
+* Coordonnez les activités multi\\-métiers en vous appuyant sur les responsables métiers.
+* Définissez la stratégie de développement du système et ajustez l’environnement d’ingénierie.
+* Représentez Thales vis\\-à\\-vis de nos partenaires et clients en collaboration avec les Project Managers.
+* Participez à l’élaboration des offres et organisez les développements des solutions retenues.
+* Assurez la cohérence des processus, pratiques et outils de l’ingénierie et approuvez les référentiels.
+
+
+**Votre profil :**
+ Votre priorité est de
+ **piloter des projets d’envergure à fort enjeux techniques** 
+ ?
+   
+
+  
+
+ Vous avez l’ambition de
+ **travailler avec des technologies innovantes dans un environnement multi\\-projets** 
+ ?
+   
+
+  
+
+ Vous avez envie de découvrir
+ **de nouvelles compétences dans le domaine des équipements ou systèmes embarqués** 
+ ?
+   
+
+  
+
+ Vous disposez d'un
+ **diplôme d'ingénieur ou équivalent** 
+ et avez de l'expérience sur :
+   
+
+  
+
+* Pilotage technique sur équipements ou systèmes embarqués,
+* Développement RF, hardware et/ou numérique,
+* Communications radio et liaisons de données tactiques (ex : L11, L16, L22\\...),
+* Hyperfréquences, électronique analogique/numérique, traitement du signal et de l’information.
+
+
+**Leadership naturel, capacité d’adaptation, travail en équipe et sens du résultat** 
+ sont des atouts que l'on vous reconnaît ? Alors ce poste est fait pour vous !
+   
+
+  
+
+ Le poste pouvant nécessiter d'accéder à des informations relevant du secret de la défense nationale, la personne retenue fera l'objet d'une procédure d’habilitation, conformément aux dispositions des articles R.2311\\-1 et suivants du Code de la défense et de l’IGI 1300 SGDSN/PSE du 09 août 2021\\.
+   
+
+  
+
+ Thales reconnait tous les talents, la diversité est notre meilleur atout. Postulez et rejoignez nous !",Aviation and Aerospace Component Manufacturing and Defense and Space Manufacturing,https://fr.linkedin.com/company/thales,https://media.licdn.com/dms/image/v2/C4D0BAQEmnUAXTuLkJQ/company-logo_100_100/company-logo_100_100/0/1631366051478/thales_logo?e=2147483647&v=beta&t=5Fjph8Uvqt0JzMLDdQwZUvfp1ylQY1jAxb6MS59uuwE,,,,,
+li-4148115584,linkedin,https://www.linkedin.com/jobs/view/4148115584,https://idex.wd3.myworkdayjobs.com/toutes-nos-offres-demploi/job/LE-PLESSIS-ROBINSON/Ingnieur-Mthode-F-H_JR4556?source=Linkedin&urlHash=IYq6,Ingénieur Méthode F/H,IDEX,"Le Plessis-Robinson, Île-de-France, France",2025-02-12,fulltime,,,,,,,entry level,Management and Manufacturing,,,"**Premier groupe français indépendant** 
+ de services à l’énergie et à l'environnement, nous sommes présents sur l’ensemble de la chaîne de valeur énergétique. Notre ambition,
+ **décarboner les territoires** 
+ au travers nos activités :
+   
+
+  
+
+  
+
+* La production d’énergie (usines de valorisation énergétique des déchets, méthaniseurs, centrales biomasse, géothermie, solaire…)
+* La distribution d’énergie (réseaux de chaleur et de froid)
+* Les services énergétiques (maintenance ou travaux d'efficacité énergétique, gestion multi\\-technique de bâtiments…)
+
+
+ IDEX réalise un
+ **chiffre d'affaires de 2,3 milliards d’euros** 
+ et accompagne
+ **plus de 12 000 clients** 
+ de tous secteurs dans leur transition énergétique en proposant une énergie utile, locale et compétitive.
+   
+
+  
+
+**Titre du poste :** 
+ Ingénieur Méthode F/H
+   
+
+  
+
+**Lieu :** 
+ Le Plessis\\-Robinson (92\\)
+   
+
+  
+
+**Type de contrat :** 
+ CDI
+   
+
+  
+
+ Le groupe Idex et sa Direction Régionale Infrastructures Énergétiques Bâtimentaires, avec ses deux pôles “Habitat et Collectivités” et “Tertiaire et Industrie”, recrutent. Notre mission : accélérer la décarbonation en valorisant les énergies locales et bas carbone. Avec 1 300 collaborateurs et 12 agences, nous exploitons 12 000 sites sur Paris et la région Ile de France. Rejoignez\\-vite les héros de la décarbonation !
+   
+
+  
+
+ Dans le cadre de notre développement, nous recherchons un
+ **Ingénieur Méthode F/H** 
+ dont la mission principale sera d’intégrer l’équipe du site MBDA. Rattaché au responsable d'exploitation, vous avez un rôle de support méthode afin d'accompagner l'exploitation du site.
+   
+
+  
+
+ En integrégrant la Team Idex, vos missions et responsabilités seront les suivantes :
+   
+
+  
+
+  
+
+* Déployer les outils, et suivre les consommations énergétiques des différents contrats (sites tertiaires, hospitaliers, Ministères...)
+* Proposer des amélioration/travaux afin de garantir des économies d’énergies à nos clients,
+* Piloter des Prises en Charge de nouveaux contrats en épaulant les équipes opérationnelles, déployant la GMAO, œuvrant pour l’optimisation des contrats,
+* Participer au déploiement d’outils/de fichiers pour faciliter les tâches de l’exploitation et de l’agence,
+* Participer au suivi des contrats de maintenance
+
+
+ Les avantages liés à ce poste :
+   
+
+  
+
+  
+
+* Rémunération sur 13 mois
+* Primes de vacances \\& primes spécifiques (Astreinte, cooptation, performance, …)
+* Compte Epargne Temps
+* Panier repas
+* Formation continue et opportunités de développement professionnel (Mobilité interne et accès illimité à Idex School Digital, notre plateforme de formation digitale)
+* Mutuelle et autres avantages sociaux intéressants
+
+
+ Pour maximiser vos chances de réussir chez Idex, vous devez :
+   
+
+  
+
+  
+
+* Etre diplômé d'une formation dans le domaine des énergies,
+* Maîtriser le suivi des énergies,
+* Etre force de proposition concernant les améliorations potentielles,
+* Etre capable de synthétiser des résultats, et maîtrisez les outils informatiques (notamment Excel),
+* Savoir diriger des réunions
+
+
+ Ce poste d'
+ **Ingénieur Méthode F/H** 
+ vous intéresse ? N’hésitez plus et rejoignez une équipe engagée en quête d’un avenir plus durable ! Devenez\\-vous aussi un héros de la décarbonation en cliquant sur « Postuler ».
+   
+
+  
+
+ Chez Idex, faisons la différence pour les générations futures ! Nous croyons en la diversité et nous engageons à créer des équipes inclusives où chacun peut s’épanouir.
+   
+
+  
+
+ Pour finir, nous sommes persuadés que la diversité est une chance ! Nous nous engageons à créer des équipes inclusives et diversifiées ou chacun pourra s’épanouir. C’est pourquoi nous recherchons des personnes talentueuses et motivées de tous horizons.
+   
+
+  
+
+ Si ces sujets vous passionnent, et que vous voulez découvrir nos projets, alors faites \\#LeBonChoixIdex et rejoignez les 6 000 héros de la décarbonation composant la \\#TeamIdex.
+   
+
+  
+
+*Pour en savoir plus, rendez\\-vous sur notre site idex.fr ou abonnez\\-vous sur nos réseaux sociaux :* 
+ Linkedin
+ *ou* 
+ Instagram
+ *@idex\\_Groupe*","Environmental Services, Renewable Energy Semiconductor Manufacturing, and Oil and Gas",https://fr.linkedin.com/company/idex-groupe,https://media.licdn.com/dms/image/v2/D4E0BAQHSSZZ0vg9qPw/company-logo_100_100/company-logo_100_100/0/1726211252814/idex_groupe_logo?e=2147483647&v=beta&t=dfqr_nNicmE83O-uoKiBMgYltkBoYDAPwxk7S_wyxGI,,,,,
+li-4149642084,linkedin,https://www.linkedin.com/jobs/view/4149642084,,Responsable en Amélioration continue et Méthodes (F/H) _ 6014LK,Arthur Hunt Group,"Île-de-France, France",2025-02-11,fulltime,,,,,,,associate,"Engineering, Manufacturing, and Project Management",,,"Notre client est un leader dans le secteur de la communication, filiale d’un grand groupe.
+ 
+
+
+
+ Dans le cadre de leur développment, il recrute son :
+ 
+
+
+
+  
+
+
+
+
+
+  
+
+
+
+
+
+ Responsable en Amélioration Continue et Méthodes (F/H)
+ 
+
+
+
+ Poste basé au Sud\\-Ouest de Paris.
+ 
+
+
+
+  
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+
+
+
+ Rattaché au Directeur des opérations, vous aurez un rôle stratégique au sein de l'entreprise, avec des responsabilités en management, en gestion des équipements et en conduite du changement.
+ 
+
+
+
+ Vous serez également un acteur clé de la transformation industrielle, avec une forte implication dans la politique santé\\-sécurité et la politique RSE du groupe.
+ 
+
+
+
+  
+
+
+
+
+
+ Vos missions principales seront les suivantes :
+ 
+
+
+
+ • Manager une équipe de 10 personnes dans un environnement industriel.
+ 
+
+
+
+ • Superviser les achats techniques, la maintenance et les travaux.
+ 
+
+
+
+ • Définir et mettre en œuvre la politique santé\\-sécurité du groupe.
+ 
+
+
+
+ • Assurer le bon fonctionnement des équipements via une GMAO.
+ 
+
+
+
+ • Conduire le changement et proposer des axes d'amélioration continue, innovation et modernisation.
+ 
+
+
+
+ • Participer aux appels d’offres et respecter la politique RSE du groupe.
+ 
+
+
+
+  
+
+
+
+
+
+ Profil recherché :
+ 
+
+
+
+ • Diplôme d’ingénieur
+ 
+
+
+
+ • 8 ans d’expérience minimum dans un environnement industriel.
+ 
+
+
+
+ • Compétences en management, gestion de la maintenance, amélioration continue et gestion de projets.
+ 
+
+
+
+ • Leadership, agilité et capacité à innover.
+ 
+
+
+
+ • Orienté résultats
+ 
+
+
+
+ • Sens du service client",Manufacturing,https://fr.linkedin.com/company/arthur-hunt,https://media.licdn.com/dms/image/v2/C4E0BAQEsYFmeXZwoDA/company-logo_100_100/company-logo_100_100/0/1631320504803?e=2147483647&v=beta&t=olK3lRhAWqmXPVs3SK-hVDQEE9isBm10zeNNMbSaS2g,,,,,

@@ -1,0 +1,601 @@
+id,site,job_url,job_url_direct,title,company,location,date_posted,job_type,salary_source,interval,min_amount,max_amount,currency,is_remote,job_level,job_function,listing_type,emails,description,company_industry,company_url,company_logo,company_url_direct,company_addresses,company_num_employees,company_revenue,company_description
+li-4146383781,linkedin,https://www.linkedin.com/jobs/view/4146383781,,Process manager ITIL,AXODYN,"Île-de-France, France",2025-02-10,fulltime,,,,,,,associate,Information Technology and Project Management,,,"**Vos prochaines missions ?** 
+
+
+
+
+  
+
+
+
+
+
+ Dans le cadre de plusieurs projets spécifiques chez notre client acteur majeur dans les infrastructures et réseaux, nous recrutons un process manager ITIL/ administrateur fonctionnel CMDB ITIL.
+ 
+
+
+
+  
+
+
+
+
+
+**Missions :** 
+
+
+
+
+**Animation du Processus de gestion des changements** 
+
+
+
+* Réceptionner, enregistrer, classifier et suivre les demandes de changements via l’utilisation des outils de l’entreprise dédiés (ServiceNow GonoGo).
+* Affecter des propriétaires aux dossiers changements/mise en production après sollicitation des responsables d’équipes.
+* Suivre l’avancée des dossiers, de l’enregistrement jusqu’à la clôture, relance des acteurs, demande de ressource et des livrables.
+* Alerter lors de demande avec escalade hiérarchique (Urgente, Majeur)
+* Etre une interface privilégiée pour les demandeurs de changements, les propriétaires des dossiers et assurer la coordination entre ces acteurs et le Process Manager.
+* Gestion du CAB (Change Advisory Board) : ▪ préparer, animer, réaliser le compte rendu et communiquer les arbitrages des changements
+* Animer les différents comités consultatifs des changements (emergency CAB, CAB/DSI).
+* Vérifier la complétude des dossiers (livrables, ressources).
+
+
+
+
+
+
+
+**Animation du Processus de gestion des mises en production** 
+
+
+
+* Gérer le calendrier des mises en production (ion (gestion des conflits/disponibilité des ressources)
+* S’assurer de la complétude des dossiers de mises en production avant déploiement (analyse d’impact, ressources nécessaires, mode opératoire, procédures de retour arrière.)
+* Alerter et escalader au niveau managérial si nécessaire pour arbitrage.
+* Animer la revue des mises en production et l’autorisation des déploiements dans le cadre du CAB hebdomadaire) Communiquer au sein de TSI sur les mises en production.
+
+
+
+
+
+
+
+**Animation du Processus de gestion des configurations et administration de la CMDB** 
+
+
+
+* Contribuer à la mise en place du processus Gestion des Configurations.
+* Prendre en compte des nouveaux besoins et pilotage de la trajectoire d’implémentation
+* Spécifier des évolutions du modèle de données CMDB et des interfaces avec les référentiels métiers si nécessaire,
+* Accompagner les nouveaux projets dans la prise en compte des nouveaux éléments de configurations à déployer,
+* Améliorer l’efficacité et l’efficience du processus de Gestion des Configurations,
+* Effectuer la revue des indicateurs clés de performance avec la mise en place et le suivi de plans d’actions,
+* Sensibiliser les acteurs TSI et MSP aux enjeux du processus de Gestion des Configurations,
+* Piloter les audits pour s’assurer de la pertinence et de la fraicheur des données de la CMDB au regard des Eléments de Configuration (EC) des différents systèmes déployés.
+
+
+
+
+
+
+
+**Administration de la CMDB :** 
+
+
+
+* Prendre en compte de nouveaux types d’EC, évolution des règles de nommage, évolution des interfaces avec les référentiels sources...), dans le cadre de l’intégration de nouveaux périmètres ou de nouveaux projets,
+* Vérifier de manière régulière la conformité des données de la CMDB par une prise en compte et une analyse des rapports de réconciliation des interfaces, des rapports de cohérence de la CMDB ou encore des anomalies de configuration remontées par les différents acteurs,
+* Analyser, distribuer et piloter la résolution des anomalies de configuration en lien avec les propriétaires d’EC,
+* Animer les plans de fiabilisation des données de la CMDB en relation avec les responsables de référentiels,
+* Supporter les acteurs TSI dans l’application des activités et procédures de Gestion des configurations et contribuer à l’évolution de ces procédures,
+* Contribuer aux audits de configurations,
+* Produire les tableaux de bord de suivi de la qualité et de l’efficacité du processus et de la CMDB et instruire les demandes de rapports spécifiques
+* Participer aux tâches de l’administration technique et fonctionnelle de la solution ServiceNow
+
+
+
+  
+
+
+
+
+
+**Contribuer à l’amélioration et au partage des bonnes pratiques ITIL :** 
+
+
+
+* Assister les Process Manager à l’animation des autres processus, notamment les processus de gestion de problème et de configuration.
+* Contribuer à la formalisation des processus (Gestion Changements, Mise en production, Configuration, Problème).
+* Contribuer à la rédaction de l'ensemble des procédures, support de formation, présentation,
+* Assister à la réalisation des indicateurs de pilotage des processus,
+* Etre force de proposition pour le pilotage, l'organisation des processus métier TSI, sur un socle de bonnes pratiques ITIL
+* Accompagner les acteurs TSI dans l’application des processus et procédures associées
+* Assurer le reporting (indicateurs de pilotages) nécessaire à l’animation des processus ITIL.
+* Etre force de proposition d’amélioration des processus. Apporter un regard nouveau sur le fonctionnement. Echanger avec l’équipe et produire des fiches d’amélioration et de non\\-conformité.
+* Participer au suivi et à la mise à jour de la gestion documentaire.
+
+
+
+  
+
+
+
+
+
+  
+
+
+
+
+
+**Qui sommes nous ?** 
+
+
+
+
+  
+
+
+
+
+
+ Créée en 2013, AXODYN est une société de services techniques spécialisée dans le domaines des infrastructures , des industries et des énergies.
+ 
+
+
+
+  
+
+
+
+
+
+ Nous intervenons intervenons sur des projets d'envergures dans les fonctions suivantes :
+ 
+
+
+
+*Management de projets* 
+ : Pilotage de projets, Planification, Contract \\& Cost management.
+ 
+
+
+
+*Etudes et Réalisations* 
+ : Génie civil, Mécanique, Electrique, Automatisme, Informatique industrielle.
+ 
+
+
+
+*Exploitation* 
+ : QHSE, Amélioration continue, Process industriels
+ 
+
+
+
+  
+
+
+
+
+
+**Et si on parlait de vous ?** 
+
+
+
+
+**Compétences types** 
+
+
+
+* Animation de processus métier dans les domaines informatiques et télécommunication
+* Maîtrise des processus et bonnes pratiques ITIL (certification souhaitée)
+* Maitrise des processus Projet.
+* Maîtrise de la définition de modèles conceptuels de données et la définition d’un modèle de données CMDB
+* Expérience de collecte et de formalisation de besoins fonctionnels auprès de différents interlocuteurs,
+* Expérience d’organisation, de coordination et d’animation d’acteurs techniques
+* Notions techniques et fonctionnelles concernant les infrastructures et systèmes Telecom
+* Maitrise Service Now
+* Maîtrise des outils bureautique (Suite Office 2016, Visio, macros, VB, office 365\\)
+
+
+
+  
+
+
+
+
+
+  
+
+
+
+
+
+**Votre mobilité ?** 
+
+
+
+
+  
+
+
+
+
+
+ Le poste est ouvert en région Parisienne.
+ 
+
+
+
+  
+
+
+
+
+
+**Ce qu'on vous propose ?** 
+
+
+
+
+  
+
+
+
+
+* Titre de transport pris en charge intégralement
+* Titre restaurant / Panier repas
+* RTT
+* Télétravail
+* Prime de participation",Engineering Services,https://fr.linkedin.com/company/axodyn,https://media.licdn.com/dms/image/v2/D4E0BAQFqKlZZyujOPw/company-logo_100_100/company-logo_100_100/0/1698920146686/axodyn_logo?e=2147483647&v=beta&t=c4FCWG6YcZce3hfwDhaSQDIOtxCG_JsfCZVFSfHLTgs,,,,,
+li-4050283096,linkedin,https://www.linkedin.com/jobs/view/4050283096,,OPC - Ordonnancement Pilotage Coordination,AXODYN,"Île-de-France, France",2025-02-10,fulltime,,,,,,,associate,Engineering,,fabrice.djakpa@axodyn.com,"**Qui sommes nous ?** 
+
+
+
+
+  
+
+
+
+
+
+ Créée en 2013, AXODYN est une société de services techniques spécialisée dans le domaines des infrastructures , des industries et des énergies.
+ 
+
+
+
+  
+
+
+
+
+
+ Nous intervenons intervenons sur des projets d'envergures dans les fonctions suivantes :
+ 
+
+
+
+*Management de projets* 
+ : Pilotage de projets, Planification, Contract \\& Cost management.
+ 
+
+
+
+*Etudes et Réalisations* 
+ : Génie civil, Mécanique, Electrique, Automatisme, Informatique industrielle.
+ 
+
+
+
+*Exploitation* 
+ : QHSE, Amélioration continue, Process industriels.
+ 
+
+
+
+  
+
+
+
+
+
+**Vos prochaines missions ?** 
+
+
+
+
+  
+
+
+
+
+
+ Dans le cadre d'un projet ferroviaire , nous recherchons notre futur(e) collaborateur/trice pour exercer des missions en tant qu'
+ **Ingénieur(e) OPC/ Pilote OPC.** 
+
+
+
+
+  
+
+
+
+
+* Ordonnancement et planification : Vous contractualisez la prestation avec le chef de projet, recensez les tâches à accomplir pour réaliser l’opération et réalisez le planning des interventions avec la maîtrise d’ouvrage.
+* Pilotage du projet en phase travaux.
+* Gestion des interfaces du projet, organisation et animation des réunions de chantier.
+* Prise en charge de la coordination temporelle des entreprises et des autres intervenants.
+* Elaboration du reporting mensuel d’avancement et des comptes\\-rendus de réunions.
+* Garantie du report et du maintien des délais de qualité et du déroulement du chantier.
+
+
+
+  
+
+
+
+
+
+**Et si on parlait de vous ?** 
+
+
+
+
+  
+
+
+
+
+* Vous avez une expérience en management de projet d'au moins 3 ans sur des projets d'infrastructures,
+* Vous avez une connaissance générale du milieu ferroviaire (gares, bâtiments en gares, PMR)
+* Vous êtes capable de mettre en place des synergies autour des différents interlocuteurs pour aboutir à un objectif commun,
+* Vous êtes rigoureux dans la définition et du suivi des actions mais également dans la gestion des points critiques entre les travaux (interface, coactivité…)
+* Vous possédez de réelles capacités d’analyse et de synthèse,
+* Vous avez une bonne connaissance de l’élaboration des documents types de suivi de travaux (planning, phasage, rapport d’avancement, reportage photographique…)
+
+
+
+  
+
+
+
+
+
+**Votre mobilité ?** 
+
+
+
+
+  
+
+
+
+
+
+ Le poste est ouvert à Paris et Toulouse.
+ 
+
+
+
+  
+
+
+
+
+
+**Ce qu'on vous propose ?** 
+
+
+
+
+  
+
+
+
+
+* Titre de transport est pris en charge intégralement
+* Titre restaurant
+* RTT
+* Télétravail
+* Prime de participation
+
+
+
+  
+
+
+
+
+
+ N'hésitez pas de postuler si l'offre correspond à vos attentes ou à m'envoyer directement votre Cv sur fabrice.djakpa@axodyn.com",IT Services and IT Consulting and Business Consulting and Services,https://fr.linkedin.com/company/axodyn,https://media.licdn.com/dms/image/v2/D4E0BAQFqKlZZyujOPw/company-logo_100_100/company-logo_100_100/0/1698920146686/axodyn_logo?e=2147483647&v=beta&t=c4FCWG6YcZce3hfwDhaSQDIOtxCG_JsfCZVFSfHLTgs,,,,,
+li-4046440421,linkedin,https://www.linkedin.com/jobs/view/4046440421,,Ingénieur procédés traitement des eaux,LR TECHNOLOGIES - GROUPE,"Puteaux, Île-de-France, France",2025-02-09,fulltime,,,,,,,associate,Engineering,,,"Dans le cadre d'études de conception et d'exécution de stations d'épuration et de traitement d'eau potable/polluée, vous aurez la charge de :
+   
+
+  
+
+* Bilan de matière, énergétique…
+* Simulation des procédés d'osmose inverse
+* PID, PFD,
+* Etude mécanique
+* Dimensionnement des équipements
+* Spécifications des équipements
+* Constitution des dossiers techniques de réponse aux AO
+* Consultation des fournisseurs.
+
+
+ Etant sur certains projets de plus petites tailles vous devrez intégrer des sujets de RDM pour le choix de certains composants plus efficients suivant les contraintes des projets.
+   
+
+  
+
+ Vous êtes de formation ingénieur et vous justifiez de 8 ans d'expérience sur des projets de traitement des eaux.
+   
+
+  
+
+ Vous avez idéalement travaillé sur des projets de petites tailles pour apporter une expertise technique et votre expérience sur le sujet.
+   
+
+  
+
+ Vous venez du secteur du traitement de l'eau.
+   
+
+  
+
+**«** 
+***Toutes les Sociétés de Conseil se ressemblent***
+**»,**
+**Toutes ?**
+**ENERGEO TECHNOLOGIES** 
+ est une société du
+ **GROUPE LR TECHNOLOGIES.**
+**LR TECHNOLOGIES GROUPE** 
+ c’est 650 Libelliens qui nous ont élus Great Place To Work en 2016, 2018 et à présent 3e France et Europe 2021\\. Nous sommes également la 99e société française labellisée B CORP pour notre engagement RSE.
+   
+
+  
+
+ Depuis 2014 nous avons créé 11 implantations et 5 pôles d'activités complémentaires :
+   
+
+  
+
+* Aéronautique / Spatial / Défense
+* Drone / Robotique / IoT / Automobile/ Ferroviaire / Industries / Multimédia
+* Médical / Pharmaceutique
+* Énergie / Environnement
+* Systèmes d’Informations / Banque / Finance / Assurance
+
+
+**3 raisons de rejoindre :**
+* 650 Libelliens, sollicités par tous comme vous devez l’être, nous ont rencontrés et ont décidé de nous rejoindre.
+* 94 % des Libelliens déclarent que nous sommes un Groupe où il fait vraiment bon travailler.
+* Nous grandissons vite mais nous grandissons bien : B CORP \\| Great Place To Work \\| ISO 9001 \\| CIR.",IT Services and IT Consulting,https://fr.linkedin.com/company/lr-technologies---groupe,https://media.licdn.com/dms/image/v2/C4E0BAQE6YjpIPPI9og/company-logo_100_100/company-logo_100_100/0/1631311738557?e=2147483647&v=beta&t=1CSY453I9YW6kPPVSvz9FfczwOAi9u4jw298As58XfM,,,,,
+li-4071567986,linkedin,https://www.linkedin.com/jobs/view/4071567986,https://wd3.myworkdaysite.com/fr-FR/recruiting/mdlz/External/job/Clamart-France/Responsable-RH-Exprience-Collaborateurs-France\\u002d\\u002dH-F-X-_R-123522?src=SNS-12680&source=APPLICANT_SOURCE-3-70&utm_source=linkedin.com&utm_medium=jobboard&utm_campaign=linkedin_jobposting&utm_term=generic_jobs&urlHash=T_mi,Responsable RH Expérience Collaborateurs France (H/F/X),Mondelēz International,"Clamart, Île-de-France, France",2025-02-08,fulltime,,,,,,,director,Human Resources,,,"Type d'emploi
+   
+
+  
+
+**Êtes\\-vous prêt à faire bouger les lignes chez Mondelēz International ?**
+**Rejoignez l'aventure, celle d'inventer l'avenir du snacking. Faites que cela compte !**
+ La personne en charge de ce poste est responsable de l’amélioration continue de l’expérience collaborateur au sein de la Business Unit France, du pilotage et la facilitation du self\\-service, signalant les besoins de la BU tout en construisant un partenariat fort avec la BU et les services RH.
+   
+
+  
+
+ Elle s’assure que la vision globale et l’identité du service Expérience Collaborateurs est alignée avec les besoins de la Business Unit.
+   
+
+  
+
+ Elle collabore avec la BU pour s’assurer que la stratégie du service est alignée avec, et en dirige l’implémentation stratégique.
+   
+
+  
+
+ Elle offre une orientation et un leadership aux membres de ses équipes afin de délivrer les bons résultats pour la BU.
+   
+
+  
+
+**Vos missions**
+* Expérience Collaborateurs Leadership : Superviser de bout en bout les services « Expérience Collaborateur » en France, en étant la passerelle entre la Business Unit France et le Shared Services Center.
+* Amélioration Continue : Diriger et promouvoir le modèle self\\-service, identifier les besoins clés, et construire un partenariat solide avec les différentes parties\\-prenantes en France et avec l’organisation People Services.
+* Collaboration Stratégique : Travailler étroitement avec les People Leads et les équipes business afin d’aligner la stratégie People Services et les besoins en France, tout en assurant son implémentation.
+* Management d’Équipe : Conseiller et manager l’équipe People Experience en France, soutenir les services délivrés et gérer les cas de relation employé sensibles.
+* Supervision Opérationnelle : conduire un suivi opérationnel régulier, définir et prioriser les missions, optimiser l’engagement de l’équipe, et représenter le service People Services France aux réunions européennes.
+* Participation aux Projets : contribuer projets et programmes européens de People Experience en tant que membre de l’équipe Global People Services Europe.
+
+
+**Profil et compétences**
+* Formation : Master en ressources humaines ou équivalent.
+* Expérience : Environ 10 ans d’expérience en tant que responsable RH en ayant traité l’ensemble du cycle de vie des employés (recrutement, management de talents, management de la performance, etc).
+* Management d’équipe : Expérience confirmée en tant que manager d’équipes et gérant un large panel de responsabilités RH.
+* Expertise RH : Solides compétences en tant que RH généraliste et une forte compréhension de la législation du travail française afin de gérer les problématiques de relations syndicales.
+* Partenariat stratégique : Capacité à développer des partenariats solides avec le top management et créer des stratégies de changement afin de diriger des transformations complexes.
+* Collaboration : Expérience de travail dans un environnement matriciel et avec les membres du conseil d’entreprise.
+* Expérience internationale : L’expérience trans\\-culturelle au sein d’équipes internationales est un plus.
+* Compétences techniques : Connaissance d’un SIRH (idéalement Workday) et aisance technologique en général.
+* Langues : Maîtrise de l’anglais indispensable.
+
+
+ Ce poste est idéal pour un professionnel RH dynamique qui excelle dans l’équilibre entre RH, technologie et le besoin business afin d’améliorer l’expérience employé dans un environnement matriciel complexe. Si vous êtes passionné par la conduite du changement et encouragez une culture du travail positive, n’hésitez pas à postuler !
+   
+
+  
+
+**More About This Role**
+**L'aide à la mobilité (déménagement) est\\-elle disponible ?**
+ Aucune aide d'installation disponible, cependant pour les candidats qui déménagent volontairement à l'international, une aide minimale est offerte par le biais de notre politique de transfert international.
+   
+
+  
+
+**Résumé de la business unit**
+ Nous pensons que le talent de nos collaborateurs mérite récompense. À chaque fois que cela est possible, nous privilégions l'évolution interne au recrutement externe pour les nouveaux postes vacants. Si vous pensez que le poste vacant correspond à vos aspirations et compétences, nous vous encourageons à y postuler !
+   
+
+  
+
+*La réussite de notre entreprise repose sur le talent de ses collaborateurs.*
+ Mondelēz International adhère aux principes d'équité en matière d'emploi. Toutes les candidatures qualifiées seront examinées avec attention, indépendamment de l'origine, de la couleur, de la religion, du genre, de l'orientation ou de l'identité sexuelle, de la nationalité, du handicap, du statut de vétéran protégé ou de toute autre caractéristique protégée par la loi.
+   
+
+  
+
+**Prêt(e) à booster votre carrière ?**
+ Nous pensons que le talent de nos collaborateurs mérite récompense. À chaque fois que cela est possible, nous privilégions l'évolution interne au recrutement externe pour les nouveaux postes vacants. Si vous pensez que le poste vacant correspond à vos aspirations et compétences, nous vous encourageons à y postuler !
+   
+
+  
+
+**SI VOUS AVEZ BESOIN D'UN SOUTIEN POUR REMPLIR VOTRE DOSSIER DE CANDIDATURE OU PENDANT LE PROCESSUS D'ENTRETIEN, VEUILLEZ CONTACTER LE RECRUTEUR**
+**Type d'emploi**
+ Ordinaire
+   
+
+  
+
+ Experience Management
+   
+
+  
+
+ Global Business Services",Food and Beverage Manufacturing,https://www.linkedin.com/company/mondelezinternational,https://media.licdn.com/dms/image/v2/C4D0BAQEXpvlmPQN68Q/company-logo_100_100/company-logo_100_100/0/1630453251495/mondelezinternational_logo?e=2147483647&v=beta&t=4O0Nsa9CbyItqfSsYTT62l_3frW1XKM2h3f4eZZHUXI,,,,,
+li-4146495620,linkedin,https://www.linkedin.com/jobs/view/4146495620,https://jobs.lever.co/combo/796c1005-fc3b-4654-b3b3-65fecf654a85/apply?lever-source=LinkedIn&urlHash=maXM,Gestionnaire de Paie et SIRH (F/H/N),Combo,"Paris, Île-de-France, France",2025-02-08,fulltime,,,,,,,not applicable,Human Resources,,,"**✨Quel sera votre rôle ?**
+ Rattaché·e à la business unit Payroll Services, vous ferez partie d’une équipe de 5 personnes et serez en lien direct avec nos clients.
+   
+
+  
+
+ Vous jouerez un rôle essentiel dans la gestion d'un portefeuille client varié, couvrant plusieurs conventions collectives (environ une dizaine).
+   
+
+  
+
+**Vos missions, pour le compte de nos clients, seront :**
+* La gestion complète de la paie y compris la DSN
+* Élaborer, contrôler et valider les bulletins de paie pour l'ensemble du portefeuille client
+* Contrôler les Déclarations Sociales Nominatives (DSN), en traitant les spécificités complexes notamment les régularisations
+* Gestion administrative dont la prise en charge des éventuelles formalités liées aux entrées et sorties des salariés (affiliations, attestations, etc.)
+* Assurer une veille sociale active pour garantir la conformité avec les évolutions légales et conventionnelles
+* L’accompagnement et conseil client en apportant des réponses personnalisées aux problématiques RH et sociales des clients
+* Contribution à l'amélioration continue en identifiant les axes d'optimisation dans les processus paie et RH et en participant à la mise en place de nouveaux outils ou à l'évolution des pratiques pour maximiser l'efficacité du service
+
+
+**🎯 Profil recherché**
+* Formation spécialisée en gestion de la paie,
+* Entre 2 et 5 ans d’expérience dans la gestion de la paie,
+* Excellentes connaissances de la réglementation paie et charges sociales,
+* Maîtrise d'Excel
+* Bonnes connaissances de la législation sociale (droit du travail / sécurité sociale) en vigueur et de ses évolutions,
+* Bonnes connaissances du rôle et fonctionnement des institutions et organismes sociaux/santé,
+* Bon sens relationnel, rigueur, confidentialité, travail en équipe
+
+
+**🎬 Notre process de recrutement**
+* Screening RH avec Thomas, Talent Acquisition Manager (30')
+* Management Fit avec Noëlle, Manager de la Business Unit (60')
+* Cultural Fit",IT Services and IT Consulting,https://fr.linkedin.com/company/combo-hr,https://media.licdn.com/dms/image/v2/C4E0BAQEslEH42MRZOg/company-logo_100_100/company-logo_100_100/0/1673599686603/combo_hr_logo?e=2147483647&v=beta&t=vlMVXqpctrNPM-iy_183SbGn29ZGDmImIICtkAgY_DU,,,,,

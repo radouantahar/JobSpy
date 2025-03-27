@@ -1,0 +1,439 @@
+id,site,job_url,job_url_direct,title,company,location,date_posted,job_type,salary_source,interval,min_amount,max_amount,currency,is_remote,job_level,job_function,listing_type,emails,description,company_industry,company_url,company_logo,company_url_direct,company_addresses,company_num_employees,company_revenue,company_description
+in-281b8aa6fc8e3246,indeed,https://fr.indeed.com/viewjob?jk=281b8aa6fc8e3246,https://recrutement.altays-progiciels.com/edf-renouvelables/fr/offres/chef-de-projet-si-hf-2574890.html?page=1,Chargé d'affaires foncières - H/F,EDF,"Nanterre, A8, FR",2025-02-20,,,,,,,False,,,,,"* Type d'offre :
+Offre d’emploi
+* Localisation :
+NANTERRE
+* Expérience :
+3 à 5 ans
+* Type de contrat :
+CDI
+* Domaine d'expertise :
+IT / Digital / SIG
+
+
+  
+**Présentation de l'entreprise**
+--------------------------------
+
+
+**Acteur industriel responsable et innovant, EDF Renouvelables développe, construit et exploite** des moyens de production **d'énergies renouvelables et bas carbone** ainsi que des solutions de **flexibilité et de transport** d'électricité.  
+
+Grâce à l'ensemble de ses expertises, notre entreprise accompagne ses clients en leur proposant des **offres sur mesure** pour contribuer à la **décarbonation et à la performance des systèmes électriques**.
+
+
+Dans nos différentes géographies, nos équipes s'engagent au quotidien pour **accélérer la transition énergétique**.
+
+
+**Description de l'offre**
+--------------------------
+
+Le pôle Corporate \\& Plateformes de la DSIN d'EDF Renouvelables recherche un(e) Chef(fe) de projets SI intervenant sur les domaines des fonctions support (Finance, RH, Juridique, Achats, Ventes...). Rattaché(e) au responsable du pôle, qui prend en charge l'ensemble des outils SI des fonctions support, il ou elle aura pour missions d'analyser les besoins métier, de piloter les projets IT associés et d'accompagner le changement.
+
+
+Le titulaire du poste organise et conduit un ou plusieurs projets dans leur intégralité sur le périmètre d'EDF Renouvelables. Il ou elle prend en charge les différentes phases, depuis la traduction des besoins utilisateurs en spécifications fonctionnelles et techniques, jusqu'au déploiement.
+
+
+Au\\-delà des activités principales de Chef de Projet, le poste pourra être étendu à des activités de Product Owner autour des applications livrées en production dans le périmètre du Pôle Corporate et Plateforme.
+
+
+Vos missions seront les suivantes :
+
+
+Cadrage des besoins en amont des projets :
+
+* Définition des objectifs et du périmètre du projet : Identifier les besoins et les attentes des parties prenantes, clarifier les objectifs à atteindre et les livrables attendus. Délimiter clairement le périmètre du projet.
+* Étude de faisabilité : Analyser la faisabilité technique, économique, juridique et opérationnelle du projet. Évaluer les ressources nécessaires (humaines, matérielles, financières) et les contraintes (délais, réglementations).
+* Analyse des risques : Identifier les risques potentiels liés au projet, évaluer la probabilité d'occurrence et l'impact de chaque risque.
+* Planification initiale : Établir une première ébauche du planning, incluant les grandes phases et les jalons clés. Définir les ressources et les compétences requises pour chaque phase.
+
+
+Gestion de projets :
+
+* Pilotage des phases du projet : S'assurer de la bonne conduite des cycles du projet : conception, spécifications techniques, réalisation, tests, mise en exploitation, déploiement et support. Contractualiser avec les éventuels intervenants externes, dans le respect de la méthodologie interne.
+* Suivi de la conception : Suivre l'ensemble de la conception (besoins client, spécifications fonctionnelles, lotissements, livrables, critères de réception).
+* Garantie de la qualité et des performances : Être le garant de la qualité, des performances, du respect des coûts, des charges et des délais afférents.
+* Gouvernance du projet : Définir et piloter la gouvernance du projet. Assurer le reporting. Piloter les instances de pilotage. Réaliser les différents supports de comités/réunions (Comité projet, comité de pilotage, présentations projets). Définir et suivre le plan d'actions. Identifier et suivre les risques et problèmes.
+* Coordination de l'équipe projet : Piloter le projet en organisant, coordonnant et animant l'équipe projet (internes et prestataires) en fonction des contraintes du projet.
+* Interface entre les équipes : Faire l'interface entre les équipes métiers (responsables de la définition des besoins) et les équipes SI et les éditeurs.
+* Livraison du projet : Livrer le projet en garantissant la satisfaction client.
+
+
+Communication / Conduite du changement :
+
+* Interlocuteur privilégié : Être l'interlocuteur privilégié des métiers.
+* Communication et reporting : Assurer la communication et le reporting.
+* Animation des communautés d'utilisateurs : Animer les communautés d'utilisateurs.
+
+
+En tant que Product Owner potentiel d'une ou plusieurs applications le titulaire du poste pourrait être amené à réaliser les activités suivantes :
+
+* Organiser les activités liées au produit, coordonner et mobiliser les parties prenantes de l'équipe (internes et prestataires) pour soutenir les services Build ou Run (SN2/SN3\\) et fournir les services conformément aux engagements annoncés.
+* Gérer les relations contractuelles avec les fournisseurs (contrats au forfait, contrats au temps et matériaux, licences, etc.) en mettant l'accent sur l'optimisation des services au niveau du groupe.
+* Assurer le suivi budgétaire et l'alignement entre les budgets et les dépenses.
+* Définir la stratégie produit en accord avec les objectifs commerciaux (objectifs commerciaux et opérationnels du groupe).
+* Maintenir une veille technologique continue pour les innovations.
+* Définir la feuille de route fonctionnelle et technique du produit à court, moyen et long terme.
+* Prioriser le backlog des améliorations fonctionnelles.
+* Gérer l'obsolescence et planifier les mises à niveau techniques (mises à jour des versions des solutions, nouveaux composants, etc.).
+* Mener à bien toutes les phases de développement des nouvelles fonctionnalités (cadrage, conception, développement, tests, déploiement, gestion du changement et clôture du projet).
+* Garantir la définition et la documentation des offres de services associées au produit (descriptions des offres, utilisateurs cibles, SLA, modèles de tarification, etc.).
+* Superviser l'administration du produit (gestion des droits et des utilisateurs).
+* Mettre en place des ressources conformes aux engagements en matière de RTO et de RPO définis (Plan de Reprise d'Activité, etc.).
+
+  
+
+
+**Compétences et qualités recherchées**
+---------------------------------------
+
+
+Formation :
+
+* Titulaire d'un diplôme de niveau Master (Mastère, DESS, DEA) ou diplômé(e) d'une Grande École, avec une spécialisation pertinente pour le poste.
+* Niveau d'études : Bac \\+5 ou équivalent.
+
+  
+
+Expérience :
+
+* Vous justifiez d'une ou plusieurs expériences significatives en gestion de projets au sein des fonctions support.
+* Vous disposez de connaissances approfondies et de compétences pratiques acquises lors de vos expériences précédentes, notamment dans les domaines suivants :
+
+
+o Compréhension des processus métier spécifiques aux fonctions support.
+
+
+o Connaissance des architectures techniques des systèmes d'information.
+
+
+o Maîtrise des outils et méthodes de modélisation de processus.
+
+
+o La connaissance de SAP constitue un atout supplémentaire.
+
+
+o La connaissance des RPA et de la BI constitue un atout supplémentaire.
+
+
+o Application rigoureuse des méthodologies de gestion de projet.
+
+  
+
+Qualités recherchées :
+
+* Orientation client et sens du service développé.
+* Aptitude à collaborer efficacement au sein d'une équipe.
+* Organisation personnelle et capacité à travailler de manière autonome.
+* Forte capacité d'adaptation et compétences analytiques aiguisées.
+* Excellentes qualités rédactionnelles et aisance dans la communication.
+* Aptitude à enseigner et à transmettre des connaissances (pédagogie).
+* Proactivité et capacité à anticiper les besoins et les défis.
+* Leadership et capacité à fédérer les équipes autour d'objectifs communs.
+* Habileté à négocier avec différents interlocuteurs, y compris les prestataires.
+* Expérience dans la gestion de relations avec des prestataires externes.
+
+  
+
+Compétences en bureautique :
+
+* Maîtrise des outils de bureautique, notamment la suite Microsoft Office.
+
+  
+
+Langues :
+
+* Maîtrise de l'anglais à un niveau professionnel, à l'écrit comme à l'oral.
+
+*Dans le groupe EDF accueillir des personnes en situation de handicap fait partie de notre ADN. Notre objectif est d'ouvrir nos portes à toutes les compétences, toutes les énergies et toutes les personnalités sans exclusion. Le poste proposé est donc ouvert à toutes et à tous.*",,https://fr.indeed.com/cmp/Edf,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/2fc383c40bbccd6367df71ce0592fccf,http://www.edfenergy.com,Paris,"10,000+",more than $10B (USD),"Le groupe EDF est l'un des premiers électriciens mondiaux, à la pointe de l'innovation technologique."
+in-996fb838753495cd,indeed,https://fr.indeed.com/viewjob?jk=996fb838753495cd,http://fr.indeed.com/job/aide-soignant-hf-996fb838753495cd,Aide soignant H/F,emeis,"Bagneux, A8, FR",2025-02-20,fulltime,,,,,,False,,,,,"La résidence le clos des Meuniers, située à Bagneux (92\\), est un EHPAD qui accueille des personnes âgées autonomes, semi\\-valides et dépendantes.
+
+La capacité d'accueil de l'établissement est de 99 résidents réparts dans différentes unités de prises en charge:
+
+* Des unités dites classiques
+* 1 USA (unité de soins adapté)
+* 1 UGD (unité de grands dépendants)
+
+**Accès** : Métro 4 (Bagneux\\-Lucie Aubrac) ou bus 162 (Les Iris) ou bus 388 (rue des Olivettes) et un parking est mis à disposition des collaborateurs .
+
+***Nous recherchons un.e Aide\\-Soignant.e en CDI*** pour prendre soin des résident.e.s et de leur famille dans la durée, leur redonner le sourire !
+
+**Ce que nous vous offrons:**
+
+* **Amplitude horair**e: de 7h30 à 19h ou de 8h30 à 20h ou de 8h à 19h30
+* **Rémunération :** à partir de 1900 € brut mensuel \\+ Ségur
+
+**Vos missions:**
+
+En collaboration avec l’équipe soignante pluridisciplinaire et la direction, vous aurez pour missions principales :
+
+* Contribuer à l’accueil et l’information du résident et de son entourage
+* Observer l’état de santé du résident, dispenser les soins d’hygiène, l’accompagner dans la durée (dans ses déplacements, dans sa bonne installation…)
+* Recueillir et transmettre les observations afin de maintenir la continuité des soins
+
+**Votre profil:**
+
+* Obtention du **Diplôme d’Etat d’Aide\\-Soignant.e**
+* Les débutant.e.s sont les bienvenu.e.s, que vous ayez une expérience de stage ou non !
+
+**Qui sommes\\-nous?**
+
+**L’accompagnement et le soin personnalisés pour chaque personne fragilisée**
+
+Nous sommes 78 000 médecins, infirmier.ère.s, aides\\-soignant.e.s, auxiliaires de vie, rééducateur.trice.s, psychologues, cuisinier.ère.s, gouvernant.e.s, et métiers d’appui… engagés chaque jour auprès des plus fragiles.
+
+**En rejoignant EMEIS**, vous pourrez vous projeter sur le long terme et bénéficier également des avantages liés à un grand Groupe.
+
+* Prime dite de 13ème mois
+* Titres Restaurants ou restauration sur nos établissements à tarif préférentiel
+* Accord d’entreprise permettant la réalisation d’heures supplémentaires au\\-delà du contingent conventionnel
+* Subrogation
+* Accord d’intéressement
+* Primes de cooptation
+* Services à taille humaine : un management en proximité, un esprit d’équipe et d’entraide entre collègues…
+* Avantages CSE en région et CSE Central
+* Accès facilité à la formation (possibilités de financement de DU par exemple)
+* Gestion de carrière individualisée et accompagnement à la mobilité (géographique et professionnelle) : par exemple, en tant qu’infirmier.ère, possibilité d’évoluer vers différentes spécialités de soins et vers des fonctions d’encadrement (IDEC, responsable de soins, direction d’établissement)
+* Procédures qualité et méthodes innovantes pour une prise en charge de qualité
+
+**Chez emeis, nous sommes forces de vie**
+
+\\#arcdeseine
+
+Type d'emploi : Temps plein, CDI
+
+Rémunération : à partir de 1 900,00€ par mois
+
+Avantages :
+
+* Prise en charge du transport quotidien
+
+Horaires :
+
+* Travail en journée
+
+Rémunération supplémentaire :
+
+* Primes
+
+Capacité à faire le trajet ou à déménager:
+
+* 92220 Bagneux: Faire le trajet sans problème ou prévoir un déménagement avant de prendre son poste (Requis)
+
+Permis/certification:
+
+* Diplôme d'état aide soignant (Requis)
+
+Lieu du poste : En présentiel",,https://fr.indeed.com/cmp/Emeis-1,,https://www.emeis-group.com/,Puteaux,Decline to state,Decline to state,"Le Groupe ORPEA, acteur européen de la dépendance, développe une politique de recrutement dynamique et pérenne, rejoignez-nous !"
+in-6f7799bffeed4b9e,indeed,https://fr.indeed.com/viewjob?jk=6f7799bffeed4b9e,http://fr.indeed.com/job/agent-de-collectivit%C3%A9s-hf-6f7799bffeed4b9e,Agent de collectivités H/F,Ligue de l'Enseignement de l'Oise,"Beauvais, HDF, FR",2025-02-20,parttime,,,,,,False,,,,marion.monge@maisondether.org,"**À propos du poste**  
+Nous recherchons un agent ou une agente de collectivités pour rejoindre notre équipe dynamique. Vous serez chargé(e) de maintenir la propreté et l'ordre des locaux, tout en veillant à offrir un environnement agréable et accueillant pour tous. Ce poste nécessite une attention particulière aux détails et un sens aigu de l'organisation.
+
+**Activités**
+
+* Appliquer les protocoles d'hygiène et de sécurité dans tout le bâtiment.
+* Assurer l'entretien des locaux (entretien des sols, sanitaires, vitrerie,...).
+* Ranger et entretenir le matériel.
+* Gérer la rotation et le stock des produits d'entretien en collaboration avec les autres agents et la personne responsable du lieu.
+* Trier le linge, organiser son lavage et son séchage.
+* Plier et ranger le linge en réserve.
+* Veiller à la bonne utilisation et à la maintenance du matériel (lave\\-linge, sèche\\-linge),
+* Préparer les repas fournis par le prestataire dans le cadre de la liaison froide (réchauffage, préparation des chariots,...) en appliquant la méthode HACCP.
+* Réceptionner et contrôler l'état et la traçabilité des produits.
+* Effectuer des autocontrôles des actions et des pratiques (relevé de température, pot témoin, planning suivi de nettoyage,...).
+* Veiller à la bonne utilisation, à la maintenance et au réapprovisionnement du matériel de cuisine.
+* Prendre part aux animations réalisées dans la structure (sorties, moments de convivialité, fêtes,...).
+* Participer à l'assemblée générale et occasionnellement aux réunions d'équipe.
+* Encadrer des stagiaires.
+* Remplacer ponctuellement les autres agents sur des horaires différentes (pendant les congés des collègues sur des amplitudes pouvant aller de 7h à 19h).
+
+**Savoirs** (connaissances théoriques, générales ou spécialisées) :
+
+* Connaissance des techniques d'entretien des locaux et du matériel, de la gestion du linge.
+* Connaissance du plan de maîtrise sanitaire de la structure.
+* Connaissance des règles HACCP en collectivité.
+* Connaissance de l'environnement de l'enfant (mise en sécurité).
+
+**Compétences professionnelles** (savoirs techniques et relationnels, résultats de la pratique et de l'expérience) :
+
+* Savoir faire preuve de polyvalence.
+* Etre dynamique, disponible.
+* Savoir travailler en équipe.
+* Etre organisé, rigoureux, appliqué, consciencieux dans son travail.
+* Faire preuve de discrétion professionnelle.
+
+**Moyens mis à disposition :**
+
+* Les fournitures d'entretien.
+* Une blouse.
+
+**Qualifications requises :**
+
+* BEP métiers de l'hygiène, de la propreté et de l'environnement, BEP bio service ou CAP ATMFC recommandé ou équivalent.
+* Formation en entretien et HACCP obligatoire.
+
+**Jours et horaires de travail** : Du lundi au jeudi de 06h30 à 11h30 et le vendredi de 06h30 à 10h30\\. Intervention possible sur d'autres horaires en semaine.
+
+**Obligations** : Les vaccinations doivent être à jour.
+
+**Avantages** : mutuelle d'entreprise, acquisition de 36 CP par an.
+
+Ce poste est à pourvoir à partir du 31/03/2025\\.
+
+CDD d'un an en contrat PEC (être éligible).
+
+Si vous êtes motivé(e) par le travail bien fait et que vous souhaitez contribuer à un environnement propre et agréable, nous serions ravis de vous accueillir dans notre équipe.
+
+Merci d'envoyer vos candidatures à l'adresse mail suivante : marion.monge@maisondether.org
+
+Type d'emploi : Temps partiel, CDD  
+Durée du contrat : 12 mois
+
+Rémunération : à partir de 12,11€ par heure
+
+Nombre d'heures : 24 par semaine
+
+Horaires :
+
+* Du lundi au vendredi
+* Repos le week\\-end
+* Travail en journée
+
+Lieu du poste : En présentiel
+
+Date de début prévue : 31/03/2025",,https://fr.indeed.com/cmp/Ligue-De-L'enseignement-De-L'oise-1,,,,,,
+in-5652f5f5012e0862,indeed,https://fr.indeed.com/viewjob?jk=5652f5f5012e0862,https://www.jobposting.pro/emploi-2071267-109,Ingénieur système H/F,MEDIANE SYSTEME,"Saint-Ouen, A8, FR",2025-02-20,,,,,,,False,,,,,"**Description du poste**
+------------------------
+
+
+Pour l'un de nos clients dans le domaine du ferroviaire nous recherchons un(e) ingénieur(e) système.  
+
+Au sein du département qui est en charge de concevoir, développer et tester ces centres de contrôle pour des nouveaux projets ou pour le remplacement de solutions existantes, nous recherchons un ingénieur système (H/F) qui sera responsable des spécifications fonctionnelles.
+  
+
+  
+
+Vous serez en charge de :  
+
+* Participer à l'analyse opérationnelle et fonctionnelle aboutissant à la rédaction des spécifications.
+* Maîtriser les exigences contractuelles applicables au centre de contrôle.
+* Maîtriser les cas d'usage des fonctions et sous\\-fonctions des centres de contrôle en plaçant l'opération au centre de la conception.
+* Spécifier les fonctions à déployer à partir du produit générique et les fonctions à développer spécifiquement pour un projet.
+* Spécifier les IHM des centres de contrôle.
+* Fournir la traçabilité des spécifications vis\\-à\\-vis des exigences contractuelles.
+* Travailler en étroite coordination avec les différents métiers du département et du produit générique.
+* Appliquer les processus et normes de l'entreprise et contribuer à l'amélioration continue des activités système (Retour d'expérience, Process, ...).
+* Coordonner l'ensemble des activités de spécification d'un projet : contact direct avec le client, pilotage des ressources, mesure de l'avancement et du reste à faire.
+* Intervenir sur les programmes de R\\&D dans une logique d'amélioration continue et d'innovation.
+**Profil recherché**
+--------------------
+
+
+Diplômé(e) d'une école d'ingénieur ou Master 2, vous devez justifier d'une expérience significative sur des projets similaires, autonome, organisé(e) et avec un esprit d'initiative.  
+
+  
+
+Compétences requises :
+  
+
+* Connaissance en Informatique, Électronique, Automatismes, et/ou Network \\& Telecom.
+* Expérience significative dans le domaine de l'ingénierie système (ferroviaire ou autre), notamment dans la rédaction de spécifications fonctionnelles.
+* Connaissance des méthodes de design et de déploiement des systèmes (cycle en V, modèles SysML, traçabilité d'exigences), ainsi que des outils classiquement utilisés pour ces activités (Doors, ...).
+* Notions en systèmes ferroviaires (ATS, enclenchements, ATC) et connaissances des éléments techniques liés à la signalisation ferroviaire moderne (réseaux IP, logiciels embarqués, gestion de bases de données XML/XSD) seraient un plus.
+* Maîtrise courante de l'anglais.
+**A propos de nous**
+--------------------
+
+
+Et si vous embarquiez vers les nouvelles technologies ?  
+
+  
+
+Filiale du groupe industriel ICE, Médiane Système, est une société d'ingénierie innovante spécialisée en électronique, systèmes embarqués et informatique industrielle. Médiane Système a construit son identité sur une expertise technique de haut niveau en proposant à ses clients, des prestations d'accompagnement au travers de ses Départements R\\&D (DRD) et ConSulting (DCS).  
+
+  
+
+Présente en France (région Parisienne, Rhône\\-Alpes, Midi\\-Pyrénées, PACA, Grand Ouest), en Belgique et en Italie, Médiane Système est partenaire de grands comptes industriels et de nombreuses PME. Du secteur automobile au médical, en passant par l'énergie, le ferroviaire, l'aéronautique ou bien les télécoms. Médiane Système intervient exclusivement sur les métiers de l'ingénierie système (logiciel embarqué, logiciel applicatif pour l'industrie, électronique numérique et analogique, banc de tests) dans des environnements technologiques de pointe.  
+
+  
+
+Créée par des ingénieurs, Médiane Système, est une entreprise technique à taille humaine, proche de ses collaborateurs, qui privilégie depuis plus de 30 ans, le développement des compétences et l'épanouissement de ses salariés.
+
+
+  
+
+BAC \\+4/5
+  
+
+5 ans minimum",Computers And Electronics,https://fr.indeed.com/cmp/Mediane-Systeme,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/3a7ce1e2822d533565da050a0a8c0428,https://medianesysteme.com/,"54 route de Sartrouville
+78230 Le Pecq ",201 to 500,$25M to $100M (USD),"Médiane Système est un société familiale à taille humaine, qui s'appuie sur quatre valeurs : Confiance. Respect. Ecoute. Engagement."
+in-722591648cad91ed,indeed,https://fr.indeed.com/viewjob?jk=722591648cad91ed,https://www.jobposting.pro/emploi-2071259-109,Ingénieur logiciel embarqué H/F,MEDIANE SYSTEME,"Massy, A8, FR",2025-02-20,,,,,,,False,,,,,"**Description du poste**
+------------------------
+
+
+Pour l'un de nos clients dans le secteur de l'industrie, sous la responsabilité du Responsable du service Logiciel Embarqué, vous serez Intégré(e) à l'équipe organisée en méthode agile et supervisée par un chef de projet.  
+
+  
+
+Vous serez ainsi amené(e) à :  
+
+* Participer aux réunions techniques
+* Participer au développement de nouveaux logiciels sous microcontrôleurs
+* Participer à la documentation : spécification, conception détaillée
+* Participer à l'intégration et aux tests de nouvelles fonctionnalités répondant aux contraintes systèmes et normatives.
+* Réaliser la documentation associée aux évolutions logicielles
+* Assurer la maintenance corrective et évolutive des logiciels
+* Assurer la gestion des livrables et de leurs qualités
+* Rendre compte de l'avancement et des perturbations
+**Profil recherché**
+--------------------
+
+
+Diplômé(e) d'une école d'ingénieur ou Master 2, vous devez justifier d'une expérience d'au moins 3 ans dans la validation produit ou composant, autonome, organisé(e) et avec un esprit d'initiative.  
+
+  
+
+Connaissances techniques :  
+
+* Ingénieur logiciel temps réel informatique industrielle / embarqué avec expérience significative en développement applicatif embarqué
+* Très bonne maîtrise du langage C avec respect de norme de codage et des contraintes du développement embarqué (programmation temps réel, multitâches et sur microcontrôleur)
+* Dynamique, proactif, bon relationnel et esprit d'équipe
+* Bonne capacité de modélisation et de rédaction de spécifications, conceptions et de tests
+* Capacité et esprit d'automatisation de tâches par scripts
+* Anglais (lu et écrit, oral)
+
+
+  
+
+Environnement :  
+
+* Langage C, C\\+\\+, Bash, Python.
+* Temps réel embarqué sur Cortex M3 ou ARM9
+* Architectures multitâches sur OS temps réel (Free RTOS) et Linux/Qt
+* Liaisons / réseaux RS232, RS485, Ethernet, TCP / IP, CAN
+* Socket, Sqlite
+* SVN, GIT, Redmine, TBreq (Requirement Traceability), Enterprise Architect (UML)
+**A propos de nous**
+--------------------
+
+
+Et si vous embarquiez vers les nouvelles technologies ?  
+
+  
+
+Filiale du groupe industriel ICE, Médiane Système, est une société d'ingénierie innovante spécialisée en électronique, systèmes embarqués et informatique industrielle. Médiane Système a construit son identité sur une expertise technique de haut niveau en proposant à ses clients, des prestations d'accompagnement au travers de ses départements R\\&D (DRD) et ConSulting (DCS).  
+
+  
+
+Présente en France (région Parisienne, Rhône\\-Alpes, Midi\\-Pyrénées, PACA) et en Belgique, Médiane Système est partenaire de grands comptes industriels et de nombreuses PME. Du secteur automobile au médical, en passant par l'énergie, le ferroviaire, l'aéronautique ou bien les télécoms. Médiane Système intervient exclusivement sur les métiers de l'ingénierie système (logiciel embarqué, logiciel applicatif pour l'industrie, électronique numérique et analogique, banc de tests) dans des environnements technologiques de pointe.  
+
+  
+
+Créée par des ingénieurs, Médiane Système, est une entreprise technique à taille humaine, proche de ses collaborateurs, qui privilégie depuis plus de 30 ans, le développement des compétences et l'épanouissement de ses salariés.
+
+
+  
+
+BAC \\+4/5
+  
+
+1 an minimum",Computers And Electronics,https://fr.indeed.com/cmp/Mediane-Systeme,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/3a7ce1e2822d533565da050a0a8c0428,https://medianesysteme.com/,"54 route de Sartrouville
+78230 Le Pecq ",201 to 500,$25M to $100M (USD),"Médiane Système est un société familiale à taille humaine, qui s'appuie sur quatre valeurs : Confiance. Respect. Ecoute. Engagement."

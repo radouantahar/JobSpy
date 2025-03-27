@@ -1,0 +1,105 @@
+[
+    {
+      "ville": "Reims",
+      "temps_trajet": "10 min",
+      "modes": ["Voiture"],
+      "destination": "Paris Gare de l'Est"
+    },
+    {
+      "ville": "Châlons-en-Champagne",
+      "temps_trajet": "50 min",
+      "modes": ["Train TER"],
+      "destination": "Paris Gare de l'Est"
+    },
+    {
+      "ville": "Épernay",
+      "temps_trajet": "50 min",
+      "modes": ["Train TER"],
+      "destination": "Paris Gare de l'Est"
+    },
+    {
+      "ville": "Troyes",
+      "temps_trajet": "1h10",
+      "modes": ["Train TER"],
+      "destination": "Paris Gare de l'Est"
+    },
+    {
+      "ville": "Laon",
+      "temps_trajet": "1h15",
+      "modes": ["Train TER"],
+      "destination": "Paris Gare de l'Est"
+    },
+    {
+      "ville": "Soissons",
+      "temps_trajet": "1h25",
+      "modes": ["Train TER"],
+      "destination": "Paris Gare de l'Est"
+    },
+    {
+      "ville": "Tinqueux",
+      "temps_trajet": "15 min",
+      "modes": ["Voiture"],
+      "distance_km": "10"
+    },
+    {
+      "ville": "Bezannes",
+      "temps_trajet": "15 min",
+      "modes": ["Voiture"],
+      "distance_km": "10"
+    },
+    {
+      "ville": "Cernay-lès-Reims",
+      "temps_trajet": "20 min",
+      "modes": ["Voiture"],
+      "distance_km": "15"
+    },
+    {
+      "ville": "Verzy",
+      "temps_trajet": "25 min",
+      "modes": ["Voiture"],
+      "distance_km": "20"
+    },
+    {
+      "ville": "Muizon",
+      "temps_trajet": "25 min",
+      "modes": ["Voiture"],
+      "distance_km": "20"
+    },
+    {
+      "ville": "Courcy",
+      "temps_trajet": "30 min",
+      "modes": ["Voiture"],
+      "distance_km": "25"
+    },
+    {
+      "ville": "Rilly-la-Montagne",
+      "temps_trajet": "30 min",
+      "modes": ["Voiture"],
+      "distance_km": "25"
+    },
+    {
+      "ville": "Cormontreuil",
+      "temps_trajet": "10 min",
+      "modes": ["Voiture"],
+      "distance_km": "5"
+    },
+    {
+      "ville": "Sillery",
+      "temps_trajet": "20 min",
+      "modes": ["Voiture"],
+      "distance_km": "15"
+    },
+    {
+      "ville": "Ludes",
+      "temps_trajet": "30 min",
+      "modes": ["Voiture"],
+      "distance_km": "25"
+    },
+    {
+      "ville": "Gueux",
+      "temps_trajet": "5 min",
+      "modes": ["Voiture"],
+      "distance_km": "25"
+    }
+  ]
+  

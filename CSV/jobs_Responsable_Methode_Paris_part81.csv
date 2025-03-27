@@ -1,0 +1,359 @@
+id,site,job_url,job_url_direct,title,company,location,date_posted,job_type,salary_source,interval,min_amount,max_amount,currency,is_remote,job_level,job_function,listing_type,emails,description,company_industry,company_url,company_logo,company_url_direct,company_addresses,company_num_employees,company_revenue,company_description
+in-7bb7c3abc576d99d,indeed,https://fr.indeed.com/viewjob?jk=7bb7c3abc576d99d,https://jobs.eiffage.com//chargee-de-commissioning-fh-52-jr2025-777,Chargé(e) de commissioning F/H,Eiffage Énergie Systèmes,"Vélizy-Villacoublay, A8, FR",2025-02-19,fulltime,,,,,,False,,,,,"**Vos missions**
+----------------
+
+
+Au sein de la Direction Régionale Eiffage Energie Systèmes Thermie et Services Ile\\-de\\-France, vous intégrez la Direction Technique Méthodes Ingénierie et Innovation de l’entreprise spécialisée en Chauffage / Ventilation / Climatisation / Désenfumage / Plomberie / Maintenance Multi\\-technique (CA Travaux : 120M€, CA Maintenance : 120M€).
+
+
+Rattaché au Responsable de la Cellule Commissioning, ce poste a pour vocation de participer à la structuration de la mise en service d'installations HVAC, en milieux sensibles (Data Center, process industriel, site audiovisuel, hôpitaux, etc.). :
+
+
+Les missions confiées évoluent en fonction des différentes phases de tests de L1 à L4 :
+
+* L1 : Réalisation ou analyse du programme Cx du client
+* L2 : Réalisation des protocoles de test.
+* L3 :Réalisation des protocoles de test.
+* L4 : Assistance du Commissionning Manager CVC dans l'élaboration des scripts.
+
+**Votre profil**
+----------------
+
+
+Titulaire d’un BAC\\+2 à BAC\\+5, vous disposez de plusieurs années d'expérience dans le domaine de l'automatisme et le fonctionnement de projets CVCD complexes.
+
+
+Vous maitrisez les outils digitaux Office 365, ainsi que différents logiciels et applications techniques indispensables au métier.
+
+
+Vous maîtrisez l'anglais technique.
+
+
+Votre relationnel et votre dynamisme sont des atouts pour la prise de votre poste, et votre intégration dans votre nouvel environnement.
+
+
+**À propos de nous**
+
+
+Eiffage Énergie Systèmes conçoit, réalise, exploite et maintient des systèmes et équipements en génies électrique, industriel, climatique et énergétique dans le respect des Hommes et de l'environnement.  
+
+Eiffage Énergie Systèmes propose une offre sur mesure pour les marchés de l’industrie, des infrastructures et réseaux, des villes et collectivités et du tertiaire.  
+
+  
+
+Eiffage Énergie Systèmes, présente dans près de 50 pays, s’appuie sur l’expérience de plus de 33 000 collaborateurs et a réalisé un chiffre d’affaires de 5,9 milliards d’euros en 2023\\. Eiffage Énergie Systèmes anticipe les évolutions de ses clients en proposant des solutions innovantes et les accompagne dans leurs transitions numérique et bas carbone.  
+
+  
+
+Intégrer Eiffage Énergie Systèmes, c’est rejoindre une entreprise dynamique qui encourage l’initiative, valorise le potentiel créatif, développe les compétences de chacun et s’engage au quotidien en matière de responsabilité sociétale et environnementale.  
+
+  
+
+Être collaborateur d’Eiffage Énergie Systèmes, c’est vivre et faire vivre nos valeurs communes et une culture d’entreprise forte au sein d’un groupe dont plus de 80% des salariés sont actionnaires.  
+
+  
+
+Envie de rejoindre une grande entreprise qui a tous les atouts d’une petite, un Groupe à l’esprit de famille unique.
+
+
+\\#EspritDeFamille \\#Together \\#TousDifférents \\#BasCarbone
+
+
+
+') .replace(/
+\\<\\\\/p\\>/g, '
+
+
+'); if (originalHTML \\=\\=\\= modifiedHTML) { return; } isMutating \\= true; observer.disconnect(); paragraphElement.innerHTML \\= modifiedHTML; const emptyParagraphs \\= paragraphElement.querySelectorAll('p'); emptyParagraphs.forEach(p \\=\\> { if (p.textContent.trim() \\=\\=\\= '') { const emptySpaceDiv \\= document.createElement('div'); emptySpaceDiv.className \\= 'empty\\-space'; p.replaceWith(emptySpaceDiv); } }); isMutating \\= false; observer.observe(paragraphElement, { childList: true, subtree: true }); }, 100\\); }; const observer \\= new MutationObserver(() \\=\\> { if (!isMutating) { cleanAndReplaceEmptyParagraphs(); } }); observer.observe(paragraphElement, { childList: true, subtree: true, }); cleanAndReplaceEmptyParagraphs(); } });
+### **Partager**
+
+
+* Partager sur Facebook
+* Partager sur Linkedin
+* Partager sur Twitter
+* Partager par email
+Vos bénéfices
+* Un environnement de travail bienveillant.
+* Des parcours de carrières stimulants et diversifiés.
+* Une culture d'entrepreneur, au plus proche des territoires.
+* La possibilité de contribuer concrètement à la transition écologique et énergétique.
+* Un Groupe riche de diversités qui donne sa chance à chacun.
+* Chaque collaborateur a la capacité de s'impliquer dans l'actionnariat du Groupe.
+* Un grand groupe à taille humaine.
+Liens utiles
+* Notre processus de recrutement
+* L'université Eiffage
+* Engagements environnementaux",,https://fr.indeed.com/cmp/Eiffage-%C3%89nergie-Syst%C3%A8mes-6,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/c03a200e44d39f78b6f13d4b12f73bda,https://www.eiffageenergiesystemes.com/home,Vélizy-Villacoublay,"10,000+",$5B to $10B (USD),"Eiffage Énergie Systèmes, présente dans 50 pays, conçoit, réalise et maintient des systèmes en génies électrique, industriel et énergétique. Rejoignez une entreprise dynamique, tournée vers l'avenir !"
+in-61f513ccf8d1d953,indeed,https://fr.indeed.com/viewjob?jk=61f513ccf8d1d953,https://jobs.eiffage.com//stage---assistant-ingenieur-methodes-fh---projet-ligne-15-est-50-jr2025-776,STAGE - Assistant Ingénieur Méthodes F/H - Projet Ligne 15 Est,Eiffage,"Champigny-sur-Marne, A8, FR",2025-02-19,fulltime,,,,,,False,,,,,"**Vos missions**
+----------------
+
+
+*Pour faciliter la lecture, l’écriture inclusive n’est pas utilisée dans le corps de cette annonce, les termes employés au masculin se réfèrent aussi bien aux femmes et aux hommes.*
+
+
+A travers ses projets, Eiffage a une ambition forte : contribuer activement à bâtir un monde plus sobre et plus durable. Cet engagement en matière de responsabilité sociétale et environnementale se matérialise par une stratégie bas carbone ambitieuse qui vise à accélérer la transition écologique, présente dans nos différents projets.
+
+
+La réalisation de ces projets passe par le partage de valeurs communes : Responsabilité, Exemplarité, Confiance, Transparence, Lucidité, Courage et pugnacité.
+
+
+Projets importants que vous connaissez peut\\-être déjà : le viaduc de Millau, les lignes de métros et gares du Grand Paris, la fondation Louis Vuitton, et le tramway de Bordeaux, entre autres.
+
+**VOTRE FUTUR ENVIRONNEMENT**
+
+
+La **direction opérationnelle Grands Projets Souterrains** composée de 700 collaborateurs est en charge de la maîtrise des risques spécifiques liés à ce type d’opérations et adaptent leurs méthodes aux environnements rencontrés qu’ils soient urbanisés ou en sites naturels.
+
+**Le projet :** La ligne 15 Est du Grand Paris Express couvre la section entre les gares Bobigny \\- Pablo Picasso et Champigny Centre.
+
+
+Les travaux incluent le creusement de 17 kilomètres de tunnel, la construction de 15 ouvrages de service et 2 ouvrages d'entonnement.
+
+**VOTRE MISSION**
+
+Rattaché à la Directrice Travaux vous aurez pour missions :
+
+
+1\\. Suivre les études d'éxécution sur les ouvrages annexes
+
+
+2\\. Etablir les méthodes Génie Civil : plans des méthodes nécessaires aux travaux (Phasage travaux GC à la remontée, Modes opératoires, …)
+
+
+3\\. Etablir les méthodes de Creusement Traditionnel : plans des méthodes nécessaires aux travaux (Phasage travaux de creusement, Modes opératoires bétonnage rameaux, …)
+
+
+**Votre profil**
+----------------
+
+
+**CE QUE NOUS RECHERCHONS ?**
+
+
+Vous êtes en 4ème année d'Ecole d’Ingénieur / Master avec une spécialisation en génie civil ou travaux publics.
+
+
+Vous avez des connaissances en Autocad, Excel, Revit.
+
+
+Dynamique, organisé et rigoureux, votre adaptabilité vous permettra de mener à bien vos missions et de vous familiariser avec notre activité.
+
+**CE QUE NOUS POUVONS VOUS PROPOSER ?**
+
+
+Stage basé à Champigny\\-sur\\-Marne (94\\)
+
+
+Stage rémunéré
+
+
+Remboursement du transport à 100%
+
+
+Date de début envisagée : Avril 2025
+
+
+Durée : 4 à 6 mois
+
+**NOTRE PROCESSUS DE RECRUTEMENT**
+
+
+A minima : 3 entretiens
+
+
+Un entretien téléphonique RH d’une quinzaine de minutes
+
+
+Un entretien RH
+
+
+Un entretien avec le responsable, et possiblement avec le directeur de projet
+
+*Egalité professionnelle, diversité et inclusion : nous accueillons et valorisons vos talents.*
+
+
+\\#Espritdefamille
+
+
+Rejoignez\\-nous !
+
+
+**À propos de nous**
+
+
+Eiffage Génie Civil est présent dans l’ensemble des spécialités du génie civil. Ses équipes interviennent depuis la conception jusqu’à la construction, mais aussi en réparation et en maintenance, et en démolition, sur de nombreux ouvrages en France et à l’international.
+
+
+
+') .replace(/
+\\<\\\\/p\\>/g, '
+
+
+'); if (originalHTML \\=\\=\\= modifiedHTML) { return; } isMutating \\= true; observer.disconnect(); paragraphElement.innerHTML \\= modifiedHTML; const emptyParagraphs \\= paragraphElement.querySelectorAll('p'); emptyParagraphs.forEach(p \\=\\> { if (p.textContent.trim() \\=\\=\\= '') { const emptySpaceDiv \\= document.createElement('div'); emptySpaceDiv.className \\= 'empty\\-space'; p.replaceWith(emptySpaceDiv); } }); isMutating \\= false; observer.observe(paragraphElement, { childList: true, subtree: true }); }, 100\\); }; const observer \\= new MutationObserver(() \\=\\> { if (!isMutating) { cleanAndReplaceEmptyParagraphs(); } }); observer.observe(paragraphElement, { childList: true, subtree: true, }); cleanAndReplaceEmptyParagraphs(); } });
+### **Partager**
+
+
+* Partager sur Facebook
+* Partager sur Linkedin
+* Partager sur Twitter
+* Partager par email
+Vos bénéfices
+* Un environnement de travail bienveillant.
+* Des parcours de carrières stimulants et diversifiés.
+* Une culture d'entrepreneur, au plus proche des territoires.
+* La possibilité de contribuer concrètement à la transition écologique et énergétique.
+* Un Groupe riche de diversités qui donne sa chance à chacun.
+* Chaque collaborateur a la capacité de s'impliquer dans l'actionnariat du Groupe.
+* Un grand groupe à taille humaine.
+Liens utiles
+* Notre processus de recrutement
+* L'université Eiffage
+* Engagements environnementaux",Construction,https://fr.indeed.com/cmp/Eiffage,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/9ec2a154ba12c393a1eb528f440d900b,http://www.eiffage.com/home.html,"3-7 Place de l’Europe, 78140 Vélizy-Villacoublay, France","10,000+",more than $10B (USD),
+in-4fb38f5a450195ca,indeed,https://fr.indeed.com/viewjob?jk=4fb38f5a450195ca,https://jobs.eiffage.com//responsable-commissioning-hvac-fh-95-jr2025-775,Responsable commissioning HVAC F/H,Eiffage Énergie Systèmes,"Vélizy-Villacoublay, A8, FR",2025-02-19,fulltime,,,,,,False,,,,,"**Vos missions**
+----------------
+
+
+Au sein de la Direction Régionale Eiffage Energie Systèmes Thermie et Services Ile\\-de\\-France, vous intégrez la Direction Technique Méthodes Ingénierie et Innovation de l’entreprise spécialisée en Chauffage / Ventilation / Climatisation / Désenfumage / Plomberie / Maintenance Multi\\-technique (CA Travaux : 120M€, CA Maintenance : 120M€).
+
+
+Rattaché au Responsable de la Cellule Commissioning, ce poste a pour vocation de piloter la mise en service d'installations HVAC, en milieux sensibles (Data Center, process industriel, site audiovisuel, hôpitaux, etc.). :
+
+
+Les missions confiées évoluent en fonction des différentes phases de tests de L1 à L5 :
+
+* L1 : Réalisation des fiches essais, des éléments à mesurer et des procédures avec les fournisseurs et vérification des protocoles de test.
+* L2 : Vérification des protocoles de test.
+* L3 : Coordination des essais constructeurs et des essais statiques, tests des différentes analyses fonctionnelles, rédaction des modes opératoires.
+* L4 : Rédaction des cahiers d'essais pour les tests en charge, coordination des essais dynamiques, suivi et assistance des opérationnels.
+* L5 : Participation et accompagnement des Commissionning Managers lors de cette phase
+
+**Votre profil**
+----------------
+
+
+Titulaire d’un BAC\\+2 à BAC\\+5, vous disposez de plusieurs années d'expérience dans le domaine de l'automatisme et le fonctionnement de projets CVCD complexes.
+
+
+Vous maitrisez les différents Tier (Uptime Institute).
+
+
+Vous maitrisez les outils digitaux Office 365, ainsi que différents logiciels et applications techniques indispensables au métier.
+
+
+Vous maîtrisez l'anglais qui est indispensable face à nos clients anglo\\-saxons.
+
+
+Votre relationnel et votre dynamisme sont des atouts pour la prise de votre poste, et votre intégration dans votre nouvel environnement.
+
+
+**À propos de nous**
+
+
+Eiffage Énergie Systèmes conçoit, réalise, exploite et maintient des systèmes et équipements en génies électrique, industriel, climatique et énergétique dans le respect des Hommes et de l'environnement.  
+
+Eiffage Énergie Systèmes propose une offre sur mesure pour les marchés de l’industrie, des infrastructures et réseaux, des villes et collectivités et du tertiaire.  
+
+  
+
+Eiffage Énergie Systèmes, présente dans près de 50 pays, s’appuie sur l’expérience de plus de 33 000 collaborateurs et a réalisé un chiffre d’affaires de 5,9 milliards d’euros en 2023\\. Eiffage Énergie Systèmes anticipe les évolutions de ses clients en proposant des solutions innovantes et les accompagne dans leurs transitions numérique et bas carbone.  
+
+  
+
+Intégrer Eiffage Énergie Systèmes, c’est rejoindre une entreprise dynamique qui encourage l’initiative, valorise le potentiel créatif, développe les compétences de chacun et s’engage au quotidien en matière de responsabilité sociétale et environnementale.  
+
+  
+
+Être collaborateur d’Eiffage Énergie Systèmes, c’est vivre et faire vivre nos valeurs communes et une culture d’entreprise forte au sein d’un groupe dont plus de 80% des salariés sont actionnaires.  
+
+  
+
+Envie de rejoindre une grande entreprise qui a tous les atouts d’une petite, un Groupe à l’esprit de famille unique.
+
+
+\\#EspritDeFamille \\#Together \\#TousDifférents \\#BasCarbone
+
+
+
+') .replace(/
+\\<\\\\/p\\>/g, '
+
+
+'); if (originalHTML \\=\\=\\= modifiedHTML) { return; } isMutating \\= true; observer.disconnect(); paragraphElement.innerHTML \\= modifiedHTML; const emptyParagraphs \\= paragraphElement.querySelectorAll('p'); emptyParagraphs.forEach(p \\=\\> { if (p.textContent.trim() \\=\\=\\= '') { const emptySpaceDiv \\= document.createElement('div'); emptySpaceDiv.className \\= 'empty\\-space'; p.replaceWith(emptySpaceDiv); } }); isMutating \\= false; observer.observe(paragraphElement, { childList: true, subtree: true }); }, 100\\); }; const observer \\= new MutationObserver(() \\=\\> { if (!isMutating) { cleanAndReplaceEmptyParagraphs(); } }); observer.observe(paragraphElement, { childList: true, subtree: true, }); cleanAndReplaceEmptyParagraphs(); } });
+### **Partager**
+
+
+* Partager sur Facebook
+* Partager sur Linkedin
+* Partager sur Twitter
+* Partager par email
+Vos bénéfices
+* Un environnement de travail bienveillant.
+* Des parcours de carrières stimulants et diversifiés.
+* Une culture d'entrepreneur, au plus proche des territoires.
+* La possibilité de contribuer concrètement à la transition écologique et énergétique.
+* Un Groupe riche de diversités qui donne sa chance à chacun.
+* Chaque collaborateur a la capacité de s'impliquer dans l'actionnariat du Groupe.
+* Un grand groupe à taille humaine.
+Liens utiles
+* Notre processus de recrutement
+* L'université Eiffage
+* Engagements environnementaux",,https://fr.indeed.com/cmp/Eiffage-%C3%89nergie-Syst%C3%A8mes-6,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/c03a200e44d39f78b6f13d4b12f73bda,https://www.eiffageenergiesystemes.com/home,Vélizy-Villacoublay,"10,000+",$5B to $10B (USD),"Eiffage Énergie Systèmes, présente dans 50 pays, conçoit, réalise et maintient des systèmes en génies électrique, industriel et énergétique. Rejoignez une entreprise dynamique, tournée vers l'avenir !"
+in-849b44e147989ce1,indeed,https://fr.indeed.com/viewjob?jk=849b44e147989ce1,https://recrutement.centre-valdeloire.fr/4019/4/charge-e-ressources-humaines-secteur-de-l-eure-et-loir-h-f?src=Indeed,Chargé.e Ressources Humaines (secteur de l'Eure-et-Loir) (H/F),Région Centre-Val de Loire,"Chartres, CVL, FR",2025-02-18,,,,,,,False,,,,,"Sur ce poste basé à Chartres, votre quotidien sera rythmé par les activités suivantes :
+
+
+Conseiller et accompagner les équipes de direction (Proviseur et Secrétaire général), les responsables d’équipe et agents des lycées notamment dans le recrutement, la formation et l’organisation optimale des ressources humaines des lycées du secteur.
+
+**1/\\- Conseiller et accompagner (70 %)**
+
+* Recruter et intégrer les agents quel que soit leur statut
+* Accompagner les agents à titre individuel et collectif : relations interpersonnelles, gestion des conflits, suivi des conditions de travail (problématiques de santé), projet professionnel
+* Conseiller et accompagner les équipes de directions, agents des lycées, responsables d’équipes, sur l’organisation, les métiers et les compétences des agents, les pratiques managériales, la qualité de vie au travail, etc.
+* Suivre et piloter les actes administratifs en lien avec l’assistante RH: transmettre les éléments nécessaires à la rédaction des contrats de travail de droit public et faire le lien avec les gestionnaires carrière rémunération et les gestionnaires santé pour le suivi du dossier de l’agent,
+* Gérer les contrats à durée déterminée (CDD, interim et associations d’insertion) : suivre l’enveloppe financière allouée, gérer le vivier de candidatures, évaluer les compétences
+* Analyser les besoins et mettre en adéquation les profils de compétences dans une démarche d’évolution des métiers : anticiper les compétences dont la collectivité aura besoin, favoriser la mobilité interne, etc.
+* Gérer le dispositif Parcours Emplois Compétences (PEC) : recruter et accompagner les agents dans la réalisation de leur projet professionnel
+
+**2/\\- Porter et déployer la stratégie RH (30 %)**
+
+* Participer à la définition de la stratégie RH
+* Mettre en place et suivre des projets RH (nouveaux outils/logiciels RH, politique RH)
+* Appréhender et décliner sur son secteur les décisions de la collectivité
+* Assurer un rôle d’interface entre la collectivité et les équipes de direction des lycées
+* Déployer la politique RH de la collectivité auprès des équipes de direction des lycées
+
+ **Dans le cadre de vos activités vous déploierez et développerez les compétences suivantes :**
+
+* Connaître les règles et principes du statut de la fonction publique territoriale
+* Maîtriser les méthodes de pilotage et d’animation, savoir accompagner le changement
+* Savoir piloter un projet
+* Maîtriser les techniques d’entretien
+* Avoir des qualités d’analyse et de synthèse pour aider à la décision
+* Prendre du recul dans l’analyse des situations, des problèmes
+* Être force de proposition, avoir une capacité d’analyse prospective
+* Savoir s’organiser et faire preuve d’autonomie
+* Faire preuve de diplomatie et d’écoute, être capable de négocier
+* S’intégrer dans le collectif afin de favoriser la transversalité et la coopération des services",,https://fr.indeed.com/cmp/R%C3%A9gion-Centre--val-De-Loire,,,,,,
+in-374977c84e000112,indeed,https://fr.indeed.com/viewjob?jk=374977c84e000112,https://editis.gestmax.fr/14668/6/chef-de-marche-poche-merchandising-h-f?src=Indeed,CHEF DE MARCHE POCHE / MERCHANDISING (H/F),INTERFORUM,"Paris, A8, FR",2025-02-12,,,,,,,False,,,,,"Rattaché(e) au Responsable du Développement Marketing\\-Merchandising Diffusion, vous contribuez à développer les ventes et à enrichir la stratégie marketing et commerciale des éditeurs groupe et partenaires. Vous serez tout particulièrement en charge du segment littérature Poche et du merchandising.  
+
+**Missions**  
+
+§Vous apportez aux éditeurs et à la Direction Générale, dans le cadre de plans d’actions et/ou de développement marketing et commercial, votre expertise marché et élaborez des recommandations à partir de la réalisation d’études et analyses ad\\-hoc ;
+§Vous réalisez des préconisations et argumentations pour optimiser et développer le référencement des ouvrages et allez vendre ces dossiers auprès des équipes commerciales et des Centrales d’achat ;  
+
+§Parallèlement, vous développez la fonction Marketing Clients/Merchandising :
+§En élaborant de nouvelles démarches d’animation et organisation des rayons et en maintenant celles en cours (et en assurant un suivi des dossiers en cours) ;
+§En assurant la coordination des actions qui en découlent (conception de matériel de merchandising, argumentaires sur les démarches …) avec les différents interlocuteurs concernés (éditeurs, équipes commerciales, clients libraires et enseignes) ;
+§En réalisant les dossiers clients de merchandising (dossiers enseignes, recommandations implantations points de ventes, zone de chalandises clients).  
+
+Ce poste nécessite de nombreux échanges internes avec les différents services de la diffusion et en externe avec les éditeurs, les centrales d’achat, les groupements de librairies…  
+
+§De formation supérieure (bac \\+4/5\\), vous avez au minimum 3 années d’expérience réussie en marketing, en commercial et/ou librairie, vous ayant permis d’acquérir une connaissance du terrain, des méthodes d’analyse marketing (panels, web marketing ...).
+§Vous êtes rigoureux(se) dans la gestion de bases de données et faites preuve d’organisation, d’esprit de synthèse et de réactivité.
+§Vous avez le goût du travail en équipe et maîtrisez les outils informatiques (Word, Excel, PowerPoint).
+§Vous avez une affinité avec le livre, notamment sur les segments dédiés.
+§Votre sens du client, du commerce et de la communication seront des atouts pour réussir dans ce poste.  
+
+**Rémunération**  
+
+§Rémunération fixe sur 13 mois entre 38 k€ et 40 k€ selon profil et expérience
+§Rémunération variable : prime sur objectif de 2 K€ à 100% des objectifs atteints ***Ce poste en CDI est à pouvoir en date du 1er juin 2025*** *Editis est engagé pour l’emploi des personnes en situation de handicap*",,https://fr.indeed.com/cmp/Interforum,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/c8171be0acf534376b312a2c292fd20e,https://www.interforum.fr,"Ivry Sur Seine, FR","1,001 to 5,000",$500M to $1B (USD),

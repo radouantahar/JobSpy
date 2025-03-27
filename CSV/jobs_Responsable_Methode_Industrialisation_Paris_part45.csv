@@ -1,0 +1,390 @@
+id,site,job_url,job_url_direct,title,company,location,date_posted,job_type,salary_source,interval,min_amount,max_amount,currency,is_remote,job_level,job_function,listing_type,emails,description,company_industry,company_url,company_logo,company_url_direct,company_addresses,company_num_employees,company_revenue,company_description
+in-a251160cbb44c7b7,indeed,https://fr.indeed.com/viewjob?jk=a251160cbb44c7b7,https://eyglobal.yello.co//jobs/otSWmkR44CYiUU4Fcxr08w?job_board_id=c1riT--B2O-KySgYWsZO1Q&locale=fr,Consultant junior en modélisation des risques climatiques et environnementales - Secteur financier H,EY,"La Défense, A8, FR",2024-09-26,,,,,,,False,,,,,"**L’opportunité :**
+
+Au sein du département FSO (Financial Services Office), plus de 1 200 collaborateurs en France combinent leurs expertises métiers et fonctionnelles afin de répondre efficacement aux besoins de nos clients en banque, assurance ou gestion d’actifs.
+
+
+
+
+Le secteur financier européen et mondial connaît des profonds changements à travers notamment la nécessité de mobiliser des financements considérables pour la finance durable mais aussi la nécessaire adaptation des modèles d’activité et des chaines de valeurs au sein des institutions financières (banque, assurance et asset management). Par ailleurs, l’émergence de multiples réglementations liées à ces enjeux pousse l’ensemble du secteur à s’adapter et à se mettre progressivement en conformité.  
+
+
+
+  
+
+Dans ce contexte, nos équipes de Conseil Financial Services accompagnent les institutions financières à mettre en œuvre leurs nouvelles initiatives stratégiques afin de soutenir la transition écologique et à mener des transformations significatives au niveau organisationnel, méthodologique et opérationnel. Pour soutenir la croissance de nos activités, nous cherchons à recruter des Consultants Juniors souhaitant s’engager à travailler la conception et la mise en œuvre de modèles de quantification des risques climatiques et environnementales.
+
+
+
+
+**Vos missions :**
+
+
+
+
+Au sein des équipes « Finance durable et Risques ESG » d’EY France, votre rôle sera d’aider nos clients du secteur financier sur une large palette de missions dont :
+
+
+
+
+Conception et opérationnalisation de modèles d’évaluation des risques de transition
+
+
+* Conception d’indicateur de maturité climatique basée une démarche de score multicritère de pression réglementaire, d’émission carbone et d’impact financier
+* Conception de score de transition s’appuyant sur les scénarios de transition du NGFS pour évaluer la déformation états financiers des entreprises et la trajectoire financière d’un secteur ou d’une entreprise
+
+Conception et opérationnalisation de modèles d’évaluation des risques physique
+
+
+* Cartographie des données internes (données portefeuilles, localisation des actifs et infrastructures des contreparties) et externes (DRIAS, Copernicus, météo France, données topographiques…)
+* Revue et analyse des différents scénarios climatiques (GIEC..) et prise en compte des de la déformation des indicateurs climatiques sur plusieurs aléas et diverses horizons
+* Modélisation de l’exposition aux aléas et de la vulnérabilité de l’actif aux aléas (chaine de valeur)
+* Développement et industrialisation d’un outil de score / Calibration des scores à différents niveaux de granularité (score de l’exposition aux aléas, score de vulnérabilité aux aléas, score agrégé…)
+* Restitution des scores et création de différents tableaux bord pour les métiers et la gestion des risques climatiques (concentration sectorielle/géographique…) et de la matérialité du risque physique
+* Opérationnalisation de la méthodologie à travers des itérations métiers et des tests sur des cas concrets et accompagnement et retour d’expérience sur les cas clients
+
+
+
+
+Conception et opérationnalisation de modèle de risques liés à la biodiversité
+
+* Développement d’un modèle de score de dépendance des portefeuilles visant à évaluer la dépendance à un ou plusieurs services écosystémiques fournis par la nature pour leur propre activité économique
+* Développement d’approche visant à calculer l’empreinte de biodiversité en vue d’identifier et de quantifier les impacts négatifs potentiels sur la biodiversité exercés par des sociétés présentes dans les portefeuilles
+
+
+
+
+Conception de cadre et de méthodologies de stress tests internes climatiques
+
+* Définition du cadre cible et des scénarios de référence (NGFS,GIEC,IAE) en fonction des différents cas d’usage (alignement, planification financière, ICAAP…)
+* Synthèse des canaux de transmissions climatiques matériels et mise en perspective des principales vulnérabilités à déformer dans les différents portefeuilles
+* Scénarisation des vulnérabilités liées aux risques de transition ou de risques physiques sur les paramètres de risques classiques via des effets macro\\-économiques, de transition…
+* Modélisation des impacts sur multi\\-horizons sur des divers indicateurs de risques, indicateurs P\\&L et divers ratios de solvabilité et de liquidité
+* Développement d’outil de simulation des impacts financiers des risques climatiques et intégration à la gestion pour la prise de décision
+
+Intégration des effets des modèles climatiques aux différents modèles de risque (PD, LGD, VaR…) et adaptation de modèles de capital économique via des add\\-on ou l’adaptation de modèles de risque Pilier 2
+
+
+
+
+Conception et opérationnalisation de score ESG
+
+
+* Analyse sectorielle et fondamentale des principaux enjeux ESG d’un secteur
+* Mise en place de questionnaires ESG à l’octroi ou l’investissement pour influencer la prise de décisions (définition, opérationnalisation, outillage, conduite du changement…)
+
+
+
+
+Réglementation relative à la gestion des risques ESG et de l’opérationnalisation de l’ESG (CRR III/CRDVI, Pilier 3, Règlement Taxonomie, CSRD, SFDR) ou à venir (ECB, EBA, EIOPA, ACPR, etc.) ;
+
+
+
+
+Vous évoluerez au sein d'un département dédié aux problématiques du secteur financier, alliant forte expertise, esprit d'initiative, adaptabilité et qualités relationnelles, notamment dans un contexte de contacts permanents ave nos clients.
+
+
+
+
+**Votre profil :**
+
+Vous êtes diplômé d’une école de commerce/d’ingénieurs ou université avec une spécialisation en Gestion des risques/Gestion des risques climatiques/Finance durable. Vous avez une première expérience, idéalement en gestion des risques climatiques ou en finance durable dans un environnement financier (Banque, Assurances, Asset Management, Cabinet de Conseil, Régulateur…). Vous avez de bonnes connaissances de l’environnement financier et une expérience réussie au sein d’une institution financière.
+
+
+Doté d’un excellent relationnel, vous savez allier le sens de l’analyse rigueur et méthode. Responsable et autonome, vous faites preuve d’esprit d’équipe. L’anglais est votre langue de travail
+
+
+***Vivez l’expérience EY, Rejoignez\\-nous !***
+
+
+
+
+*Dans le cadre de sa politique Diversité, EY étudie, à compétences égales, toutes candidatures dont celles de personnes en situation de handicap.*
+
+
+
+
+**A propos d’EY :**
+
+
+
+
+EY rassemble aujourd’hui 365 000 associés et collaborateurs à travers le monde dans plus de 150 pays. Grâce à ce réseau, dont le niveau d’intégration et l’ampleur internationale sont gages d’une même excellence partout dans le monde, EY renforce sa position de leader mondial de l’Audit, du Conseil, des Transactions, de la Fiscalité et du Droit. Nous faisons grandir les talents afin, qu’ensemble, ils accompagnent les organisations vers une croissance pérenne. Et notre engagement envers nos équipes commence avec cette promesse : quel que soit votre parcours avec nous, l’expérience EY dure toute une vie.",,https://fr.indeed.com/cmp/Ey,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/2138292378140570afde98e7103dbb54,https://www.ey.com,"London, England","10,000+",more than $10B (USD),"At EY, we are committed to building a better working world."
+in-75460fc2d0ff57d5,indeed,https://fr.indeed.com/viewjob?jk=75460fc2d0ff57d5,http://www.safran-group.com/fr/talents/Nos%20offres/offer/145475?OriginID=3698&LCID=1036&offerReference=2024-145475,Coordinateur technico-économique de projets F/H,Safran,"Réau, A8, FR",2024-09-26,fulltime,,,,,,False,,,,,"**Description du poste**
+------------------------
+
+
+
+Au sein du Centre d'Excellence Industrielle (CEI) Pièces Composite et Fans, vous intègrerez le département Bureau d'Etudes et Bureau des Méthodes (BEBM), composé de 2 départements de 70 ingénieurs et techniciens. L'ensemble des équipes sont engagées pour assurer l'industrialisation et le support BEBM à la production de pièces composites et métalliques, pour des moteurs en service (LEAP, M88, CFM, CF6, …), des moteurs en R\\&T ou en développement (RISE, Silvercrest), et la réparation d'aubes Fan pour le support en service (MRO). Les équipes sont implantées sur 2 sites : Réau (77\\) et Gennevilliers (92\\).
+  
+
+  
+
+Le coordinateur technico\\-economique et Prestation intellectuelle est rattaché directement au responsable BEBM et a pour missions principales :
+  
+
+* Assurer la gestion prévisionnelle économique pour l'ensemble des activités (indus, support prod et Dev/R\\&T) pour piloter l'adéquation budgets/dépenses de l'année en cours et donner tout au long de l'année la visibilité sur les risques technico\\-éco et l'atterrissage de fin d'année.
+* Mettre en place /tenir à jour les indicateurs de suivi mensuel (dashboard, pilotage tech eco…) et animer les processus de gestion des livrables N1\\-N2
+* Assurer la coordination du PMT RTDI (PMT indus , Support production , R\\&T, ..) en lien avec les marques, les métiers et fonctions centrales et le contrôle de gestion
+* Etre le garant des outils de pilotage technico\\-économique (être le référent de l'outil oSmoz au sein du CEI) et faire appliquer les divers processus de gestion
+* S'assurer de la qualité des données oSmoz renseignées par les responsables QCD et assurer le support auprès des responsables QCD
+* Assurer le reporting technico\\-économique
+* Etre force de proposition pour améliorer le pilotage des projets au sein de la division, et au niveau de la Direction industrielle en lien avec les équipes conception et industrialisation (IY)
+* Sous\\-traitance : participer aux instances de pilotage auprès des sociétés de prestations
+* Planifier et réactualiser périodiquement les prévisionnels de sous\\-traitance et le réalisé
+* Responsable standard SSE Prestation sur Site
+
+**Description complï¿½mentaire**
+--------------------------------
+
+
+
+Le poste est basé sur le site de Villaroche (Réau, 77\\), et déplacements réguliers sur le site de Gennevilliers (92\\).
+
+
+**Exigences du poste**
+----------------------
+
+
+
+De formation initiale d'ingénieur ou Bac \\+5, le Pilote technico\\-économique (PMO) et Prestation intellectuelle a des responsabilités nécessitant des compétences techniques et de leadership :
+  
+
+* Aisance interrelationnelle, bonne aptitude de communication et de travail collaboratif
+* Connaissance des métiers de contrôle de gestion, de gestion de projet et de planification
+* Rigueur dans la tenue de tableaux de bords et de reporting
+* Maîtrise de Planisware (Osmoz), MS Project et Office ou équivalents
+* Maîtrise de PowerBI
+* Pratique de l'anglais, et facilité de prise de parole en public et de reporting.
+
+  
+
+Safran est un groupe international de haute technologie opérant dans les domaines de l'aéronautique (propulsion, équipements et intérieurs), de l'espace et de la défense. Sa mission : contribuer durablement à un monde plus sûr, où le transport aérien devient toujours plus respectueux de l'environnement, plus confortable et plus accessible. Implanté sur tous les continents, le Groupe emploie 92 000 collaborateurs pour un chiffre d'affaires de 23,2 milliards d'euros en 2023, et occupe, seul ou en partenariat, des positions de premier plan mondial ou européen sur ses marchés. Safran s'engage dans des programmes de recherche et développement qui préservent les priorités environnementales de sa feuille de route d'innovation technologique.
+  
+
+Safran est la 1ère entreprise du secteur aéronautique et défense du classement « World's Best Companies 2023 » du magazine TIME.
+  
+
+  
+
+Motoriste aéronautique depuis plus de 110 ans, Safran Aircraft Engines, conçoit, développe, produit et commercialise, seul ou en coopération, des moteurs pour avions civils et militaires.
+
+
+  
+
+BAC\\+5
+  
+
+Supérieure à 5 ans",,https://fr.indeed.com/cmp/Safran,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/c8cc5ca75a155b48dc43ceff63c75995,https://www.safran-group.com/,Paris,"10,000+",more than $10B (USD),Safran is hiring.
+in-2983e8a6b0a2eee3,indeed,https://fr.indeed.com/viewjob?jk=2983e8a6b0a2eee3,https://www.talentdetection.com/bronzavia-industrie/offre-108280-nX8fmu?utm_source=Indeed,CHARGE D'AFFAIRES TECHNIQUES EN CHAUDRONNERIE,BRONZAVIA INDUSTRIE,"Sartrouville, A8, FR",2024-09-19,fulltime,,,,,,False,,,,,"Poste et mission :
+
+
+Au sein d’un service Méthodes et sous la responsabilité du Responsable Méthodes \\& Industrialisation, vous aurez pour objectif, la réduction des coûts et l’optimisation de la productivité en continue, vous agirez sur les moyens de production, les procédés de fabrication et l’organisation du travail suivant les exigences du client et vous assurerez le maintien d’une qualité produit optimum.
+
+  
+
+Vos missions :
+
+* Etudier et déterminer les procédures à suivre pour chaque nouvelle fabrication,
+* Constituer les dossiers de fabrication,
+* Piloter la réalisation de prototypes, de préséries et le démarrage de l’industrialisation de produits,
+* Participer à l’évolution des procédés et des produits,
+* Gérer les moyens de manutention et les outillages associés aux fabrications,
+* Suivre la qualité des produits, identifier les problèmes s’il y en a et mettre en œuvre les corrections à apporter,
+* Etre en charge de la partie technique des revues de commande et de contrat,
+* S’occuper du chiffrage et des devis,
+* Etre capable de gérer un dossier de validation industrielle,
+* Gestion de projet et tenue de planning vis\\-à\\-vis du client.
+
+  
+
+Vous maîtrisez les outils d’aide à la conception et à la gestion de projet : CAO, DAO, FAO, GPAO et SolidWorks.
+
+
+Expérience et connaissances avérées en chaudronnerie.
+
+
+Une licence Pro CRCI est demandée pour ce poste.
+
+
+Vous êtes passionné par le secteur aéronautique et possédez une expérience avérée de 4 ans minimum.
+
+
+Qui sommes nous ?
+
+
+PME basée en Région Parisienne spécialisée dans le travail du métal avec une forte technicité pour le Secteur Aéronautique recherche 3 Chargés d'Affaires Techniques en Chaudronnerie (H/F)",,https://fr.indeed.com/cmp/Bronzavia-Industrie,,https://www.bronzavia.com,Sartrouville,51 to 200,,
+in-e1d4f98655b4c344,indeed,https://fr.indeed.com/viewjob?jk=e1d4f98655b4c344,https://join.com/companies/vestack/12339385-stage-charge-de-mission-sav-f-h?pid=a13795120131dbe48464,Stage - Chargé de mission SAV - F/H,Vestack,"Paris, A8, FR",2024-09-05,,,,,,,False,,,,,"Vous cherchez un poste challengeant dans une entreprise à impact en plein développement ? Nous sommes l’entreprise qu’il vous faut !
+  
+  
+
+Vestack est une Proptech qui conçoit et construit des bâtiments hors\\-site bas\\-carbone, à ossature bois. Dans le cadre de son développement rapide, nous sommes à la recherche d’un/une stagiaire rattaché(e) au pôle Opérations, vous rejoindrez l'entreprise en qualité de Stagiaire \\- Chargé de mission SAV
+  
+  
+
+Vos missions
+  
+  
+
+**Missions :**  
+
+Gestion de garanties constructeur (parfait achèvement, biennale et décennale)
+  
+  
+
+* Analyser les demandes de SAV et gérer la relation/suivi client
+* Evaluer l’application des garanties et traiter les déclarations de sinistre en lien avec les assurances
+* Appliquer les dispositions contractuelles vis\\-à\\-vis de nos sous\\-traitants et fournisseurs
+* Piloter/participer aux rendez\\-vous d'expertise et diagnostic
+* Planifier et suivre les interventions
+
+
+**Prévention des sinistres – Amélioration continue :**  
+
+* Analyser et capitaliser sur les retours d'expériences Affaires et SAV
+* Contribuer à la prévention des sinistres en phase conception et industrialisation sur les choix constructifs et équipements
+* Participer aux réceptions usine et chantier
+* Réaliser des audits qualité chantier et usine
+* Accompagner les Responsables Projet en phases OPR.
+
+
+Vos compétences
+  
+  
+
+Formations
+  
+  
+
+* Formation supérieure Ecole d’ingénieur avec une spécialité de type génie civil / conduite de travaux
+
+
+Personnalité
+  
+  
+
+* Résilience devant des environnements dynamiques, demandant prise d’initiative et autonomie.
+* Engagement dans la construction et structuration de la société.
+* La curiosité, la rigueur et l’autonomie sont attendues pour satisfaire pleinement aux exigences du poste à très fort potentiel d’évolution rapide.
+* Excellente capacités organisationnelles dans la conduite des processus et le suivi de projet
+* Excellent relationnel et adaptabilité à différents types de parties prenantes (équipes terrains, architectes, équipe de direction)
+* Appétence à tester de nouvelles méthodes de construction
+* Autonomie et indépendance d’esprit, adaptabilité, proactivité
+* Esprit d’équipe et aisance relationnelle
+
+
+Avantages
+  
+  
+
+* Une alternance/un stage dans une start\\-up en pleine expansion !
+* Rémunération : à convenir, selon profil
+* Télétravail : 1 journée par semaine ou 1 semaine par mois
+* Tickets restaurant
+* Des bureaux en plein centre de Paris dans un quartier recherché
+* Une équipe soudée, solidaire et disponible
+* Un point mensuel qui offre un moment de convivialité à l’ensemble des équipes",,https://fr.indeed.com/cmp/Vestack-1,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/dbd1ac0365976fa9aec89021d8d4e22d,https://www.vestack.com/,,11 to 50,,Vestack conçoit et construit des bâtiments modulaires biosourcés. Vestack réconcilie l'environnement et la maîtrise des coûts grâce à l'industrialisation et la digitalisation.
+in-3ed3707bcd3def80,indeed,https://fr.indeed.com/viewjob?jk=3ed3707bcd3def80,https://recrutement.chronopost.fr/3667_offre-emploi-chef-de-projet-commerce-relation-client-hf.html,Chef de Projet Commerce & Relation Client H/F,Chronopost,"Paris, A8, FR",2024-08-27,,,,,,,False,,,,,"Date
+27\\-08\\-2024
+Contrat
+CDI
+Localisation
+Ile\\-de\\-France  
+
+PARIS
+Statut
+Cadre
+### **Missions principales**
+
+
+Chronofresh, filiale de Chronopost, est le spécialiste de la livraison express de produits alimentaires sous température dirigée et a débuté son activité en Mai 2015\\.
+
+
+
+Son offre permet la livraison de produits alimentaires secs, frais et surgelés à destination des professionnels et particuliers partout en France. Ce service s’appuie notamment sur un réseau de plus de 92 agences équipées en chambres froides.
+
+
+
+Déjà près de 4 000 clients nous font confiance et l’entreprise connaît un fort développement nécessitant de renforcer notre équipe dédiée au pilotage de l’activité et de sa performance.
+
+
+
+A ce titre, dans le cadre d’un remplacement, nous sommes à la recherche de notre nouveau(lle) Chef de projet Commerce \\& Relation Client.
+
+  
+
+
+**Missions**
+
+
+
+Au sein de la Direction des Opérations de Chronofresh, vous reportez au Responsable Projets, Méthodes \\& Qualité.
+
+
+
+Bien que votre spécialité soit orientée Commerce et Relation Client, vous pouvez être amené(e) à gérer ou contribuer à des projets en lien avec d’autres domaines de compétences.
+
+
+
+Vos responsabilités recouvrent l’ensemble des missions suivantes :
+
+
+* **Projet**
+* Assurer la co\\-gestion du portefeuille projets du Pôle (mise en place de CRM, industrialisation des demandes de collectes clients...) ;
+* Réaliser les études préalables nécessaires au lancement des projets ;
+* Assurer la planification, le déploiement et le suivi des projets ;
+* Être le garant de la qualité des livrables pour les projets relevant de sa responsabilité ;
+* Assurer un relais permanent avec les équipes projets de Chronopost ;
+* Partager la vision et les contraintes de nos offres lors des instances/comités de Chronopost ;
+* Assurer la conduite du changement auprès de la force de vente et du service client lors de mises en place de nouvelles solutions ;
+* Apporter une dimension innovante aux processus commerciaux et de la relation client.
+* **Amélioration continue**
+* Identification des axes d’amélioration de l’existant sur les périmètres applicatifs et processus ;
+* Mise en place et pilotage d’actions correctives avec effet sur le court terme.
+
+
+Cette liste n’est pas exhaustive et pourra évoluer selon vos appétences et les besoins de l’entreprise.
+
+
+### **Profil recherché**
+
+
+De formation Bac \\+ 4/5, vous justifiez d'au moins 2 années d'expérience en entreprise dans le domaine du commerce et/ou de la relation client en gestion de projet.
+
+
+
+Lors de vos précédentes expériences, vous avez su démontrer des capacités d’autonomie et êtes force de proposition et de persuasion. Par ailleurs, votre rigueur, votre sens du service ainsi que votre aisance relationnelle ont été reconnus.
+
+
+
+Vous faites preuve d’un esprit de synthèse et êtes en capacité de prendre du recul pour avoir une vision macro des situations.
+
+
+
+Vous maîtrisez les techniques et outils de gestion de projets et de conduite du changement.
+
+
+
+Vous avez une forte appétence pour la création d’indicateurs, l’interprétation et l’analyse des données chiffrées.
+
+
+
+Vous êtes globalement à l’aise avec les outils informatiques et avez une bonne connaissance de Business Object et Salesforce (ou autre(s) CRM).
+
+
+
+La maîtrise de l’anglais est indispensable dans le cadre de nos projets de développement à l’international.
+
+
+
+Vous justifiez de connaissances dans le domaine du e\\-commerce alimentaire.
+
+
+
+Si vous avez un profil d’entrepreneur et souhaitez participer à un projet unique et ambitieux, notre offre est faite pour vous !
+
+  
+
+
+
+Le poste est basé à Porte d’Orléans. Des déplacements nationaux sont à prévoir.",Transport And Freight,https://fr.indeed.com/cmp/Chronopost,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/9739df76c49979586ba14dcf7122efa6,https://www.chronopost.fr,"Gentilly, FR","1,001 to 5,000",$500M to $1B (USD),

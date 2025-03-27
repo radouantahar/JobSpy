@@ -1,0 +1,29 @@
+[
+  {
+    "error": "model \"llama2\" not found, try pulling it first (status code: 404)",
+    "score": 0,
+    "message": "Impossible d'analyser la correspondance",
+    "job_title": "Chargée d'amélioration continue H/F",
+    "company": "SIACI SAINT HONORE",
+    "location": "Clichy",
+    "job_url": "https://www.glassdoor.fr/job-listing/j?jl=1009644243109"
+  },
+  {
+    "error": "model \"llama2\" not found, try pulling it first (status code: 404)",
+    "score": 0,
+    "message": "Impossible d'analyser la correspondance",
+    "job_title": "Apprenti(e) Lean/Amélioration Continue - H/F",
+    "company": "GE Vernova",
+    "location": "Massy",
+    "job_url": "https://www.glassdoor.fr/job-listing/j?jl=1009641213000"
+  },
+  {
+    "error": "model \"llama2\" not found, try pulling it first (status code: 404)",
+    "score": 0,
+    "message": "Impossible d'analyser la correspondance",
+    "job_title": "Ingénieur(e) Méthodes Amélioration Continue et Industrialisation Junior (H/F)",
+    "company": "GUINOT",
+    "location": "Dammarie-lès-Lys",
+    "job_url": "https://www.glassdoor.fr/job-listing/j?jl=1009640794454"
+  }
+]

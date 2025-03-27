@@ -1,0 +1,715 @@
+id,site,job_url,job_url_direct,title,company,location,date_posted,job_type,salary_source,interval,min_amount,max_amount,currency,is_remote,job_level,job_function,listing_type,emails,description,company_industry,company_url,company_logo,company_url_direct,company_addresses,company_num_employees,company_revenue,company_description
+in-9aceee180ad5f4d2,indeed,https://fr.indeed.com/viewjob?jk=9aceee180ad5f4d2,https://afd.csod.com/ux/ats/careersite/5/home/requisition/9005?c=afd,ARCHITECTE / INTÉGRATEUR.TRICE H/F,Agence Française de Développement,"Paris, A8, FR",2025-02-20,,,,,,,False,,,,,"**JOB.TIT****LE**
+
+
+**What will be your role?**  
+
+
+
+Le pôle IAO aura en charge d’accompagner techniquement les projets et les évolutions des applications fournies par la DSI pour le domaine Opérations et se compose de profils ayant des compétences en architecture SI et intégration (Architecte/Intégrateur).  
+
+L’architecte/intégrateur est l’interlocuteur unique du chef de projet, il contribue aux choix des composants SI (progiciels, base de données, développements spécifiques, etc.) puis assure l'assemblage et la mise en œuvre dans le respect des standards et du plan d'urbanisme SI ainsi que de l'architecture retenue en phase avant\\-projet. Il aura la responsabilité de la cohérence des flux inter\\-applications, de l'intégrité des données et de la sécurité des applications. Il mettra à jour la cartographie du SI sur les couches applicatives, techniques, fonctionnelles et définira des building blocks d’architecture.
+
+
+Deux activités sont aussi prévues :
+
+* La coordination technique des acteurs pour fournir les éléments pour le passage en maintenance,
+* La prise en charge des tests de robustesse et des tests de charges.
+
+
+L’architecte travaillera en étroite collaboration avec les pôles de la division IAA et aussi avec d’autres interlocuteurs de la DSI : les chef(fe)s de projets et responsables applicatifs (ARF/ATR/APO), les urbanistes et les architectes sécurité (SUO), les experts méthode (AQT) et les experts (ISE).  
+
+  
+
+Les activités principales d’un Architecte/Intégrateur sénior sont :
+
+* Analyser l'existant, les besoins métiers, les flux de données et les traduire en solutions informatiques,
+* Contribuer aux différentes phases du projet et des évolutions sur les besoins d'architecture (avant\\-projet, projet),
+* Contribuer à la rédaction des appels d'offre dans le cas d’une recherche de solution,
+* Evaluer les offres et solutions des soumissionnaires,
+* Vérifier la cohérence de la solution et s’assurer auprès des urbanistes de la conformité aux principes d’architecture du SI,
+* Vérifier la conformité de la solution par rapport aux contraintes de sécurité auprès de l’architecte sécurité,
+* Rédiger le dossier d'architecture et le présenter en comité (COMARCH),
+* Identifier et sélectionner des composants techniques du projet,
+* Définir les besoins d’environnement et faire les demandes associées,
+* Identifier et demander l’ouverture des flux réseaux,
+* Formaliser les éléments permettant aux urbanistes de maintenir la cartographie du SI (fonctionnelle, applicative et technique),
+* Définir des pattern d'architecture réutilisable,
+* Définir des interfaces et des éventuelles évolutions à apporter aux composants pour permettre leur intégration,
+* Challenger les intégrateur externes (éditeurs, prestataires MOE),
+* Assurer la coordination technique sur différents aspects (entre les intervenants des divisions de la DSI, au niveau interfaces, auniveau du dé\\-commissionnement, au niveau de la reprise de données),
+* Contribuer activement à la formalisation du plan de dé\\-commissionnement,
+* Réceptionner, valider et assembler les composants,
+* Réaliser la recette technique (performance, interfaces),
+* Piloter la réalisation des tests de performances en collaboration avec le pole intégration,
+* Fournir le système développé au pôle intégration afin que les intégrateurs d’applications puissent l’intégrer,
+* Contribuer à la recette sécurité (levée des vulnérabilités),
+* Définir des interfaces et des éventuelles évolutions à apporter aux composants pour permettre leur intégration,
+* Piloter la réalisation des tests de performances en collaboration avec le pole intégration,
+* Contribuer à la préparation de la mise en production et à la présentation en comité (COMEP).
+
+  
+
+**Who are we looking for?**  
+
+Une solide expérience dans des fonctions d’architectures SI (applicatif et technique) et de coordination technique, nous recherchons donc un poste sénior avec 5 ans minimum dans la fonction d’architecte et 5 ans dans une fonction de chef de projet MOE ou d’intégrateur
+
+**1\\. Compétences recherchées :**
+
+
+A/ Compétences techniques requises :
+
+* Bonne connaissance du système d'information global et de la gouvernance du SI,
+* Excellentes connaissances des principes d’urbanisation du SI,
+* Bonnes connaissances en matière de sécurité du SI,
+* Posséder un niveau technique élevé (systèmes d’exploitation, systèmes de gestion des bases de données, serveur d’application),
+* Bonnes connaissances en plateforme d’échanges,
+* Bonnes connaissances des architectures orientées services ou API,
+* Bonnes connaissances des architectures décisionnelles,
+* Expertise CaseWise Evolve serait un plus.
+
+
+B/ Compétences méthodologiques requises :
+
+* Connaissance de méthodologies de frameworks d'architecture,
+* Connaissance des méthodologies de cartographie de SI,
+* Connaissance des normes et des méthodes de développement,
+* Détenir une expérience en conduite de projets (coordination technique) et en intégration d’application,
+* Maitrise des techniques d’animation de réunion,
+* Maitrise des concepts de transformation numérique des entreprises,
+* Capacité d’analyse de besoins métiers,
+* Qualités rédactionnelles pour rédiger les cartographies et les documents d’architecture et les livrables projets.
+
+**2\\. Qualités humaines / relationnelles**
+
+* Autonomie, Rigueur et Méthodologie,
+* Capacités relationnelles et de communication / animation de réunion,
+* Capacités à être force de propositions et pédagogue,
+* Esprit d'équipe et de partage de la connaissance,
+* Esprit ouvert, curieux, critique et innovant,
+* Orientation résultat, soucieux du respect des engagements pris,
+* Capacité d’analyse et de décision,Connaissance et compréhension des processus internes d’une DSI.
+
+**3\\. Niveau d’étude/diplôme**
+
+
+Poste sénior avec expérience de 10 ans minimum cumulé sur poste d’architecte et de coordination technique.
+
+**4\\. Langues**
+
+
+Anglais courant.
+
+  
+
+**What team are you joining?**  
+
+Quelle équipe allez\\-vous rejoindre ? Au sein du Département DSI, la division DSI/IAA (Intégration et Architecture des Applications) est en charge de : 1/Assister la DSI dans la transformation du SI, 2/Définir les Architectures SI, 3/Définir les briques d’architecture transverse réutilisables, 4/Fournir un appui technique aux divisions Projets et Support Applicatif, 5/Coordonner l’intégration des applications dans le SI. La division IAA se compose de 5 pôles : 1/IAF est le pôle d’architecture dédié aux domaines Finances et Risques, 2/IAO est le pôle d’architecture dédié au domaine Opérations, 3/IAX est le pôle d’architecture couvrant les autres domaines métiers, 4/SIA assure l’intégration technique dans les environnements de développement, intégration et recette avant le passage vers la production (ISE), 5/INC prend en charge les chaines d’intégrations continues applicatives, le socle technique de la Plateforme de Services Numériques (PSN) et l’expertise/intégration des middlewares message et API. Le pôle IAO aura en charge d’accompagner techniquement les projets et les évolutions des applications fournies par la DSI pour le domaine Opérations et se compose de profils ayant des compétences en architecture SI et intégration (Architecte/Intégrateur). L’architecte/intégrateur est l’interlocuteur unique du chef de projet, il contribue aux choix des composants SI (progiciels, base de données, développements spécifiques, etc.) puis assure l'assemblage et la mise en œuvre dans le respect des standards et du plan d'urbanisme SI ainsi que de l'architecture retenue en phase avant\\-projet. Il aura la responsabilité de la cohérence des flux inter\\-applications, de l'intégrité des données et de la sécurité des applications. Il mettra à jour la cartographie du SI sur les couches applicatives, techniques, fonctionnelles et définira des building blocks d’architecture. Deux activités sont aussi prévues : 1/La coordination technique des acteurs pour fournir les éléments pour le passage en maintenance, 2/La prise en charge des tests de robustesse et des tests de charges. L’architecte travaillera en étroite collaboration avec les pôles de la division IAA et aussi avec d’autres interlocuteurs de la DSI : les chef(fe)s de projets et responsables applicatifs (ARF/ATR/APO), les urbanistes et les architectes sécurité (SUO), les experts méthode (AQT) et les experts (ISE).  
+
+  
+
+**Why join the French Development Agency?**  
+
+Joining AFD means contributing to the construction of a common world, which is our Group’s mission. A world in common is a world that preserves and defends these five great common goods: the planet, the social bond, peace, partnerships and economic prosperity.",Organization,https://fr.indeed.com/cmp/Agence-Fran%C3%A7aise-De-D%C3%A9veloppement,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/f40361c995e316990be1b43d1587c560,http://www.afd.fr,"5, rue Roland Barthes
+75598 PARIS CEDEX 12","1,001 to 5,000",$1B to $5B (USD),"Institution financière publique et solidaire, l'AFD est l'acteur central de la politique de développement de la France."
+in-e81d740c37108f27,indeed,https://fr.indeed.com/viewjob?jk=e81d740c37108f27,https://efsrecrute.fr/offre-de-emploi/emploi-chef-d-equipe-poissy-f-h_16706.aspx,Chef d'équipe Poissy F/H,Établissement Français du Sang,"Poissy, A8, FR",2025-02-20,,,,,,,False,,,,,"### **Métier**
+
+
+Activités de laboratoires / Biologie Médicale \\- Technicien de laboratoire
+
+### **Intitulé du poste**
+
+
+Chef d'équipe Poissy F/H
+
+### **Contrat**
+
+CDI
+
+### **Temps de travail**
+
+
+Temps complet
+
+### **Date de prise de poste envisagée**
+
+
+A déterminer
+
+### **% Temps de travail**
+
+
+100
+
+### **Rémunération**
+
+
+Selon profil
+
+### **Description de la mission**
+
+
+L'EFS est un acteur vital pour le système de santé français, aussi vital que le sang l'est pour  
+
+l'organisme. Acteur public, placé sous la tutelle du Ministère des solidarités et de la santé, il est garant de l'autosuffisance du  
+
+pays en produits sanguins labiles.
+
+
+Mais pas seulement ! Avec 10 000 professionnels répartis dans toute la métropole et les territoires d'Outre\\-mer, l'EFS est  
+
+mobilisé à toutes les étapes de la chaîne de soin au service des patients et pleinement engagé dans la médecine de demain :  
+
+de la recherche fondamentale et clinique aux diagnostics en passant par la formation jusqu'au soin des patients transfusés ou  
+
+greffés.  
+
+  
+
+Sous la responsabilité de l’encadrement du laboratoire, vos principales missions seront :
+
+
+Contribuer à l'animation, sous la responsabilité hiérarchique du cadre, de l'équipe médicotechnique des activités, veiller au bon déroulement des activités et participer à l'activité technique en tant que technicien de laboratoire ou personnel de distribution sous la hiérarchie de l'encadrement, en accord avec la politique de l'EFS ;  
+
+. Contribuer, en collaboration étroite avec l'encadrement, au maintien du service public transfusionnel.
+
+
+Missions au titre d'activités techniques et de gestion :  
+
+. Assurer le bon fonctionnement de l'activité au quotidien dans le respect des règles, référentiels, normes et système documentaire en vigueur ;  
+
+. Participer au processus d'amélioration continue de la qualité ;  
+
+. Participer à l'évaluation des fournisseurs ;  
+
+. Organiser les préparations, les commandes de réactifs et de consommables, leurs contrôles à réception et leur traçabilité ;  
+
+. Organiser les qualifications opérationnelles et le suivi des équipements avec le correspondant métrologie, le cadre et le responsable ;  
+
+. Etablir et veiller au respect des plannings d'entretien et de maintenance des équipements et des locaux ;  
+
+. Gérer les interfaces internes (au sein du Pôle, hors du Pôle et avec les services supports) et externes ;  
+
+. Participer à la gestion des archives ;  
+
+. Contribuer à la gestion des inventaires et participer au plan d'investissement ;  
+
+. Pouvoir être amené à prendre les mesures appropriées pour gérer les anomalies et les dysfonctionnements sur délégation de l'encadrement et les alertes de matério\\- / réacto\\-/logicio\\-vigilance ;  
+
+. Suivre le portail d'identito\\-vigilance ;  
+
+. Contribuer à l'accueil et à la formation des stagiaires et des nouveaux embauchés, à la formation continue et à l'habilitation du personnel.
+
+
+Missions au titre d'activités de management fonctionnel :  
+
+. Organiser avec l'encadrement les postes de travail, organiser et animer le travail d'équipe, contribuer à l'évolution organisationnelle ;  
+
+. Aider à la constitution des plannings et à la gestion des présences ;  
+
+. Participer à la préparation des réunions de travail internes et externes ;
+
+  
+
+
+### **Spécificité du poste**
+
+
+Plage horaire : 8h\\-20h  
+
+Week\\-end et jours fériés par roulement
+
+
+### **Profil**
+
+
+Vous êtes titulaire d'un diplôme règlementaire bac\\+2 selon Arrêté du 4 novembre 1976 ou Arrêté du 21 octobre 1992\\.
+
+  
+
+Profil:
+
+* Vous disposez idéalement d'une expérience professionnelle d'au moins 3 ans dans le domaine de l'immuno\\-hématologie au cours de laquelle vous avez acquis un haut degré d’expertise, le sens des responsabilités et de l'autonomie.
+
+
+Qualités requises :
+
+  
+
+. Sens des responsabilités et esprit d'initiative ;  
+
+. Rigueur, méthode et sens de l'organisation ;  
+
+. Respect de la confidentialité ;  
+
+. Aptitude à communiquer, à faire des choix et à les partager ;  
+
+. Aptitude à gérer et à animer une équipe.
+
+  
+
+
+**Candidat recherché**
+----------------------
+
+### **Niveau d'études min. requis**
+
+
+Bac\\+2
+
+### **Diplôme**
+
+
+DEUG / BTS / DUT
+
+### **Niveau d'expérience min. requis**
+
+
+de 3 à 6 ans
+
+**Atouts et conditions de travail**
+-----------------------------------
+
+### **Avantages**
+
+
+28 jours de congés payés  
+
+2 RTT par période de 8 semaines  
+
+Mutuelle  
+
+Accès au CSE après 3 mois de présence  
+
+Prise en charge des frais de transports en commun à hauteur de 55%
+
+  
+
+
+### **Organisation de travail**
+
+
+Sur site
+
+### **Notre politique handicap**
+
+
+À compétences égales, la politique de recrutement de l'EFS vise à encourager la  
+
+représentation des personnes en situation d'handicap. Les candidatures des  
+
+bénéficiaires d'une RQTH ou assimilés sont les bienvenues.
+
+
+**Localisation du poste**
+-------------------------
+
+### **Localisation du poste**
+
+
+France, Ile\\-de\\-France, Yvelines (78\\)
+
+### **Lieu**
+
+
+Poissy",Organization,https://fr.indeed.com/cmp/%C3%89tablissement-Fran%C3%A7ais-Du-Sang-1,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/c02760b884a4193c634970f47e168cb8,http://www.efs.sante.fr,"20 avenue du Stade de France, 93218 La Plaine Saint-Denis ","5,001 to 10,000",,"Opérateur civil unique de la transfusion sanguine en France, l’EFS a pour mission principale l’autosuffisance nationale en produits sanguins labiles."
+in-d6ea7b25e387bcfa,indeed,https://fr.indeed.com/viewjob?jk=d6ea7b25e387bcfa,https://www.apajh.org/poste/medecin-psychiatre-f-h-2-2-2-2-2-2-2-2-2-2-2-2-2-2/,Médecin Psychiatre F/H,Apajh,"Château-Thierry, HDF, FR",2025-02-20,parttime,,,,,,False,,,,recrutement.tgn@apajh.asso.fr,"MAS de Château\\-Thierry \\- CDI temps partiel \\- CHATEAU\\-THIERRY (Aisne 02\\)
+
+
+Référence : GN/02/11\\-406 publiée le 20 février 2025
+
+
+**Renseignements administratifs**
+---------------------------------
+
+
+Lieu de travail : CHATEAU\\-THIERRY, Aisne 02
+
+
+Nature du contrat de travail : CDI temps partiel
+
+
+Date de prise de poste : Immédiatement
+
+
+Salaire / fourchette de rémunération : CCN66
+
+
+Temps de travail : Temps partiel (7 heures hebdomadaire)
+
+
+Entité de rattachement : Fédération APAJH
+
+
+Famille de métier / Métier : Psychiatre
+
+
+Convention collective : CCN 66
+
+
+Statut et classification : Cadre
+
+
+**Le poste**
+------------
+
+### **Missions :**
+
+
+Finalité du poste : Le Médecin Psychiatre est responsable de la prescription et de la coordination des soins psychiatriques des personnes accompagnées et chargé d’organiser la qualité des prises en charge.
+
+
+Principales missions :
+
+
+* Assurer une consultation initiale et des consultations de suivi (diagnostics, examens complémentaires, bilan médical)
+* Élaborer le volet médical lors de l’accueil des personnes accompagnées, et du suivi MDPH
+* Assurer le suivi médical sur le plan psychiatrique suivant les besoins de chaque personne accompagnée et établir les prescriptions qui s’imposent (mise en place de consultation individuelle)
+* Exercer un rôle d’accompagnement des familles dans une démarche d’échanges et explications autour du soin psychiatrique : diagnostic, traitement, prises en charge, recueil d’informations (éléments biographiques, diagnostic, comportements...)
+* Articuler son intervention en lien avec l’équipe pluridisciplinaire et notamment le service infirmier, pour déterminer les actions nécessaires à chaque personne accompagnée
+* Aider à l’élaboration des projets personnalisés des résidents (établir une synthèse des dossiers médicaux, soutenir la mise en place d’activités thérapeutiques)
+* Offrir au reste de l’équipe l’éclairage des connaissances liées à son domaine de compétence : Force de proposition auprès de l’équipe de direction, veille active
+* Contribuer à la sécurité physique et psychique des résidents, mettre en place des procédures dans le cadre de la gestion des troubles du comportement
+* Prescrire et/ou ajuster les traitements et contentions en fonction des besoins évaluées en amont et lors des suivis
+* Être garant du respect du secret médical
+
+
+### **Présentation de l’établissement :**
+
+
+La MAS de Château Thierry accueille 40 adultes en situation de handicap en internat (polyhandicap, handicap psychique, traumatisme crânien, déficience intellectuelle).  
+
+L’établissement a fait l’objet d’une extension avec la mise en place d’un dispositif d’accueil de jour modulable de 11 places dont 7 places « Hors les Murs » et une place d’hébergement temporaire.
+
+
+### **Présentation de la Fédération :**
+
+
+La Fédération APAJH, premier acteur généraliste dans le secteur du handicap, s’engage par son action militante pour une réelle société inclusive. Présente dans le débat citoyen, la Fédération APAJH intervient à tous les niveaux de l’Etat pour promouvoir ses valeurs. La Fédération APAJH fédère 92 associations sur le territoire dont tous les DOM. Elle est aussi gestionnaire de 171 structures en gestion directe employant 4000 salariés. Au total, l’APAJH gère 700 établissements et services, tous types de handicap, tous les âges de la vie.
+
+
+**Profil**
+----------
+
+
+### **Diplômes / Autres critères :**
+
+
+Doctorat médecine spécialité psychiatrie  
+
+Inscription à l’ordre des médecins français
+
+
+### **Soft skills** **(compétences comportementales) indispensables à ce poste :**
+
+
+* Esprit d'équipe \\[?]
+
+
+Capacité à interagir, à coopérer pour avancer vers un objectif commun, à tisser des liens et un réseau, à construire des relations interpersonnelles fortes pour faciliter la coordination et à s’adapter et tirer parti des différentes personnalités
+* Rigueur \\[?]
+
+
+Capacité à appliquer de manière systématique et correcte des règles / procédures / méthodes, à réaliser des activités sans erreur ou imprécision, à transmettre des informations avec exactitude
+**Votre recruteur**
+-------------------
+
+
+Nom et prénom : Marine CAULLIER
+
+
+Clôture des candidatures le : 31/05/2025
+
+
+Pour postuler, **envoyez votre CV et votre lettre de motivation** par e\\-mail à recrutement.tgn@apajh.asso.fr",Organization,https://fr.indeed.com/cmp/Apajh,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/47cd0899eb3e14ef1649d377d4bdd291,http://www.apajh.org,Paris,201 to 500,,
+in-0a5553b41f5e51b7,indeed,https://fr.indeed.com/viewjob?jk=0a5553b41f5e51b7,https://jobs.totalenergies.com/fr_FR/careers/JobDetail/Stage-Am-lioration-des-m-thodes-num-riques-pour-SolarOps-H-F/65048,Stage - Amélioration des méthodes numériques pour SolarOps - H/F,TotalEnergies,"Palaiseau, A8, FR",2025-02-20,internship,,,,,,False,,,,,"Pays
+France
+Ville
+PALAISEAU
+Lieu de travail
+PALAISEAU\\-LE NEXT(FRA)
+Domaine
+Recherche Innovation\\&Développt
+Type de contrat
+Stage conventionné
+**Durée du contrat**  
+
+6 Mois
+Expérience
+Moins de 3 ans
+### **Contexte et environnement**
+
+Pour relever le double défi du changement climatique et des besoins énergétiques croissants des populations, TotalEnergies se transforme pour devenir une entreprise multi\\-énergies. En rassemblant les compétences techniques et scientifiques de l’entreprise, la branche OneTech, créée en septembre 2021, vise à fournir l’expertise technologique dont TotalEnergies a besoin pour mettre en œuvre sa stratégie. En plaçant nos clients internes au cœur de nos préoccupations, nous soutenons les différentes activités de l’entreprise, au quotidien, vers l’excellence opérationnelle.
+
+
+Le stage se déroulera au sein de l’équipe R\\&D Solaire de TotalEnergies OneTech, dans le cadre du projet SolarOPS. SolarOPS est une plateforme de modélisation des performances photovoltaïques utilisée pour simuler une multitude de scénarios photovoltaïques différents, dans diverses géographies, configurations, technologies, etc. Le stagiaire fera partie d’une petite équipe responsable du développement de méthodes numériques pour une modélisation précise.
+
+
+### **Activités**
+
+Objectif : Améliorer les méthodes numériques utilisées dans SolarOPS en revisitant les équations optiques sous\\-jacentes, en les comparant à l'implémentation actuelle, en optimisant les performances par le choix de méthodes numériques appropriées et en validant les résultats par rapport à diverses références.
+
+  
+
+Responsabilités clés :
+
+  
+
+1\\) Réviser et analyser les équations :
+
+* Revoir les équations optiques fondamentales régissant les opérations du logiciel
+* S'assurer d'une compréhension approfondie des modèles mathématiques et de leurs hypothèses
+  
+
+2\\) Comparaison et analyse du code :
+
+* Comparer les équations théoriques avec l'implémentation actuelle dans le code
+* Identifier les écarts et les domaines à améliorer
+  
+
+3\\) Optimisation des performances :
+
+* Évaluer les performances des méthodes numériques existantes
+* Rechercher et sélectionner les méthodes numériques optimales pour améliorer l'efficacité et la précision
+* Mettre en œuvre les méthodes choisies et évaluer leur impact sur les performances
+  
+
+4\\) Génération et comparaison des références :
+
+* Générer des références en utilisant des solutions analytiques, des méthodes numériques et des logiciels tiers
+* Comparer les résultats de SolarOPS avec ces références pour valider la précision et la fiabilité
+* Développer et mettre en œuvre des tests complets pour assurer la cohérence et la justesse
+  
+
+5\\) Documentation et rapport :
+
+* Préparer un rapport détaillé qui sera inclus dans le manuel théorique de SolarOPS
+  
+
+Résultats attendus :
+
+* Amélioration de la précision et de la performance de SolarOPS
+* Documentation complète des méthodes numériques et de leur mise en œuvre
+* Résultats validés par des tests rigoureux et des comparaisons avec les références
+
+### **Profil du candidat**
+
+Vous préparez un diplôme de niveau bac \\+4 ou bac \\+5 et êtes à la recherche d'un stage de fin d'études ?  
+
+  
+
+Nous vous proposons un stage conventionné d'une durée de 6 mois, dès avril 2025 (flexibilité possible).  
+
+Compétences techniques :* Solides connaissances en mathématiques et analyse
+* Maîtrise des méthodes numériques et optimisation de la performance
+* Expérience en analyse de code et validation
+
+  
+
+Compétences informatiques :* Programmation
+* Analyse de données
+* Optimisation et validation
+
+  
+
+Vous avez une forte appétence pour la R\\&D solaire et les énergies renouvelables ?  
+
+Curieux/se et motivé(e), vous appréciez le travail en équipe ?  
+
+Vous êtes capable de communiquer efficacement, en français et en anglais ?  
+
+Si vous vous retrouvez dans le profil recherché, n'hésitez plus et rejoignez l'aventure TotalEnergies !
+### **Informations supplémentaires**
+
+Stage conventionné d'une durée de 6 mois, dès avril 2025 (flexibilité possible).
+
+  
+
+
+**TotalEnergies valorise la diversité, promeut le développement individuel et offre des opportunités d'emploi égales à tous les candidats.**
+  
+TotalEnergies est une compagnie multi\\-énergies mondiale de production et de fourniture d’énergies : pétrole et biocarburants, gaz naturel et gaz verts, renouvelables et électricité. Ses 105 000 collaborateurs s'engagent pour une énergie toujours plus abordable, propre, fiable et accessible au plus grand nombre. Présent dans plus de 130 pays, TotalEnergies inscrit le développement durable dans toutes ses dimensions au cœur de ses projets et opérations pour contribuer au bien\\-être des populations.",,https://fr.indeed.com/cmp/Totalenergies,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/ce0c81e9ec603d05773e1eac84678183,https://careers.totalenergies.com,Courbevoie,"10,000+",$25M to $100M (USD),Joining TotalEnergies means being part of a world-class player in the energy transition.
+in-fb52579d3192fa12,indeed,https://fr.indeed.com/viewjob?jk=fb52579d3192fa12,https://www.carrieres-emeis.fr/offre-de-emploi/emploi-infirmier-ere-le-vesinet-78-_34672.aspx,Infirmier.ère- le Vésinet (78),emeis,"Le Vésinet, A8, FR",2025-02-20,fulltime,,,,,,False,,,,,"**Informations générales**
+--------------------------
+
+### **Entité de rattachement**
+
+La Clinique La Villa des Pages, située au Vésinet (78\\), est spécialisée dans le traitement des maladies psychiatriques et prend en charge des adolescents, des jeunes adultes et des adultes dans le cadre d'une hospitalisation complète ou au sein du centre de jour.
+  
+
+  
+
+L'établissement assure le traitement psychiatrique et psychothérapeutique de tous les troubles psychiques (troubles anxieux, troubles de l'humeur, troubles dépressifs, troubles addictifs, troubles du comportement alimentaire ...).
+  
+
+  
+
+Sa capacité est de 58 lits en hospitalisation complète et de 20 lits en Hôpital de jour.
+  
+
+  
+
+Accès : Proximité du RER A ou des bus
+  
+
+### **Référence**
+
+2025\\-34672
+**Description du poste**
+------------------------
+
+### **Famille professionnelle/ Métier**
+
+
+Soins \\- Infirmier
+
+### **Intitulé du poste**
+
+
+Infirmier.ère\\- le Vésinet (78\\)
+
+
+### **Contrat**
+
+
+CDI
+
+### **Temps de travail**
+
+
+Temps complet
+
+### **Rythme de travail**
+
+
+Jour
+
+### **Description du poste**
+
+
+***Nous recherchons un.e infirmier.ère diplômé.e en CDI*** pour faire bénéficier chaque patient des meilleurs soins individualisés !
+
+ **CE QUE NOUS OFFRONS**
+
+  
+
+* Amplitude horaire : 8h\\-20h (30 mn de pause \\+ 1 week\\-end sur 2\\)
+* Rémunération : à partir de 2400€ brut mensuel (hors Ségur)
+* Service: pôle ado/jeunes adultes ((exp souhaitée auprès d'adolescents)
+
+ **VOS MISSIONS** **:**
+
+  
+
+En binôme avec un.e Aide\\-soignant.e, rattaché.e au Cadre de santé / Coordinateur.trice de soins, vous serez entouré.e d’une équipe pluridisciplinaire pour vous concentrer sur votre cœur de métier :
+
+  
+
+* Co\\-construire le parcours de soins individualisé à partir des besoins exprimés par le patient
+* Conduire les entretiens infirmier et mettre en place des stratégies d’accompagnement des patients : actions d’éducation thérapeutique, médiations à visée thérapeutique…
+* Evaluer l'état de santé d'une personne et analyser les situations de soins :
+* recueillir les données cliniques, leur donner du sens, orienter les actions à mener.
+
+ **En rejoignant EMEIS**, vous pourrez vous projeter sur le long terme et bénéficier également des avantages liés à un grand Groupe.
+
+* Prime dite de 13ème mois
+* Titres Restaurants ou restauration sur nos établissements à tarif préférentiel
+* Accord d’entreprise permettant la réalisation d’heures supplémentaires au\\-delà du contingent conventionnel
+* Subrogation
+* Accord d’intéressement
+* Primes de cooptation
+* Services à taille humaine : un management en proximité, un esprit d’équipe et d’entraide entre collègues…
+* Avantages CSE en région et CSE Central
+* Accès facilité à la formation (possibilités de financement de DU par exemple)
+* Gestion de carrière individualisée et accompagnement à la mobilité (géographique et professionnelle) : par exemple, en tant qu’infirmier.ère, possibilité d’évoluer vers différentes spécialités de soins et vers des fonctions d’encadrement (IDEC, responsable de soins, direction d’établissement)
+* Procédures qualité et méthodes innovantes pour une prise en charge de qualité
+
+ **L’accompagnement et le soin personnalisés pour chaque personne fragilisée**
+
+  
+
+Nous sommes 78 000 médecins, infirmier.ère.s, aides\\-soignant.e.s, auxiliaires de vie, rééducateurs, psychologues, cuisiniers, gouvernants, et métiers d’appui… engagés chaque jour auprès des plus fragiles :
+
+* Au sein de nos maisons de retraite (EHPAD)
+* Au sein de nos cliniques de soins médicaux et de réadaptation
+* Au sein de nos cliniques de santé mentale
+* Avec des services d’aide à domicile.
+
+
+Nous proposons à chacune des personnes dont nous prenons soin un parcours sur\\-mesure, avec une réponse à chaque étape (de la prévention au traitement et jusqu’à la réadaptation).
+
+
+Nous construisons avec et pour chacune d’elles un projet de soins personnalisé qui intègre tous ses besoins (médical, psychique, humain et social) car chaque résident, patient et bénéficiaire est unique.
+
+ ***Chez emeis, nous sommes forces de vie.***
+
+  
+
+ \\#LI\\-VP1
+
+  
+
+
+### **Profil**
+
+
+* Titulaire d'un diplôme IDE, vous êtes intéressé.e par la psychiatrie ?
+* Vous recherchez l’utilité au quotidien et êtes animés, comme nous, par le « prendre soin » ?
+* Vous appréciez le travail en équipe pluridisciplinaire ?
+* Vous disposez de qualités relationnelles, d’écoute et d’adaptation ?
+
+
+Nos opportunités s’adressent aux professionnels de tous horizons : nous sommes attentifs à proposer un environnement de travail favorables à tous, qui donne les moyens de bien exercer son métier et qui met en place les aménagements et l’accompagnement à la prise de poste nécessaires.
+
+
+### **Ce que nous offrons**
+
+
+**De belles perspectives d'évolution** :
+
+* Mobilités internes facilitées (géographiques et professionnelles)
+* Professionnalisation (Diplômes Universitaires, Master, etc.)
+* Promotions internes
+
+
+Nous participons aux frais de transports.
+
+
+**Type d'établissement**
+------------------------
+
+### **Type d'établissement**
+
+
+Cliniques Psychiatrique
+
+**Localisation du poste**
+-------------------------
+
+### **Ville**
+
+
+le Vésinet
+
+### **Code postal**
+
+
+78110
+
+### **Département**
+
+
+Yvelines (78\\)
+
+### **Région**
+
+
+Ile\\-de\\-France
+
+**Critères candidat**
+---------------------
+
+### **Niveau d'études min. requis**
+
+
+3\\- Licence ou équivalent",,https://fr.indeed.com/cmp/Emeis-1,,https://www.emeis-group.com/,Puteaux,Decline to state,Decline to state,"Le Groupe ORPEA, acteur européen de la dépendance, développe une politique de recrutement dynamique et pérenne, rejoignez-nous !"

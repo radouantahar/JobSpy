@@ -1,0 +1,416 @@
+id,site,job_url,job_url_direct,title,company,location,date_posted,job_type,salary_source,interval,min_amount,max_amount,currency,is_remote,job_level,job_function,listing_type,emails,description,company_industry,company_url,company_logo,company_url_direct,company_addresses,company_num_employees,company_revenue,company_description
+gd-1009627600871,glassdoor,https://www.glassdoor.fr/job-listing/j?jl=1009627600871,,Developer Calculation Core Services (F/H),Natixis,Paris,2025-02-06,,,,,,,False,,,sponsored,,"Acteur financier d'envergure internationale, Natixis Corporate \\& Investment Banking met à disposition des entreprises, institutions financières, sponsors financiers, souverains et supranationaux une palette de services en conseil, investment banking, financements, banque commerciale et sur les marchés de capitaux.
+
+
+Ses équipes d'experts, présentes dans 30 pays, conseillent les clients sur leur développement stratégique en les accompagnant dans la croissance et la transformation de leurs activités tout en maximisant leur impact positif. Natixis Corporate \\& Investment Banking s'est engagée à soutenir la transition environnementale en alignant son bilan financier sur une trajectoire de \\+1,5 °C d'ici à 2050\\.
+
+
+Natixis Corporate \\& Investment Banking fait partie du pôle Global Financial Services du Groupe BPCE, 5e établissement financier européen et 2e acteur bancaire en France à travers ses réseaux Banque Populaire et Caisse d'Epargne.
+
+
+Si vous êtes enthousiaste à l'idée de relever des défis passionnants, d'avoir un impact et de contribuer à la construction du monde de demain, rejoignez\\-nous et faites bien plus qu'un simple job.
+
+
+En tant qu'employeur responsable et engagé à construire un environnement de travail inclusif, nous offrons les mêmes opportunités aux talents de tous horizons, indépendamment de votre âge, origine, orientation sexuelle, handicap...
+
+
+Au sein de la CIO Corporate and Investment Banking (CIB), vous rejoignez l'équipe GMR Pricing \\& Analytics \\- Calculation Core Services en tant que Développeur. Le pôle Pricing \\& Analytics est responsable du développement et de la maintenance des librairies financières, ainsi que de leur intégration dans diverses applications sur des environnements distribués. L'équipe Calculation Core Services, composée de développeurs pluridisciplinaires, est chargée de maintenir des solutions de distribution pour la CIB de Natixis. Le logiciel principal permet de valoriser les produits dérivés complexes du périmètre Equity en utilisant la méthode numérique Monte Carlo.  
+
+  
+
+Au quotidien, vous avez pour missions de :  
+
+* Développer et maintenir des applications de A à Z, incluant conception, tests, déploiement et maintenance ;
+* Collaborer avec des équipes transverses pour livrer de nouvelles fonctionnalités en respectant les bonnes pratiques ;
+* Corriger des bugs et assurer la qualité du code à travers les revues, tests unitaires et analyses SonarQube ;
+* Interagir avec des bases de données relationnelles (MySQL) pour le stockage et la récupération des données ;
+* Développer des interfaces web et maintenir une documentation technique claire pour les nouvelles fonctionnalités.
+
+Notre méthodologie de travail est agile et vous êtes intégré à notre communauté de développeur.  
+
+
+
+  
+
+**\\#TransformativeFinance**
+
+
+Le poste est basé à Paris et chez nous c'est 10 jours de télétravail par mois, 15 à 17 jours de RTT par an, des services sur site comme la restauration, la salle de sport ou la conciergerie d'entreprise. Nos rémunérations sont composées d'un fixe, d'un bonus annuel, d'un dispositif d'épargne entreprise incluant l'intéressement, la participation et l'abondement.
+
+
+En tant que Top Employer, nous plaçons nos collaborateurs au centre de nos attentions. Des dispositifs de mobilité interne, développement de carrière et de formation vous permettent de grandir et de vous épanouir tout au long de votre parcours.
+
+
+Vous évoluez dans un environnement de travail hybride, inclusif et favorisant le collaboratif.
+
+
+Vous avez également la possibilité de vous engager en faveur de la société et de causes qui vous tiennent à cœur via notre fondation d'entreprise.
+
+
+**A propos du processus de recrutement**
+
+
+Vous serez contacté par l'un de nos recruteurs avant de rencontrer nos experts métier (manager, membre de l'équipe ou de la filière métier).
+
+
+À propos de vous : Si vous vous reconnaissez dans la description suivante vous êtes fait pour travailler avec nous !  
+
+De formation supérieure, vous avez au moins 3 ans d'expérience dans des fonctions de Développeur.  
+
+  
+
+Vous maîtrisez :  
+
+* La programmation orientée objet et le développement en Python ;
+* Les pipelines CI/CD (Jenkins, XLD/XLR) ;
+* Le développement et la maintenance de scripts Bash ;
+* La containerisation et les architectures microservices (OpenShift) ;
+* Les bases de données avec des connaissances en SQL ;
+* Les systèmes de contrôle de version (Git).
+
+  
+
+Vous êtes :
+  
+
+* Rigoureux et réactif ;
+* Doté d'un bon esprit d'analyse et de synthèse ;
+* Reconnu pour vos compétences relationnelles.
+
+  
+
+Vous maîtrisez l'anglais avec un niveau B2\\.  
+
+Dites\\-nous que vous êtes intéressé en répondant à cette annonce.",,https://www.glassdoor.fr/Overview/W-EI_IE10682.htm,https://media.glassdoor.com/sql/10682/natixis-squareLogo-1689684730884.png,,,,,
+gd-1009627600873,glassdoor,https://www.glassdoor.fr/job-listing/j?jl=1009627600873,,IT Quants Librairies & Integration Rates/Credit (F/H),Natixis,Paris,2025-02-06,,,,,,,False,,,sponsored,,"Institution financière internationale de premier plan, Natixis Corporate \\& Investment Banking met à disposition des entreprises, institutions financières, sponsors financiers, souverains et supranationaux une palette de services en conseil, investment banking, financements, banque commerciale et sur les marchés de capitaux.
+
+
+Ses équipes d'experts, présentes dans environ 30 pays, conseillent les clients sur leur développement stratégique en les accompagnant dans le développement et la transformation de leurs activités tout en maximisant leur impact positif. Natixis CIB s'engage sur un alignement de son portefeuille de financements sur une trajectoire de neutralité carbone d'ici 2050 tout en aidant ses clients à réduire l'impact environnemental de leur activité.
+
+
+Natixis CIB fait partie du pôle Global Financial Services du Groupe BPCE, deuxième groupe bancaire en France à travers les réseaux Banque Populaire et Caisse d'Epargne. Elle bénéficie de la puissance financière et des solides notations du Groupe (Standard \\& Poor's : A\\+, Moody's : A1, Fitch Ratings: A\\+, R\\&I : A\\+).
+
+
+Au sein du pôle IT GMR \\- Pricing \\& Analytics, vous rejoignez l'équipe Lib \\& Intégration Rates \\& Credit, composée d'ingénieurs d'études responsables du développement et de la maintenance des librairies financières, ainsi que de leur intégration dans diverses applications du système d'information (SI). L'équipe inclut également des business analysts spécialisés en pricing et valorisation.
+
+
+En tant qu'IT Quant, vous participez au développement d'une architecture cohérente pour un SI en transformation.
+
+
+Au quotidien, vous avez pour missions de :
+
+* Développer en C\\+\\+, C\\# et Python, dans des environnements Windows et Linux ;
+* Intégrer le code de pricing des dérivés Fixed Income et des outils de calcul des stress tests ;
+* Analyser les différences de prix et de performance en temps de calcul, et assurer la maintenance évolutive des outils existants ;
+* Cadrer techniquement les travaux des IT Quants en lien avec les besoins des utilisateurs de la bibliothèque : quants, traders, direction des risques, GM chain, IT Summit, stress tests et support applicatif ;
+
+Promouvoir la mise en place d'outils transverses, indépendants du progiciel Summit, et organiser leur support de second niveau.  
+* 
+
+Notre méthodologie de travail est agile.
+
+**\\#TransformativeFinance**
+
+
+Ce poste est basé à Paris avec la possibilité de télétravailler.
+
+
+En tant que Top Employer, nous plaçons nos collaborateurs au centre de nos attentions. Des dispositifs de mobilité interne, développement de carrière et de formation vous permettent de grandir et de vous épanouir tout au long de votre parcours.
+
+
+Vous évoluez dans un environnement de travail hybride, inclusif et favorisant le collaboratif.
+
+
+Vous avez également la possibilité de vous engager en faveur de la société et de causes qui vous tiennent à cœur via notre fondation d'entreprise.
+
+
+**A propos du processus de recrutement**
+
+
+Vous serez contacté par l'un de nos recruteurs avant de rencontrer nos experts métier (manager, membre de l'équipe ou de la filière métier).  
+
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+À propos de vous : Si vous vous reconnaissez dans la description suivante, vous êtes fait pour travailler avec nous !
+  
+
+De formation supérieure, vous avez au moins 2 ans d'expérience dans des fonctions IT Quant au sein d'une CIB (Corporate Investment Banking).
+  
+
+  
+
+Vous maîtrisez :
+  
+
+* La finance de marché ;
+* La programmation en C\\+\\+ ;
+* Les instruments dérivés Fixed Income ainsi que des méthodes de valorisation ;
+* Les architectures logicielles et les tests de non\\-régression ;
+* Le progiciel Summit.
+
+  
+
+Vous êtes :
+  
+
+* Doté d'un excellent relationnel et d'une très bonne capacité d'écoute ;
+* Curieux et dynamique ;
+* Rigoureux et doté d'un sens critique.
+
+  
+
+Vous maîtrisez l'anglais avec un niveau B2\\.
+  
+
+Dites\\-nous que vous êtes intéressé en répondant à cette annonce.",,https://www.glassdoor.fr/Overview/W-EI_IE10682.htm,https://media.glassdoor.com/sql/10682/natixis-squareLogo-1689684730884.png,,,,,
+gd-1009627914149,glassdoor,https://www.glassdoor.fr/job-listing/j?jl=1009627914149,,Responsable du service d'enquête et qualité des données H/F,LE MERCATO DE L'EMPLOI,Paris,2025-02-06,,direct_data,yearly,40000.0,44000.0,EUR,False,,,sponsored,,"### **À propos de nous**
+
+
+***Planeta Formation et Universités*** créé en 2003 comme un réseau international dans le secteur de l'éducation, représente l'engagement de Grupo Planeta dans l'enseignement supérieur et la formation professionnelle et continue. Cette vocation de service se traduit par des enseignements adaptés à la réalité du marché du travail et des professionnels d'aujourd'hui et de demain chargés de faire évoluer la société.
+
+  
+
+Le Groupe compte plus de 100 000 élèves parmi un réseau de 30 établissements situés en Espagne, en France, en Italie, au Maroc, en Egypte ou encore en Colombie.
+
+  
+
+Cinq écoles fortes représentent le groupe en France dans des domaines forts et porteurs : commerce, finance, management, luxe, marketing, sport, intelligence économique.
+
+  
+
+Venez rejoindre l'univers de l'enseignement supérieur, dans un environnement innovant et multiculturel.
+
+  
+
+https://www.planeta.es/fr/qui\\-sommes\\-nous
+
+
+https://www.eslsca.fr
+
+
+https://www.ege.fr/
+
+
+https://www.edcparis.edu/fr/
+
+
+https://www.supdeluxe.com/fr/
+
+
+https://www.sportsmanagementschool.fr/
+
+**Lieu du poste :**
+
+**La Villette** : 11 rue de Cambrai, 75019
+
+
+### **Mission**
+
+
+
+Dans le cadre dune mission essentielle au sein dune structure dynamique, le Responsable du service d'enquête et qualité des données aura pour rôle central de piloter une équipe dédiée à la conduite des enquêtes éducatives. Ce poste, en CDI, s'inscrit dans un environnement collaboratif, avec des interactions fréquentes avec les écoles pour assurer la bonne mise en œuvre des investigations pédagogiques, d'insertion et de satisfaction.
+
+
+1\\. Piloter les enquêtes des écoles (enquête pédagogique, enquête insertion, enquête satisfaction).
+
+
+2\\. Contrôler la qualité des données recueillies et veiller au respect des délais du calendrier des enquêtes.
+
+
+3\\. Préparer et transmettre les informations au ministère de l'Enseignement Supérieur et/ou à France Compétences (enquête recteur, enquête SISE, etc.)
+
+
+4\\. Accompagner les écoles dans les processus et démarches de qualité Qualiopi.
+
+
+5\\. Analyser les résultats des enquêtes et rédige des rapports détaillés.
+
+
+6\\. Développer des méthodologies d'enquête adaptées aux objectifs des différents études et évolution de l'offre.
+
+
+7\\. Gérer les relations avec les différentes parties prenantes des écoles pour définir les besoins en enquête.
+
+
+8\\. Diriger et coordonner les activités de l'équipe d'enquêtes.
+
+
+### **Profil**
+
+
+
+Expérience requise :
+
+
+Le candidat devra justifier d'une expérience professionnelle minimale de cinq ans dans des fonctions similaires, idéalement dans un secteur tel que la recherche, le marketing ou le contrôle qualité. Il devra justifier d'un diplôme de niveau Bac\\+5, de préférence dans un domaine lié à la qualité, aux statistiques, à l'analyse de données ou à la gestion de projets.
+
+  
+
+Compétences exigées :
+
+* Expertise en gestion de la qualité des données et mise en place de procédures de contrôle.
+* Connaissance approfondie des méthodes d'enquête quantitative et qualitative.
+* Capacité à analyser des données complexes et à en tirer des conclusions pertinentes.
+* Maîtrise des outils statistiques et des logiciels dédiés à la gestion et à l'analyse des données.
+* Connaissance des normes et réglementations relatives à la qualité des données niveau BAC\\+5, spécialisée en qualité, statistiques ou économies, est requise
+
+  
+
+Qualités attendues :
+
+
+Le candidat idéal doit faire preuve d'une grande rigueur, d'un sens aigu du détail et d'une excellente capacité d'analyse. Une aptitude à travailler en équipe est essentielle, tout comme des compétences en leadership pour encadrer une équipe dédiée. Une excellente communication, tant à l'oral qu'à l'écrit, est également primordiale pour piloter des projets et interagir avec divers interlocuteurs internes et externes.",,https://www.glassdoor.fr/Overview/W-EI_IE3377512.htm,https://media.glassdoor.com/sql/3377512/mercato-de-l-emploi-squarelogo-1629961174842.png,,,,,
+gd-1009627760892,glassdoor,https://www.glassdoor.fr/job-listing/j?jl=1009627760892,,RH OPS / Responsable administratif - Freelance - Remote,Bloomays,Paris,2025-02-06,,,,,,,False,,,organic,,"En charge de la gestion administrative des nouveaux arrivants:
+
+* Onboarding
+* Offboarding
+* Accès
+* Suivi des contrats
+
+
+3/5 ans d'expérience
+
+* Dynamisme
+* rigeur
+* organisation
+* autonomie
+* Mission longue 6 mois \\+ au sein d'une super entreprise française
+
+
+Qui sommes nous ?
+
+**Présentation — BLOOMAYS**  
+
+  
+
+Recrutez vite, trompez vous peu.  
+
+  
+
+Notre méthode :  
+
+* sourcing : 100% automatisé, tout ce qu’on peut, on a une vision growth marketing de ce métier, pour aller vite.
+* recrutement : 100% humain, une équipe qui dev, formée à la tech, pour pas ou peu se tromper.
+
+  
+
+Notre approche combine à la fois growth hacking et connaissance de la tech. On va vite sur le sourcing et on prend notre temps pour assurer le fit entre les talents et la mission de nos clients.  
+
+  
+
+Nos solutions :  
+
+Recrutement freelances  
+
+Recrutements en CDI  
+
+RPO (Recruitment Process Outsourcing)  
+
+Formation “Recrutez comme un growth”  
+
+  
+
+Nos clients ‍‍‍  
+
+Les CPO / CTO et CDO de sociétés en hyper croissance, qui recrutent sur deux fonctions :  
+
+* Tech
+* Product
+
+  
+
+Ces derniers nous parlent, on les écoute, on cherche, on cherche, on cherche encore et en 48h on leur propose un ou deux profils, testés en interne et « validés » humainement.  
+
+  
+
+\\#recruteur \\#talentacquisition \\#sourcing \\#hrtech \\#freelance \\#CDI \\#RPO",,https://www.glassdoor.fr/Overview/W-EI_IE3012090.htm,https://media.glassdoor.com/sql/3012090/bloomays-squareLogo-1676285006269.png,,,,,
+gd-1009628920179,glassdoor,https://www.glassdoor.fr/job-listing/j?jl=1009628920179,,Responsable Développement CSE H/F,SOLUCIA PJ,Paris,2025-02-06,,direct_data,yearly,37000.0,42000.0,EUR,False,,,organic,,"**Descriptif du poste**
+
+Dans un contexte de **développement et de consolidation de notre position sur le marché**, nous recherchons un(e) **Responsable Développement CSE**. Ce poste clé te permettra d’accompagner notre croissance tout en renforçant nos relations avec les CSE partenaires.
+
+**Ce que nous te proposons**
+
+**Développement commercial :**
+
+* **Booster les ventes :**
+
+Réalise des ventes de contrats de protection juridique en exploitant les leads générés par nos campagnes digitales, nos actions de création de trafic sous\\-traitées et notre présence sur les salons dédiés aux CSE.
+
+* **Renforcer les relations :**
+
+Fidélise en développant et consolidant des relations durables avec nos clients CSE.
+
+**Optimisation des outils et des méthodes commerciales :**
+
+* **Améliore nos outils :**
+
+Participe à l’évolution de nos supports de vente (scripts, fiches produits, CRM) et contribue à affiner nos techniques de gestion des objections.
+
+* **Partage ton savoir\\-faire :**
+
+Identifie et diffuse les bonnes pratiques commerciales pour maximiser la performance de l’équipe et favoriser une dynamique de réussite collective.
+
+**Pilotage stratégique :**
+
+* **Sois force de proposition :**
+
+Apporte tes retours d’expérience et analyses pour affiner nos stratégies commerciales, en assurant une approche toujours plus performante et adaptée aux besoins de nos clients.
+
+**Salaire fixe annuel entre 37 000 € et 42 000 € selon expérience \\+ 50 % de variable sur objectif**
+
+**Profil recherché**
+
+Le poste est fait pour toi si :
+
+* Tu as une première expérience réussie dans le secteur de la **vente sédentaire**, idéalement auprès de **CSE**.
+* Tu es force de proposition et n’hésites pas à partager tes idées pour faire évoluer les processus.
+* Tu as une réelle aisance relationnelle, ce qui te permet de créer facilement des liens de confiance.
+* Tu es une personne autonome, engagée et rigoureuse dans ton travail.
+* Tu es créatif(ve) et apprécies les environnements où l’innovation est valorisée.
+
+**Le petit \\+ :**
+
+* Une **expérience de commercialisation auprès de la cible CSE** serait un véritable atout.
+* Tu as idéalement une première expérience commerciale réussie dans le secteur des **services** ou du **tourisme**.
+
+Type d'emploi : Temps plein, CDI  
+Statut : Cadre
+
+Rémunération : 37 000,00€ à 42 000,00€ par an
+
+Avantages :
+
+* Intéressement et participation
+* Prise en charge du transport quotidien
+* Réductions tarifaires
+* Restaurant d'entreprise
+* RTT
+* Travail à domicile occasionnel
+
+Horaires :
+
+* Repos le week\\-end
+* Travail en journée
+
+Rémunération supplémentaire :
+
+* Commissions
+* Primes
+
+Lieu du poste : En présentiel
+
+Date de début prévue : 07/02/2025",,https://www.glassdoor.fr/Overview/W-EI_IE1136339.htm,https://media.glassdoor.com/sql/1136339/solucia-protection-juridique-squareLogo-1657117051631.png,,,,,

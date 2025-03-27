@@ -1,0 +1,1247 @@
+id,site,job_url,job_url_direct,title,company,location,date_posted,job_type,salary_source,interval,min_amount,max_amount,currency,is_remote,job_level,job_function,listing_type,emails,description,company_industry,company_url,company_logo,company_url_direct,company_addresses,company_num_employees,company_revenue,company_description
+li-4157162340,linkedin,https://www.linkedin.com/jobs/view/4157162340,,Team Lead SOC - CDI F/H,I-TRACING,"Courbevoie, Île-de-France, France",2025-02-17,fulltime,,,,,,,associate,Information Technology,,,"Le CyberSOC d’I\\-TRACING c’est aujourd’hui plus de 70 clients grands comptes et grandes entreprises pour la plupart en 24/7, en collaboration avec nos filiales de Montréal et Hong\\-Kong dans le cadre de notre Follow\\-the\\-Sun.
+ 
+
+
+
+ Notre philosophie : des environnements décloisonnés pour une meilleure montée en compétences, des outils et technologies variées, et du partage de connaissance interne pour s’entraider.
+ 
+
+
+
+ Nous sommes également accompagnés de notre équipe d’outilleurs sécurité et de nos ingénieurs SIEM pour une amélioration continue et sur\\-mesure.
+ 
+
+
+
+  
+
+
+
+
+
+ En tant que référent SOC, vous serez responsable de la gestion et du développement d’un SOC client de façon autonome. Vous serez l’interlocuteur privilégié de votre client et son premier niveau d’escalade. Vos missions seront de :
+ 
+
+
+
+  
+
+
+
+
+* Encadrer et faire monter en compétences l’équipe d’Analystes Sécurité travaillant sur votre périmètre.
+* Gérer les solutions de sécurité déployées sur votre périmètre
+* SIEM pour analyser les logs et détecter des comportements anormaux,
+* SOAR pour l’enrichissement, l’analyse, le suivi et l’automatisation
+* Gérer le build des différentes couches du SOC : SIEM, intégration des logs, parsing, playbooks et automatisation
+* Faire une veille sur les nouvelles attaques pour alimenter les use cases
+* Développer de nouveaux use cases
+* Analyser les incidents de sécurité jusqu’au N3
+* Faire de la gestion de crise cyber en lien avec notre CERT
+* Participer aux activités de threat hunting
+* Conseiller et accompagner au quotidien votre client
+* Participer au développement business de votre client
+* Participation à l’enrichissement de la communauté interne cyberdéfense (SOC, CERT, pentesteurs…)
+
+
+
+  
+
+
+
+
+
+ De multiples évolutions possibles vous seront offertes, en France comme à l’étranger. Du plus technique comme analyste CERT, au plus de fonctionnel : manager SOC ou service manager, en passant par toute la gamme des métiers cyber sécurité présents chez I\\-TRACING (consultant sécurité, chef de projet, GRC, expertise IAM…)
+ 
+
+
+
+  
+
+
+
+
+
+**Comment savoir si vous pouvez nous rejoindre ?** 
+
+
+
+
+ Si vous êtes :
+ 
+
+
+
+ De formation Bac \\+5 en informatique, et que vous possédez au moins 3 ans d’expérience dans une équipe d’exploitation système et réseau, idéalement dans un SOC
+ 
+
+
+
+ Rigoureux(se) et structuré(e), vous savez suivre de bout en bout des incidents potentiellement sensibles avec l’ouverture d’esprit et la réactivité permettant de suivre l’évolution des menaces et des attaques et de l’intégrer à la surveillance des SI.
+ 
+
+
+
+ Dynamique, bon communiquant, curieux, avec une envie de s’investir et de développer ses compétences dans un environnement challengeant et être force de proposition.
+ 
+
+
+
+  
+
+
+
+
+
+ Anglais professionnel lu, écrit et parlé
+ 
+
+
+
+  
+
+
+
+
+
+ Alors n’hésitez plus et venez rejoindre notre équipe SOC pour continuer de grandir avec nous !
+ 
+
+
+
+  
+
+
+
+
+
+ Ce poste est ouvert aux candidats en situation de handicap. Nous nous engageons à garantir un processus de recrutement équitable et à fournir les aménagements nécessaires pour favoriser leur intégration au sein de nos équipes.
+ 
+
+
+
+  
+
+
+
+
+
+**Pourquoi nous rejoindre ?** 
+
+
+
+
+ Chez I\\-TRACING nous sommes avant tout des passionnés de cybersécurité, mais pas uniquement !
+ 
+
+
+
+ Choisir I\\-TRACING, c’est rejoindre une société :
+ 
+
+
+
+ Qui fait du bien\\-être et de l’équilibre de vie de ses salariés une priorité, reconnue par le label Happy At Work
+ 
+
+
+
+ Qui met en œuvre un accompagnement de proximité de chaque collaborateur par un manager technique, responsable d’une équipe à taille humaine. Celui\\-ci garantit le suivi de votre activité et le développement de votre carrière (plan de formation personnalisé, passage de certifications, évolution de carrière, mobilité interne).
+ 
+
+
+
+ Qui vous ouvre des opportunités en France (Nantes, Lyon, Région Parisienne) et à l’international (Montréal, Hong Kong)
+ 
+
+
+
+ Dont l’expertise technique, l’engagement et le sens du service client sont reconnus sur le marché
+ 
+
+
+
+ Aux valeurs fortes de cohésion, de curiosité, d’esprit d’initiative, de solidarité et de bienveillance
+ 
+
+
+
+ Qui permet le financement de projets collaboratifs (teamstarter) pour animer le quotidien au travail et maintenir une ambiance chaleureuse
+ 
+
+
+
+  
+
+
+
+
+
+ L’ensemble des collaborateurs impliqués dans nos processus de recrutement ont signé et approuvé notre charte du recrutement éthique. Nous valorisons la diversité et pensons qu'elle fait partie intégrante de notre réussite collective. Nous sommes déterminés à promouvoir un environnement inclusif où chaque individu est respecté et valorisé. Nous encourageons les candidatures issues de différents horizons et nous nous engageons à éliminer toute forme de discrimination dans notre processus de recrutement et à garantir l’égalité des chances.
+ 
+
+
+
+  
+
+
+
+
+
+**Qui sommes\\-nous ?** 
+
+
+
+
+ Créée en 2005, I\\-TRACING est aujourd’hui le premier pure\\-player indépendant généraliste en cyber sécurité sur le marché français, avec ses 700 collaborateurs et ses 150M€ de CA en 2024\\.
+ 
+
+
+
+  
+
+
+
+
+
+ Un modèle intégré de bout en bout, un accompagnement global \\& engageant depuis la GRC, l’audit, le conseil technique et l’ingénierie jusqu’au services managés et les activités de cyber défense (CyberSoc), sur l’ensemble des domaines technologiques de la cyber sécurité.
+ 
+
+
+
+ Des clients grands comptes en France et à l’international.
+ 
+
+
+
+  
+
+
+
+
+
+ Un acteur majeur de son écosystème, membre fondateur du CESIN, partenaire privilégié de l’ANSSI, membre fondateur du Campus Cyber et présent aux rendez\\-vous incontournables de la cyber (LeHack, Le FIC, Les Assises, …).
+ 
+
+
+
+  
+
+
+
+
+
+ Pour plus d’informations : https://www.i\\-tracing.com/fr/
+ 
+
+
+
+  
+
+
+
+
+
+  
+
+
+
+
+
+ Rémunération : attractive et selon votre expertise
+ 
+
+
+
+ Participation et primes exceptionnelles selon votre investissement",Computer and Network Security,https://fr.linkedin.com/company/i-tracing,https://media.licdn.com/dms/image/v2/C560BAQHSTIh1MlHB9Q/company-logo_100_100/company-logo_100_100/0/1678695403419/i_tracing_logo?e=2147483647&v=beta&t=5sHCNMednRg-ABQ5gIRF-z2R6pLoJLPQO22o7XIAWGQ,,,,,
+li-4152799242,linkedin,https://www.linkedin.com/jobs/view/4152799242,,Ingénieur SAP BC F/H,FAB Group,"Paris, Île-de-France, France",2025-02-17,fulltime,,,,,,,associate,Information Technology,,,"FAB Group (www.fab\\-group.fr) est un cabinet de conseil en recrutement et management de transition. Notre rôle est de trouver les meilleurs talents pour nos clients et les plus belles opportunités professionnelles pour tous les candidats qui nous font confiance.
+ 
+
+
+
+  
+
+
+
+
+
+ Depuis 2007, nous accompagnons nos partenaires et talents avec une approche basée sur 3 piliers qui ont fait notre réputation : spécialisations sectorielles, rigueur et transparence.
+ 
+
+
+
+ Nous plaçons l'humain au cœur de notre réflexion, en veillant à prendre en compte chaque projet individuellement et en mettant en place de véritables coachings de nos candidats et de nos clients. La construction de liens solides avec chacun d'entre eux est la force de notre cabinet. La disponibilité est un élément central de notre ADN.
+ 
+
+
+
+  
+
+
+
+
+
+ Sous la marque FAB IT \\& Digital, nos équipes de spécialistes accompagnent les Directions des Systèmes d'Information de tous secteurs d'activité dans leurs recrutements (gouvernance, MOA, études et développement, infrastructures, sécurité et digital)
+ 
+
+
+
+  
+
+
+
+
+
+ Aujourd'hui nous recherchons pour l'un de nos clients, un grand groupe d'édition français, un Ingénieur SAP BC F/H basé à Paris.
+ 
+
+
+
+  
+
+
+
+
+
+  
+
+
+
+
+
+ Le client engage un programme de transformation ambitieux qui va mener à l’évolution des solutions SAP existantes et l’intégration de nouvelles solutions SAP au sein du SI.
+ 
+
+
+
+ En tant qu'Ingénieur SAP BC, vous assurez des missions d’exploitation des environnements SAP, de coordination avec les différentes parties prenantes, et vous participez activement aux projets d’évolutions. Vous travaillerez en coordination avec les équipes expertes SAP en charge de la cohérence et des études SAP d’un côté, et un infogérant en charge de l’exploitation SAP de l’autre.
+ 
+
+
+
+ Vous interviendrez au sein de l’équipe Exploitation, rattachée au domaine Production de la Direction des Infrastructures Informatiques.
+ 
+
+
+
+  
+
+
+
+
+
+ Missions principales :
+ 
+
+
+
+  
+
+
+
+
+
+ Coordination infogérance
+ 
+
+
+
+ • Participation aux points de coordination avec l'infogérant SAP
+ 
+
+
+
+ • Interlocuteur technique privilégié pour la société dans la relation avec l'infogérant
+ 
+
+
+
+ • Suivi des SLA des prestations de l’infogérant (ex : suivi de la fréquence et de la qualité des sauvegardes)
+ 
+
+
+
+ • Suivi et facilitation des demandes d'évolutions soumises par les pôles applicatifs
+ 
+
+
+
+  
+
+
+
+
+
+ Production SAP
+ 
+
+
+
+ • Accompagnement des MEP SAP
+ 
+
+
+
+ • Gestion des comptes et accès SAP selon le cadre défini, on prem et cloud SAP
+ 
+
+
+
+ • Suivi des incidents
+ 
+
+
+
+ o Analyse des dumps
+ 
+
+
+
+ o Qualification des incidents
+ 
+
+
+
+ • Actions correctrices
+ 
+
+
+
+ • Gestion des certificats (on prem et cloud SAP)
+ 
+
+
+
+ • Gestion des jobs techniques
+ 
+
+
+
+ • Gestion et optimisation des refresh des environnements et/ou des données
+ 
+
+
+
+ • Gestion des idoc
+ 
+
+
+
+ • Gestion des flux (saprouter, cloud connector etc.)
+ 
+
+
+
+ • Gestion des transports
+ 
+
+
+
+ • Amélioration continue de la supervision
+ 
+
+
+
+  
+
+
+
+
+
+ Suivi des environnements
+ 
+
+
+
+ • Surveillance des performances, participation capacity planning
+ 
+
+
+
+ • Suivi du respect du cycle de vie des environnements
+ 
+
+
+
+ • Suivi des décommissionnements
+ 
+
+
+
+  
+
+
+
+
+
+ Participation build SAP
+ 
+
+
+
+ • Préparer au mieux les passages en production
+ 
+
+
+
+ o Qualification technique des besoins
+ 
+
+
+
+ o Respect des bonnes pratiques de production (nommage, plages d’intervention, impact sur production etc.)
+ 
+
+
+
+ o Prise en compte des enjeux sécurité
+ 
+
+
+
+ • Contribuer à l'intégration et au maquettage de solutions techniques
+ 
+
+
+
+ • Travailler autour de l'automatisation des tâches récurrentes (ex : passage des OT)
+ 
+
+
+
+ • Référent production sur les projets d'évolutions SAP
+ 
+
+
+
+  
+
+
+
+
+
+ Environnement
+ 
+
+
+
+ SAP ECC et S4, en transformation vers S4, Cloud Sales \\& Services, BTP (Integration Suite)
+ 
+
+
+
+ Utilisation des produits S4Hana, Oracle, ADS, CUA
+ 
+
+
+
+  
+
+
+
+
+
+  
+
+
+
+
+
+ Vous possédez au moins 5 années d'expériences réussies dans le monde de l’administration SAP.
+ 
+
+
+
+ Au\\-delà de vos compétences techniques, vous êtes rigoureux et autonome. Vous avez envie de l’appétence technique pour participer la mise en œuvre de nouvelles solutions SAP.",Book and Periodical Publishing,https://fr.linkedin.com/company/fabgroup,https://media.licdn.com/dms/image/v2/D4E0BAQEQb2r9TEdrTQ/company-logo_100_100/company-logo_100_100/0/1704888710819/fabgroup_logo?e=2147483647&v=beta&t=_T-hASlyhKVxCJrSIU6BsZLJ_hOCRYTixwof4AbH7nQ,,,,,
+li-4153203015,linkedin,https://www.linkedin.com/jobs/view/4153203015,https://bpi.tzportal.io//fr/apply?job=6703-43&source=linkedin&urlHash=JlRb,Chargé de projet conformité F/H,Bpifrance,"Maisons-Alfort, Île-de-France, France",2025-02-17,fulltime,,,,,,,associate,"Quality Assurance, Project Management, and Consulting",,,"**Chargé de projet conformité \\- Accompagnement F/H** 
+
+
+
+
+  
+
+
+
+
+
+**Bpifrance, une banque pas comme les autres** 
+
+
+
+
+  
+
+
+
+
+
+ Le rôle de Bpifrance, Banque Publique d’Investissement, est de dynamiser et rendre plus compétitive l’économie française. Bras armé financier de l'Etat, Bpifrance offre une palette de solutions de financement et d’accompagnement adaptées à chaque étape de la vie des entreprises pour accélérer leur développement en France comme à l’international et renforcer leurs capacités d’innovation. En tant qu’interlocuteur privilégié des entrepreneurs français, les équipes Bpifrance sont au cœur des régions sur l'ensemble du territoire, à travers
+ **50 implantations régionales** 
+ .
+ 
+
+
+
+  
+
+
+
+
+
+ L’urgence climatique occupe aujourd'hui une place centrale dans la stratégie de Bpifrance. Au travers de son
+ **Plan climat** 
+ , le groupe œuvre notamment à l'émergence et la croissance des
+ **greentech** 
+ , amplifie ses financements et investissements à destination de la
+ **filière énergies renouvelable** 
+ , et accompagne en partenariat avec l'ADEME les entreprises françaises dans leur transition écologique et énergétique.
+ 
+
+
+
+  
+
+
+
+
+
+ Labellisé parmi les
+ **Meilleurs Employeurs France 2023** 
+ par Glassdoor, rejoindre Bpifrance c’est aussi intégrer une banque engagée auprès des jeunes et évoluer au sein d'un groupe dans lequel il fait bon vivre !
+ 
+
+
+
+  
+
+
+
+
+
+ Des startups aux ETI, l’activité de l’Accompagnement a pour objectif de
+ **révéler le potentiel** 
+ des entreprises françaises, afin de les inscrire dans
+ **des trajectoires de croissance pérenne** 
+ et leur permettre de s’adapter
+ **aux enjeux de demain** 
+ . Investissement, conseil, formation et mise en réseau, l’activité de l’Accompagnement regroupe ainsi une très large palette de métiers. Les équipes accompagnent également les entreprises via
+ **l’Accélérateur** 
+ , un programme intensif et sur mesure, véritable booster de croissance. Des missions passionnantes, concrètes et pleines de sens, c’est ce qui vous attend à l’Accompagnement.
+ 
+
+
+
+  
+
+
+
+
+
+  
+
+
+
+
+
+ La
+ **Direction du Pilotage et de la Gestion** 
+ a pour objectif de répondre aux enjeux de croissance tout en gagnant en cohérence et en performance liés à une multitude d’offres, notamment générées dans le cadre du Plan de relance. Elle a la charge du suivi contractuel et administratif des clients, consultants externes dans le cadre des programmes d’accélérateurs ou missions de conseil, de la gestion de la facturation auprès des clients et consultants externes, du suivi administratif et de reporting relatifs aux conventions signées avec les partenaires financeurs.
+ 
+
+
+
+  
+
+
+
+
+
+ Dans le cadre de la croissance de cette Direction, nous recherchons un(e) :
+ 
+
+
+
+  
+
+
+
+
+
+**Chargé de projet conformité Accompagnement F/H** 
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+
+
+
+**Vos missions au service de l’économie française** 
+
+
+
+
+  
+
+
+
+
+
+ Vous êtes rattaché(e) au Pôle Projets Transverses de la Direction du Pilotage et de la Gestion de la direction de l'Accompagnement et travaillerez avec la Coordinatrice Qualité en support aux équipes opérationnelles (Développement, Marketing et Soutien Commercial, Accélérateurs, Conseil, Université) et dans le but d’accompagner les entreprises clientes des offres d’Accompagnement.
+ 
+
+
+
+  
+
+
+
+
+
+ Vous comprenez l’importance des enjeux règlementaires. Vous êtes passionné(e) par la qualité et la data.
+ 
+
+
+
+  
+
+
+
+
+
+ En tant que Chargé(e) de projet conformité Accompagnement, vous êtes le point d’entrée des différentes directions pour d’une part superviser le système de management de la qualité, d’autre part, coordonner et animer les sujets en lien avec la conformité en vue d’optimiser l’efficacité globale des processus clés de la Direction de l’Accompagnement.
+ 
+
+
+
+  
+
+
+
+
+
+ Vous serez accueilli(e) au sein d’une équipe dynamique, dans un contexte challengeant, agile et innovant.
+ 
+
+
+
+  
+
+
+
+
+
+**Missions :**
+
+
+
+
+  
+
+
+
+
+
+ En tant que Chargé(e) de projet conformité Accompagnement, vous aurez les missions suivantes :
+ 
+
+
+
+  
+
+
+
+
+
+**Vous supervisez le déploiement opérationnel de la Politique Qualité dans une démarche d’amélioration continue :** 
+
+
+
+* Vous supervisez le Système de Management Qualité (SMQ) et veillez au déploiement de la Politique Qualité au service de l’activité ;
+* Vous supervisez l’accompagnement des auditeurs internes dans la planification et la réalisation des audits internes qualité ;
+* Vous supervisez les revues de processus avec les pilotes et les relais métier : collecte et analyse des données et proposition d’actions d’amélioration ;
+* Vous animez la revue de direction avec le CODIR ;
+* Vous portez les actions de communication sur le Système de Management Qualité (SMQ) au sein de notre Direction et plus largement pour Bpifrance et avec nos partenaires externes.
+
+
+
+  
+
+
+
+
+
+  
+
+
+
+
+
+**Vous animez notre démarche sur la gestion des risques opérationnels :** 
+
+
+
+* Vous sensibilisez l’ensemble de la Direction sur l’approche par les risques sur l’ensemble de nos process clés avec un prisme data ;
+* Vous coordonnez la mise en place de notre dispositif de contrôle permanent de premier niveau ;
+* Vous supervisez la mise à jour la cartographie des risques opérationnels et sensibilisez la Direction ;
+* Vous supervisez la bonne réalisation des contrôles opérationnels sur les différentes activités de la Direction ;
+* En tant que relais RGPD, vous mettez à jour le registre de traitement des DACP et accompagnez les équipes opérationnelles afin d’être en conformité avec la réglementation européenne.
+
+
+
+  
+
+
+
+
+
+**Gestion de projets transverses** 
+
+
+
+* Vous assurez le suivi et la supervision des audits internes et externes ;
+* Vous assurez l’interface entre des directions juridique, conformité, métiers et informatique ;
+* Vous conduisez des projets de transformation en lien avec les enjeux de notre Direction, partagez le sens, coordonnez, levez les freins ;
+* Vous rassemblez le collectif des différentes directions autour projet commun ;
+* Vous favorisez la mutualisation, la convergence, le partage. Vous assurez communication, soutien avec l’ensemble des parties prenantes.
+
+
+
+  
+
+
+
+
+
+***Cette description prend en compte les principales missions du poste ; elle n’est pas limitative.***
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+
+
+
+**Prêts à rejoindre notre équipe ?** 
+
+
+
+
+  
+
+
+
+
+
+ De formation supérieure (à partir de Bac\\+5\\), vous disposez d’une expérience professionnelle sur une fonction similaire d’au moins 5 ans en tant que consultant d’un cabinet de conseil ou en conseil interne sur des sujets en qualité et amélioration continue, conformité, contrôle permanent, audit interne.
+ 
+
+
+
+  
+
+
+
+
+
+ Vous avez des appétences pour travailler sur des problématiques à fort enjeux en lien avec différentes directions.
+ 
+
+
+
+  
+
+
+
+
+
+ Vous êtes capable d’animer des ateliers et des réunions avec dynamisme ; de former des personnes sur thématiques complexes.
+ 
+
+
+
+  
+
+
+
+
+
+ Vous faites preuve de curiosité intellectuelle.
+ 
+
+
+
+ Vous possédez d’excellentes aptitudes relationnelles et de travail en équipe et êtes reconnu(e) pour votre rigueur, votre fiabilité, votre réactivité, votre force de proposition et d’argumentation.
+ 
+
+
+
+  
+
+
+
+
+
+ Une bonne connaissance du Pack Office (Excel / Word / Powerpoint) et d’outils de reporting est souhaitée.
+ 
+
+
+
+  
+
+
+
+
+
+ La connaissance de la méthodologie Lean6sigma (AMDEC, 5P, QQOQCCP…) serait un plus.
+ 
+
+
+
+  
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+
+
+
+**Les bonnes raisons de rejoindre l’aventure Bpifrance !** 
+
+
+
+* **Un travail avec du sens :** 
+ Vous contribuerez à une mission unique d’utilité publique au service de l’économie française et au sein d’une banque engagée sur des sujets de société (climat, jeunesse, égalité des chances…).
+* **Un environnement dans lequel il fait bon vivre :** 
+ Vous intégrerez des équipes dynamiques et bienveillantes, au sein d’une entreprise attentive à la Qualité de Vie au Travail de ses collaborateurs. Nos certifications Happy Trainees et Meilleurs Employeurs France par Glassdoor en témoignent !
+* **Des conditions avantageuses :** 
+ Vous bénéficierez des nombreux avantages qu’offre le groupe pour ses collaborateurs : télétravail, épargne salariale attractive, CSE, dispositifs de Qualité de Vie au Travail…
+* **Un tremplin pour votre carrière :** 
+ Vous profiterez des meilleures conditions mises en place chez Bpifrance pour développer vos compétences et construire votre parcours de carrière, grâce à un accompagnement sur\\-mesure et des parcours de formation complets et personnalisés.
+
+
+
+  
+
+
+
+
+
+ Travailler chez Bpifrance, c’est intégrer une banque pas comme les autres, un projet d’entreprise ambitieux et tourné vers l’avenir. C’est plus qu’un métier : c’est une mission, une équipe, un réseau et un écosystème.
+ 
+
+
+
+  
+
+
+
+
+
+ Pour découvrir nos autres opportunités et tout savoir de la vie au sein du groupe, rendez\\-vous sur notre site carrière !
+ 
+
+
+
+  
+
+
+
+
+
+  
+
+
+
+
+
+ Bpifrance est une banque citoyenne dotée d’un code de déontologie et d’une politique anti\\-corruption.
+ 
+
+
+
+ Avant de postuler, nous vous invitons à consulter notre politique relative à la gestion des données à caractère personnel disponible sur notre site.",Investment Banking,https://fr.linkedin.com/company/bpifrance,https://media.licdn.com/dms/image/v2/C4D0BAQE_pjlLkNPv7Q/company-logo_100_100/company-logo_100_100/0/1630464491015/bpifrance_logo?e=2147483647&v=beta&t=9SBsCE4NlFyTKX8zAGhmMioXroGIKjsQsANAUeFLMwU,,,,,
+li-4157199159,linkedin,https://www.linkedin.com/jobs/view/4157199159,https://careers.paris-society.com/fr/annonce/3483177-stage-assistant-coordinateurtrice-achats-sponsoring-partenariats-hf-75008-paris?s_o=linkedin&s_b=DigitalRecruiters&urlHash=kjFI,"STAGE - Assistant Coordinateur(trice) Achats, Sponsoring & Partenariats H/F",PARIS SOCIETY,"Paris, Île-de-France, France",2025-02-17,fulltime,,,,,,,internship,Management and Manufacturing,,,"**CONTEXTE :**
+ Avec plus de 60 lieux d’exception et 1 500 collaborateurs, Paris Society est un acteur incontournable de l’hospitalité en France. Afin de soutenir la synergie entre les pôles
+ **Sponsoring \\& Partenariats** 
+ et
+ **Achats** 
+ , nous recherchons un(e) stagiaire motivé(e) pour jouer un rôle transversal dans la coordination des projets, des relations partenaires, et des processus d’achat, tout en participant au développement stratégique du groupe.
+   
+
+  
+
+**MISSIONS :**
+* Support Achats :
+* Participer aux appels d’offres, négociations fournisseurs et sourcing en vue d’une amélioration continue de la qualité et de la performance économique des gammes suivies.
+* Contribuer à l’optimisation des gammes produits, en assurant un suivi des performances économiques et qualitatives.
+* Mettre à jour les bases de données (fiches fournisseurs, références articles) dans l’ERP.
+* Suivre les litiges liés aux fournisseurs en collaboration avec les acheteurs, et le service comptabilité.
+* Coordination Sponsoring \\& Partenariats :
+* Participer à l’identification et au développement de nouveaux partenaires stratégiques (luxe, spiritueux, cosmétique, etc.).
+* Assister à la négociation et à la formalisation des accords avec les partenaires.
+* Coordonner les activations et les collaborations avec les partenaires, en lien avec les équipes communication.
+* Contribuer à l’analyse de la performance et du ROI des partenariats existants.
+* Assurer une veille afin d'identifier tous les partenaires potentiels
+* Missions Transverses :
+* Assurer un relais d’information entre les pôles Sponsoring \\& Partenariats et Achats pour maximiser la synergie.
+* Participer aux réunions stratégiques des deux pôles et préparer des reportings synthétiques pour la direction.
+
+
+**Formation :**
+* Étudiant(e) en Master 2 (commerce, marketing, achats, gestion, ou équivalent).
+
+
+**Qualités :**
+* Excellent relationnel et sens de la communication.
+* Capacité à travailler de manière autonome et en équipe dans un environnement dynamique.
+* Créativité, curiosité, organisation, et rigueur.
+
+
+**Compétences :**
+* Bonne maîtrise du pack Office (Excel, PowerPoint).
+* Intérêt pour l’univers du luxe, de l’art de vivre et de l’hospitalité.
+* Anglais professionnel requis.
+
+
+**Modalités :**
+**Durée :** 
+ 6 mois à partir de début Mars.
+   
+
+  
+
+**Localisation :** 
+ Paris, avec possibilité de déplacements ponctuels.
+   
+
+  
+
+**Avantages :** 
+ Immersion dans un groupe leader, missions responsabilisantes et opportunité de développer une double expertise.
+   
+
+  
+
+**Rejoignez une équipe passionnée et contribuez à la synergie entre deux pôles stratégiques de Paris Society !**",Events Services,https://fr.linkedin.com/company/paris-society,https://media.licdn.com/dms/image/v2/C560BAQGIqKaP_i_yGg/company-logo_100_100/company-logo_100_100/0/1630592622725/groupe_noctis_logo?e=2147483647&v=beta&t=L64Kh6bi9p7LMLzlDwSVB7zn_Ou_tKZxZmGjwuSAnSU,,,,,
+li-4157318504,linkedin,https://www.linkedin.com/jobs/view/4157318504,https://talents.hermes.com/en/sites/CX/job/13714/?mode=job-location&urlHash=lKVP,CDI - Approvisionneur Matières Métalliques (h/f),Hermès,"Pantin, Île-de-France, France",2025-02-17,fulltime,,,,,,,mid-senior level,Purchasing and Supply Chain,,,"* Catégorie d'emploi Supply Chain et Achats \\- Achats, approvisionnement
+* Years of Experience Minimum 3 years
+* Contract Type Unlimited contract
+* Horaire de travail Temps plein
+* Lieux HERMES PANTIN 13 RUE AUGER
+* Société juridique HERMES SELLIER
+* Date de publication 13/02/2025 13:51
+
+
+ Positionnement
+   
+
+  
+
+ Au sein de la direction des Approvisionnements de la Division Hermès Maroquinerie Sellerie
+   
+
+  
+
+ L’approvisionneur est rattaché au responsable d’approvisionnement du pole Matières métalliques
+   
+
+  
+
+ Périmètre
+   
+
+  
+
+ Le titulaire gère l’approvisionnement d’une partie du portefeuille des matières métalliques de la maison : a date environ 1 000 SKU et un panel de 14 fournisseurs pour une valeur \\> à 100 M€.
+   
+
+  
+
+ Eléments de contexte
+   
+
+  
+
+ La famille d’achat des Matières Métalliques fait l’objet d’enjeux croissants :
+   
+
+  
+
+* Augmentation des volumes à acheter chez nos fournisseurs
+* Renforcement des exigences (finesse de pilotage, taux de service, l’optimisation matière, renouvellement de l’offre)
+* Développement de nouveaux relais de croissance (matières, produits, services)
+* Complexification des Flux (semi finis, gestion des nouveautés)
+* Elargissement du panel fournisseur à accompagner
+
+
+ Dans ce contexte, le champ d’intervention du titulaire est large et l’amène à interagir avec les maillons essentiels de la supply chain étendue (de l’industrialisation avec les équipes Achats, Qualité et Techniques, jusqu’au fournisseur dans ses phases de montée en puissance ou de vie série, en passant par les équipes planification centrale et les métiers clients).
+   
+
+  
+
+ Le titulaire évolue aussi dans un environnement industriel caractérisé par :
+   
+
+  
+
+* des supply chain partenaires « complexes » (plusieurs unités spécialisées par technologies)
+* une maturité délais et suivi de production à développer chez l’ensemble des partenaires
+
+
+ Afin de fiabiliser les leadtimes, HMS encourage une démarche de transformation de ses partenaires historiques vers plus d’excellence opérationnelle. L’équipe dans laquelle évolue le titulaire accompagne cette transformation, ce qui occasionnera des déplacements réguliers sur les sites de fabrication.
+   
+
+  
+
+ Missions
+   
+
+  
+
+ Piloter le plan d’approvisionnement d’un portefeuille fournisseurs MM pour le département Maroquinerie
+   
+
+  
+
+ Contribuer à la fiabilisation des approvisionnements nécessaires aux sites de production,
+   
+
+  
+
+ Gérer les commandes fournisseurs dans le respect du cadre Achat (cf multisourcing)
+   
+
+  
+
+ Veiller à la mise à jour des délais de livraisons fournisseur dans le système informatique
+   
+
+  
+
+ Contribuer à la bonne optimisation du stock économique (stock à terme, couverture, stocks de sécurité)
+   
+
+  
+
+ Sécuriser et fiabiliser les taux de service fournisseurs
+   
+
+  
+
+ Etre force de proposition et acteur pour améliorer les processus approvisionnement sur son périmètre
+   
+
+  
+
+ Etre garant des paramétrages du système sur son périmètre.
+   
+
+  
+
+ Contribuer à la transformation des outils de pilotage (Power BI)
+   
+
+  
+
+ Principales activités
+   
+
+  
+
+ 1\\- Gestion court terme
+   
+
+  
+
+* Passage des commandes fermes au SKU à chacun des fournisseurs
+* Mise à jour des portefeuilles de commandes fournisseurs
+* Suivi/Relance fournisseurs en cas de dérive et/ou nouvelle priorité
+* Anticipation des ruptures (communication aux sites de fabrication et à la planification)
+
+
+ 2\\- Relation fournisseurs
+   
+
+  
+
+* Développer une connaissance intime de l’industrie des partenaires afin d’adapter nos outils de gestion
+* Encourager la démarche d’amélioration continue et la maitrise des lead\\-times.
+* Communication mensuelle à chaque fournisseur avec commentaires et plan d’action
+* Déplacement sur site fournisseurs, rencontres régulières
+* Approfondissement du partenariat (comprendre leur problématique, challenger leur qualité de service)
+
+
+ 3\\- Interfaces
+   
+
+  
+
+ Le titulaire travaillera en étroite collaboration avec les autres équipes de production supply chain, des achats, de la qualité, du développement produit, du contrôle de gestion et autres services intervenants dans son flux.
+   
+
+  
+
+* Achat : Définition des futurs besoins de bi\\-sourcing, surveillance fournisseur, risques, contraintes et opportunités capacitaires etc…
+* Planification : Sécuriser les ordres d’achat fournisseurs desquels dépendent les plans mensuels de production, gérer les urgences, et anticiper les ruptures.
+* Qualité : Renforcer le partage des risques et suivi des plans d’action correctifs
+
+
+**4\\- Indicateurs / Reporting**
+* Contribuer à l’élaboration des tableaux de bord et reporting
+* Calcul des taux de service fournisseurs, Qualité du stock, Qualité du portefeuille de commande, Taux de disponibilité, etc…
+* Calcul des taux de service fournisseurs, Qualité du stock, Qualité du portefeuille de commande, Taux de disponibilité, etc…
+* Contribuer à l’évolution des outils d’analyse de données
+
+
+ 5\\- Amélioration continue et transformation des outils de pilotage :
+   
+
+  
+
+ En lien avec le responsable amélioration des processus, le titulaire devra être force de proposition pour :
+   
+
+  
+
+* Optimiser et construire les processus dans son périmètre
+* Pérenniser des modes de fonctionnement de son périmètre
+
+
+ Profil et compétences
+   
+
+  
+
+* Cursus Bac \\+5 (école d’ingénieur, école de commerce ou formation universitaire avec une spécialisation logistique et si possible orientée Planification \\- Approvisionnements)
+* 5 ans d’expérience dans le domaine des approvisionnements ou de la planification dans un environnement industriel (en central ou sur site de production),
+* Bonne connaissance des ERP, d’Excel et de power BI
+* Intérêt et curiosité pour les processus de fabrication de nos composants et l’environnement fournisseurs
+* Volontaire, tenace, perspicace, bon coordinateur, bon communiquant, flexible, organisé, impliqué, adapté aux environnements mouvants et changeants",Retail Luxury Goods and Jewelry,https://fr.linkedin.com/company/hermes-group,https://media.licdn.com/dms/image/v2/C4E0BAQEEwTOnwK5sGA/company-logo_100_100/company-logo_100_100/0/1630598689086/hermes_group_logo?e=2147483647&v=beta&t=erRmDzC8cF_t1J-L0ANNQsjmY0sfptnarv5NuqBpEQ8,,,,,

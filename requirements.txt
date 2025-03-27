@@ -1,0 +1,13 @@
+lxml_html_clean
+requests-html
+jobspy
+spacy
+sentence-transformers
+fitz
+pandas
+numpy
+scikit-learn
+python-dateutil
+sentence-transformers
+huggingface_hub
+transformers

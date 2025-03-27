@@ -1,0 +1,732 @@
+id,site,job_url,job_url_direct,title,company,location,date_posted,job_type,salary_source,interval,min_amount,max_amount,currency,is_remote,job_level,job_function,listing_type,emails,description,company_industry,company_url,company_logo,company_url_direct,company_addresses,company_num_employees,company_revenue,company_description
+li-4136189944,linkedin,https://www.linkedin.com/jobs/view/4136189944,,SERVICE DELIVERY MANAGER INFRA/ OCI H-F,SQORUS,"Île-de-France, France",2025-01-28,fulltime,,,,,,,mid-senior level,Information Technology,,,"En tant que Service Delivery Manager spécialisé en infrastructures avec expertise en Oracle Cloud Infrastructure (OCI), vous aurez pour mission de superviser les opérations, piloter les projets de transformation, et encadrer les équipes techniques. Vous serez également un acteur clé dans le développement et la promotion de l’offre GreenFinOps, pour répondre aux enjeux d'optimisation des coûts et de durabilité dans les environnements Cloud.
+ 
+
+
+
+  
+
+
+
+
+
+**Mission** 
+
+
+
+
+ Principales Responsabilités :
+ 
+
+
+1. **Gestion opérationnelle (Run) :**
+
+
+* Superviser les opérations quotidiennes des infrastructures Cloud et on\\-premise (OCI, réseaux, stockage, bases de données, etc.).
+* Garantir la disponibilité, la performance et la sécurité des services conformément aux SLA définis.
+* Traiter les incidents majeurs et coordonner les efforts de résolution avec les équipes techniques.
+* Piloter la gestion des problèmes et des changements (Change Management) en suivant les bonnes pratiques ITIL.
+* Assurer le suivi et l’optimisation des coûts liés à l’exploitation des infrastructures OCI.
+
+
+1. **Gestion des équipes techniques et suivi documentaire**
+
+
+* Encadrer et motiver les équipes techniques, en assurant une répartition efficace des tâches quotidiennes.
+* Garantir la qualité et l’exhaustivité de la documentation technique (processus, architectures, incidents, etc.).
+* Favoriser la montée en compétence des équipes et leur engagement dans une démarche d’excellence opérationnelle.
+
+
+1. **Projets de conception et de déploiement (Build) :**
+
+
+* Piloter des projets d’intégration et de migration vers Oracle Cloud Infrastructure (OCI).
+* Définir les architectures techniques en collaboration avec les architectes cloud et les équipes techniques.
+* Superviser la mise en œuvre des nouvelles infrastructures, y compris les tests, validations et mises en production.
+* Veiller à l’alignement des projets avec les besoins métiers et les objectifs stratégiques des clients.
+* Garantir la documentation des architectures et des solutions mises en œuvre.
+
+
+1. **Développement des offres FinOps et GreenOps**
+
+
+* Développer une offre FinOps visant à optimiser les coûts d’exploitation Cloud tout en garantissant la performance des services.
+* Élaborer une stratégie GreenOps pour réduire l’empreinte carbone des infrastructures Cloud, en intégrant des solutions éco\\-responsables.
+* Sensibiliser les équipes internes et les clients aux enjeux de durabilité et d’efficience économique dans les projets Cloud.
+* Mettre en place des tableaux de bord et des KPI dédiés à la performance financière et environnementale des infrastructures.
+
+
+1. **Coordination client et parties prenantes :**
+
+
+* Être l’interface unique pour le client concernant les activités de Run et de Build.
+* Conduire des comités opérationnels et stratégiques (suivi des SLA, KPI, feedback client).
+* Identifier les opportunités d’amélioration et proposer des évolutions de services (capacity planning, nouvelles fonctionnalités, etc.).
+
+
+1. **Amélioration continue et veille technologique :**
+
+
+* Piloter les initiatives d’amélioration continue pour renforcer la sécurité, la performance, et la gestion des coûts.
+* Assurer une veille technologique active sur les évolutions liées à OCI, aux outils FinOps, et aux solutions éco\\-responsables.
+* Former les équipes internes et accompagner leur montée en compétence sur les technologies OCI, les méthodologies FinOps et GreenOps.
+
+
+
+  
+
+
+
+
+
+**Profil** 
+
+
+
+
+**Compétences Techniques :** 
+
+
+
+* **Expertise OCI** 
+ : gestion des services, architecture réseau et sécurité, bases de données, monitoring, etc.
+* **Run** 
+ : expérience dans la gestion des opérations IT, suivi des SLA, gestion d’incidents et de problèmes.
+* **Build** 
+ : capacité à concevoir, déployer et optimiser des infrastructures Cloud.
+* Connaissance des environnements hybrides et multi\\-cloud (AWS, Azure, GCP) est un plus.
+* Maitrise des outils ITSM (ServiceNow, Jira) et des méthodologies Agile ou DevOps.
+
+
+
+**Compétences en gestion de service :** 
+
+
+
+* Bonne compréhension des frameworks ITIL (certification ITIL recommandée).
+* Expérience dans le pilotage d’équipes techniques (Run \\& Build).
+* Compétences en gestion de projet (cycle en V ou Agile) pour mener des initiatives de transformation.
+
+
+
+**Soft Skills :** 
+
+
+
+* Excellentes compétences en communication et gestion des parties prenantes.
+* Capacité à prioriser entre les besoins opérationnels (Run) et les projets stratégiques (Build).
+* Leadership et esprit d’initiative.
+
+
+
+**Formation et Expérience :** 
+
+
+
+* Bac\\+5 en informatique, ingénierie ou équivalent.
+* Expérience de 5 à 8 ans en gestion de services d’infrastructure, incluant des projets de transformation.
+* Certifications OCI (Oracle Cloud Infrastructure Architect Associate/Professional) fortement appréciées.
+* Certifications en gestion de projet (PMP, Prince2, Agile) et/ou ITIL sont un atout.
+
+
+
+  
+
+
+
+
+
+**SQORUS en quelques mots :** 
+
+
+
+
+ SQORUS est un
+ **Cabinet Conseil spécialisé dans la transformation des fonctions RH, Finance et IT.** 
+ Nos consultants interviennent depuis plus de
+ **30 ans** 
+ auprès d’ETI et de grandes entreprises sur des projets structurants, à dimension internationale : Conseil en stratégie, Aide au choix, Intégration, Assistance à Maîtrise d’Ouvrage Business Intelligence, Data Management, Accompagnement au changement, Pilotage de la Performance, mais également sur des enjeux autour du Cloud ou de l’Intelligence Artificielle.
+ 
+
+
+
+ Nous anticipons constamment les nouvelles pratiques numériques et les évolutions des modes de travail. Nous avons réussi à tisser des partenariats forts avec les principaux éditeurs du marché et à attirer des experts métiers et techniques.
+ 
+
+
+
+ Notre force :
+ **plus de 300 talents dédiés** 
+ à la réussite des projets de nos clients et partageant des valeurs fortes : la bienveillance, l’exigence, la diversité, l'engagement et la solidarité. Elles constituent des piliers dans nos relations avec nos collaborateurs et nos clients.
+ 
+
+
+
+**Great Place to Work depuis 2014** 
+ , SQORUS est sensible à l’épanouissement de ses équipes, à leur évolution de carrière et à leur formation sur des solutions d’avenir.
+ 
+
+
+
+ Chez Sqorus, nous nous engageons en faveur de l'égalité homme\\-femme et croyons que la diversité est une source de richesse et d'innovation. Nous encourageons les candidatures de tout genre, expérience et origine. SQORUS est une entreprise handi\\-accueillante : tous nos postes sont ouverts aux personnes en situation de handicap.",IT Services and IT Consulting,https://fr.linkedin.com/company/sqorus,https://media.licdn.com/dms/image/v2/D560BAQEstwYslSFHcQ/company-logo_100_100/company-logo_100_100/0/1719243312877/sqorus_logo?e=2147483647&v=beta&t=sF0HV6ISxetXwbqwv0eLt0p5-RVle0az_eOdPjaKanE,,,,,
+li-4051496997,linkedin,https://www.linkedin.com/jobs/view/4051496997,,AMO Contract Manager,AXODYN,"Paris, Île-de-France, France",2025-01-27,fulltime,,,,,,,mid-senior level,Engineering and Project Management,,fabrice.djakpa@axodyn.com,"**Vos prochaines missions ?** 
+
+
+
+
+  
+
+
+
+
+
+ La présente opportunité a pour objet la réalisation d’une mission d’assistance à maîtrise d’ouvrage dans le domaine de la gestion contractuelle des marchés gérés par notre partenaire, et de la gestion des réclamations.
+ 
+
+
+
+ Elle concerne à la fois les missions suivantes :
+ 
+
+
+
+ \\- la gestion contractuelle en phase de mise au point des marchés et en phase d’exécution
+ 
+
+
+
+ \\- le suivi contractuel de marché
+ 
+
+
+
+ \\- la gestion des réclamations
+ 
+
+
+
+ \\- la détection d’opportunités de contre réclamations
+ 
+
+
+
+ \\- l’anticipation des contentieux et litiges
+ 
+
+
+
+  
+
+
+
+
+
+*1\\. Gestion contractuelle en phase passation* 
+
+
+
+* Donner son avis sur les ajustements contractuels discutés dans la phase de contractualisation avec le titulaire pressenti.
+* Prendre connaissance de l’ensemble des échanges avec l’entreprise, identifier les potentiels axes de réclamations.
+* Proposer des actions d’amélioration du contrat et des axes d’évolution ou de pratiques contractuelles en réponse aux risques et opportunités identifiés dans la limite du bouleversement du marché / DCE
+
+
+
+  
+
+
+
+
+
+*2\\. Prise de connaissance des éléments constitutifs du marché* 
+
+
+
+
+ Cette prise de connaissance donne lieu aux actions suivantes :
+ 
+
+
+* Synthèse de la situation contractuelle du marché et son analyse critique
+* Cartographie des parties prenantes, actions passées et matrice des risques associés,
+* Plan d’amélioration
+* Synthèse des éléments précités sous forme de présentation aux interlocuteurs
+
+
+
+  
+
+
+
+
+
+*3\\. Suivi de l’avancement et dispositions contractuelles du marché* 
+
+
+
+* Participe aux réunions de suivi du marché et de revue contractuelle, incluant la contribution, relecture et annotation des comptes\\-rendus de réunion fournis par le MOE ou tout autre intervenant
+* Veille au bon niveau de qualité des livrables produits par les maîtres d’Œuvre ou l’ATMO (rapport d’analyse, suivi FTMS \\& OS, suivi du programme financier), et alerte en cas de manquement aux obligations contractuelles
+* Tient un tableau de bord consignant les événements et points susceptibles de former une réclamation, une dérive des délais ou avoir une incidence financière, dans une logique d’anticipation des risques ou de risque avéré. Y sont inclus les échanges et analyses faisant apparaitre les points critiques des différentes thématiques et les risques correspondants,
+* Identification des écarts au contrat (respect des clauses, pointage des différents retards et écarts au contrat susceptibles d’engendrer l’application des pénalités correspondantes, complétude des documents contractuels) et proposition des actions adaptées en cas de non\\-respect
+* S’assure de la cohérence de son tableau de bord global, en mettant notamment à jour l’ensemble des éléments du tableau au regard des avancées mensuelles
+* Suit l’avancement des différentes actions identifiées comme nécessaires au bon déroulement contractuel.
+
+
+
+  
+
+
+
+
+
+*4\\. Gestion des demandes, courriers et réserves des titulaires* 
+
+
+
+
+ Pour les courriers et réserves faisant l’objet d’un risque important de réclamation ou leurs prémices, le titulaire gère la situation précontentieuse :
+ 
+
+
+* Analyse les demandes de modifications et les réclamations du fournisseur en phase d’exécution
+* Classifie l’origine de la demande (ex : retard de libération des emprises, décalage planning, retard dans la mise à disposition des données d’entrées, sinistres…)
+* Analyse la recevabilité au regard des dispositions contractuelles et forclusions
+* Propose les courriers de relance, mise en garde, ou notification des éventuels écarts contractuels
+* En compile les éléments pour former un projet de réponse au titulaire de marché
+* Elabore des stratégies de négociation en partenariat avec les fonctions juridique, financière et autres directions impliquées
+
+
+
+  
+
+
+
+
+
+*5\\. Gestion des évolutions contractuelles du marché* 
+
+
+
+* Recueille et analyse le besoin des prescripteurs en apportant sa vision du marché et de ses évolutions
+* Propose des échéanciers de clôture d’évolution contractuelle permettant de solder les sujets passés, incluant l’identification des événements afférents et le mode de résolution,
+* Elabore des stratégies de négociation en partenariat avec les fonctions juridique, financière et autres directions impliquées
+* Soumet la stratégie et la réponse correspondante au représentant de la MOA
+* Prépare et participe aux ateliers de négociation avec le titulaire
+* Gère les changements de périmètre des contrats : relecture des FTMS \\& OS (y compris contrôle de cohérence des éléments inclus)
+* Rédige les avenants et les documents afférents (notamment rapport de l’avenant), résiliation de contrat et les documents afférents, etc…en s’assure de la cohérence des éléments techniques, planning et financiers,
+
+
+
+  
+
+
+
+
+
+ 6\\. Gestion des demandes de rémunération complémentaires (DRC) et les mémoires en réclamation
+ 
+
+
+* Prise de connaissance de la réclamation
+* Rapport d’analyse des fondements contractuels, économiques et planning
+* Détermination de la stratégie de négociation
+* Organisation et animation des sessions de négociation
+
+
+
+  
+
+
+
+
+
+  
+
+
+
+
+
+**Qui sommes nous ?** 
+
+
+
+
+  
+
+
+
+
+
+ Créée en 2013, AXODYN est une société de services techniques spécialisée dans le domaines des infrastructures , des industries et des énergies.
+ 
+
+
+
+  
+
+
+
+
+
+ Nous intervenons intervenons sur des projets d'envergures dans les fonctions suivantes :
+ 
+
+
+
+*Management de projets* 
+ : Pilotage de projets, Planification, Contract \\& Cost management.
+ 
+
+
+
+*Etudes et Réalisations* 
+ : Génie civil, Mécanique, Electrique, Automatisme, Informatique industrielle.
+ 
+
+
+
+*Exploitation* 
+ : QHSE, Amélioration continue, Process industriels
+ 
+
+
+
+  
+
+
+
+
+
+**Et si on parlait de vous ?** 
+
+
+
+
+  
+
+
+
+
+* Vous avez une expérience d'au moins 2 ans en gestion contractuelle des marchés publics/ en tant que contract manager sur des projets d'infrastructures / systèmes
+* Vous avez une bonne connaissance de l'environnement ferroviaire/ nucléaire
+* Vous avez une bonne maitrise du code de la commande publique
+* Vous avez une bonne connaissance des marchés de travaux/ maitre d'œuvre / prestation intellectuelle
+* Vous avez un niveau de français satisfaisant, une bonne de capacité de rédaction et de mise en page ainsi que d’une bonne maitrise des outils informatiques et notamment du pack Office
+
+
+
+  
+
+
+
+
+
+**Votre mobilité ?** 
+
+
+
+
+  
+
+
+
+
+
+ Le poste est ouvert à Paris principalement.
+ 
+
+
+
+  
+
+
+
+
+
+**Ce qu'on vous propose ?** 
+
+
+
+
+  
+
+
+
+
+* Titre de transport est pris en charge intégralement
+* Titre restaurant / Panier repas
+* RTT
+* Télétravail
+* Prime de participation
+
+
+
+  
+
+
+
+
+* N'hésitez pas de postuler si l'offre correspond à vos attentes ou à m'envoyer directement votre Cv sur fabrice.djakpa@axodyn.com en mettant en objet : CM\\_Paris",Engineering Services and Business Consulting and Services,https://fr.linkedin.com/company/axodyn,https://media.licdn.com/dms/image/v2/D4E0BAQFqKlZZyujOPw/company-logo_100_100/company-logo_100_100/0/1698920146686/axodyn_logo?e=2147483647&v=beta&t=c4FCWG6YcZce3hfwDhaSQDIOtxCG_JsfCZVFSfHLTgs,,,,,
+li-4135208749,linkedin,https://www.linkedin.com/jobs/view/4135208749,https://app.mytalentplug.com/redirection.aspx?ojid=q/hPHb9PQ1qAW4eodXfiZQ==&urlHash=i_Vk,Ingénieur procédés - Espagnol Courant H/F,ELIS,"St.-Cloud, Île-de-France, France",2025-01-27,fulltime,,,,,,,associate,Engineering,,,"Si comme nous, vous travaillez mieux quand on vous fait confiance, C'est par ici
+   
+
+  
+
+ Car Chez Elis, on sait que l'on peut compter sur les personnes que l'on recrute, leur donner des responsabilités, les former et les faire évoluer. On croit en vous et en la force du collectif pour atteindre les objectifs !
+   
+
+ Rejoindre Elis, c'est aussi choisir un groupe français, présent à l'international, solide, humain et engagé dans l'économie circulaire depuis plus de 75 ans. Notre mission ? Louer et entretenir des articles textiles, d'hygiène et de bien\\-être aux professionnels. Et tout ça en alliant toujours exigence et démarche RSE !
+   
+
+  
+
+ Une entreprise qui a plus de 100 ans et toujours n°1, vous en connaissez beaucoup ?
+   
+
+  
+
+  
+
+ Au sein de notre Direction Industrielle et, plus particulièrement, rattaché(e) à la Direction Chimie / eau / énergie, vos missions sont les suivantes :
+   
+
+  
+
+ \\- Vous assurez la coordination de nos prestataires extérieurs (lessiviers, fournisseurs de matériel...), vous conseillez et apportez une assistance opérationnelle auprès de nos sites de production, dans le but d'améliorer les process de lavage et d'en réduire les coûts.
+   
+
+  
+
+ \\- Vous êtes en charge de la mise en place de nouveaux équipements : rédaction du cahier des charges et des commandes, puis suivi de la mise en route dans nos usines.
+   
+
+  
+
+ \\- Vous êtes l'interlocuteur(rice) des autres services du siège (marketing, qualité, achats, environnement...) pour tout ce qui concerne les process de lavage du linge.
+   
+
+  
+
+ \\- Vous participez à l'optimisation de la gestion de l'eau et de l'énergie dans le process industriel : animation et mise en oeuvre du guide des bonnes pratiques de maîtrise de l'énergie, identification et évaluation de nouvelles solutions de recyclage ou d'échanges thermiques sur les réseaux eau, vapeurs et fumées, mise en place d'indicateurs de suivi des améliorations, suivi du programme d'installation d'unités de prétraitement des effluents industriels, etc..
+   
+
+  
+
+ Une intégration et période de formation est à prévoir en France dans un premier temps, au siège du Groupe à St Cloud (92\\).
+   
+
+ Le poste pourra ensuite être basé à Madrid ou Barcelone.
+   
+
+ Des déplacements de courte durée sont à prévoir (2 à 3 jours par semaine).
+   
+
+  
+
+  
+
+ De formation Ingénieur, vous avez une première expérience réussie dans les domaines de la chimie ou de l'énergie (postes process et opérationnels plutôt que R\\&D).
+   
+
+ Maitrise de l'anglais (langue commune groupe) et espagnol (beaucoup de sites gérés sont situés en Espagne) sont indispensables pour ce poste.
+   
+
+ Vous êtes curieux(se) et adaptable, mais également organisé(e) et diplomate et vous disposez d'un très bon relationnel. Vous aimez travailler en équipe et avez un goût prononcé pour le terrain.
+   
+
+ Ref : 23865792",Machinery Manufacturing,https://fr.linkedin.com/company/elis_2,https://media.licdn.com/dms/image/v2/D560BAQFONaBlhOGHsA/company-logo_100_100/company-logo_100_100/0/1682321963143/elis_2_logo?e=2147483647&v=beta&t=dADHwwvx_4kPxNrAW02qUbG8Tk-1rxW0o7GYPfH0J0g,,,,,
+li-4107819318,linkedin,https://www.linkedin.com/jobs/view/4107819318,https://jobs.sanofi.com/en/job/-/-/2649/15778638144?source=LinkedIn&urlHash=YHCO,"Responsable système de management, performance et amélioration continue HSE",Sanofi,"Vitry-sur-Seine, Île-de-France, France",2025-01-25,fulltime,,,,,,,mid-senior level,Information Technology,,,"*Cette offre d’emploi est ouverte à toutes et tous, quel que soit le genre auquel s’identifie le candidat ou la candidate* 
+ .
+   
+
+  
+
+**Intitulé du poste** 
+ :
+ *Responsable système de management, performance et amélioration continue HSE*
+* Lieu : Vitry\\-sur\\-Seine, France
+
+
+*À propos du poste*
+ Véritable expertise en matière d’évolution de culture, de systèmes de management, et de réglementation, vous assurez un rôle clé dans le développement de la performance HSE. Sous la responsabilité du responsable HSE, vous collaborez étroitement avec les responsables sécurité et prévention des risques et environnement ainsi que l’ensemble de l’équipe HSE et des managers du site. Vous assurez la promotion la politique HSE, en vous assurant de l’application de la réglementation, des règles Sanofi en matière HSE.
+   
+
+  
+
+ Nous fournissons chaque année 4,3 milliards de solutions en soins de santé au monde, grâce à la planification sans faille et au souci du détail de nos équipes
+ **Manufacturing \\& Supply** 
+ . Grâce à votre talent et à votre ambition, nous pourrons faire encore plus pour protéger les gens contre les maladies infectieuses et apporter de l'espoir aux patients et à leurs familles. Votre mission, en tant que
+ **Responsable système de management, performance et amélioration continue HSE** 
+ au sein de l'équipe HSE de notre site de production de Vitry\\-sur\\-Seine, consistera à stimuler l’animation du système de management HSE Sanofi, travailler avec les équipes à réduire les écarts aux standards et progresser continuellement en matière de performance et culture HSE.
+   
+
+  
+
+**Principales Responsabilités**
+ Vous serez en charge des domaines principaux suivants :
+   
+
+  
+
+* Animer le système de management HSE Sanofi au sein de l’équipe HSE et à l’échelle du site pour piloter et améliorer la performance, définir et assurer le reporting de performance HSE
+* Evaluer le niveau de conformité des activités et secteurs dont il est en charge avec les standards HSE du groupe et piloter le plan d’inspections HSE
+* Superviser le processus de gestion des déviations, investigations et plans d’action du site ainsi que l’administration des bases ou outils de connaissance HSE et de gestion documentaire
+* Evaluer le niveau de conformité des activités et secteurs avec les standards HSE du groupe, bâtir les feuilles de route et plans de progrès
+* Coordonner la feuille de route des projets HSE et assurer un support HSE aux projets du site selon le programme annuel (évaluation des risques, études d’impacts)
+* Piloter le plan de formation et de développement des compétences HSE, et soutenir les plans de transformation et d’amélioration de la culture HSE
+* Former et coacher des managers et collaborateurs sur leurs pratiques HSE
+
+
+*À propos de vous*
+ Vous vous reconnaissez dans ce descriptif ?
+   
+
+  
+
+**Expérience(s)**
+* Expérience significative dans une fonction HSE en environnement industriel / centre de production
+* Expérience significative en implémentation, animation et audit de systèmes de management HSE (ISO ou autres référentiels)
+
+
+**Savoir Être Et Savoir\\-faire**
+* Maîtrise des réglementations et des normes essentielles HSE
+* Maîtrise de la gestion de projets simples et en portefeuille, une maîtrise avancée des outils office / Power BI est un plus
+* Fortes capacités rédactionnelles, de synthèse, de communication, de conviction, d’assertivité et d’animation de travail en équipe, capable de s’intégrer dans un environnement de support aux opérations et d’apporter également une prise de recul pour une vision plus systémique / stratégique
+
+
+**Formation**
+* Formation initiale ingénieur ou équivalent à dominante HSE généraliste
+
+
+**Langue(s)**
+* Maîtrise de l'anglais général et technique : lu, écrit, parlé
+
+
+*Pourquoi choisir de travailler chez Sanofi ?*
+* Donnez vie aux miracles de la science au sein d'une équipe solidaire et tournée vers l'avenir
+* Découvrez les innombrables possibilités de développer vos talents et de faire progresser votre carrière, que ce soit par le biais d'une promotion ou d'une mission dans une autre organisation
+* Profitez d'un ensemble d’avantages bien pensés et bien conçus qui reconnaissent votre contribution et amplifient votre impact
+* Prenez bien soin de vous et de votre famille en bénéficiant d’un large éventail d'avantages en matière de santé et de bien\\-être, y compris des soins de santé de haute qualité, des programmes de prévention et de bien\\-être et un congé parental d'au moins 14 semaines, sans distinction de genre
+* Jouez un rôle déterminant dans la mise en place de bonnes pratiques au sein de notre unité de production en plein croissance avec un projet de doublement des capacités d’ici à 2029
+* Notre site de Vitry\\-sur\\-Seine est situé aux portes de Paris et facilement accessible depuis l’A86, le RER C et bientôt la ligne 15 et offre d'excellentes installations, notamment un restaurant d’entreprise et une salle de sport
+* Rejoignez une équipe engagée et un collectif dynamique avec des belles perspectives d’évolution
+
+
+ « Ce poste est central pour l’atteinte de nos objectifs de performance et de progrès dans la culture HSE. La personne qui nous rejoindra dans l’équipe aura l’opportunité de structurer, piloter et relever de nombreux challenges. »
+   
+
+  
+
+**Rémy Thuin, HSE Head, centre de production de Vitry\\-sur\\-Seine**
+**Toujours** 
+*progresser.* 
+**Découvrir** 
+*l’extraordinaire* 
+ .
+   
+
+  
+
+ Le progrès ne se fait pas tout seul, ce sont les gens qui le construisent : des gens d'horizons différents, dans des lieux différents, dans des rôles différents, mais tous réunis par une même motivation : la volonté de rendre l’impossible possible. Et si vous rejoigniez cet élan ? Afin de poursuivre le changement, adopter de nouvelles idées et explorer toutes les opportunités que nous avons à offrir. Ensemble, continuons de progresser. Et partons à la découverte de l'extraordinaire.
+   
+
+  
+
+ Chez Sanofi, nous croyons en l’égalité des chances pour tout le monde, indépendamment de l’origine, de la couleur de peau, des croyances, du genre, de l'orientation sexuelle, de l'âge, de la citoyenneté, de l'état civil, du handicap ou de l’identité de genre.
+   
+
+  
+
+ Regardez notre vidéo ALL IN et consultez nos actions en faveur de la diversité, de l'équité et de l'inclusion sur sanofi.com !",Pharmaceutical Manufacturing,https://fr.linkedin.com/company/sanofi,https://media.licdn.com/dms/image/v2/D4E0BAQG2k72bd4oaIg/company-logo_100_100/company-logo_100_100/0/1721896905900/sanofi_logo?e=2147483647&v=beta&t=BXcsXgDXAvUccj0hFuw-agcknRS7FkrQhZnho535Xps,,,,,
+li-4133415419,linkedin,https://www.linkedin.com/jobs/view/4133415419,,Responsable amélioration continue,ManpowerGroup,"Beauvais, Hauts-de-France, France",2025-01-24,fulltime,,,,,,,associate,Manufacturing,,,"Le cabinet MANPOWER CONSEIL RECRUTEMENT de Beauvais, recherche pour son client industrie de process leader dans la fabrication de produits de grande consommation un INGENIEUR PRODUCTION/RESPONSABLE AMELIORATION CONTINUE (H/F) :
+ 
+
+
+
+  
+
+
+
+
+
+ Rattaché au responsable des opérations, vous serez en charge :
+ 
+
+
+* Mise en place du système d’amélioration continue du groupe au sein de l’usine en étroite collaboration avec les ateliers de production, la maintenance et la qualité
+* Concevoir et piloter des plans d'action d'amélioration des processus, et accompagner la conduite du changement
+* Définir les sujets prioritaires et animer des groupes de travail transverses de résolution de problèmes en utilisant les outils de l’amélioration continue (5 pourquoi, PDCA, DMAIC…) pour améliorer la sécurité au travail, l’ergonomie, la productivité et la qualité
+* Participer à la définition de la stratégie usine
+* Réaliser des audits pour évaluer les performances industrielles actuelles
+* Sensibiliser et former le personnel aux nouvelles méthodes de travail et aux principes du Lean Management
+* Management de deux techniciens en direct \\+ un alternant \\+ 2 ressources projets
+
+
+
+  
+
+
+
+
+
+ VOTRE PROFIL :
+ 
+
+
+
+  
+
+
+
+
+
+  
+
+
+
+
+
+ \\- Diplômé(e) d'une formation de type BAC\\+2/5 (généraliste, mécanique, lean), vous justifiez d'une expérience de trois années minimum sur un poste équivalent.
+ 
+
+
+
+  
+
+
+
+
+
+ \\- Vous maitrisez les outils d'amélioration continue et principes fondamentaux du lean manufacturing.
+ 
+
+
+
+  
+
+
+
+
+
+ \\- Une expérience solide en gestion de projets est requise.
+ 
+
+
+
+  
+
+
+
+
+
+ \\- Qualités requises : animation de groupe de travail, aisance relationnelle, travail en équipe
+ 
+
+
+
+  
+
+
+
+
+
+ \\- Un bon niveau en anglais est requis pour le poste.",Manufacturing,https://www.linkedin.com/company/manpowergroup,https://media.licdn.com/dms/image/v2/D4E0BAQHcxMPC_Sa9Wg/company-logo_100_100/company-logo_100_100/0/1720447772398/manpowergroup_logo?e=2147483647&v=beta&t=yIkpXPEBh04IXK4FflmjESRkd2cvhSU3SLBSATr9IR0,,,,,

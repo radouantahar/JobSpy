@@ -1,0 +1,405 @@
+id,site,job_url,job_url_direct,title,company,location,date_posted,job_type,salary_source,interval,min_amount,max_amount,currency,is_remote,job_level,job_function,listing_type,emails,description,company_industry,company_url,company_logo,company_url_direct,company_addresses,company_num_employees,company_revenue,company_description
+gd-1009563854204,glassdoor,https://www.glassdoor.fr/job-listing/j?jl=1009563854204,,Ingénieur Big Data & Cloud Sénior (H/F),Inetum,Saint-Ouen,2024-12-13,,,,,,,False,,,organic,,"**Description de l'entreprise**  
+
+Inetum est un leader européen des services numériques. Pour les entreprises, les acteurs publics et la société dans son ensemble, les 28 000 consultants et spécialistes du groupe visent chaque jour l'impact digital : des solutions qui contribuent à la performance, à l'innovation et au bien commun.
+
+
+Présent dans 19 pays au plus près des territoires, et avec ses grands partenaires éditeurs de logiciels, Inetum répond aux enjeux de la transformation digitale avec proximité et flexibilité.
+
+
+Porté par son ambition de croissance et d'industrialisation, Inetum a généré en 2023 un chiffre d'affaires de 2,5 milliards d'€.
+
+
+Pour répondre à un marché en croissance continue depuis plus de 30ans, Inetum a fait le choix délibéré de se recentrer sur 4 métiers afin de gagner en puissance et proposer des solutions sur mesure, adaptées aux besoins spécifiques de ses clients : le conseil (Inetum Consulting), la gestion des infrastructures et applications à façon (Inetum Technologies), l'implémentation de progiciels (Inetum Solutions) et sa propre activité d'éditeur de logiciels (Inetum Software). Inetum a conclu des partenariats stratégiques avec 4 grands éditeurs mondiaux \\- Salesforce, ServiceNow, Microsoft et SAP et poursuit une stratégie d'acquisitions dédiée afin d'entrer dans le top 5 européen sur ces technologies et proposer la meilleure expertise à ses clients.
+
+ **Description du poste**  
+
+Nous ne sommes pas seulement spécialisés dans le numérique. Nous intervenons également sur la **data**. Nous possédons une Practice Data qui se développe fortement grâce à nos partenaires stratégiques comme **Snowflake, Informatica, Talend, Microsoft Azure, AWS, GCP**, ou encore de gros éditeurs du marché comme Databricks, Dataiku, Microstrategy, Teradata, etc... Aujourd’hui, nous sommes capables d’asseoir notre expertise en accompagnant nos clients sur toute la chaîne de valorisation data (cas d’usage, développement, architecture, innovation, industrialisation).
+
+**Et si vous franchissiez une nouvelle étape dans votre carrière en rejoignant notre centre d’expertise BI \\& Big Data ?**
+
+
+Le centre d’expertise Data Solutions propose à ses clients un accompagnement de bout en bout des projets BI et Big Data avec une approche Data Driven. Il regroupe une cinquantaine d’experts data passionnés, tous attachés à notre culture interne (Excellence, Agilité, Positivité et Proximité).
+
+
+Dans le cadre de sa forte croissance, nous recherchons un **Data engineer Sénior** (H/F).
+
+**Vos missions seraient les suivantes :**
+
+* Réaliser des POCs / POVs permettant de valider les principes techniques des projets
+* Développer des pipelines de données en intervenant sur les data platforms de nos clients en **Python, en Java et Scala**
+* Travailler avec les différents métiers sur les différentes phases jusqu’à l’industrialisation des applications : optimisation de code et optimisation de performances
+* Utiliser les infrastructures dans un **contexte Cloud ou Big Data**
+* Travailler dans un **contexte Agile**
+* Une connaissance Devops, CI/CD est un plus
+* Animer la communauté data en interne avec de la veille technologique, de la création de contenu de formation et bien d’autres sujets.
+
+  
+
+**Qualifications** **Vous êtes le bon candidat si** :
+
+* Vous avez déjà évolué dans le monde du développement en tant qu’ingénieur (java, scala ou Python) et que vous êtes à l’aise avec la manipulation de bases de données volumineuses
+* Vous avez 3 ans minimum d’expérience dans un contexte Big Data ou BI
+* Vous êtes à l’aise avec les principes du cloud. Si vous avez une première expérience sur AWS, GCP ou Azure c’est encore mieux !
+* Vous avez un esprit curieux, vous aimez le travail en équipe, et relever de nouveaux challenges fonctionnels et techniques.
+
+ **Informations supplémentaires** **Vos avantages :**
+
+
+27 jours de congés payés \\+ 10 RTT
+
+
+Tickets restaurant : D'une valeur de 9€ (Prise en charge à 60% par Inetum)
+
+
+‍ Suivi de carrière individualisé : avec votre manager, leader technique ou chef de projet en proximité tout au long de l'année en plus des entretiens annuels et professionnels.
+
+
+Parcours d'intégration unique et personnalisé : Accompagnement, référent, rencontre avec les équipes pour vous familiariser avec les valeurs du groupe.
+
+**Les petits \\+ Inetum** :
+
+
+Un accord télétravail flexible : Jusqu'à 3 jours/semaine en fonction de notre client
+
+
+Une prise en charge à 70% des frais de transport en commun dans le cadre de vos déplacements professionnels
+
+
+Politique de formation avantageuse : Formations et Certifications techniques sur les meilleures technologies du marché comme **Snowflake, Informatica, Talend, Microsoft Azure, AWS, GCP**, ou encore de gros éditeurs du marché comme Databricks, Dataiku, Microstrategy, et d'autres. Mais aussi un accès à notre école de formation Data pour monter en compétence sur différents métiers.
+
+
+Des animations d'agence régulière avec les équipes Inetum : Soirées jeux, Afterworks, activité teambuilding …
+
+
+Intégrer une communauté d'experts sur la data sur différents sujets (gouvernance de la donnée, architecture, dataplatforms, ETL, BI et data science) et avoir l'opportunité de transmettre votre savoir en tant qu'expert : Animation de Techlunch, participation à des meetup techniques, prise de parole sur des conférences, dans des écoles ou sur des événements.
+
+
+L'opportunité d'animer la relation avec un de nos partenaires en fonction de votre expertise technologique.
+
+
+Notre processus de recrutement :
+
+
+Un entretien avec une chargée de recrutement.
+
+
+Un entretien avec le manager de pôle
+
+
+Un retour rapide à la suite de nos échanges
+
+
+Possibilité d'échanger avec le client, et démarrage de la mission le plus tôt possible
+
+  
+
+Tous nos postes sont ouverts aux personnes en situation de handicap.
+
+
+Rejoignez Inetum. \\#WeAreInetum",,https://www.glassdoor.fr/Overview/W-EI_IE9028.htm,https://media.glassdoor.com/sql/9028/gfi-world-squarelogo-1603113067960.png,,,,,
+gd-1009560430903,glassdoor,https://www.glassdoor.fr/job-listing/j?jl=1009560430903,,Chef de Projet Module Trains & Montages de roue (H/F),Renault Group,France,2024-12-11,,,,,,,False,,,organic,,"Société
+ALPINE CARS
+Descriptif du poste
+Pour renforcer nos équipes Alpines Cars, nous recherchons un chef de Projet Module Trains \\& Montages de roue (H/F).  
+
+Rattaché(e) au chef du Service études Mécanique et Mécatronique, vous aurez pour missions principales de :* Contribuer à la satisfaction Client et la profitabilité des projets Alpine par la définition d’une stratégie Module (Politique technique, variantes, sourcing,…) adaptée, permettant de couvrir les besoins (Produit/Prestations/Design/Réglementation ) d’un maximum de projets de la gamme Alpine avec un minimum de diversité pour :  
+
+	+ réduire les Tickets d’Entrée associés (TEI/TEF/CAPEX)
+	+ maximiser les effets volumes.
+* Piloter le développement Produit/Process (Conception, validation, industrialisation) pour la 1ère application projet et les variantes nécessaires en animant son groupe « Modules » pour atteindre les objectifs QCDP des «contrats module» passés avec les projets clients.
+
+
+Métier
+Recherche \\& Développement
+Renault Group s’engage à créer un environnement de travail inclusif et les conditions permettant à chacun de nous d’apporter sa passion, donner le meilleur de lui\\-même et s’épanouir, tout en étant lui\\-même.  
+
+  
+
+Nous trouvons notre force dans notre diversité et nous nous engageons à garantir l'égalité des chances en matière d'emploi, indépendamment de la couleur, de l'ascendance, de la religion, du sexe, de l'origine nationale, de l'orientation sexuelle, de l'âge, de la citoyenneté, de l'état civil, du handicap, de l’identité de genre, etc. Si vous avez un handicap ou un besoin particulier nécessitant l’aménagement du poste de travail ou de l’horaire de travail, merci de nous le faire savoir en remplissant ce formulaire.
+Afin de pouvoir suivre en temps réel l'évolution de vos candidatures et pouvoir rester en contact avec nous, nous vous invitons à créer un compte candidat. Cela ne vous prendra pas plus d’une minute et vous permettra également de faciliter vos prochaines candidatures.  
+
+  
+
+En soumettant votre CV ou votre candidature, vous autorisez Renault Group à utiliser et stocker des informations vous concernant à des fins de suivi de votre candidature ou de futurs emplois. Ces informations ne seront utilisées que par les sociétés de Renault Group tel que mentionné dans la Politique Groupe de protection des données personnelles.",,https://www.glassdoor.fr/Overview/W-EI_IE3275.htm,https://media.glassdoor.com/sql/3275/groupe-renault-squareLogo-1619514368102.png,,,,,
+gd-1009399875810,glassdoor,https://www.glassdoor.fr/job-listing/j?jl=1009399875810,,Ingénieur logiciel (C#) Finance et Banque (CIB) H/F,Aneo,Boulogne-Billancourt,2024-11-25,,direct_data,yearly,43000.0,75000.0,EUR,False,,,organic,,"Aneo est une agence de conseil fondée en 2002, qui accompagne ses clients (entreprises du CAC 40, ETI et start\\-ups) dans leur transformation digitale.
+
+
+
+Une agence hybride entre d’une part le conseil en organisation et management et d’autre part le conseil en technologie. Nous abordons les sujets de transformation dans leur globalité : stratégie, transformation organisationnelle, transformation produit, agilité, architecture IT, développement et modernisation cloud, le tout supporté par le pilotage de projets et de portefeuilles projets.
+
+  
+
+Depuis 2004, nous accompagnons le secteur de la finance dans ses projets IT ambitieux. Nous intervenons en particulier sur les applications de traitement des risques en lien avec les obligations réglementaires des banques. Nos projets nous amènent à traiter des problématiques à l’échelle (plusieurs dizaines de milliers de cœurs) où se mêlent développement logiciel, industrialisation, High Performance Computing (HPC), cloud, mathématiques appliquées, support, gestion de projet, etc.
+
+  
+
+Nous recherchons des ingénieures en informatique, prêts à relever les défis de ce secteur exigeant. Vous serez appelé à intervenir dans divers projets critiques qui requièrent une expertise en programmation logicielle.
+
+
+
+Vous vous épanouissez dans la résolution de problèmes complexes ou en développant des solutions logicielles robustes et scalables ! Alors ce poste est idéal pour vous.
+
+ **Descriptif du poste**
+
+  
+
+
+Imaginez rejoindre une équipe IT travaillant au plus près de la R\\&D de la banque (analystes quantitatifs), tout en étant en interaction constante avec des équipes métiers de divers pays à travers le monde. Vous collaborerez sur des projets à la pointe de l’innovation, développant des modèles et des outils qui influencent directement les stratégies de la banque. Vous avez l’opportunité de plonger dans des environnements riches en données, en utilisant vos compétences en C\\# pour créer des solutions qui optimisent les processus de décision et les performances des équipes opérationnelles.
+
+  
+
+Au sein de la DSI, du pôle innovation ou R\\&D de nos clients, vous êtes au cœur de l’innovation continue !
+
+
+
+Vous pourrez intégrer des Feature Teams dédiées à divers projets, organisées en méthode Agile. Cette approche collaborative et itérative garantira que vos contributions sont rapidement mises en œuvre. L’état d’esprit DevOps et Craft sera au cœur de votre méthodologie, assurant une livraison continue et de haute qualité. Ces équipes peuvent inclure des collaborateurs ANEO, ce qui facilitera d'autant plus votre intégration.
+
+  
+
+Quelques exemples concrets pour vous aider à vous projeter :
+
+
+* L'une de vos aventures peut consister à participer à la refonte et à la modernisation du système d'information (SI). Vous serez un acteur clé dans la migration vers une architecture microservices, en assurant l'APIsation des services et la transition vers le cloud (AWS, Azure, GCP). Vous travaillerez l’augmentation de la performance et la résilience du système. Votre contribution sera essentielle pour moderniser l'infrastructure technologique de la banque, la rendant plus agile et réactive.
+* Dans le cadre de l'optimisation des systèmes complexes pour le Front Office, vous jouerez un rôle crucial en fournissant des fonctions vitales de tarification et de calcul des risques pour les traders et les équipes de vente. Vous concevrez et améliorerez des systèmes sophistiqués, capables de gérer des volumes massifs de transactions boursières. En optimisant le code pour des grilles de calcul dédiées, vous aiderez la banque à prendre des décisions éclairées et rapides, influençant directement les résultats du marché.
+* Vous pouvez par ailleurs être amené.e à participer à l’amélioration d'applications dédiées à la distribution des indicateurs de risques et à la migration des jobs de calculs de la grille on premise (Datasynapse) vers le cloud via ArmoniK, un produit open\\-source développé par Aneo. Travailler sur la robustesse et la fiabilité de l’applicatif, ainsi que l'optimisation et la qualité du code, sera crucial. Vous serez garant du niveau de qualité élevé pour toutes les solutions que vous développez.
+
+  
+
+
+
+
+Vos missions pourront inclure également l'intégration, l'optimisation et la réécriture de librairies de calcul développées par la R\\&D.
+
+
+
+Si vous êtes passionné.e par le développement de solutions innovantes dans le secteur financier, nous serions enchantés de vous accueillir dans notre équipe.
+
+ **Les compétences et connaissances les appréciées :**
+
+
+* Programmation informatique : C\\#
+* Framework : aspnet, .Net Framework, .Net Core,
+* Base en algo (complexité temporelle, algo de graphes, algo de tri…),
+* Culture craft : POO, bonnes pratiques de développement, principes SOLID, revues de code, contribution de code en collaboration, philosophie DevOps
+* Analyse de performance : profileurs et outils d'analyse
+* Intégration continue CI/CD
+* Administration système (Linux) et réseaux
+
+
+*Au\\-delà du secteur et des technologies utilisées, la curiosité et l’excellence sont les principales qualités des consultants ANEO : nous pouvons accompagner la montée en compétence sur les éléments manquants.*
+
+ **Les expériences suivantes peuvent constituer un atout :**
+
+
+**Infrastructure :** IaC (Terraform, Ansible, Chef, Puppet), Cloud (AWS, GCP), Docker, Docker compose, Docker swarm, Kubernetes
+
+
+**Leadership :** Vous avez déjà mené des projets au forfait avec au moins cinq contributeurs en prenant en charge l’animation de l’équipe, en vous assurant de la montée en compétences des plus jeunes
+
+
+**Audit :** Vous avez déjà réalisé des audits (architecture, infrastructure) et rédigé et présenté le rapport d’audit.
+
+
+**Avant\\-vente :** Vous avez déjà mené des avant\\-ventes : construction de la solution technique, chiffrage et soutenance technique
+
+
+**Système :** administration et support sur un système en production
+
+
+**HPC :** Mise en œuvre de clusters de calcul (ex : ArmoniK, slurm, Symphony, LSF, Datasynapse, HTCondor, Kubernetes), programmation parallèle
+
+ **Informations pratiques :**
+
+  
+
+* Diplômé.e d’une grande école d’ingénieur
+* Type de contrat : CDI
+* 2 jours de télétravail
+* Langues : anglais et français de niveau C1 ou C2
+* Une première expérience dans le secteur bancaire est un plus
+* Rémunération proposée : à partir de 43K€ et jusqu’à 75K€ brut annuel
+* Certifications particulièrement appréciées :
+	+ Kubernetes, CKAD ou CKA
+	+ GCP ou AWS valide de niveau “Professionnal” ou “Specialized” sera particulièrement appréciée. Autrement, cela fera partie des objectifs pour les premiers mois.
+
+Notre siège est basé à Boulogne Billancourt et nos clients sont en Île\\-de\\-France.
+
+ **Pourquoi nous rejoindre ?**
+
+  
+
+
+La principale motivation des membres de notre communauté réside dans **le challenge intellectuel** que représente la complexité de nos missions. Nos partenariats avec AWS, GCP et Azure, nous donnent accès à des projets ambitieux, souvent en lien direct avec les équipes d'engineering. C'est aussi l'occasion de contribuer directement à des projets open\\-source avec leurs équipes.
+
+
+
+Vous rejoindrez **notre cercle Software Craft**, et deviendrez partie intégrante d'un groupe de consultants passionnés par le partage de connaissances et l'atteinte de l'excellence technique. Nos membres se réunissent régulièrement pour des ateliers de perfectionnement, des formations, et des sessions interactives de retour d'expérience et de veille technologique. Les événements sociaux organisés par le cercle renforcent les liens entre les membres. Tout cela dans le but d'améliorer votre capacité à répondre aux besoins de nos clients, à stimuler l’innovation et à améliorer en continu vos compétences.
+
+
+**La formation** constitue un axe important du développement d'ANEO : plus de 4% de notre masse salariale y est dédiée ! Que cela soit pour les formations internes ou pour des formations plus approfondies menant à des certifications. Des conférences régulières avec des experts et chercheurs issus de divers horizons permettent par ailleurs de suivre les avancées au plus près.
+
+
+
+Notre culture d'entreprise est fondée sur la responsabilisation des collaborateurs, la promotion d'un équilibre entre vie professionnelle et personnelle, ainsi qu'une structure organisationnelle aplatie visant à encourager l'autonomie.
+
+ **Parcours de recrutement**
+
+  
+
+* **Pré\\-qualification :** entretien téléphonique pour un premier filtre sur l'intérêt mutuel, maximum 30 min
+* **Entretien RH :** échange pour se découvrir et valider l'adéquation culturelle et les appétences Entretien technique : après un exercice de synthèse et de rédaction, un échange technique permettra de valider vos compétences
+* **Entretien de projection :** échange avec un Manager ou un Directeur afin de valider la projection professionnelle au sein du cabinet
+
+
+Au moins une des étapes du processus de recrutement s'effectuera en présentiel. Au cours de cette visite, vous effectuerez un exercice de synthèse et de rédaction d'une durée maximum de 20 minutes.
+
+
+*Aneo s’inscrit dans une démarche d’égalité, de diversité et d’inclusion. Tous nos postes sont ouverts aux personnes en situation de handicap.*",,https://www.glassdoor.fr/Overview/W-EI_IE364396.htm,https://media.glassdoor.com/sql/364396/aneo-squareLogo-1613935459881.png,,,,,
+gd-1008705769276,glassdoor,https://www.glassdoor.fr/job-listing/j?jl=1008705769276,,INGÉNIEUR CHARGÉ D'AFFAIRES CVC,SimplyCast,Saint-Maurice,2024-11-23,,,,,,,False,,,organic,,"Dans le cadre de son développement nous recrutons un ingénieur chargé d’affaires :
+
+
+En binôme avec un commercial ou bien développant lui\\-même son portefeuille de clients, le Chargé d’affaires est **responsable de projets depuis les premières démarches commerciales jusqu’à la livraison / mise en service**.
+
+
+Il sera en charge :
+
+* de répondre aux appels d’offres, de faire établir les offres technico\\-économiques,
+* de négocier les offres commerciales et la vente des projets,
+* 5de définir les objectifs en termes de qualité, délais, coûts et des ressources humaines ou matérielles à mettre en place pour les atteindre,
+* de superviser les études techniques et d’une manière plus générale les services support (qualité, industrialisation, ...),
+* de réaliser le suivi technique de l’exécution du projet ou de la fabrication du produit en atelier ou en sous\\-traitance,
+* d’optimiser les aspects économiques du projet,
+* de réaliser le suivi du projet en jouant le rôle d’interface client jusqu’à sa livraison ou son lancement en série
+
+
+Véritable chef d’orchestre, **il assume l’ensemble de la relation avec le client et n’a pas de lien hiérarchique direct avec ses collaborateurs**. Il doit donc fédérer, animer et mobiliser grâce à son dynamisme, son implication et sa réactivité. De son attitude durant le projet peut dépendre la pérennité de la relation avec le client, il doit donc posséder un relationnel de qualité doublé d’une bonne sensibilité commerciale.
+
+  
+
+De formation Bac \\+3 ou Bac \\+5
+
+
+Ayant au minimum 3 ans d'expérience sur un poste similaire
+
+
+Dynamique, force de proposition et autonome
+
+ **Une entreprise engagée, innovante et soucieuse de l’environnement.**",,https://www.glassdoor.fr/Overview/W-EI_IE475129.htm,https://media.glassdoor.com/sql/475129/simplycast-squarelogo-1497969072836.png,,,,,
+gd-1008365956593,glassdoor,https://www.glassdoor.fr/job-listing/j?jl=1008365956593,,INGENIEUR ELECTRICIEN SPECIALISE ELECTRONIQUE DE PUISSANCE H/F,Eramet,Trappes,2024-11-23,,,,,,,False,,,organic,,"Chez Eramet, nous sommes convaincus que le monde a besoin de métaux issus d’une industrie minière responsable.
+
+
+Nous faisons face au plus grand défi de notre histoire : réussir la transition énergétique et écologique et rétablir les conditions d’une harmonie durable entre l'Humain et la Terre.
+
+
+Cette conviction, nous la partageons avec les 10 700 collaborateurs de notre Groupe à travers le Monde, engagés pour faire d’Eramet une référence en matière de transformation responsable des ressources minérales de la Terre, pour le bien\\-vivre ensemble.
+
+
+**Rejoignez Eramet, et devenez le nouveau visage de la mine !**
+
+  
+
+
+**INGENIEUR ELECTRICIEN SPECIALISE ELECTRONIQUE DE PUISSANCE H/F**
+==================================================================
+
+Référence du poste: 42782
+Lieu:
+trappes, FR
+Type de contrat: CDI
+Eramet Ideas, pôle d'innovation d'Eramet pour l'application des nouvelles technologies à ses métiers (mine connectée, mine responsable, recyclage...), emploie 160 ingénieurs et techniciens sur le territoire de Saint Quentin en Yvelines dans un cadre de travail agréable en lisière de la forêt domaniale de Port\\-Royal. Développer et mettre en œuvre des programmes d'innovation dans un souci constant d'amélioration continue sont notre mission quotidienne
+
+  
+
+
+**L'ingénieur Electricien spécialisé Electronique de puissance H/F** est intégré.e **au Département Electricité Automatisme** à la **Direction Industrialisation d’Eramet Ideas**.
+
+
+ll/Elle reporte au Chef du Déparement.
+
+
+Dans le cadre de ses missions il/elle **réalise des études électriques pour les projets confiés aux équipes industrialisation**. Il/Elle assiste les chefs de projets dans sa spécialité.
+
+
+ll/Elle collabore avec les Experts de la direction Innovation \\& technologie.
+
+
+Il/Elle peut réaliser des expertises techniques selon les besoins. Il/Elle intervient en Maitrise d'ouvrage Déléguée pour le Groupe Eramet dont il/elle est référant.e.
+
+
+Il/Elle peut être amené.e à gérer un **portefeuille de 2 à 3 projets à différents niveaux d'avancement, pour un budget d'environ 800 K€ à 1 M€.**
+
+  
+
+
+Il/Elle participe aux projets d’Eramet Ideas quand sa spécialité y est présente. A ce titre, il/elle est contributeur.trice au sein d’une ou plusieurs équipes projet.
+
+
+Il/Elle est responsable des solutions qu’il/elle propose, depuis l’élaboration de l’ensemble des documents et des prestations de son périmètre de spécialité sur les projets auxquels il/elle participe.
+
+
+Il/Elle adapte la précision de ses études techniques et du chiffrage associé en fonction de la qualification du projet ; cadrage, avant\\-projet sommaire, avant\\-projet détaillé, réalisation, assistance.
+
+  
+
+
+L’Ingénieur spécialiste électricité \\- électronique de puissance **participera à des projets de recherche et développement en concevant et mettant au point des prototypes avant de les mettre en service en usine**.
+
+
+La première mission de ce poste est de participer à un projet en vue d’améliorer le contrôle des fours à arc, en développant et appliquant des idées innovantes sur le four de Comilog Dunkerque, site pilote de ce projet.
+
+
+Dans le cadre de cette mission, le collaborateur aura pour tâches de
+
+
+* Poursuivre des travaux en cours sur un prototype nommé ‘console’
+
+
+* fiabiliser et documenter un prototype nommé ‘console’
+* utiliser cette console pour mener des essais en usine
+* rédiger son manuel d’utilisation et de maintenance
+* concevoir une version ‘industrielle’ de ce prototype
+
+* Développer un système électrique industriel avec électronique de puissance
+
+
+* conception détaillée de l’armoire d’injection composé d’électronique de puissance
+* consultations \\& suivi de fabrication des différents éléments constitutifs
+* essais en atelier
+* installation et mise en service en usine
+* rédaction du manuel d’utilisation et de maintenance
+* formation aux équipes usine
+
+
+Possibilité d’être impliqué.e sur d’autres projets nécessitant un support en électronique, au fil des besoins.
+
+  
+
+
+**Profil recherché** :
+
+  
+
+
+**Formation** : Bac \\+5, école d’ingénieur en électricité avec une **spécialisation en électronique de puissance**.
+
+
+**Profil** : Passionné.e par la technique et sa mise en œuvre pratique sur le terrain. En complément d’une spécialisation en électronique de puissance, **des connaissances en électromagnétisme sont requises**.
+
+
+**Expérience:** 10 ans minimum à un poste similaire,
+
+
+**Compétences** : Anglais courant
+
+  
+
+
+* **Informations complémentaires** :
+* Poste basé à Saint Quentin en Yvelines dans la Zone d'Activité deTrappes (78\\) accessible par les transports en communs
+* à 5 minutes à pied de la fôrêt domaniale de port Royal
+* Accord d'intéressement et Participation, plan d'épargne entreprise, oeuvres sociales du CSE
+* 10 jours de RTT et jusqu'à 2 jours de télétravail par semaine
+* Prise en charge à 100% du Pass Navigo pour les transports en commun
+* Participation employeur à 40% des frais de repas au restaurant d'entreprise
+* Activités sportives diverses à proximité immédiate du site",,https://www.glassdoor.fr/Overview/W-EI_IE10324.htm,https://media.glassdoor.com/sql/10324/eramet-squarelogo-1578952045293.png,,,,,

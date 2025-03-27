@@ -1,0 +1,508 @@
+id,site,job_url,job_url_direct,title,company,location,date_posted,job_type,salary_source,interval,min_amount,max_amount,currency,is_remote,job_level,job_function,listing_type,emails,description,company_industry,company_url,company_logo,company_url_direct,company_addresses,company_num_employees,company_revenue,company_description
+li-4104792098,linkedin,https://www.linkedin.com/jobs/view/4104792098,https://jobs.lever.co/safran-ai/8cf72299-05c8-4a17-9e92-e79d67c053b9/apply?lever-source=LinkedIn&urlHash=HZcF,Directeur / Directrice de l'industrialisation IA,Safran.AI (ex Preligens),"Paris, Île-de-France, France",2024-12-18,fulltime,,,,,,,not applicable,Other,,,"**🌍 Qui sommes\\-nous ?**
+ Safran.AI (anciennement Preligens) propose des solutions d’intelligence artificielle pour analyser les images satellite à haute résolution, les flux vidéos FMV (full motion video) et les signaux acoustiques. Nos solutions sont déployées au service de l’aéronautique, la défense et les applications gouvernementales.
+   
+
+  
+
+ La société développe depuis 2016 des algorithmes et logiciels complexes permettant d’analyser, de détecter et d’identifier automatiquement des objets présentant un intérêt militaire, à partir de données d’origine commerciale ou gouvernementale.
+   
+
+  
+
+ Depuis son intégration au groupe Safran en septembre 2024, Safran.AI contribue également à la transformation du groupe, en appliquant les solutions d’IA aux domaines de l’industrie 4\\.0\\. À titre d’exemple, l’analyse d’images automatisée par l’IA peut assister les contrôleurs en charge de l’inspection de pièces critiques en les aidant à détecter les anomalies éventuelles à partir de clichés numériques.
+   
+
+  
+
+ Chez Safran.AI, l'innovation et la création d'un monde plus sûr sont au cœur de notre ADN. En nous rejoignant, vous travaillerez avec des équipes passionnées et pluridisciplinaires (ingénieurs, chercheurs, développeurs…) parmi les plus talentueux du secteur, tous animés par une passion commune pour l'excellence technologique. Nous offrons un environnement de travail stimulant, où la créativité et la prise d'initiative sont encouragées, et où chaque idée compte.
+   
+
+  
+
+**😎 Votre mission, si vous l’acceptez**
+ En tant que Directeur de l’Industrialisation de l’IA, vous serez responsable du pilotage d’une direction d’une vingtaine d’ingénieurs qui travaillent sur l’AI Platform de Safran.AI, ainsi que la responsabilité de certaines lignes de produits, dans la phase de leur cycle de vie rendant critique l’industrialisation de leur chaîne de production. Ce rattachement d’activités de production de détecteurs IA à la direction de l’industrialisation de l’AI est destiné à optimiser l’adaptation de l’AI Platform aux nouvelles lignes de produits et la priorisation des réalisations de l’équipe AI Platform en soutien à l’industrialisation de leurs chaînes de production. Vous reporterez au VP AI.
+   
+
+  
+
+ → Vous êtes responsables de la vision et stratégie technique de l’AI Platform, en étroite collaboration avec l’équipe Produits :
+   
+
+  
+
+* Vous vous assurez de la définition de la vision et de la stratégie technique afin de maximiser l’effet de levier pour les squads de production de détecteurs IA en interne Safran.AI, et une utilisation multi\\-centres on\\-premise
+* Vous êtes le point de contact pour le groupe Safran pour l’AI Platform de Safran.AI et responsable pour définir proactivement une vision et stratégie technique de mise à disposition de modules au sein du groupe Safran
+* Vous êtes le point de contact et responsable pour la vision et stratégie technique pour la mise à disposition de modules à nos clients Défense
+* Vous êtes un interlocuteur clé à associer à des visites et présentations clients et partenaires lorsque les enjeux de l’AI platform y sont critiques
+* Vous êtes le représentant de Safran.AI sur des événements et conférences, et structurez et portez le “thought leadership” de Safran.AI sur les enjeux d’industrialisation de la production de l’IA
+
+
+ → Vous êtes responsable de la vision et stratégie technique des lignes de produits sous votre mandat, en étroite collaboration avec les équipes Programmes :
+   
+
+  
+
+* Vous êtes garant que ces lignes de produit opèrent leur mue vers une pleine maturité industrielle couvrant les outils et moyens mobilisés, dont ceux de l’AI platform, pour produire et maintenir leurs produits de façon fluide et efficace
+* Vous êtes un interlocuteur clef avec les programmes associés de façon à définir la trajectoire technique répondant aux enjeux à venir du programme
+
+
+ → Vous êtes un leader et un acteur clé de la transformation de l’entreprise :
+   
+
+  
+
+* Vous serez membre de la leadership team de Safran.AI
+* Vous participerez activement aux rituels leadership AI, R\\&D et entreprise pour proposer, lancer, implémenter et faire adopter les changements transverses critiques pour que l’entreprise atteigne ses objectifs
+
+
+ → Management de la direction :
+   
+
+  
+
+* Vous aurez dans votre direction une variété de profils : AI engineers, Data Engineers, SW Engineers, SRE, AI Production Engineers ainsi que managers / Head of
+* Vous êtes responsable de la livraison des engagements de votre direction, de son organisation, et de la définition et amélioration continue de la méthodologie de développement. Vous vous appuyez pour cela sur le management de la AI Platform et celui des lignes de Produit
+* Vous savez maintenir les équipes engagées et les faire progresser afin de délivrer un travail de qualité dans les temps sur les différents programmes et produits sur lesquels elles contribuent
+* Vous êtes responsable du recrutement des nouveaux membres dans votre équipe (en collaboration avec notre équipe de Talent Acquisition) et à la définition des budgets de recrutement annuels, ainsi qu’au pilotage de la charge et capacité de l’équipe
+* Vous êtes en mesure d’identifier les difficultés rencontrées dans les activités de développement et de management de votre équipe, d’évaluer les solutions possibles en analysant leurs avantages et leurs inconvénients, et d’être le premier acteur de la mise en place de la solution retenue
+* Vous accompagnerez les membres de l’équipe dans l’apprentissage de la culture du feedback, de la communication constructive et de la maîtrise des engagements en tant que premier ambassadeur de la culture et des valeurs de l’entreprise
+
+
+**🎯 Votre profil**
+ → Vous avez au moins 10 ans d'expérience sur des fonctions techniques (Idéalement IA, Data ou Software) et managériales, avec idéalement une première expérience de direction acquise dans un contexte exigeant d’associer réflexion stratégique et management opérationnel sur un domaine technique.
+   
+
+  
+
+ → Vous disposez d'un Master en développement logiciel, Intelligence Artificielle ou dans un domaine similaire.
+   
+
+  
+
+ → Vous avez un très bon sens de l'organisation, de la délégation et de l’autonomie.
+   
+
+  
+
+ → Vous avez de très bonne capacité d’analyse et de synthèse.
+   
+
+  
+
+ → Vous disposez de très bonnes compétences en leadership et communication.
+   
+
+  
+
+ → Vous disposez de très bonnes compétences en relation client. Vous disposez aussi de très bonnes compétences en compréhension des besoins utilisateurs.
+   
+
+  
+
+ → Très bonnes compétences en gestion de projet technique : capable d’organiser et coordonner un projet ou des équipes à l’échelle de l’entreprise, capable d’anticiper des challenges techniques et fonctionnels entre plusieurs produits.
+   
+
+  
+
+ → Vous êtes passionné(e) par l'industrialisation pour des applications critiques, les développements de qualité et pour les challenges techniques ambitieux.
+   
+
+  
+
+ → Vous avez idéalement une expérience en conduite du changement ou dans un environnement à fortes transformations.
+   
+
+  
+
+ Si vous ne remplissez pas 100% des critères ci\\-dessus, pas de panique, vous pouvez nous indiquer les raisons pour lesquelles vous pensez tout de même être un bon candidat pour ce rôle !
+   
+
+  
+
+**💙Pourquoi rejoindre Safran.AI ?**
+ Rejoindre Safran.AI, c’est rejoindre une entreprise de passionnés, pionnière dans son domaine pour travailler sur des technologies innovantes et résoudre des problématiques techniques complexes à l’état de l’art. Notre volonté de placer l’humain au cœur de nos activités se traduit par un fort esprit d’équipe et d’entraide.
+   
+
+  
+
+ Rejoignez\\-nous et créez aujourd’hui la sécurité de demain !
+   
+
+  
+
+**💰Ce que nous offrons**
+ → Environnement remote\\-friendly avec jusqu’à trois jours de télétravail par semaine.
+   
+
+  
+
+ → Jeudis après\\-midi dédiés aux projets personnels et au développement des compétences.
+   
+
+  
+
+ → Un salaire compétitif et équitable dans l’organisation.
+   
+
+  
+
+ → Un minimum de 33 jours de congés par an.
+   
+
+  
+
+ → Congé second parent égal au congé post\\-naissance (10 semaines pour le premier enfant).
+   
+
+  
+
+ → Programmes de développement professionnels et personnels sur\\-mesure.
+   
+
+  
+
+**💪 Notre process de recrutement**
+ → Un échange de 45 minutes avec un recruteur pour en apprendre plus sur vous, vos attentes et vous donner plus de détails sur la vie chez Safran.AI.
+   
+
+  
+
+ → Un échange de 45 minutes avec votre futur manager ou une personne de son équipe afin de vous permettre dès le début de rencontrer vos futurs collaborateurs et de rentrer dans la technique de votre métier !
+   
+
+  
+
+ → Réalisation d’un cas pratique que vous serez invité(e) à présenter à un panel composé de votre futur manager ainsi que d’un ou deux pairs
+   
+
+  
+
+ → Un entretien avec le Vice\\-Président de l’organisation que vous rejoindrez
+   
+
+  
+
+ Notre process de recrutement dure généralement entre 20 et 30 jours selon vos disponibilités. En cas de deadlines serrées, nous savons aussi mettre le turbo pour ne pas vous faire attendre ! 🚀
+   
+
+  
+
+*Toutes nos offres sont ouvertes aux personnes en situation de handicap*
+*Safran.AI s’engage à traiter* 
+ chaque
+ *candidature de manière objective et inclusive*",Software Development,https://fr.linkedin.com/company/safran-ai,https://media.licdn.com/dms/image/v2/D4E0BAQF3Ket_HHXZAg/company-logo_100_100/company-logo_100_100/0/1728545556285/preligens_logo?e=2147483647&v=beta&t=wRTA4vmdCWicxhhkbzCMZv21s2Yaljm-XOk9WCW79NU,,,,,
+li-4097110031,linkedin,https://www.linkedin.com/jobs/view/4097110031,https://www.orpi.com/recrutement/offres-emploi/assistant-e-gestion-locative-9591/&urlHash=BIp0,Assistant·e gestion locative,ORPI,"Neuilly-Plaisance, Île-de-France, France",2024-12-11,fulltime,,,,,,,entry level,Administrative,,auzou@orpi.com,"Offre d'Emploi: Assistant(e) Immobilier
+   
+
+  
+
+ Entreprise: ? Agence Immobilière Conviviale et Multigénérationnelle ? Lieu: Neuilly Plaisance Type de Contrat: Contrat à durée indéterminée – Temps plein 39h00 (du mardi au samedi) de 9h00 à 12h00 et de 14h00 à 19h00 Salaire : 2000 € bruts mensuels \\+ 13ème mois\\+mutuelle \\+ prévoyance \\+ pass navigo (50%) ou place de parking
+   
+
+  
+
+ À propos de l'entreprise ?
+   
+
+  
+
+ Implantée depuis plus de 50 ans, nous sommes une entreprise immobilière conviviale et multigénérationnelle, d’un effectif de 8 personnes ; spécialisée dans la gestion et la vente de biens résidentiels et commerciaux. Nous avons su traverser les différents cycles immobiliers grâce à notre gestion rigoureuse et notre relation de confiance avec nos clients. Notre mission est d’offrir un service personnalisé et de qualité tout en adoptant les derniers outils pour simplifier et optimiser nos processus.
+   
+
+  
+
+ Vos missions?
+   
+
+  
+
+* Support administratif location/gestion (50%) : Gérer les dossiers clients (vérification, scan et classement des documents), assurer le suivi des sinistres et des travaux, préparer des dossiers financiers détaillés (factures, charges, scan et classement), saisie des règlements locataires (chèques).
+* Accueil et relations clients (40%) : standard téléphonique, accueil physique des clients, traitement des demandes client par email, gestion du planning des rendez\\-vous du gestionnaire
+* Support commercial (10%) : Participer aux communications marketing et générales pour fidéliser nos clients et gérer les communications sur l’extranet.
+
+
+ Innovation et amélioration continue : Proposer des idées pour améliorer nos processus et services.
+   
+
+  
+
+ Profil recherché ?
+   
+
+  
+
+* Formation et expérience : Nous privilégions avant les diplômes, la personnalité et la motivation. Une expérience en secrétariat est appréciée.
+* Compétences techniques : Maîtrise des outils bureautiques (Microsoft Office, Excel). La connaissance des logiciels de gestion immobilière (GERCOP) est un plus.
+* Aptitudes personnelles : Excellentes compétences en communication écrites et orales, organisation et gestion du temps. Capacité à travailler en équipe et à gérer plusieurs tâches simultanément.
+* Qualités recherchées : Proactivité, sens du service client, sens des priorités, autonomie et organisation.
+
+
+ Ce que nous offrons ?
+   
+
+  
+
+* Environnement de travail stimulant : Un cadre de travail dynamique et chaleureux avec des collègues passionnés et motivés.
+* Stabilité : une entreprise solide avec plus de 50 ans d'expérience
+* Opportunités de développement : Formations continues et possibilités d’évolution au sein de l’entreprise.
+
+
+ Processus de recrutement ?‍? :
+   
+
+  
+
+* Entretien avec le responsable d’agence
+* Mise en situation pratique
+* Rencontre avec l’équipe
+
+
+ Comment postuler ✉️ : Envoyez votre CV à auzou@orpi.com accompagné d’un mail de présentation nous expliquant : votre expérience et votre vision du service client (maximum 15 lignes). Vous pouvez également nous envoyer une courte vidéo de présentation de 2 minutes maximum si vous préférez ce format.",Real Estate,https://fr.linkedin.com/company/orpi,https://media.licdn.com/dms/image/v2/C4D0BAQGF8E-1MOeYfg/company-logo_100_100/company-logo_100_100/0/1630458095326/orpi_logo?e=2147483647&v=beta&t=h-EnUnLem8sE3vHUPvnGP43H4CaLbKU4WrZBsxm1mD0,,,,,
+li-4115233431,linkedin,https://www.linkedin.com/jobs/view/4115233431,https://candidat.francetravail.fr/offres/recherche/detail/184DDJN&urlHash=HKeU,RESPONSABLE DE SECTEUR H/F ILE DE FRANCE (H/F),IMMOJEUNE : le groupe du logement étudiant et jeune actif en France,"Ivry-sur-Seine, Île-de-France, France",2024-12-09,fulltime,,,,,,,mid-senior level,Other,,,"**Description** 
+ ARPEJ, engagés pour l'habitat et le bien\\-être des jeunes Acteur incontournable de l'économie sociale et solidaire, notre Association est spécialisée dans la gestion de logements temporaires dédiés à des étudiants, jeunes actifs et chercheurs de moins de 30 ans. Elle accompagne ainsi le résident dans ses parcours personnel, professionnel et résidentiel. Avec plus de 13 000 places gérées (87 résidences), ARPEJ rayonne principalement en Ile\\-de\\-France, et intervient également en régions avec la volonté de se développer sur les grandes métropoles comme Lille, Bordeaux, Lyon ou Toulouse. Nous recherchons un Responsable de secteur H/F en CDI. Sous la responsabilité du Directeur d'Agence, vous serez garant de la déclinaison locale de la politique générale d'ARPEJ, de l'activité d'un secteur composé de 694 logements (4 résidences) dont vous avez la charge et dans le respect des procédures ARPEJ. Plus généralement, vous êtes responsable de la réalisation des objectifs quantitatifs et qualitatifs qui vous sont fixés par votre manager ; vous êtes également force de propositions dans l'esprit d'une amélioration continue des services proposés par ARPEJ, notamment au sein de votre secteur. Vos missions : Animer et encadrer votre équipe dans le respect des orientations stratégiques. Favoriser et promouvoir l'échange de bonnes pratiques au sein de votre périmètre. Participer, en liaison avec le service des Ressources Humaines et le Directeur d'Agence au recrutement du personnel, à la formation de votre équipe. Veiller à la maîtrise des produits, charges d'exploitation, des budgets ; Proposer au Directeur d'Agence les plans d'action de commercialisation et en piloter la mise en œuvre ; Être responsable de la remise en état des logements, la maintenance, l'entretien courant et la gestion des budgets de votre secteur ; Veiller à la connaissance de la concurrence locale. Développer et entretenir les relations avec les partenaires locaux. Piloter la gestion de la qualité de service, gérer les réclamations et contrôler la qualité des réponses apportées. Etablir les compte rendu d'activité ; Consolider l'ensemble des comptes rendus d'activité ; Suivre l'avancement de ses objectifs en matière d'indicateurs de gestion ; Consolider et préparer avec son équipe les propositions budgétaires annuelles d'exploitation ainsi que les projections du Plan Moyen Terme, avant arbitrage ; Analyser mensuellement les tableaux de bord de gestion, les commenter avec les équipes concernées et veiller à la mise en œuvre d'actions correctrices. Pour les interventions qui nécessitent l'expertise du Service Technique, en assurer la coordination avec ce service ; Veiller à la bonne exécution des marchés confiés aux entreprises externes ; S'assurer de la satisfaction des services rendus aux résidents et suivre l'avancement des plans d'actions d'amélioration de la qualité de service ; Maintenir et développer l'attractivité du patrimoine. Décliner la politique d'actions collectives selon un planning défini avec le Directeur d'Agence ; Veiller à leur mise en œuvre afin de favoriser et entretenir le lien social au sein de ses résidences ; Veiller au peuplement des résidences notamment en termes de mixité sociale. S'assurer de la mise en œuvre des actions individuelles ou collectives d'accompagnement social en lien avec le Chargé de Vie Résidentielle. Contribuer à régler les conflits de voisinage et faire respecter le règlement intérieur ; Analyser et participer à la gestion des situations difficiles. PROFIL ET COMPÉTENCES De formation Bac\\+2 en gestion PME\\-PMI, vous justifiez d'une expérience de 3 ans et plus dans un poste similaire en Immobilier/Hôtellerie. Vous maîtrisez les outils bureautiques et internet et une bonne capacité à travailler en front office., merci de nous adresser votre candidature (Lettre motivation \\+ CV) à : recrutement@arpej.
+   
+
+  
+
+**PROFIL SOUHAITÉ**
+**Expérience**
+* 3 An(s)
+
+
+**Savoirs et savoir\\-faire**
+* Actualiser les informations mises à la disposition d'un public
+* Analyser une demande de location
+* Contrôler la réalisation et les coûts d'une prestation
+* Gérer des réclamations et litiges
+
+
+**Savoir\\-être professionnels**
+* Faire preuve d'autonomie
+* Faire preuve de réactivité
+* Organiser son travail selon les priorités et les objectifs
+
+
+**Formations**
+* Bac\\+2 ou équivalents
+* Bac\\+2 ou équivalents commercialisation immobilière
+
+
+**Permis**
+* B \\- Véhicule léger
+
+
+ Source: France Travail (https://www.francetravail.fr/)",Machinery Manufacturing,https://fr.linkedin.com/company/immojeune-l'agence-immobili-re-pour-les-jeunes,https://media.licdn.com/dms/image/v2/C560BAQGehJRt0e8LAg/company-logo_100_100/company-logo_100_100/0/1631301300340?e=2147483647&v=beta&t=9W0gfOoXlhipfQ6ExRavW7cDtNEMJA0bodK9IIAbs2o,,,,,
+li-4086426817,linkedin,https://www.linkedin.com/jobs/view/4086426817,https://recrutement.emotors.com/jobs/5242539-responsable-support-vie-serie-h-f&urlHash=AIpW,RESPONSABLE SUPPORT VIE SERIE (H/F),Emotors,"Carrières-sous-Poissy, Île-de-France, France",2024-11-27,fulltime,,,,,,,mid-senior level,Information Technology,,,"Engagés dans l'innovation au service des mobilités durables, Emotors conçoit et fabrique des moteurs électriques pour les constructeurs automobiles.
+   
+
+  
+
+ Parce que la réussite de nos projets et l'excellence de nos moteurs, reposent sur les compétences des membres de notre équipe, nous recherchons sans cesse de nouveaux collaborateurs passionnés, experts dans leur domaine.
+   
+
+  
+
+ Afin d'accompagner notre croissance, nous recherchons un(e)
+ **Responsable Support Vie Série** 
+ pour rejoindre nos équipes basées à Carrières\\-sous\\-Poissy (78\\).
+   
+
+  
+
+ Le/La Responsable Support Vie Série est en charge de l'analyse approfondie (niveau 2\\) des dysfonctionnements des groupes moto\\-propulseurs électriques, intégrant réducteur, moteur et onduleur. Il/Elle assure une expertise technique pointue sur les produits pour identifier, comprendre et résoudre les problèmes rencontrés en end of line ou après\\-vente, afin d'améliorer la fiabilité des produits et de réduire le taux de retour tout en garantissant la sécurité de fonctionnement.
+   
+
+  
+
+**Vos Missions** 
+  
+
+  
+
+* Analyse et Diagnostic Technique :
++ Réalisation des analyses approfondies de défaillances remontées par le service qualité sur les composants du groupe moto\\-propulseur (réducteur, moteur électrique, onduleur).
++ Pilotage des tests fonctionnels et des simulations en collaboration avec les équipes de R\\&D et de production pour reproduire les pannes et en identifier les sources.
+
+* Coordination Multi\\-Produit :
++ Identification ses problématiques communes à plusieurs types de produit
++ Lors d’une résolution de problème sur un produit, décliner de façon pertinente les mesures de contention (ICA : Intermediate corrective action) et correction (PCA : permanent corrective action) aux autres produits également concernés mais sur lequel le problème ne s’est pas encore révélé
++ Collaboration étroite avec les équipes conception, production et qualité pour intégrer les retours terrain.
+
+* Gestion des Données et Rapports :
++ Documentation précise de chaque problème analysé, incluant les symptômes, les tests effectués, les causes identifiées, et les solutions proposées.
++ Elaboration des rapports techniques clairs et structurés à destination de la direction, des équipes produit et des équipes après\\-vente.
++ Maintient d'une base de données technique des incidents après\\-vente pour une amélioration continue des produits.
+
+* Support et Conseil Technique :
++ Support technique de niveau 2 pour les équipes locales de support après\\-vente et de maintenance.
++ Assistance technique aux clients pour les problématiques complexes, en collaboration avec les équipes de terrain si nécessaire.
++ Formation des équipes internes (support, SAV, production) sur les diagnostics et les méthodes de résolution des pannes récurrentes.
+
+* Amélioration Continue et Veille Technologique :
++ Proposition des solutions pour améliorer la fiabilité des groupes moto\\-propulseurs électriques en intégrant les retours après\\-vente.
++ Contribution à des initiatives de rétro\\-ingénierie, d’optimisation de la maintenance et d’amélioration des designs produits.
++ Veille des avancées technologiques dans le domaine des groupes moto\\-propulseurs et des systèmes d'entraînement électrique.
+
+
+**Votre Profil**
+ Issu(e) d'une formation ingénierie ou diplôme équivalent, vous avez
+ **une expérience solide dans l'automobile sur des projets vie\\-série.**
+ Vous avez la capacité de
+ **travailler en équipe** 
+ et à vous coordonner avec des interlocuteurs multidisciplinaires.
+   
+
+  
+
+ Votre esprit
+ **analytique** 
+ et
+ **méthodique** 
+ vous permet de
+ **résoudre des problématiques techniques** 
+ et vous pouvez rédiger des
+ **documents techniques.**
+**Compétences Techniques**
+* Maîtrise de méthodologie d’analyse (FMEA, Ishikawa, 5M)
+* Connaissances générales sur le fonctionnement d’un onduleur de traction haute tension (matériel et logiciel)
+* Familiarité avec les outils de tests, d’acquisition de données et d’inspection de logiciels embarqués : INCA, CANalyser etc.
+* Connaissance des outils de Model Based Design (Matlab\\-Simulink)
+* Compétence en lecture de schémas électriques, mécaniques et électroniques.
+* Connaissance en matériel d’analyse électronique (Risol, Oscilloscope, …)
+* Coordination d’équipe
+* Planification des activités avec les contraintes projet
+
+
+**Ce Que Nous Vous Offrons**
+* Restaurant d'entreprise
+* CSE
+* Un management technique de proximité
+* Une entreprise valorisant l’échange et le travail en équipe
+
+
+**Qui sommes\\-nous ?**
+ Joint\\-venture entre les groupes Stellantis et Nidec, Emotors développe en permanence son expertise afin de dessiner l'avenir de l'industrie automobile.
+   
+
+  
+
+ De la création à la fabrication, nos savoir\\-faire pointus nous permettent la mise sur le marché de moteurs de pointe qui équiperont les véhicules électriques et hybrides de demain.
+   
+
+  
+
+ Aujourd'hui près de 700 collaborateurs travaillent conjointement sur nos sites pour faire de cette co\\-entreprise un succès et œuvrer à long terme pour la planète.
+   
+
+  
+
+ Plus de 90% de nos collaborateurs apprécient l'ambiance de travail qui existe chez Emotors : groupe à taille humaine avec des petites équipes, managers bienveillants, échanges d'expertise entre collaborateurs passionnés, voilà ce qui définit l'esprit Emotors.
+   
+
+  
+
+ Vous cherchez du sens et de l’excellence ? Vous avez envie de participer au succès de notre projet ? Rejoignez\\-nous !",Motor Vehicle Manufacturing,https://fr.linkedin.com/company/nidec-psa-emotors,https://media.licdn.com/dms/image/v2/C4D0BAQGI81_DTsza4A/company-logo_100_100/company-logo_100_100/0/1630496613067/nidec_psa_emotors_logo?e=2147483647&v=beta&t=iaCaPb9lfpoKUjkqGBpjSLEHin-yBwdXZl2d3Huwqt4,,,,,
+li-4061792956,linkedin,https://www.linkedin.com/jobs/view/4061792956,https://saint-maclou-recrutement.talentview.io/jobs/dgrq1l?source=linkedin&urlHash=4vsE,Responsable régional(e) des services HF,SAINT MACLOU,"Paris, Île-de-France, France",2024-10-28,fulltime,,,,,,,mid-senior level,Other,,,"*SAINT MACLOU s’affirme comme un acteur incontournable de la vente de solutions personnalisées en revêtement de sols en France, avec plus de 140 magasins et 1500 collaborateurs.*
+ Changez de décor professionnel, devenez
+ ***RESPONSABLE REGIONAL/E DES SERVICES HF***
+ Rattaché(e) à la direction régionale de Paris, votre mission consiste à développer l’exploitation de la pose et des services des magasins de votre périmètre.
+   
+
+  
+
+ Interlocuteur/rice « Service » principal(e), vous êtes le/la référent(e) technique pour votre région et agissez en coordination entre les magasins, votre directeur régional et les services centraux.
+   
+
+  
+
+**Ce Qui Vous Attend**
+ 🤝
+ **Accompagner les Responsables des magasins**
+ Vous accompagnez les responsables de magasins dans l’animation des poseurs/ses, mettez en place des rituels fondamentaux et animez les réunions régionales des poseurs.
+   
+
+  
+
+ Vous accompagnez chaque responsable de magasin de votre périmètre à superviser les plannings de pose et à solutionner les principaux litiges.
+   
+
+  
+
+ Vous diagnostiquez les actions correctrices au Directeur régional de votre périmètre et proposez des solutions d’amélioration.
+   
+
+  
+
+ Vous développez et optimisez la relation entre les vendeurs/ses et les poseurs/ses.
+   
+
+  
+
+ 🛠️
+ **Recrutement et développement des compétences**
+ Vous mesurez les besoins en ressources « Pose » sur votre périmètre d’action et initiez les demandes de recrutement auprès votre direction régionale.
+   
+
+  
+
+ Vous recherchez les meilleurs artisans pour effectuer des partenariats efficaces et pérennes.
+   
+
+  
+
+ Vous évaluez les compétences techniques des poseurs/ses et des vendeurs/se et préconisez les formations à prévoir en cas de difficultés.
+   
+
+  
+
+ 📈
+ **Pilotage de projet et amélioration continue**
+ Vous contribuerez à l’amélioration continue de l’organisation des services.
+   
+
+  
+
+ Vous pilotez les projets d’évolution des pratiques métiers sur le terrain.
+   
+
+  
+
+ Vous proposez en permanence une amélioration des process pour maximiser l’efficacité de la pose.
+   
+
+  
+
+ ✨
+ **Respect des pratiques**
+ Vous garantissez la qualité et l’expertise technique de la pose chez Saint Maclou.
+   
+
+  
+
+ Vous veillez au respect des règles fixées par l’entreprise en termes de sécurité.
+   
+
+  
+
+ Vous optimisez la gestion de l’outillage en relation avec les moyens généraux afin d’en assurer la rentabilité.
+   
+
+  
+
+**﻿🧡Ce Que Nous Vous Proposons**
+* Un parcours d’intégration en magasin et en région afin de maîtriser nos process, connaître la vie du magasin et les équipes.
+* Une rémunération basée sur la performance
+* Une formation managériale
+* Une ambiance familiale, où règne la simplicité et la convivialité
+* Tous les avantages de l’entreprise : tickets restaurant, prévoyance, mutuelle, avantages CSE et tarifs préférentiels collaborateur
+
+
+**✔️Ce Que L’on Attend De Vous**
+* Une expérience significative dans la gestion de chantier pose
+* Le goût de la performance
+* Le sens du Leadership
+* De l’exigence
+* De la prise d’initiative
+* Une appétence pour nos produits
+* Permis B",Retail,https://fr.linkedin.com/company/saint-maclou,https://media.licdn.com/dms/image/v2/C560BAQH7kHf--Y5IUA/company-logo_100_100/company-logo_100_100/0/1679566744492?e=2147483647&v=beta&t=51xPrssgSbsPP_bxwlMsdffzexVDu9S5sJCmycWxSUQ,,,,,

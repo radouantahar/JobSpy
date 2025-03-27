@@ -1,0 +1,426 @@
+id,site,job_url,job_url_direct,title,company,location,date_posted,job_type,salary_source,interval,min_amount,max_amount,currency,is_remote,job_level,job_function,listing_type,emails,description,company_industry,company_url,company_logo,company_url_direct,company_addresses,company_num_employees,company_revenue,company_description
+gd-1009639849434,glassdoor,https://www.glassdoor.fr/job-listing/j?jl=1009639849434,,Ingénieur logiciel de simulations numériques - expérimenté F/H,MBDA,Le Plessis-Robinson,2025-02-16,,,,,,,False,,,organic,,"MBDA recrute :
+
+
+MBDA est le seul groupe européen capable de concevoir et de produire des missiles et systèmes de missiles pour répondre à toute la gamme des besoins opérationnels présents et futurs des trois armées (terre, marine et air).  
+
+Partenaire européen et acteur mondial, MBDA se positionne au coeur de la souveraineté de nos nations européennes et de leurs alliés en leur fournissant des capacités militaires décisives à des fins de sécurité nationale et d'autonomie stratégique. Les produits du Groupe sont en service dans plus de 90 forces armées dans le monde. Avec plus de 13 000 personnes travaillant ensemble en France, au Royaume\\-Uni, en Italie, en Allemagne et en Espagne, MBDA est l'exemple le plus abouti d'intégration industrielle réussie dans le secteur de la défense en Europe. Les compétences des collaborateurs couvrent tous les aspects de la conception, du développement, de la production, du support et des services des systèmes d'armes complexes.  
+
+Chez MBDA, le sens de notre mission est ce qui nous unit : contribuer à la souveraineté des nations et préserver notre sécurité et notre liberté en Europe. Pour y parvenir, la collaboration et la confiance sont essentielles. MBDA doit relever des défis uniques pour répondre aux besoins des forces armées face à de nouvelles menaces. Motivés par les challenges technologiques, nous repoussons les limites de l'innovation, de la science et de la technologie pour développer des solutions au meilleur niveau.
+  
+
+Nous encourageons le dépassement de soi dans un environnement unique qui offre des opportunités à chacun d'entre nous. Ensemble, nous sommes fiers du rôle que nous jouons.  
+
+  
+
+**Description du poste**  
+
+Rejoignez la Direction Engineering qui soutient nos programmes dans la conduite des activités d'ingénierie et des essais, qui met en oeuvre les méthodes d'optimisation de notre excellence technique et garantit un service optimal auprès de nos clients.  
+
+Au sein du département Simulation et Modélisation, vous avez la responsabilité de développer, tester et intégrer des MDR (Modèles Dynamiques de Référence) de missiles. Ces modèles contiennent une représentation détaillée de tous les composants du missile et de son environnement opérationnel (plate\\-forme de tir, conditions météorologiques, équipements, logiciels embarqués, propulseurs, ...). Ils sont utilisés par les équipes projet pour les études d'avant\\-projet, les études de conception, la validation du système, la préparation des essais et l'évaluation des performances du système.  
+
+Dans le cadre de ce poste, vous serez rattaché hiérarchiquement au responsable du service modélisation et fonctionnellement au responsable du pôle projet. Vous rejoindrez une équipe composée de 5 à 6 personnes curieuses de s'essayer à de nouvelles méthodologies de développement. Au sein de cette équipe, vous participerez à l'ensemble des activités de modélisation, allant de la conception jusqu'à l'exécution des tests, la réalisation des compte\\-rendu associés et la gestion en configuration du code produit.  
+
+En tant qu'Ingénieur(e) développement logiciel de simulations numériques, vous aurez en charge de :  
+
+* Concevoir, développer et faire évoluer des modèles à partir des besoins système,
+* Intégrer des modèles ou les algorithmes embarqués, fournis par d'autres entités métiers de MBDA ou par des sociétés coopérantes,
+* Vérifier les exigences logicielles et fonctionnelles,
+* Assurer la gestion de configuration du modèle et de ses sous\\-modèles,
+* Livrer les modèles au sein de MBDA ou chez les clients externes,
+* Participer à l'amélioration des outils métiers du Département.
+
+
+  
+
+Vous serez en interface avec de nombreux métiers (conception système, guidage\\-pilotage\\-navigation, senseurs, aérodynamique et propulsion, logiciel...) intervenant dans le développement des missiles et systèmes d'armes, ce qui vous permettra d'avoir une vision globale du système étudié.  
+
+Les développements et les évolutions se font en contact direct avec l'équipe Projet.  
+
+Notre rémunération comporte un salaire fixe et des éléments additionnels individuels (une part variable pour nos salariés cadres et une prime d'ancienneté ainsi qu'une prime annuelle pour nos salariés non\\-cadres) ou collectifs dépendant de la performance et des résultats de l'entreprise (participation, intéressement).  
+
+De nombreux services/avantages sont également proposés : restaurant d'entreprise, épargne salariale (PEG, PERCOL), protection sociale (mutuelle et prévoyance), comité social et économique, infirmerie et service de santé au travail interne...  
+
+* Innovations logicielles
+* Simulation des systemes complexes
+* En interface avec de multiples métiers
+MBDA recherche :
+
+
+Diplômé(e) d'une école d'ingénieur généraliste ou équivalent, vous avez des connaissances générales de la mécanique du vol et/ou de l'aéronautique, informatique des systèmes embarqués et justifiez de 3 à 5 ans d'expérience dans le domaine de la simulation des systemes complexes.  
+
+Vous avez de solides notions de modélisations mathématiques. Vous maitrisez les langages C/C\\+\\+ et avez déjà travaillé en environnement LINUX. La connaissance de Python, Simulink et de Matlab serait un plus pour votre candidature.  
+
+Vous avez un goût certain pour la programmation tout en vous intéressant aux autres champs de la simulation numérique et de l'industrie de la défense. Votre intérêt pour les aspects fonctionnels des systèmes d'arme ainsi que sur les innovations logicielles vous permettront d'apporter un regard critique sur les modèles réalisés.  
+
+Rigueur et recherche de solutions concertées vous sont des qualités reconnues. Vous appréciez le travail en équipe et les échanges collaboratifs.  
+
+Compte tenu de l'environnement international de la société, un bon niveau d'anglais est nécessaire.  
+
+Les défis technologiques de l'industrie de défense vous motivent ? Envoyez\\-nous votre candidature !  
+
+006
+Résumé :
+
+
+**Référence** : R24647
+
+
+Le Plessis\\-Robinson \\- Ile\\-de\\-France \\- France
+CDI
+2 à 4 ans d'expérience
+Industrialisation, Production",,https://www.glassdoor.fr/Overview/W-EI_IE36412.htm,https://media.glassdoor.com/sql/36412/mbda-squareLogo-1681292345443.png,,,,,
+gd-1009638755063,glassdoor,https://www.glassdoor.fr/job-listing/j?jl=1009638755063,,Ingénieur Méthodes Industrialisation CMO H/F,Motul,Vaires,2025-02-15,,,,,,,False,,,organic,,"Reportant au Responsable Méthodes et Industrialisation CMO, l’Ingénieur Méthodes et Industrialisation CMO prendra en charge la standardisation des meilleurs pratiques de travail opérationnelles (méthodes) complété par des projets d’industrialisation emballages sur le périmètre CMO / Sous\\-traitance.
+
+**Méthodes / Process**  
+
+* Contribue à l’établissement et à la gestion de référentiels industriels applicables par nos sous\\-traitant permettant d’assurer le respect des exigences Motul ainsi que le maîtrise des process.
+* Contribue à l’évaluation et aux audits des sous\\-traitants sur leur aptitude à respecter nos référentiels Industriels
+* Contribue à l’identification, à la communication et au suivi de la mise en œuvre des plans de progrès qui s’avèreraient nécessaires au regard des résultats évalués en performance Industriel et Qualité
+* Identification des meilleures pratiques industrielles/métier (celles qui évitent les incidents et celles qui permettent de renouveler les bonnes performances) pour les partager en transversal avec nos sous\\-traitants. Meilleures pratiques complétant nos référentiels industriels lorsque pertinent
+**Industrialisation emballages**  
+
+* Plus particulièrement sur le périmètre CMO, contribue au pilotage du processus assurant la validation des emballages dans le respect de la sécurité et des objectifs de Qualité / Coûts / Délais : de la validation des spécifications techniques fournisseurs jusqu’à la validation industrielle, en passant par la conduite d’essais sur équipements
+* Planifie et coordonne les activités des différents projets d’emballages chez les sous\\-traitants
+* Contribue aux réunions de suivi de projets en interne et chez les fournisseurs d’emballages
+* Sur le périmètre CMO/Sous\\-Traitance, contribue aux revues d’industrialisation emballages pour mettre en avant les objectifs, l’état d’avancement et les points durs de chaque projet
+* Contribue à l’administration des cahiers des charges techniques et fonctionnels emballages (Etablissement, mise à jour, communication) en intégrant les spécificités techniques de nos sous\\-traitants pour garantir l’adéquation des emballages avec les équipements industriels
+
+  
+
+**Projets de développement industriels**  
+
+* Contribue à la qualification des process de fabrication et de remplissage en sous\\-traitance
+* Apporte son support aux projets d’industrialisation de nouveaux équipements de production chez les sous\\-traitants
+
+  
+
+**Qualité**  
+
+* Analyse les incidents liés à la qualité des emballages et communication des réclamations
+* Suit et vérifie l’efficacité des réponses aux réclamations emballages
+* Proposition de toute amélioration emballage jugée pertinente
+
+  
+
+**Performance**  
+
+* Contribue à l’établissement et à la mise à jour des « Data Industrielles » de nos sous\\-traitants en termes de capacité, performance, capabilité et polyvalence des équipements. Data servant de base à la définition de la meilleure stratégie industrielle de distribution d’activité.
+
+### **Profil**
+
+
+Education / Qualification : Ecole d’ingénieur,
+
+  
+
+Expériences souhaitées : Au moins 3 années d’expérience significative dans des rôles similaires, de préférence dans un environnement industriel,
+
+
+Connaissance obligatoire des activités sur sites et de projet,
+
+
+Connaissance des processus de contrôle qualité et de production,
+
+
+Connaissance obligatoire de la méthodologie de Gestion de projet
+
+
+Participation à différents chantiers d’Industrialisation
+
+
+Connaissance basique des méthodologies Amélioration Continue (SMED, 5S, management visuel, TRS),
+
+
+Connaissance basique en Environnement, Santé et Sécurité,
+
+
+Bonne connaissance de l’ISO 9001 \\& 14001, et des standards internationaux en Contrôle Qualité,
+
+  
+
+Compétences IT : Maitrise de la suite Microsoft, Maitrise de SAP
+
+
+**Localisation du poste**
+-------------------------
+
+### **Localisation du poste**
+
+
+Europe, France, Ile\\-de\\-France, Seine et Marne (77\\)
+
+### **Lieu**
+
+
+Chem. du Corps de Garde, 77360 Vaires\\-sur\\-Marne
+### **Bureau de rattachement**
+
+
+Vaires Sur Marne \\- France
+
+### **Télétravail**
+
+
+Non \\- Pas de télétravail
+
+**Critères candidat**
+---------------------
+
+### **Niveau d'études min. requis ou équivalent**
+
+
+4\\- Master ou MBA
+
+### **Niveau d'expérience min. requis**
+
+
+2\\-5 ans
+
+### **Langues**
+
+* Français (4\\- Langue natale)
+* Anglais (3\\- Niveau avancé)
+
+**Demandeur**
+-------------
+
+### **Poste à pourvoir le**
+
+
+07/04/2025",,https://www.glassdoor.fr/Overview/W-EI_IE371007.htm,https://media.glassdoor.com/sql/371007/motul-squarelogo-1422467379252.png,,,,,
+gd-1009639558813,glassdoor,https://www.glassdoor.fr/job-listing/j?jl=1009639558813,,"Responsable technique - pilotage, guidage et navigation F/H",MBDA,Le Plessis-Robinson,2025-02-15,,,,,,,False,,,organic,,"MBDA recrute :
+
+
+MBDA est le seul groupe européen capable de concevoir et de produire des missiles et systèmes de missiles pour répondre à toute la gamme des besoins opérationnels présents et futurs des trois armées (terre, marine et air).  
+
+Partenaire européen et acteur mondial, MBDA se positionne au coeur de la souveraineté de nos nations européennes et de leurs alliés en leur fournissant des capacités militaires décisives à des fins de sécurité nationale et d'autonomie stratégique. Les produits du Groupe sont en service dans plus de 90 forces armées dans le monde. Avec plus de 13 000 personnes travaillant ensemble en France, au Royaume\\-Uni, en Italie, en Allemagne et en Espagne, MBDA est l'exemple le plus abouti d'intégration industrielle réussie dans le secteur de la défense en Europe. Les compétences des collaborateurs couvrent tous les aspects de la conception, du développement, de la production, du support et des services des systèmes d'armes complexes.  
+
+Chez MBDA, le sens de notre mission est ce qui nous unit : contribuer à la souveraineté des nations et préserver notre sécurité et notre liberté en Europe. Pour y parvenir, la collaboration et la confiance sont essentielles. MBDA doit relever des défis uniques pour répondre aux besoins des forces armées face à de nouvelles menaces. Motivés par les challenges technologiques, nous repoussons les limites de l'innovation, de la science et de la technologie pour développer des solutions au meilleur niveau.
+  
+
+Nous encourageons le dépassement de soi dans un environnement unique qui offre des opportunités à chacun d'entre nous. Ensemble, nous sommes fiers du rôle que nous jouons.  
+
+  
+
+**Description du poste**  
+
+La Direction Engineering soutient nos programmes dans la conduite des activités d'ingénierie et des essais, met en oeuvre les méthodes d'optimisation de notre excellence technique et garantit un service optimal auprès de nos clients.  
+
+Au sein du département « Guidage, Pilotage, Navigation », au coeur des performances de nos produits, vous intervenez principalement sur des projets et sur des activités de développement de solutions algorithmiques complexes et innovantes.  
+
+  
+
+Au sein d'une équipe d'une dizaine de personnes, vous conjuguez des responsabilités de pilotage technique et d'organisation des travaux d'une partie de l'équipe avec la réalisation en propre d'activités techniques.  
+
+  
+
+En termes d'activités techniques, vous :  
+
+* Réalisez des études, théoriques et en simulation, pour concevoir les algorithmes de Pilotage, Guidage, Navigation d'un missile afin d'atteindre la performance visée. Vos contribuez ainsi typiquement à :La conception du/des filtres de Navigation permettant d'estimer avec précision la position du missile,
+* La définition de lois de guidage permettant l'interception d'une cible,
+* La conception des lois de pilotage permettant de contrôler l'engin et de réaliser la trajectoire désirée.
+
+
+  
+
+* Développez et validez les composants logiciels associés, en vue de leur intégration dans le logiciel temps réel du calculateur du missile.
+* Contribuez à spécifier les performances attendues des équipements (actionneurs, senseurs) de manière à atteindre les performances souhaitées pour les fonctions de pilotage, guidage et navigation.
+* Contribuez à la préparation et l'analyse d'essais, en particulier en vol, à travers :Un support à la réalisation du plan d'essais,
+* La participation au dépouillement des essais,
+* Le recalage des modèles pour assurer leur représentativité.
+
+  
+
+  
+
+  
+
+En termes de coordination, vous assurez sur votre périmètre les responsabilités suivantes, avec le soutien du responsable d'équipe :  
+
+* Organiser les activités techniques afin de permettre la tenue des jalons dans le respect des critères de qualité (technique et documentaire, tenue des revues), coût et délai.
+* Orienter les choix techniques et valider les réalisations techniques de l'équipe, avec l'appui des experts métier, et assurer leur adéquation au besoin du projet.
+* Assurer le reporting, organiser les revues et points d'avancement techniques réguliers de l'équipe.
+* Contribuer au développement des compétences techniques, à la confiance et à la motivation de l'équipe.
+* Veiller à l'application des politiques et meilleures pratiques de son métier.
+
+
+  
+
+Vous échangez avec les autres métiers engagés sur le projet: conception système, simulation, aérodynamique et propulsion, responsables des équipements, logiciel, etc.  
+
+  
+
+Notre rémunération comporte un salaire fixe et des éléments additionnels individuels (une part variable pour nos salariés cadres et une prime d'ancienneté ainsi qu'une prime annuelle pour nos salariés non\\-cadres) ou collectifs dépendant de la performance et des résultats de l'entreprise (participation, intéressement).  
+
+De nombreux services/avantages sont également proposés : restaurant d'entreprise, épargne salariale (PEG, PERCOL), protection sociale (mutuelle et prévoyance), comité social et économique, infirmerie et service de santé au travail interne...
+MBDA recherche :
+
+
+Vos compétences techniques :  
+
+* Vous êtes ingénieur généraliste ou équivalent, dans le domaine aéronautique, aérospatial, automatique ou mathématiques appliquées avec :une bonne connaissance de la mécanique du vol et de la cinématique du point
+* une solide compréhension de la théorie du contrôle et de l'estimation (domaine de l'automatique)
+
+
+  
+
+* Vous bénéficiez d'une expérience professionnelle de plus de 5 ans vous ayant permis de mettre en pratique vos connaissances académiques.
+* Une connaissance des outils : Matlab, langage de programmation C ou C\\+\\+, Python serait un plus.
+* Enfin, vous possédez un bon niveau d'anglais (TOEIC \\> 800\\).
+
+  
+
+  
+
+Compétences comportementales :  
+
+* Doté d'un bon esprit d'équipe, vous soutenez et accompagnez les membres de votre équipe.
+* Curieux et impliqué, vous échangez et partagez régulièrement des informations avec l'ensemble des interlocuteurs du projet en lien avec votre/vos lots de travaux.
+* Vous êtes moteur dans la concertation et la recherche de compromis avec les entités en interface et/ou décideurs du projet.
+
+  
+
+  
+
+006
+Résumé :
+
+
+* Référence : R25403
+* Le Plessis\\-Robinson \\- Ile\\-de\\-France \\- France
+* CDI
+* 5 à 10 ans d'expérience
+* Industrialisation, Production",,https://www.glassdoor.fr/Overview/W-EI_IE36412.htm,https://media.glassdoor.com/sql/36412/mbda-squareLogo-1681292345443.png,,,,,
+gd-1009639558448,glassdoor,https://www.glassdoor.fr/job-listing/j?jl=1009639558448,,Ingénieur conception Pilotage-Guidage-Navigation F/H,MBDA,Le Plessis-Robinson,2025-02-15,,,,,,,False,,,organic,,"MBDA recrute :
+
+
+MBDA est le seul groupe européen capable de concevoir et de produire des missiles et systèmes de missiles pour répondre à toute la gamme des besoins opérationnels présents et futurs des trois armées (terre, marine et air).  
+
+Partenaire européen et acteur mondial, MBDA se positionne au coeur de la souveraineté de nos nations européennes et de leurs alliés en leur fournissant des capacités militaires décisives à des fins de sécurité nationale et d'autonomie stratégique. Les produits du Groupe sont en service dans plus de 90 forces armées dans le monde. Avec plus de 13 000 personnes travaillant ensemble en France, au Royaume\\-Uni, en Italie, en Allemagne et en Espagne, MBDA est l'exemple le plus abouti d'intégration industrielle réussie dans le secteur de la défense en Europe. Les compétences des collaborateurs couvrent tous les aspects de la conception, du développement, de la production, du support et des services des systèmes d'armes complexes.  
+
+Chez MBDA, le sens de notre mission est ce qui nous unit : contribuer à la souveraineté des nations et préserver notre sécurité et notre liberté en Europe. Pour y parvenir, la collaboration et la confiance sont essentielles. MBDA doit relever des défis uniques pour répondre aux besoins des forces armées face à de nouvelles menaces. Motivés par les challenges technologiques, nous repoussons les limites de l'innovation, de la science et de la technologie pour développer des solutions au meilleur niveau.
+  
+
+Nous encourageons le dépassement de soi dans un environnement unique qui offre des opportunités à chacun d'entre nous. Ensemble, nous sommes fiers du rôle que nous jouons.  
+
+  
+
+**Description du poste**  
+
+La Direction Engineering soutient nos programmes dans la conduite des activités d'ingénierie et des essais, met en oeuvre les méthodes d'optimisation de notre excellence technique et garantit un service optimal auprès de nos clients.  
+
+Au sein du département « Guidage, Pilotage, Navigation » (GCN), au coeur des performances de nos produits, vous intervenez principalement sur des projets et sur des activités de développement de solutions algorithmiques complexes et innovantes.  
+
+  
+
+Dans ce cadre, vous :  
+
+* Réalisez des études pour concevoir des algorithmes de Pilotage, Guidage, Navigation d'un missile afin d'atteindre la performance visée :La conception du/des filtres de Navigation pour estimer la position du missile,
+* La définition de lois de guidage pour l'interception d'une cible,
+* La conception des lois de pilotage pour contrôler l'engin et la trajectoire désirée.
+
+
+  
+
+* Développez et validez les composants logiciels associés, en vue de leur intégration dans le logiciel temps réel du calculateur du missile.
+* Contribuez à spécifier les performances attendues des équipements (actionneurs, senseurs) de manière à atteindre les performances souhaitées pour les fonctions de pilotage, guidage et navigation.
+* Contribuez à la préparation et l'analyse d'essais, en particulier en vol, incluant :Un support à la réalisation du plan d'essais,
+* La participation au dépouillement des essais,
+* Le recalage des modèles pour assurer leur représentativité.
+
+  
+
+  
+
+  
+
+Pour ce faire, vous êtes en interface avec les autres métiers impliqués sur le projet : conception système, simulation, aérodynamique et propulsion, responsables des équipements, logiciel, etc.  
+
+  
+
+Notre rémunération comporte un salaire fixe et des éléments additionnels individuels (une part variable pour nos salariés cadres et une prime d'ancienneté ainsi qu'une prime annuelle pour nos salariés non\\-cadres) ou collectifs dépendant de la performance et des résultats de l'entreprise (participation, intéressement).  
+
+De nombreux services/avantages sont également proposés : restaurant d'entreprise, épargne salariale (PEG, PERCOL), protection sociale (mutuelle et prévoyance), comité social et économique, infirmerie et service de santé au travail interne...
+MBDA recherche :
+
+
+De formation bac\\+5 et plus dans le domaine aéronautique, aérospatial, automatique ou mathématiques appliquées, les travaux scientifiques de recherche et développement en aéronautique vous passionnent, et vous avez envie de résoudre des problématiques complexes sur des sujets innovants.  
+
+Grâce à une première expérience professionnelle, vous possédez :  
+
+* une connaissance approfondie de la mécanique/cinématique du point,
+* une solide compréhension de la théorie du contrôle et de l'estimation (domaine de l'automatique),
+* une très bonne maîtrise de l'anglais (parlé et écrit) vous permettant d'intervenir sur des sujets traités internationalement au sein de MBDA,
+* une expérience de développement en C, C\\+\\+, Python ou Matlab au travers d'une première expérience professionnelle ou de travaux académiques.
+
+  
+
+  
+
+006
+Résumé :
+
+
+* Référence : R25276
+* Le Plessis\\-Robinson \\- Ile\\-de\\-France \\- France
+* CDI
+* Débutant / Jeune diplomé
+* Industrialisation, Production",,https://www.glassdoor.fr/Overview/W-EI_IE36412.htm,https://media.glassdoor.com/sql/36412/mbda-squareLogo-1681292345443.png,,,,,
+gd-1009637378288,glassdoor,https://www.glassdoor.fr/job-listing/j?jl=1009637378288,,Responsable Veille d’Obsolescence Electronique (H/F),Arabelle Solutions,Paris,2025-02-14,,,,,,,False,,,organic,,"Employer
+  
+  
+
+Arabelle Solutions propose un large portefeuille de technologies et des services de îlots de turbines qui sont utilisés dans plus d'un tiers des centrales nucléaires dans le monde, aidant ainsi les clients du monde entier à fournir une énergie fiable dans leur transition vers un avenir à faibles émissions de carbone. La turbine à vapeur Arabelle est la plus avancée de son genre et la société fournit des solutions de support du cycle de vie des îlots de turbine pour tous les types de réacteurs nucléaires \\- améliorant la puissance de sortie, réduisant l'empreinte environnementale et réduisant les coûts d'exploitation. Arabelle Solutions compte environ 3 300 collaborateurs répartis dans 16 pays et est une filiale du groupe EDF.
+  
+  
+
+Chez Arabelle Solutions, nous sommes fiers de concevoir des services et des solutions qui génèrent de l'énergie non seulement pour aujourd'hui et demain, mais aussi pour les générations à venir. Vous travaillerez aux côtés d’esprits brillants et passionnés. Nous offrons un large éventail d’opportunités à ceux qui souhaitent construire le monde de demain. Nous pensons qu'une culture de soutien est essentielle pour atteindre des objectifs communs. La diversité et un état d’esprit inclusif nous rendent, nous et notre entreprise, plus forts.
+  
+  
+
+\\[www.arabellesolutions.com](http://www.arabellesolutions.com)
+  
+  
+
+Position
+  
+  
+
+**Responsabilités :**  
+
+Au sein d’une équipe dynamique et innovante, le Responsable veille à l’obsolescence électronique joue un rôle clé tout au long du cycle de vie de nos produits : conception, industrialisation, production, maintenance, et fin de vie.
+  
+  
+
+Il/elle organise et centralise la veille d’obsolescence des composants électroniques à partir d’un outil spécialisé et des différentes bases de données propriétaires.
+  
+  
+
+En tant qu’expert(e) des composants électroniques, il ou elle assure également le support technique pour les projets et nos unités de production.
+  
+  
+
+Dans ce cadre, le Responsable veille à l’obsolescence électronique aura pour principales missions :
+  
+  
+
+* La création et le maintien des articles dans les bases de données en adéquation avec les objectifs stratégiques industriels,
+* La veille technologique sur les composants électroniques (analyse d’obsolescence, contact avec les fournisseurs, recherche et proposition d’équivalences, etc.),
+* La rédaction et la présentation des rapports d’obsolescence,
+* La mise à jour continue des bases de données des composants,
+* La rédaction des cahiers des charges techniques pour l’étude et la refabrication des composants spécifiques,
+* La réalisation des expertises techniques en lien avec nos laboratoires partenaires,
+* Le support technique pour les projets d’étude et de refabrication, dès la phase d’avant\\-vente,
+* La participation à l’industrialisation des produits (des phases de prototypage à la série),
+* L’analyse des problèmes techniques et le support à la qualité concernant le suivi de production.
+
+
+Profile
+  
+* Diplôme d'ingénieur en électronique ou mécatronique
+* Expérience ( \\> 5 ans) dans un poste équivalent et dans un environnement contraint (ex. : secteurs nucléaire, aviation, médical, automobile, etc.)
+* Maîtrise de la gestion des bases de données composants (outil PLM)
+* Maîtrise des référentiels et des méthodes de production des composants et des cartes électroniques (IPC, RoHS, RCC\\-E, …)
+* Bonne communication écrite et verbale, capacité à communiquer avec tous les niveaux de l’organisation
+* Anglais opérationnel",,https://www.glassdoor.fr/Overview/W-EI_IE10036257.htm,https://media.glassdoor.com/sql/10036257/arabelle-solutions-squareLogo-1736515223425.png,,,,,

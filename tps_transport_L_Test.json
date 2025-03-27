@@ -1,0 +1,15 @@
+[
+    {
+      "ville": "Reims",
+      "temps_trajet": "10 min",
+      "modes": ["Voiture"],
+      "destination": "Paris Gare de l'Est"
+    },
+    {
+      "ville": "Châlons-en-Champagne",
+      "temps_trajet": "50 min",
+      "modes": ["Train TER"],
+      "destination": "Paris Gare de l'Est"
+    }
+  ]
+  

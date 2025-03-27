@@ -1,0 +1,371 @@
+id,site,job_url,job_url_direct,title,company,location,date_posted,job_type,salary_source,interval,min_amount,max_amount,currency,is_remote,job_level,job_function,listing_type,emails,description,company_industry,company_url,company_logo,company_url_direct,company_addresses,company_num_employees,company_revenue,company_description
+gd-1009641464411,glassdoor,https://www.glassdoor.fr/job-listing/j?jl=1009641464411,,Ingénieur validation (Ingénieur tests et validation),SOCASS - Société d'Assistance de Service et de Support,Carrières,2025-02-18,,direct_data,yearly,38000.0,44000.0,EUR,False,,,organic,,"Au sein de notre pôle ingénierie développement automobile, vous interviendrez en qualité **de leader validation système**, vous exercerez conjointement votre mission sur le périmètre fonctionnel, électricité et électronique de l'ensemble de pilotage (Capteurs \\- Commande \\- Actionneurs).
+
+
+**Vos missions** :
+
+* Est responsable de la rédaction de la fiche de lot intégration/validation de son projet. La fiche de lot spécifie, pour l’ensemble du développement, les ressources nécessaires (humaines et techniques), les entrants (spécifications, normes, dimensionnement des moyens d’essais (véhicules représentatifs, banc HIL, banc GMP, etc.), et les livrables fournis.
+* Propose au responsable de son sous domaine de nouvelles méthodes d’intégration/validation, de mise au point sur banc d’essais (HIL, GMP, Moteur) ou véhicule pour améliorer la couverture, la maturité de l’EDP.
+* Connaît, comprend et contribue à la vérification, lors de la phase d’intégration et validation, de la cohérence de toutes les spécifications électriques, électroniques et fonctionnelles implémentées dans l’EDP.
+* Analyse la testabilité des exigences spécifiées et la reproductibilité.
+* Contribue aux revues de design du fournisseur intégrateur (FI) avant le développement de l’EDP selon les critères de sélectivité définis dans le référentiel métier.
+* Participe aux revues des plans d’intégration et validation (PIV) et des dossiers d’intégration et de validation (DIV) des FI respectivement avant et pendant leur phase de validation.
+* Remonte des besoins de mise au point et de configuration des moyens d’essais (HIL, GMP)
+* Assure la pré\\-recette et la recette des logiciels attendus du fournisseur intégrateur (FI).
+* Réalise l’intégration et la validation de la version logicielle livrée selon les procédures de tests définies.
+* Teste et calibre de façon optimale les fonctions implémentées dans une version logicielle prévue pour les partenaires et/ou pour industrialisation, tout en respectant les délais imposés par le jalon cible.
+* Emet l’accord d’industrialisation en fonction des résultats de validation obtenus.
+* Analyse avec le support de son équipe les éventuels défauts ou dysfonctionnements et contribue à la rédaction des fiches de faits techniques en cas de non\\-conformité avérée.
+* S’assure que la collecte et l’enregistrement des mesures sur banc d’essais, véhicule est mise en place selon les règles de l’art pour permettre l’exploitation ultérieure des résultats.
+* Vérifie aux différents stades de développement organe (MPO, VRS, PRSEL, etc.) la conformité de l’architecture électrique électronique de l’ensemble de pilotage et la cohérence fonctionnelle associée avant tout essai sur véhicule.
+* Réalise le suivi des roulages EOBD et l’expertise de défauts remontés par les clients (Tables d’intégration, IVCT, UT/APV).
+* Garantit la validation de la diagnosticabilité (Odx, Séquences de tests, Logigrammes APV, paramètres dynamiques ...) des logiciels des calculateurs.
+* Établit des synthèses périodiques d’avancement des faits techniques observés lors des phases d’intégration, de validation, de mise au point et d’assistance technique.
+* Établit au démarrage projet puis met à jour les indicateurs qualité spécifiés au référentiel métier afin de s’assurer de la qualité des livrables.
+* Assure la traçabilité et l’archivage documentaire.
+* Contribue à l’animation des faits techniques types défauts logiciels.
+
+
+**Vos missions sur le plan projet** :
+
+* Etablit et met à jour un planning d’intégration, validation et mise au point en cohérence avec les jalons du projet
+* Alerte le projet sur les éventuels retards liés à la tenue de ses engagements.
+* Analyse en instance projet Groupe de conception EDP l’état d’avancement des activités d’intégration, validation, mise au point et confirme leur avancement vis\\-à\\-vis des jalons projet.
+* Négocie le planning d’intégration et de validation avec l’équipe projet pour tenir compte d’aléas ou priorités nouvelles et met à jour ce planning selon les décisions retenues avec le projet.
+* Planifie et coordonne hebdomadairement les activités de l’équipe opérationnelle d’après le planning projet applicable.
+* Donne de la visibilité à l’équipe opérationnelle sur les activités à mener sur le moyen et long terme via le planning projet.
+* Distribue les activités planifiées selon les compétences de l’équipe.
+* Remonte les demandes d’intervention, d’expertise et d’assistance technique sur véhicule au sous domaine assistance technique et expertise.
+* Remonte les faits marquants hebdomadaires de son projet.
+
+**Outils et compétences** :
+
+* INCA, CANALYZER, EXCEL (Impératif)
+* Anglais obligatoire (lu, écrit, parlé)
+* Permis B obligatoire
+* Connaissance électrique/électronique/systèmes embarqués/powertrain
+* Horaires flexibles
+* Prise en charge du transport quotidien
+* RTT
+* Titre\\-restaurant
+* Mutuelle
+* Prime de vacances
+
+
+Qui sommes nous ?
+
+
+SOCASS est une société d'ingénierie qui se distingue par sa taille humaine et qui est régie par de profondes valeurs sociales. Depuis 2007, nous accompagnons nos partenaires dans la réalisation de leur projet grâce à notre savoir\\-faire et notre expertise technique.  
+
+Nous entretenons une relation de proximité et de confiance avec l’ensemble de nos équipes. Nous rejoindre, c’est faire partie d’une entreprise dynamique capable de vous accompagner dans votre évolution professionnelle.",,,,,,,,
+gd-1009642151523,glassdoor,https://www.glassdoor.fr/job-listing/j?jl=1009642151523,,Responsable Technique équipements Liaisons de données F/H,MBDA,Le Plessis-Robinson,2025-02-18,,,,,,,False,,,organic,,"MBDA recrute :
+
+
+MBDA est le seul groupe européen capable de concevoir et de produire des missiles et systèmes de missiles pour répondre à toute la gamme des besoins opérationnels présents et futurs des trois armées (terre, marine et air).  
+
+Partenaire européen et acteur mondial, MBDA se positionne au coeur de la souveraineté de nos nations européennes et de leurs alliés en leur fournissant des capacités militaires décisives à des fins de sécurité nationale et d'autonomie stratégique. Les produits du Groupe sont en service dans plus de 90 forces armées dans le monde. Avec plus de 13 000 personnes travaillant ensemble en France, au Royaume\\-Uni, en Italie, en Allemagne et en Espagne, MBDA est l'exemple le plus abouti d'intégration industrielle réussie dans le secteur de la défense en Europe. Les compétences des collaborateurs couvrent tous les aspects de la conception, du développement, de la production, du support et des services des systèmes d'armes complexes.  
+
+Chez MBDA, le sens de notre mission est ce qui nous unit : contribuer à la souveraineté des nations et préserver notre sécurité et notre liberté en Europe. Pour y parvenir, la collaboration et la confiance sont essentielles. MBDA doit relever des défis uniques pour répondre aux besoins des forces armées face à de nouvelles menaces. Motivés par les challenges technologiques, nous repoussons les limites de l'innovation, de la science et de la technologie pour développer des solutions au meilleur niveau.
+  
+
+Nous encourageons le dépassement de soi dans un environnement unique qui offre des opportunités à chacun d'entre nous. Ensemble, nous sommes fiers du rôle que nous jouons.  
+
+  
+
+**Description du poste**  
+
+Rejoignez la Direction Engineering qui soutient nos programmes dans la conduite des activités d'ingénierie et des essais, qui met en oeuvre les méthodes d'optimisation de notre excellence technique. Vous intégrez le Département des Senseurs Radio Fréquence et plus particulièrement le service des Liaisons de Données.  
+
+Le service fait partie d'un Centre d'Excellence Fédéré Liaisons de Données (Cofex), qui a pour but de partager et mettre en place des synergies métiers au bénéfice de programmes franco\\-britanniques. Vous évoluerez dans un environnement international et contribuerez directement à l'efficacité de nos solutions de liaisons de données pour les systèmes de missile actuels et futurs.  
+
+En tant que Responsable Technique équipements Liaisons de données vous serez en charge de définir le feuille de route technique d'équipements en cours de développement. Pour mener à bien vos activités vous travaillerez en interface avec les équipes métiers MBDA (Responsables opérationnels, électronique, achats, Cofex), le service Antennes de Selles\\-Saint\\-Denis et des sous\\-traitants RF externes (Thales...).  
+
+Grâce à vos connaissances et votre expertise dans le domaine, vous contribuez, à travers des analyses, des essais et une forte interaction avec les fournisseurs, à développer et des équipements conformes, en termes de performances, au besoin du système et ce, tout au long de leur durée de vie.  
+
+En tant que Responsable Technique équipements Liaisons de données, vous assurez la maîtrise d'ouvrage relative aux équipements de liaison de données en cours de développement.  
+
+Dans ce cadre, vous devrez :  
+
+* Elaborer le référentiel documentaire pour les sous\\-traitants (CCTP) internes et externes,
+* Piloter les sous\\-traitants,
+* Assurer la disponibilité des équipements de série conformément aux engagements contractuels,
+* Assurer l'acceptation des équipements,
+* Analyser et traiter les dérogations et les faits techniques,
+* Superviser les aspects techniques liés au traitement des obsolescences.
+
+
+  
+
+Vous rôle vous confère également la responsabilité des travaux d'études amont (IRAD sur 3 ans) permettant de définir les liaisons de données longue portée par satellites utilisables pour les futurs missiles MBDA.  
+
+Dans ce cadre, vous devrez :  
+
+* Identifier les constellations et services de communication utilisables,
+* Explorer les solutions pour améliorer les performances des liaisons de données.
+
+
+  
+
+Enfin, vous serez également en charge :  
+
+* Des études théoriques : L'établissement des bilans de liaison
+* La mise en place de modèles et évaluations des performances
+* Les études des solutions antennes et modem
+
+
+  
+
+* De la réalisation d'une démonstration : Le pilotage et la coordination des différents métiers MBDA et des acteurs extérieurs impliqués dans la démonstration
+* L'achat et/ou le développement des matériels et logiciels nécessaires
+* La réparation, la réalisation et l'exploitation de la démonstration
+
+  
+
+  
+
+Dans le cadre des relations et besoins projets avec le Cofex, des déplacements réguliers en Angleterre sont à prévoir.  
+
+Notre rémunération comporte un salaire fixe et des éléments additionnels individuels (une part variable pour nos salariés cadres et une prime d'ancienneté ainsi qu'une prime annuelle pour nos salariés non\\-cadres) ou collectifs dépendant de la performance et des résultats de l'entreprise (participation, intéressement).  
+
+De nombreux services/avantages sont également proposés : restaurant d'entreprise, épargne salariale (PEG, PERCOL), protection sociale (mutuelle et prévoyance), comité social et économique, infirmerie et service de santé au travail interne...  
+
+Environnement internationnal  
+
+Projet d'avenir
+MBDA recherche :
+
+
+De formation ingénieur ou équivalent spécialisé dans le domaine des télécommunications et en électronique, vous bénéficiez d'une expérience de 5ans minimum dans le développement de produits complexes et avez déjà piloté des activités de développement.  
+
+Autonome, vous êtes reconnu(e) pour votre capacité d'analyse et de synthèse. Vous êtes à l'aise pour exposer clairement les sujets de votre responsabilité à vos interlocuteurs.  
+
+Vous appréciez le travail collaboratif et savez défendre votre positionnement dans un environnement technique exigeant.  
+
+Compte tenu de votre contribution à des projets à l'internationnal, un bon niveau d'anglais est nécessaire.  
+
+Les défis technologiques de l'industrie de défense vous motivent ? Envoyez\\-nous votre candidature !  
+
+006
+Résumé :
+
+
+**Référence** : R26259
+
+
+Le Plessis\\-Robinson \\- Ile\\-de\\-France \\- France
+CDI
+5 à 10 ans d'expérience
+Industrialisation, Production",,https://www.glassdoor.fr/Overview/W-EI_IE36412.htm,https://media.glassdoor.com/sql/36412/mbda-squareLogo-1681292345443.png,,,,,
+gd-1009640794454,glassdoor,https://www.glassdoor.fr/job-listing/j?jl=1009640794454,,Ingénieur(e) Méthodes Amélioration Continue et Industrialisation Junior (H/F),GUINOT,Dammarie-lès-Lys,2025-02-17,,,,,,,False,,,organic,recrutementusine@guinot.com,"**GUINOT \\- MARY COHR** 
+
+Depuis plus de **50 ans,** le Groupe GUINOT \\- MARY COHR s’attache à révéler la beauté de toutes les femmes grâce à des soins et des méthodes de soin exclusives et innovantes dans ses instituts de beauté agréés, avec un engagement éthique et éco\\-responsable. Notre Groupe est **le n°1 français du soin en Institut de Beauté et représente l'alternative à la médecine esthétique.**
+
+GUINOT \\- MARY COHR, groupe familial à taille humaine, est constitué de 3 entités : GUINOT SAS, MARY COHR et GUINOT MARY COHR UK.
+
+Le Groupe bénéficie d’une présence internationale avec **17 000 Instituts** répartis dans **78 pays** à travers le monde, dont plus de **2 500 Instituts de Beauté en France**, Affiliés ou Dépositaires, dans un secteur en constante évolution.
+
+Pour notre service **« Production »** situé à Dammarie les Lys (77\\),
+
+nous recherchons un(e) :
+
+**Ingénieur(e) Méthodes Amélioration Continue et Industrialisation Junior** 
+
+Au sein du service Production et placé(e) sous la responsabilité du Responsable Production, vos missions principales seront les suivantes :
+
+· Maîtriser les bases de données, y compris celles liées à l'outillage, et assurer tous les supports nécessaires au bon déroulement des opérations de production.
+
+· Mettre à jour des gammes de production en collaboration avec le service de gestion de production.
+
+· Piloter des projets d’industrialisation en partenariat avec le département développement packaging.
+
+· Analyser la faisabilité des nouvelles promotions et des nouveaux produits.
+
+· Mettre en place et suivre les outils d’amélioration continue (SMED, 5S, etc.).
+
+· Suivre les performances de production via le MES Aquiweb.
+
+· Participer aux projets d'amélioration continue en matière de productivité, de qualité et de sécurité.
+
+· Adhérer aux normes en vigueur (ISO 22716 et ISO 14001\\) et aux procédures internes de l'entreprise.
+
+· Bac \\+5 dans un domaine lié à la gestion de production, au pilotage de production, à la maintenance industrielle ou tout autre domaine pertinent.
+
+· 1 à 3 ans d’expérience sur un poste similaire
+
+· Maîtrise des outils de Lean Manufacturing.
+
+· Bonnes connaissances des logiciels SAP et Excel.
+
+· Rigueur, esprit d’équipe, et capacité à faire adhérer les équipes aux changements.
+
+· Excellentes compétences en communication pour remonter les informations.
+
+* Formation aux Bonnes Pratiques de Fabrication
+* Formation bureautique
+
+Envoyer votre dossier de candidature au service RH recrutementusine@guinot.com
+
+SPGNT
+
+Type d'emploi : Temps plein, CDI  
+Statut : Cadre
+
+Avantages :
+
+* Prise en charge du transport quotidien
+
+Horaires :
+
+* Du lundi au vendredi
+* Travail en journée
+
+Rémunération supplémentaire :
+
+* 13ème Mois
+
+Question(s) de présélection:
+
+* Selon vous, quelles sont les compétences attendues sur ce poste?
+* De combien d'années d'expériences avez\\-vous en pilotage de projet industriel?
+
+Formation:
+
+* Bac \\+5 (Master / MBA) (Requis)
+
+Expérience:
+
+* amélioration continue: 3 ans (Requis)
+
+Lieu du poste : En présentiel",,https://www.glassdoor.fr/Overview/W-EI_IE1131275.htm,https://media.glassdoor.com/sql/1131275/guinot-institut-squarelogo-1455799619321.png,,,,,
+gd-1009640219689,glassdoor,https://www.glassdoor.fr/job-listing/j?jl=1009640219689,,Chargé d'exécution contrat F/H,DASSAULT AVIATION,Saint-Cloud,2025-02-17,,,,,,,False,,,organic,,"Dassault Aviation recrute :
+
+
+La Direction Générale Internationale a pour mission de piloter et de coordonner l'ensemble des activités internationales de Dassault Aviation dans le domaine militaire.
+
+
+Au sein de la DGI, La Direction des Exécutions de Contrats (DEC) est responsable du suivi des contrats de vente et de soutien d'avions militaires.
+
+
+Vous contribuerez au sein de l'équipe aux tâches de coordination de l'exécution du contrat RAFALE et serez en charge des missions suivantes :
+
+* assurer la fin des livraisons,
+* Suivre la gestion des chantiers avions et norias de rattrapage équipements,
+* Contribuer aux tâches de clôture du contrat,
+* contribuer au soutien de la flotte.
+
+
+Ces activités nécessitent des missions ponctuelles à l'étranger.
+
+  
+
+Le processus de sélection s’appuie sur les compétences et la motivation, sans distinction de genre, d’âge, d’origine ou de critères sans lien direct avec l’emploi proposé, et tous les postes sont ouverts aux personnes en situation de handicap.
+
+
+Dassault Aviation œuvre pour l’égalité des chances, ce qui permet de définir les adaptations aux situations de travail envisageables pour l’intégration et l’évolution professionnelle dans l’entreprise.
+
+  
+
+
+Dassault Aviation recherche :
+
+
+De formation BAC\\+5, vous justifiez d'une expérience technique confirmée dans le monde aéronautique et vous avez une bonne connaissance des produits et services du soutien.
+
+
+Vous avez une expérience dans la gestion de configuration.
+
+  
+
+Vous avez une expérience confirmée dans les méthodes de négociation, notamment en utilisant l'anglais.
+
+
+Vos qualités relationnelles seront utilisées dans les nombreuses relations que vous aurez aussi en interne qu'en externe.
+
+
+Vous êtes rigoureux, organisé et méthodique pour bien suivre le suivi de vos affaires.
+
+
+Vous savez écouter et comprendre les besoins client et prendre en compte la culture.
+
+
+Vous êtes à l'aise dans les outils bureautiques.
+
+  
+
+Etablissement soumis à enquête administrative.
+
+
+Résumé :
+
+
+**Référence** : 2023\\-11235
+
+
+Saint\\-Cloud \\- Ile\\-de\\-France \\- France
+CDI
+Industrialisation, Production",,https://www.glassdoor.fr/Overview/W-EI_IE2039103.htm,https://media.glassdoor.com/sql/2039103/dassault-aviation-squarelogo-1560146735443.png,,,,,
+gd-1009639813177,glassdoor,https://www.glassdoor.fr/job-listing/j?jl=1009639813177,,Responsable de production H/F,Prodimed,Neuilly,2025-02-16,,direct_data,yearly,45000.0,50000.0,EUR,False,,,organic,,"Envie de jouer un rôle clé dans une entreprise innovante ? Rejoignez notre site de Neuilly\\-en\\-Thelle en tant que Responsable de Production !
+
+Sous la responsabilité du Directeur de site, vos missions principales seront :
+
+\\- Manager les ateliers de production (personnel, flux, machines, processus) pour assurer la production en quantité et dans les délais requis
+
+\\- Assurer la coordination interne avec les services Supply Chain, Qualité, Industrialisation
+
+\\- Piloter les indicateurs clefs de performance production SQDCP et engager les actions correctives nécessaires en s’appuyant sur des méthodes d’amélioration continue
+
+\\- Veiller au développement en compétences du personnel dont vous serez responsable
+
+\\- Participer et valider la maintenance faite sur les gammes de production, participer à la maintenance des nomenclatures de production
+
+\\- Maintenir les équipements de production et outillage en état de fonctionnement
+
+\\- Piloter le budget Opex de production (consommables, maintenance)
+
+\\- Ordonnancer la production sur la base des ordres de fabrication émis par la Supply Chain
+
+\\- Participer à l’établissement des objectifs et de la stratégie site avec la Direction
+
+\\- Participer à l’amélioration constante du système qualité
+
+\\- Participer à l’industrialisation des nouveaux produits et à l’amélioration des gammes
+
+\\- Participer à la qualification des équipements et à la validation des procédés de production
+
+**Profil Recherché :**
+
+Vous êtes diplômé(e) d’un BAC\\+5 et justifiez d'une expérience d’au moins 10 ans en management de production dans les dispositifs médicaux ou dans un secteur similaire.
+
+Vous êtes fédérateur, vous possédez de bonnes capacités d’analyse et de décision. Votre dynamisme, votre excellent relationnel et votre pédagogie vous permettent de motiver vos interlocuteurs et de vous imposer comme une personne de terrain efficace.
+
+**Pourquoi Nous Rejoindre ?**
+
+* **Innovation et Expertise** : Travaillez sur des projets innovants au sein d'une entreprise reconnue pour son savoir\\-faire.
+* **Ambiance Conviviale** : Profitez d'un environnement de travail collaboratif et bienveillant.
+* **Impact Positif** : Contribuez à améliorer la vie des patients avec des produits de santé de qualité supérieure.
+
+**Présentation de l’Entreprise :**
+
+Prodimed, leader français des dispositifs médicaux situé à 20 minutes de Chantilly, est reconnu pour son innovation et son expertise depuis plus de 40 ans. Nous fabriquons du matériel médical de haute qualité pour divers domaines tels que la gynécologie et la chirurgie vasculaire.
+
+Intégrer Prodimed, c’est rejoindre une entreprise à taille humaine où l'ambiance est conviviale et collaborative. Chaque membre de l’équipe est valorisé et bénéficie d’un environnement de travail stimulant et bienveillant.
+
+**Rejoignez\\-nous pour construire ensemble l’avenir des soins de santé !**
+
+Type d'emploi : Temps plein, CDI  
+Statut : Cadre
+
+Rémunération : 45 000,00€ à 50 000,00€ par an
+
+Avantages :
+
+* RTT
+
+Horaires :
+
+* Du lundi au vendredi
+* Travail en journée
+
+Lieu du poste : En présentiel
+
+Date de début prévue : 15/03/2025",,https://www.glassdoor.fr/Overview/W-EI_IE1135118.htm,https://media.glassdoor.com/sql/1135118/prodimed-squarelogo-1456748439676.png,,,,,

@@ -1,0 +1,461 @@
+id,site,job_url,job_url_direct,title,company,location,date_posted,job_type,salary_source,interval,min_amount,max_amount,currency,is_remote,job_level,job_function,listing_type,emails,description,company_industry,company_url,company_logo,company_url_direct,company_addresses,company_num_employees,company_revenue,company_description
+in-dcdc7d88c33fa0d6,indeed,https://fr.indeed.com/viewjob?jk=dcdc7d88c33fa0d6,https://emplois.diplomatie.gouv.fr/nos-offres/c6f6a15f-7c6a-4be5-9aab-1334f23f2947,Responsable ligne de produits DevOps & cloud (F/H),MINISTERE DE L'EUROPE ET DES AFFAIRES ETRANGERES,"Paris, A8, FR",2025-02-21,,,,,,,False,,,,,"Dans le cadre de la modernisation des pratiques et outils d’ingénierie logicielle, vous portez la vision produit de l’ensemble DevOps. Vous pilotez la modernisation de l’usine logicielle en coordonnant les équipes d’architecture et d’infrastructures qui la constituent, diffusez au sein de la direction du numérique la culture DevSecOps, promouvez les offres cloud disponibles et orientez les conditions d’hébergement des produits métier.
+activitesPrincipales
+En tant que 'Responsable de la ligne de produits DevOps' : \\- Vous êtes force de proposition dans l’élaboration de la feuille de route DevSecOps de l’usine logicielle du ministère ; \\- Vous coordonnez les expertises internes concernées par le DevSecOps \\- architectes, administrateurs système, réseau, sécurité, équipes de produits métier – pour rendre plus fluide (autonomie par l’automatisation et les modèles) et fiable (systématisation d’outils de qualité, sécurité, supervision) la construction de produits logiciels ; \\- Vous pilotez la modernisation de l’usine logicielle : refonte de la forge pour permettre la contribution par tous le acteurs en tout lieu sur tous les produits, environnement développeur, filières de déploiement pour rendre la production compatible avec les technologies du cloud et ouvrir les pratiques associées. En tant que 'Référent ministériel cloud' : \\- Vous entretenez une stratégie ministérielle de recours au cloud (hébergeurs \\& technologies) et pilotez l’entretien du clausier technique et juridique des modes d’hébergement externe ; \\- Vous êtes le référent du ministère au sein des communautés interministérielles « cloud » et « Transformation des Centres Informatiques » ; \\- Vous êtes le point focal des achats sur la convention « cloud commercial » de l’UGAP et effectuez le suivi centralisé des consommations, ainsi que le point de contact des fournisseurs de services cloud pour le ministère ; \\- vous êtes l’administrateur central des portails des services cloud français utilisés par la DNUM ; \\- vous effectuez la veille des offres de services cloud étatiques et commerciales et de l’actualité en matière de sécurité et de souveraineté des services cloud. Stack logicielle des applications internes : NodeJS, React (DSFR), Typescript, NestJS, NPM, Java, SpringBoot, Hibernate, Sequelized, Gradle Contexte Technique de l’usine : Debian, Docker, Kubernetes, Gitlab CI, SonarQube, Kafka, ElasticSearch, PostgreSQL, Antora, SaltStack, JFrog XRay \\& Artifactory, Apache, Tomcat, OpenLDAP, OIDC Standards de conception : réglements généraux de Sécurité (système d’information régalien sensible), d’interopérabilité et d’accessibilité, API REST / 12 facteurs Pratiques attendues : Agilité, DevSecOps Base de données : PostgreSQL principalement, MS SQL Server secondairement Langages Shell, XML, groovy, SQL La connaissance de solutions de CMDB, de Backstage ou d’autres portails DevXP serait un plus.
+niveauFormationRequis
+Bac \\+ 3 et plus. Formation supérieure en ingénierie logicielle. Expérience en développement et/ou administration système, idéalement au sein d’une équipe produit DevOps ou d’une équipe système de plateforme DevOps.
+competencesAttendues* Applications de gestion de projet agile
+\\-
+Maîtrise
+estRequise
+true
+* Outils de développement applicatif
+\\-
+Maîtrise
+estRequise
+true
+* Outils de gestion et d'administration des systèmes
+\\-
+Pratique
+estRequise
+true
+* Outils de test et de déploiement
+\\-
+Maîtrise
+estRequise
+true
+* Administration, maintenance et exploitation des systèmes informatiques et de communication
+\\-
+Pratique
+estRequise
+true
+* Architecture des systèmes d'information et des réseaux de communication
+\\-
+Maîtrise
+estRequise
+true
+* Droit des technologies de l'information et de la communication
+\\-
+Débutant
+estRequise
+true
+* Marché de l'offre informatique et des télécommunications
+\\-
+Pratique
+estRequise
+true
+* Méthodes de modélisation, normes et outils de développement·
+\\-
+Pratique
+estRequise
+true
+* Accompagner un changement, une réforme, un dispositif
+\\-
+Pratique
+estRequise
+true
+* Conduire un projet, une démarche
+\\-
+Maîtrise
+estRequise
+true
+* Coordonner
+\\-
+Maîtrise
+estRequise
+true
+* Définir la feuille de route d'un produit informatique
+\\-
+Maîtrise
+estRequise
+true
+* Définir une vision produit informatique
+\\-
+Maîtrise
+estRequise
+true
+* Mener une veille
+\\-
+Pratique
+estRequise
+true
+* Aptitude à l'écoute
+\\-
+Maîtrise
+estRequise
+true
+* Esprit d'équipe
+\\-
+Maîtrise
+estRequise
+true
+* Sens de l'innovation
+\\-
+Maîtrise
+estRequise
+true
+* Sens de la pédagogie
+\\-
+Maîtrise
+estRequise
+true
+
+compositionEquipe
+Le bureau Architecture comprend 25 personnes, architectes, ingénieurs DevOps, chefs de projets, et bénéficie du renfort de prestataires. Il fournit les outils de développement, l’accompagnement des équipes d’application en architecture logicielle, les services d’identité et d’accès et de gestion de service IT.
+environnementProfessionnel
+Direction du Numérique du MEAE : équipes de développement d’applications, équipes d’exploitation et d’infrastructures, architectes, RSSI. Homologues des autres ministères et des opérateurs, direction interministérielle du numérique (DINUM). Entreprises de services numériques prestataires, Union des groupements d'achats publics (UGAP), Direction des achats de l'État (DAE).
+liaisonsFonctionnelles
+Rattachement des équipes à coordonner dans le cadre des missions : \\- secteur architecture logicielle (8 architectes transverses, services DevOps et projet) du bureau architecture, \\- secteurs intégration et production web du bureau intégration systèmes et applications, \\- secteurs exploitation et projets du centre opérationnel de sécurité, \\- bureau infrastructures, administration et stockage.
+conditionsParticulieres
+Une habilitation au niveau « Secret » sera nécessaire. Télétravail possible après une courte période de rodage de quelques mois. Déplacement à Nantes à prévoir.
+dureeAffectation
+Détachement sur emploi : détachement d'1 an, puis renouvellement de 2 ans et enfin pour une 4ème et dernière année. Par contrat : détachement sur contrat ou CDD d'une durée de 3 ans, renouvelable.
+profilsStatutaires* A
+  
+
+
+Détachement sur emploi : \\- agent titulaire de la fonction publique de catégorie A ; \\- rémunération en fonction de l'indice majoré et du groupe de prime associé au poste. Autres voies de recrutement : \\- agent titulaire de la fonction publique de catégorie A en détachement sur contrat ou agent contractuel ; \\- rémunération selon expérience et qualifications, dans une fourchette allant de 42 000 à 69 000 euros annuels bruts.
+
+Contact exclusivement via le Formulaire contact de DiploEmploi (uniquement pour rapporter une difficulté technique, aucune réponse ne sera donnée aux autres questions). Seules les candidatures reçues à travers l’application DiploEmploi seront prises en considération par la DRH. Aucune candidature reçue par courriel ne pourra être traitée. Les candidats sont priés de remplir intégralement et précisément le formulaire de candidature (en particulier « DIPLÔMES » et « EXPÉRIENCE PROFESSIONNELLE » qui détermineront le niveau de rémunération qui pourra être proposé).",,https://fr.indeed.com/cmp/Ministere-De-L'europe-Et-Des-Affaires-Etrangeres-1,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/d39db627f43a04d2190b4cddcd92def6,https://www.diplomatie.gouv.fr/fr/,,,,
+in-3ba97fa9072eebbf,indeed,https://fr.indeed.com/viewjob?jk=3ba97fa9072eebbf,https://maisonslaffitte.nous-recrutons.fr/poste/mdfg2f4i7q,Gestionnaire carriere et paie h/f,MAIRIE DE MAISONS-LAFFITTE,"Maisons-Laffitte, A8, FR",2025-02-21,,,,,,,False,,,,,"### **À propos de nous**
+
+
+
+Au cœur du Nord\\-Ouest parisien et desservie par le RER A et le transilien, la ville de Maisons\\-Laffitte est située entre la forêt de Saint\\-Germain\\- en\\-Laye et la Seine. Plus de la moitié du territoire communal est constituée d'un parc qui préserve la tranquillité des habitations et favorise les activités de loisirs. Outre l'hippodrome, de nombreux équipements sportifs (Palais Omnisports, piscine et terrains de tennis notamment) participent à un cadre de vie où l'activité culturelle est très présente. De nombreux commerces de proximité et restaurants, situés principalement en centre\\-ville, associés au marché couvert et aux services, dont toutes les branches sont représentées, offrent les moyens de bien vivre au quotidien.
+
+
+### **Mission**
+
+
+**La ville de Maisons\\-Laffitte recherche activement un(e) gestionnaire carrière et paie H/F.**
+
+**Intégré(e) au sein du Service du personnel de la commune, votre rôle principal est d'instruire et gérer la carrière et la paie des agents titulaires, stagiaires, contractuels, vacataires et/ou indemnitaires de droit public et/ou privé.**
+
+**Missions principales :**
+
+* Rédiger l’ensemble des actes administratifs relatifs à la carrière des agents selon les dispositions statutaires (gérer les mouvements de carrière, les reclassements suite aux réformes statutaires, les avancements, le régime indemnitaire, les réponses aux courriers, la tenue des dossiers administratifs et la dématérialisation, etc…)
+* Gérer la paie des agents (import des taux PAS, des éléments variables mensuels, impacts sur la paie des mouvements de carrière) en veillant par des contrôles fréquents à la cohérence des données
+* Constituer les dossiers de demande d’allocations de retour à l’emploi
+* Participer à la mise en place du nouveau SIRH CIRIL
+* Assurer l’intérim du gestionnaire absentéisme en son absence
+* Gérer la protection sociale : Adhésion, modification, radiation (mutuelles, prévoyance)
+* Contrôle de la paie
+* Calculer et exécuter la paie et le mandatement
+* Contrôle et dépôt de la DSN avant l’envoi de la paie à la Trésorerie (PAS, IRCANTEC, CNRACL, URSSAF...)
+* Gestion des dossiers de retraite, de rétablissement, de droit à l’information, etc… (CNRACL, IRCANTEC, CNAV, CICAS…)
+* Se tenir informé des évolutions réglementaires
+
+ **Missions spécifiques :**
+
+* Gestion du temps sur KRONOS en veillant, par des contrôles fréquents, à la cohérence des données
+* Déclarer les différentes absences auprès des organismes et en assurer le suivi (MNT, HARMONIE, INTERIALE, etc…)
+* Assurer le suivi des concessions de logement
+* Elaborer les différents courriers dans le respect de la législation, des évolutions réglementaires et des délais impartis
+* Suivi des tableaux de bord RH
+* Assurer la gestion administrative des dossiers : instruction, dématérialisation, classement, mise à jour des dossiers
+* Participer aux évènements liés à l’activité du service
+
+
+### **Profil**
+
+
+**Formations et compétences requises :**
+
+
+Niveau BAC \\+2
+
+
+Une expérience dans le domaine de la gestion et de la paie dans une collectivité territoriale est souhaitée.
+
+**SAVOIRS\\-FAIRE :**
+
+
+Connaissances du statut général de la FPT
+
+
+Connaissances en matière de paie
+
+
+Être autonome au quotidien dans l’organisation du travail et savoir rendre\\-compte à son Responsable de Pôle
+
+
+Qualités rédactionnelles
+
+
+Savoir prioriser ses tâches
+
+
+Respect des délais réglementaires
+
+**SAVOIRS\\-ETRE :**
+
+
+Sens de la communication, de la disponibilité et de l’écoute
+
+
+Discrétion, confidentialité, devoir de réserve
+
+
+Sens de l’organisation, méthode et rigueur
+
+
+Dynamisme, réactivité, esprit d’initiative
+
+
+Sens relationnel et aptitude au travail en équipe
+
+
+Etat d’esprit positif
+
+
+Disponibilité, réactivité
+
+ **Rémunération et avantages :**
+
+
+Statutaire Régime indemnitaire prime équivalente à un 13e mois (attribuée au terme de 6 mois de carence pour les agents non titulaires) Participation mutuelle et prévoyance Politique dynamique en matière de formation Collectivité adhérente au CNAS Amicale du personnel Participation à hauteur de 75% des frais de transports en commun
+
+**Temps de travail :** 39h10/semaine  
+
+**Congés** : 30 jours de congés annuels \\+ 17 RTT \\+ 2 HP
+
+
+\\=\\> Poste ouvert au cadre d'emplois des rédacteurs par voie de mutation, de détachement ou contractuelle (12 mois renouvelable), **à pourvoir dès que possible.**",,https://fr.indeed.com/cmp/Mairie-De-Maisons--laffitte,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/25f973d3c0b7689773239c98859b3e52,,,,,
+in-4ddeb2a6191f0217,indeed,https://fr.indeed.com/viewjob?jk=4ddeb2a6191f0217,http://fr.indeed.com/job/formateur-interne-hf-4ddeb2a6191f0217,Formateur interne H/F,Chronopostfood,"Paris 4e, A8, FR",2025-02-21,fulltime,,,,,,False,,,,,"Filiale de Chronopost, nous sommes LE spécialiste de la livraison express de produits alimentaires sous température dirigée.
+
+Notre offre permet la livraison de produits alimentaires secs, frais et surgelés à destination des professionnels et particuliers partout en France. Ce service s’appuie notamment sur un réseau de plus de 92 agences équipées en chambres froides.
+
+En complément de l’offre Chronofresh et afin de densifier sa présence sur le marché de la livraison de produits alimentaires sous température dirigée, Chronopost a fait l’acquisition en 2017 de l’entreprise Delifresh, société spécialisée dans le transport alimentaire frigorifique.
+
+Basée sur le MIN de Rungis, Delifresh livre les professionnels de l'alimentaire et de la gastronomie (restaurateurs, traiteurs, pâtissiers, restauration scolaire…) sur Paris et sa région.
+
+Déjà près de 6 000 clients nous font confiance. Nous connaissons, depuis notre création en 2015, un fort développement nécessitant de renforcer nos équipes supports comme opérationnelles.
+
+A ce titre, et dans le cadre d’une création de poste, nous sommes à la recherche de notre nouveau(elle) Formateur(trice) Qualité Sécurité Alimentaire !
+
+**Mission**
+
+Au sein de la Direction des Opérations de Chronofresh, vous reportez au Responsable Formation Interne \\& Audit Opérationnel, lui\\-même rattaché au Directeur des Opérations.
+
+En tant que Formateur Qualité Sécurité Alimentaire, vous aurez pour principales missions de concevoir et mettre à jour les modules de formation adaptés aux enjeux stratégiques du Groupe et de contribuer à la montée en compétences des équipes opérationnelles à travers l’animation de sessions de formation.
+
+Sans que cette liste ne soit exhaustive, vos responsabilités couvrent donc l’ensemble des missions suivantes :
+
+1/ Participer à la conception et mettre à jour des modules de formation
+
+§ Identifier et qualifier les besoins en matière de formation métier en collaboration avec les Managers Métiers ;
+
+§ Formaliser les cahiers des charges associés aux besoins identifiés : objectifs pédagogiques, méthodes de formation…
+
+§ Participer à la conception des modules de formation sur\\-mesure avec le pôle Ingénierie Pédagogique de Chronopost ;
+
+§ Mettre à jour les modules de formation lors de l’évolution des processus et/ou des réglementations.
+
+2/ Contribuer à la montée en compétence des équipes
+
+§ Animer les sessions de formation sur les programmes dédiés à la sécurité au poste de travail, à la sécurité des denrées alimentaires, à la conduite d’engins de manutention automoteurs à conducteur accompagnant, à la conduite de véhicule léger et poids\\-lourd et à la réglementation sociale européenne ;
+
+§ Planifier, en collaboration avec les Chefs d’Agences, des actions de formation ciblées auprès des opérationnels via des accompagnements terrain, des sessions de formation…
+
+§ Suivre la bonne réalisation du Plan de Développement des Compétences en collaboration avec la Direction RH.
+
+§ Assurer l’administratif, l’évaluation et le suivi des actions de formation auprès des apprenants.
+
+Les missions précitées ne sont pas exhaustives et restent évolutives en fonction de vos appétences comme des besoins de l’entreprise.
+
+**Profil \\& Compétences**
+
+Vous justifiez d’une expérience de 3 à 5 ans sur un poste similaire et connaissez le secteur du transport frigorifique.
+
+Votre expertise technique concernant les métiers de la Qualité et de la Sécurité des produits alimentaires ne sont plus à prouver.
+
+Une expérience dans le secteur de l'agro\\-alimentaire et/ou du transport frigorifique sont également des atouts. La démarche HACCP n’a plus de secret pour vous.
+
+Vous êtes reconnu(e) pour votre pédagogie, votre relationnel et votre dynamisme.
+
+Vous êtes d’un naturel curieux(se) et, à ce titre, n’hésitez pas à être force de propositions pour partager vos idées.
+
+Vous avez une réelle aptitude à travailler en équipe pour autant vous êtes autonome dans l’organisation de votre travail et savez fixer vos priorités en fonction des informations délivrées par votre Manager et ceux perçus dans la réalisation de votre mission.
+
+Vous avez su démontrer par le passé de réelles capacités en matière d’animation, vous permettant ainsi de convaincre et de faire adhérer votre public aux messages délivrés.
+
+Vous êtes à l’aise avec les outils informatiques.
+
+Le poste est basé à Porte d’Orléans.
+
+Le poste intervient sur un périmètre national, de nombreux déplacements sont à prévoir dans le cadre des missions confiées (environ 3 à 4 par semaine).
+
+**Rémunération :** Entre 38k et 42k bruts mensuels \\+ part variable maximum de 10% de la rémunération annuelle brute \\+ Intéressement/Participation \\+ Plan Epargne Retraite \\+ 13ème mois progressif
+
+Type d'emploi : Temps plein, CDI  
+Statut : Cadre
+
+Rémunération : 38 000,00€ à 42 000,00€ par an
+
+Avantages :
+
+* Intéressement et participation
+* Prise en charge du transport quotidien
+* RTT
+
+Horaires :
+
+* Du lundi au vendredi
+
+Rémunération supplémentaire :
+
+* 13ème Mois
+* Prime annuelle
+
+Lieu du poste : Déplacements fréquents",,https://fr.indeed.com/cmp/Chronopostfood-2,,,,,,
+in-9430ef79db67f513,indeed,https://fr.indeed.com/viewjob?jk=9430ef79db67f513,http://fr.indeed.com/job/infirmier-hf-9430ef79db67f513,Infirmier H/F,emeis,"Le Chesnay, A8, FR",2025-02-21,fulltime,,,,,,False,,,,,"***La résidence des Lys, située à Rocquencourt (78\\), est une maison de retraite médicalisée (EHPAD)*** qui accueille des personnes âgées autonomes, semi\\-valides et dépendantes.
+
+L'établissement a une capacité d'accueil de 90 résidents et dispose des services ci\\-dessous:
+
+* 1 unité de vie dite classique
+* 1 Unité de soins adaptés spécialisée dans l’accueil des personnes désorientées ou atteintes de la maladie d’Alzheimer (et pathologies apparentées).
+* 1 Unité protégée
+* 1 Pôle d’Activités et de Soins Adaptés (PASA)
+
+**Accès** : Gare de Versailles rive droite , bus 5 et un parking est mis à la disposition des collaborateurs
+
+***L'établissement recherche un.e infirmier(ère) jour diplômé.e en CDI***pour prendre soin des résidents et de leur famille dans la durée, leur (re)donner le sourire !
+
+**Ce que nous vous proposons:**
+
+* Amplitude horaire : 7H15\\-18H15
+* Rémunération : à partir de 3000€ hors Ségur
+
+**Vos missions:**
+
+Rattaché.e au Cadre de santé, vous travaillerez en collaboration avec un.e IDEC et l’équipe d’IDE et serez entouré.e d’une équipe pluridisciplinaire pour vous concentrer sur votre cœur de métier :
+
+* Assurer la continuité des soins techniques, la bonne prise en charge des résidents et leur sécurité
+* Echanger avec les familles pour les rassurer, les tenir informées
+* Contrôler et gérer les matériels et les produits
+* Veiller à la traçabilité des soins en collaboration avec l’équipe soignante
+
+**Votre profil:**
+
+* **Titulaire d'un diplôme IDE**
+* Vous aimez prendre soin de nos ainés ?
+* Vous recherchez l’utilité au quotidien et la continuité dans la prise en charge ? Vous appréciez le travail en équipe pluridisciplinaire ?
+* Vous disposez de qualités relationnelles, d’adaptation et d’écoute ?
+
+**Qui sommes\\-nous?**
+
+**L’accompagnement et le soin personnalisés pour chaque personne fragilisée**
+
+Nous sommes 78 000 médecins, infirmiers, aides\\-soignants, auxiliaires de vie, rééducateurs, psychologues, cuisiniers, gouvernants, et métiers d’appui… engagés chaque jour auprès des plus fragiles.
+
+**En rejoignant EMEIS**, vous pourrez vous projeter sur le long terme et bénéficier également des avantages liés à un grand Groupe :
+
+* Prime dite de 13ème mois
+* Titres Restaurants ou restauration sur nos établissements à tarif préférentiel
+* Accord d’entreprise permettant la réalisation d’heures supplémentaires au\\-delà du contingent conventionnel
+* Subrogation
+* Accord d’intéressement
+* Primes de cooptation
+* Services à taille humaine : un management en proximité, un esprit d’équipe et d’entraide entre collègues…
+* Avantages CSE en région et CSE Central
+* Accès facilité à la formation (possibilités de financement de DU par exemple)
+* Gestion de carrière individualisée et accompagnement à la mobilité (géographique et professionnelle) : par exemple, en tant qu’infirmier.ère, possibilité d’évoluer vers différentes spécialités de soins et vers des fonctions d’encadrement (IDEC, responsable de soins, direction d’établissement)
+* Procédures qualité et méthodes innovantes pour une prise en charge de qualité
+
+**Chez emeis, nous sommes forces de vie**
+
+\\#arcdeseine
+
+Type d'emploi : Temps plein, CDI
+
+Rémunération : à partir de 3 000,00€ par mois
+
+Avantages :
+
+* Prise en charge du transport quotidien
+
+Horaires :
+
+* Travail en journée
+
+Rémunération supplémentaire :
+
+* Primes
+
+Capacité à faire le trajet ou à déménager:
+
+* 78150 Le Chesnay: Faire le trajet sans problème ou prévoir un déménagement avant de prendre son poste (Requis)
+
+Permis/certification:
+
+* Diplôme d'état infirmier (Requis)
+
+Lieu du poste : En présentiel",,https://fr.indeed.com/cmp/Emeis-1,,https://www.emeis-group.com/,Puteaux,Decline to state,Decline to state,"Le Groupe ORPEA, acteur européen de la dépendance, développe une politique de recrutement dynamique et pérenne, rejoignez-nous !"
+in-fbd71ae6bc9a9180,indeed,https://fr.indeed.com/viewjob?jk=fbd71ae6bc9a9180,https://careers.colasjobs.com/job/Courbevoie-Responsable-Technique-Offres-Syst%C3%A8mes-Ferroviaire-HF-Ile-92400/814236602/?feedId=416957&utm_source=Indeed&utm_campaign=Colas_Indeed,Responsable Technique Offres Systèmes Ferroviaire H/F,Colas,"Courbevoie, A8, FR",2025-02-21,,,,,,,False,,,,,"Colas Rail est l’entreprise de référence qui créé des solutions d’infrastructures ferroviaires pour une mobilité durable et responsable. Nous sommes présents dans plus de 23 pays, nous employons 6 000 personnes et notre mission est de concevoir et mettre en œuvre des solutions de transports en commun. Constructeur\\-intégrateur systèmes, Colas Rail réalise la globalité du cycle de vie des infrastructures ferroviaires : conception, construction et maintenance.
+
+
+Nous rejoindre, c’est faire partie de l’aventure Colas, filiale du groupe Bouygues.
+
+**Votre mission**
+-----------------
+
+
+Rattaché(e) au Responsable du Département Technique Offres, vous serez en charge du pilotage des aspects techniques des offres ferroviaires système pour des projets multi lots/clés en main de type PPP, ainsi que des offres en lots séparés.
+
+**Vos principales responsabilités**
+-----------------------------------
+
+
+Dans ce cadre, vos principales missions sont :
+
+* Piloter tous les sujets techniques d’une offre ferroviaire complexe, et gérer les ressources mobilisées pour la production du dossier technique
+* Etre l’adjoint du Responsable de l’offre
+* Représenter la société auprès des partenaires et client sur les sujets techniques
+* Assurer la conformité de la solution technique, la traçabilité et la cohérence du suivi des exigences techniques, de la gestion des interfaces techniques et la gestion des modifications
+* Participer à la mise au point de la liste des responsabilités du projet (incl. WBS)
+* Définir les livrables, l’organisation des études du projet et les budgets associés, ainsi que les hypothèses associés (validation client,…)
+* Préparer les plannings détaillés de l’opération, revoir et valider les méthodes et techniques proposées pour la réalisation du projet et pour les phases de tests et mises en service
+* Rédiger où faire les notes techniques et d’organisation requises par le dossier de consultation.
+* Challenger la solution technique et proposer des alternatives innovantes et compétitives
+* Etre garant que la solution technique prend en compte le REX des projets \\& offres
+* Participer aux analyses de risques techniques et aux plans de contrôles associés
+* Faire valider la solution technique par la Direction Technique Colas Rail
+* Participer aux phases de revue d’offres internes et phase de négociation (auditions techniques, échanges avec le client et révision de l’offre)
+* Assurer un reporting technique auprès de la direction
+
+  
+
+En complément pour les offres systèmes complètes :
+
+* Valider les hypothèses et simulation de dimensionnements
+* Piloter la définition de l’architecture du système et des spécifications fonctionnelles globales et par métier
+* Piloter la production des documents préliminaires de sécurité \\& RAMS requis pour le dossier d’offre
+**Votre Profil**
+----------------
+
+**Profil :**
+
+* Ingénieur de formation, électricien ou généraliste
+* 15 ans minimum d’expériences dans le domaine ferroviaire, acquise en ingénierie ou direction technique de projet ou offres au sein de projets système/multi\\-lots, dont 5 ans sur des projets internationaux
+* Maîtrise et pratique courante de l’anglais indispensable, une seconde langue (espagnol, allemand, arabe) serait appréciée
+* Être mobile, missions et déplacement fréquents en phase d’offres
+
+  
+
+
+
+**Compétences :**
+
+* Connaissance requise des systèmes ferroviaires (urbains ou régionaux), avec maîtrise plus approfondie dans une de ses composantes (courants faibles/signalisation/Système Integration de préférence) et des domaines liés à l’opération \\& la maintenance
+* Maîtrise des processus d’ingénierie ferroviaire et d’intégration Système, la gestion des exigences, la gestion de configuration et des interfaces, les concepts de RAMS, la Safety Assurance, gestion des essais.
+* Bonne aptitude en gestion de projet y compris notions contractuelles et management d’équipes
+* Sens commercial et relationnel, ouvert et à l’écoute des interlocuteurs (adaptation aux différentes cultures)
+* Autonomie, rigueur, sens du détail et créativité
+
+Rejoindre Colas Rail, c’est intégrer des équipes à taille humaine et passionnées où règnent solidarité, goût du challenge et sens du service.
+
+
+Vous souhaitez rejoindre une entreprise qui promeut des valeurs telles que le respect, le partage et l’audace ? Vous souhaitez être accompagné(e) dans votre évolution de carrière et avoir des opportunités de mobilité ? Alors rejoignez\\-nous !
+
+
+Colas Rail s'inscrit dans une démarche de qualité de vie au travail en proposant des dispositifs adaptés aux besoins de ses collaborateurs et promeut l'égalité des chances, la diversité et l’inclusion. Vous pourrez également bénéficier d’une politique de rémunération attractive.",,https://fr.indeed.com/cmp/Colas,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/ec9fa977413c51d1afc2e3099a628192,http://www.colas.com,Paris,"10,000+",more than $10B (USD),"Colas; award-winning, driven, and always innovating"

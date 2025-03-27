@@ -1,0 +1,390 @@
+id,site,job_url,job_url_direct,title,company,location,date_posted,job_type,salary_source,interval,min_amount,max_amount,currency,is_remote,job_level,job_function,listing_type,emails,description,company_industry,company_url,company_logo,company_url_direct,company_addresses,company_num_employees,company_revenue,company_description
+gd-1009624787497,glassdoor,https://www.glassdoor.fr/job-listing/j?jl=1009624787497,,Chef de projet industrialisation H/F,UUDS,Roissy,2025-02-04,,direct_data,yearly,40000.0,55000.0,EUR,False,,,organic,,"Dans le cadre du déploiement de nos activités en France et à l’international, nous recherchons un **Chef de projets Industrialisation H/F** pour renforcer notre équipe dans le cadre de fabrication de pièces de cabine d’avion métalliques, composites ou plastiques.
+
+
+Vous intervenez lors des revues d’offres/commandes, et des revues de conception en apportant votre expertise technique. Vous assumez la responsabilité du développement FAI et de la validation de l’industrialisation, en conformité avec les méthodes validées. Vous travaillez en mode gestion de projet , dans le respect du planning prévu par les Programmes et la Direction, ainsi que du budget associé.
+
+ *MÉTHODES :*
+
+
+En collaboration avec la fonction Qualité, les services Méthodes/Industrialisation et Production existants et en fonction des attentes clients, définir les processus les plus adaptés pour la réalisation du projet :
+
+* Identifier les moyens nécessaires (techniques, humains et financiers) et s’assurer qu’ils sont adéquats pour atteindre les objectifs fixés,
+* Participer au chiffrage des produits,
+* Préparer une stratégie d’industrialisation,
+* Ordonnancer, planifier, interfacer et suivre les activités en prenant en compte l’ensemble des contraintes dans des logiques de maîtrise du TCO,
+* Organiser les FAI, Etablir le bilan prévisionnel du projet sur les aspects qualitatifs, techniques, humains et Financiers,
+* Déterminer, organiser, coordonner les méthodes de fabrication/maintenance en atelier et de prestations sur avion en cherchant à optimiser les contraintes de délais, de qualité, de niveau des stocks, de charge de main\\-d’œuvre de matériels et outillages,
+* Organiser la Supply Chain nécessaire,
+* Préparer le bilan prévu des projets sur les aspects qualitatifs, techniques, humains et financiers…
+
+ *GESTION DE PROJET :*
+
+* Suivre et respecter le planning d’intégration des nouvelles méthodes afin de répondre aux demandes clients dans les délais impartis
+* Suivre et respecter le budget de lancement du projet (investissements prévus / réalisés)
+* Corriger les écarts constatés en revoyant les moyens/méthodes afin de parvenir au résultat
+* Vérifier la bonne marche du lancement de la prestation et la qualité des livrables obtenus
+* Valider le bilan du projet….
+
+ *MANAGEMENT :*
+
+* En relation avec le management local ainsi que le directeur Programmes ; définir et structurer les méthodes de travail de l’équipe locale
+* Assurer le management fonctionnel de l’équipe (affectation des ressources en fonction des compétences et de la présence) pour la réussite du projet.
+* Proposer et accompagner le lancement de solutions innovantes pour optimiser les performances de l’entreprise.
+* Vous avez une formation Ingénieur (généraliste, mécanique, aéro) avec 3 à 5 ans d’expérience, ou, BTS/Licence avec 5 à 10 ans d’expérience reconnue, accompagnée d’une spécialisation en gestion de projets, validée par une expérience de pilotage de 2 ans.
+* Vous maîtrisez la conception/industrialisation de produits/modifications d’éléments de cabine avions.
+* Vous avez le sens de l’analyse et êtes reconnu(e) pour votre maturité et pour votre capacité à appréhender les projets/processus dans leur ensemble. Vous savez travailler de manière autonome et avez de bonnes aptitudes relationnelles.
+* Vous avez une maitrise parfaite de l’anglais, qui est indispensable pour réussir à ce poste.
+* Tickets restaurant
+* Mutuelle
+* Prise en charge des transports
+
+
+Qui sommes nous ?
+
+
+Intervenant dans l’aéronautique depuis 1981, UUDS est spécialisée dans la conception, la fabrication et la maintenance d’équipements de cabine ainsi que dans les interventions chimiques sur tout type.  
+
+  
+
+L’efficacité de notre groupe est fondée sur nos équipes de professionnels qui interviennent à tout moment sur toutes les plateformes aéroportuaires.  
+
+  
+
+DOA (Design Organisation Approval), référencé EASA (European Union Aviation Safety Agency), spécialisé dans l’étude et la certification de modifications des aéronefs. Nous sommes partenaires de compagnies aériennes et exploitants partout dans le monde.  
+
+  
+
+La qualité de nos prestations est également reconnue par les certifications ISO9001, EN9100, PART145 et 21G/J.",,https://www.glassdoor.fr/Overview/W-EI_IE3217765.htm,https://media.glassdoor.com/sql/3217765/uuds-aero-squarelogo-1625637589335.png,,,,,
+gd-1009624375320,glassdoor,https://www.glassdoor.fr/job-listing/j?jl=1009624375320,,Consultant QA Flux technique anglais courant H/F,Aldemia,Paris,2025-02-04,,direct_data,yearly,45000.0,50000.0,EUR,False,,,organic,,"ALDEMIA recrute pour l'un de ses clients dans le secteur de l'assurance un Consultant QA Flux technique anglais courant H/F.  
+
+  
+
+Le client souhaite refondre l?ensemble de sa plate\\-forme de flux entrants / sortants, synchrones ou non.  
+
+  
+
+Ce projet s?inscrit dans l?approche stratégique de la qualité d?échange avec ses partenaires et clients.  
+
+  
+
+Nous recherchons un testeur technique H/F permettant de créer, développer et maintenir une suite industrialisée de tests.  
+
+  
+
+  
+
+Les éléments intégrés dans la couverture fonctionnelle sont :  
+
+  
+
+* Des fichiers traités par Batch (plus de 20 formats et normes en entrée, id. en sortie)
+
+
+  
+
+* Des flux de données (vaï WebServices ou équivalents)
+
+
+  
+
+* L?intégration et usage de ces données dans une base relationnelle
+
+  
+
+  
+
+  
+
+Les flux traitent des données référentielles, des paiements, des cycles de vie de dossiers fonctionnels. Ces flux s?appuient sur des normes règlementaires et leurs évolutions spécifiques, ainsi que des formats propriétaires.  
+
+  
+
+L?approche de test repose sur la génération de données et le contrôle de sa correcte transformation en fin de processus.  
+
+  
+
+Le projet de refonte comporte deux volets majeurs  
+
+  
+
+* Mise en oeuvre d?une nouvelle architecture, et validation par comparaison (double run)
+
+
+  
+
+* Démantèlement de la solution initiale et qualification des flux en autonomie
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+Profil candidat:  
+
+Le profil doit maîtriser les techniques de test de processus métier (pas uniquement IHM qui ne seront utilisées qu'à des fins de tests manuels).  
+
+  
+
+Il doit être force de proposition dans l?approche et la démonstration de faisabilité, puis sa mise en oeuvre.  
+
+  
+
+Il doit assurer la pérennité de la solution implémentée en relation avec une traçabilité de couverture fonctionnelle (procesus / batch / flux vs données et points de contrôles)  
+
+  
+
+La documentation et la qualité / maintenabilité du code sont clés dans la démarche visée.  
+
+  
+
+  
+
+Les outils de développement de la solution sont :  
+
+  
+
+* Stack apache KAFKA / NIFI / SPARK (etc.)
+
+
+  
+
+* Axway transferts
+
+
+  
+
+Les outils à proposer et utiliser seront validés par le chef de projet et le Test manager.  
+
+  
+
+Conformément à la RGPD, les données de tests sont anonymisées  
+
+  
+
+  
+
+Les compétences techniques attendues sont :  
+
+  
+
+* Maîtrise de SQL
+
+
+  
+
+* Maîtrise de JSON / XML et moyens de contrôles des messages
+
+
+  
+
+* Maîtrise des tests variabilités avec un outil permettant de tester les WebServices (ex. postman)
+
+
+  
+
+* Maîtrise d?au moins un langage de programmation avancé
+
+
+  
+
+* Connaissance des principes avancés des ETL
+
+  
+
+  
+
+  
+
+Une expérience d?au moins 5 années dans la qualification logicielle automatisée est requise.  
+
+  
+
+Une expérience réussie d?industrialisation des tests sur les données est impérative.",,https://www.glassdoor.fr/Overview/W-EI_IE1260592.htm,https://media.glassdoor.com/sql/1260592/aldemia-squarelogo-1578461378883.png,,,,,
+gd-1009624861797,glassdoor,https://www.glassdoor.fr/job-listing/j?jl=1009624861797,,Assistant à Maitrise d'ouvrage des outils en production pour la doc de maintenance et la formation F/H,DASSAULT AVIATION,Saint-Cloud,2025-02-04,,,,,,,False,,,organic,,"Dassault Aviation recrute :
+
+
+La Direction Générale du Soutien met en œuvre une suite d’outils informatiques pour répondre aux besoins internes d'ingénierie du soutien et aux demandes des autres directions (ex. : Service client, Certification, État pour les activités militaires …).
+
+
+Au sein de cette Direction, le service Processus Outillés a pour mission de spécifier, développer et assurer la prise en main d’une suite logicielle pour les équipes métiers définissant la maintenance, ses moyens, ainsi que la documentation et la formation des mécaniciens et pilotes des avions civils et militaires.
+
+
+L’ensemble de ces outils est connecté aux définitions avions des programmes civils et militaires du PLM (3DExperience) pour assurer une cohérence bout\\-en\\-bout.
+
+
+Pour assurer ce rôle, l’équipe se compose de profils ayant de solides compétences fonctionnelles et informatiques. En particulier, nos profils ont la capacité de comprendre les demandes des utilisateurs, de spécifier, valider, réaliser les développements ou suivre leur réalisation par des équipes internes ou externes.
+
+
+Rattaché(e) au Chef de Service et au responsable projet, votre mission principale est la collecte des besoins, leur spécification et la validation des solutions mises en œuvre.
+
+
+Vous avez la charge de :
+
+* Comprendre l'écosystème des outils existants et futurs, ainsi que les besoins techniques des utilisateurs
+* Modéliser des processus, rédiger des expressions fonctionnelles de besoins, concevoir des modèles de données
+* Participer aux ateliers de définition de la nouvelle génération d'outils de maintenance et rédiger des synthèses
+* Réceptionner les solutions proposées et coordonner la validation par les équipes métiers,
+* Accompagner le déploiement des solutions proposées et former les utilisateurs.
+
+
+Le périmètre de la mission est centré sur les outils futurs ou en cours de mise en place pour l'ensemble de nos programmes avion.
+
+
+Dassault Aviation recherche :
+
+
+De formation Ingénieur ou équivalent BAC\\+5, vous disposez d'une expérience de 5 ans minimum dans le recueil des besoins dans le cadre de projets d’outils informatiques.
+
+  
+
+Vous disposez d'une bonne capacité d'animation d’ateliers d’expression de besoins, du sens du service utilisateur et d'un esprit de synthèse. Vous savez être force de proposition.
+
+  
+
+Une première expérience dans le domaine de la maintenance aéronautique et une connaissance de la norme S3000L et S1000D seraient un plus.
+
+ **Établissement soumis à enquête administrative**
+
+
+Résumé :
+
+
+**Référence** : 2025\\-13799
+
+
+Saint\\-Cloud \\- Ile\\-de\\-France \\- France
+CDI
+Industrialisation, Production",,https://www.glassdoor.fr/Overview/W-EI_IE2039103.htm,https://media.glassdoor.com/sql/2039103/dassault-aviation-squarelogo-1560146735443.png,,,,,
+gd-1009624234216,glassdoor,https://www.glassdoor.fr/job-listing/j?jl=1009624234216,,Alternance - Chargé de Projet Knowledge Management Industrialisation Biotech H/F,LFB,Les Ulis,2025-02-03,,,,,,,False,,,organic,,"QUELLES MISSIONS VOUS SERONT CONFIEES ?  
+
+Au sein de la Direction Industrialisation Groupe du LFB et sous la responsabilité du service « Management des Connaissances Scientifiques et Techniques », l’alternance permettra de contribuer au déploiement et développement de la démarche Knowledge Management (KM) auprès de nos différents sites et métiers. Vous monterez en compétences sur les missions suivantes :* Contribuer au développement de la base de connaissances interne en lien avec les besoins des métiers de la direction Opérations Industrielles \\& Qualité :
+* Participer à la rédaction, intégration et partage de connaissances métiers dans la plateforme
+* Contribuer aux Interviews d’experts et structuration de leurs connaissances pour les retranscrire dans la plateforme
+* Participer à l’animation de la communauté dans le but de promouvoir les réflexes de collaboration et capitalisation au sein des équipes
+* Supporter et accompagner les utilisateurs
+* Aider à la configuration et l’amélioration continue de l’interface (SharePoint)
+* Participer à la mise en place et l’application par les métiers des bonnes pratiques de Gestion Documentaire au sein du réseau Industrialisation.
+* Soutenir les chefs de projets Industrialisation via la création d’un espace dédié aux méthodes et trames gestion de projets industriels et Transfert/transposition de procédés.
+* Assister l’équipe dans l’accompagnement des collaborateurs avant départ en retraite en utilisant des outils et processus existants (matrice de plan de transfert, trames d’interviews, guide/mode opératoire, …)
+* Suivre et participer au projet de développement d’une solution d’IA générative interne centrée sur les besoins des métiers Industriels.
+* Aider à la formalisation du (des) processus de Knowledge Management en interne (cartographie) en regard des guidelines pharmaceutiques (ICH Q10, Q9 et Q12\\) mais aussi du système KM de référence (norme ISO 30401\\)
+
+
+Cette mission d’alternance sera en interaction avec de nombreux métiers du LFB sur les différents sites du LFB. Des déplacements ponctuels pourront avoir lieu et seront l’opportunité de découvrir les usines.
+QUEL PROFIL POUR CETTE OPPORTUNITE ?  
+
+Vous préparez un diplôme Ingénieur ou Master en génie des procédés / biotechnologie ou domaine pharmaceutique ; ou un Master en gestion des connaissances / gestion de la documentation scientifique. Vous disposez d’une première expérience de stage en milieu industriel, idéalement dans le secteur pharmaceutique, chimique ou cosmétique. Vous possédez les compétences suivantes :* Capacité d'analyse et de synthèse sur des sujets techniques et scientifiques variés, force de proposition, regard critique et constructif, esprit pédagogique, bonne communication
+* Une connaissance de l’environnement Microsoft 365 (SharePoint, Teams, Power Platform) sera vivement appréciée.
+* Une forte appétence pour les nouvelles technologies
+  
+
+QUELLES CONDITIONS DE TRAVAIL ?* Poste à pourvoir en alternance dès septembre 2025
+* Durée souhaitée : 24 mois à 36 mois
+* 35 heures hebdomadaire
+  
+
+QUELS AVANTAGES LIES A CE POSTE ?* Accord de télétravail : jusqu’à 1 jour par semaine dès 4 mois d’ancienneté (selon éligibilité)
+* Participation aux frais de transport : prise en charge à 50% des frais de transport domicile – travail ou forfait mensuel en fonction du lieu d’habitation
+* Mutuelle, CE, PEG/PERCO, prime d’intéressement
+* Restaurant d'entreprise, salle de sport",,https://www.glassdoor.fr/Overview/W-EI_IE846176.htm,https://media.glassdoor.com/sql/846176/lfb-squarelogo-1408455370843.png,,,,,
+gd-1009621066535,glassdoor,https://www.glassdoor.fr/job-listing/j?jl=1009621066535,,Chef de projet innovation H/F,Laboratoire National de Métrologie et d'Essais (LNE),Paris,2025-02-01,,,,,,,False,,,organic,,"En tant que Chef de Projet Innovation, vous avez pour objectif de dynamiser le développement des prestations innovantes de certification, en suivant l’évolution des besoins des clients, de la transformation des industries et des réglementations, et ainsi de préparer l’avenir.
+
+
+Vos missions consisteront à :
+
+* détecter de nouvelles opportunités, en étant le relais des équipes en contact avec le terrain,
+* de développer les prestations innovantes avec les chefs de projet certification, jusqu’à leur industrialisation, dans le respect des diverses exigences applicables (accréditations, en particulier) et en tenant compte du positionnement du LNE, de ses compétences et moyens,
+* de réaliser des actions d’influence et de collecte d’informations dans le cadre des développements innovants,
+* de mettre en œuvre des méthodes de développement de nouvelles prestations en vue de leurs industrialisations,
+* de soutenir les chefs de projet certification dans le cadre de développements d’extension d’offres actuelles,
+* d’organiser les actions de communication permettant de valoriser les actions de développement réalisées, en interne et en externe.
+
+
+Intégré(e) au sein du pôle Certification de la Direction des Essais et de la Certification, vous travaillerez sous la responsabilité du responsable de pôle, en lien avec les responsables de département du pôle et les assisterez dans la définition et l’évolution des offres de services dans des domaines tels que le **numérique, la métrologie légale ou l’industrie**.
+
+
+Vous serez le relai privilégié du chef de produit (service Marketing Stratégique) et de la coordinatrice Innovation, Recherche et Développement pour développer nos prestations de demain en cohérence avec les objectifs de la Direction des essais et de la certification. Si besoin, vous pourrez apporter un support opérationnel en cas de développement rapide d’une activité.
+
+
+Vous disposez d’un diplôme Bac\\+5 (Master ou diplôme d’ingénieur) et connaissez idéalement le domaine de la certification.
+
+
+Vous possédez une expérience de cinq ans minimum.
+
+
+Vous êtes reconnu.e pour vos qualités relationnelles, vos facultés d’analyse et d’adaptation.
+
+
+Vous êtes dynamique, réactif.ve, vous faites preuve de prise d’initiatives et de curiosité technique.
+
+
+Dans le cadre de votre prise de fonction, vous bénéficierez d’un processus de formation propre aux domaines de certification, référentiels normatifs et règlementaires, adapté en fonction de votre profil et vos connaissances.
+
+
+Déplacements fréquents en région parisienne (réunions) et ponctuels en France / Europe
+
+
+Rejoindre le LNE, c'est :
+
+
+✔ Rejoindre un groupe international de près de 1 000 collaborateurs.
+
+
+✔ Participer au développement d'un EPIC qui œuvre au service de la société et des citoyens depuis 1901\\.
+
+
+✔ Rejoindre un acteur qui accompagne les collectivités et industriels afin de répondre aux enjeux sociétaux et environnementaux de demain
+
+
+✔ Rejoindre un organisme de recherche investi dans des projets européens et internationaux.
+
+
+✔ Rejoindre une entreprise qui place le respect et l'équité au cœur de ses politiques RH.
+
+ **Ce que nous vous proposons :**
+
+* Rémunération sur 12 mois
+* Prime annuelle de fin d’année\\*
+* Prime d’intéressement\\*
+* Plan d'épargne salariale (PEE /PERCO) avec abondement\\*
+* Possibilité de télétravail conformément à l’accord d’entreprise en vigueur (jusqu’à 2 jours par semaine)
+* Un statut cadre au forfait 205 jours, avec de nombreux avantages (RTT et rachat de jours possible avec valorisation)
+* Mutuelle\\*
+* Prévoyance\\*
+* Restaurant d’entreprise, CSE,
+* Action logement
+* Prise en charge de l’indemnité de transport en commun à hauteur de 50%\\*
+* Mise en place d’un accord de forfait mobilité durable
+* Une intégration personnalisée et un cursus de formation régulier
+* dans les conditions fixées par les accords et leurs avenants
+
+
+Qui sommes nous ?
+
+
+Leader dans l’univers de la mesure et des références, jouissant d’une forte notoriété en France et à l’international, le LNE soutient l’innovation industrielle et se positionne comme un acteur important pour une économie plus compétitive et une société plus sûre.
+  
+
+  
+
+Au carrefour de la science et de l’industrie depuis sa création en 1901, le LNE offre son expertise à l’ensemble des acteurs économiques impliqués dans la qualité et la sécurité des produits.
+  
+
+  
+
+Pilote de la métrologie française, notre recherche est au cœur de notre mission de service public et constitue un facteur fondamental au soutien de la compétitivité des entreprises.
+  
+
+  
+
+Nous avons à cœur de répondre aux exigences des industriels et du monde académique, pour des mesures toujours plus justes, effectuées dans des conditions de plus en plus extrêmes ou sur des sujets innovants tels que les véhicules autonomes, les nanotechnologies ou la fabrication additive.",,https://www.glassdoor.fr/Overview/W-EI_IE845757.htm,https://media.glassdoor.com/sql/845757/laboratoire-national-de-métrologie-et-d-essais-squarelogo-1407849058615.png,,,,,

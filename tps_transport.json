@@ -1,0 +1,251 @@
+[
+    {
+      "ville": "Châtelet - Les Halles",
+      "temps_trajet": "60 min",
+      "modes": ["Métro", "RER"],
+      "ligne": ["4", "7", "RER A", "RER B", "RER D"]
+    },
+    {
+      "ville": "Saint-Michel - Notre-Dame",
+      "temps_trajet": "60 min",
+      "modes": ["RER"],
+      "ligne": ["RER B", "RER C"]
+    },
+    {
+      "ville": "Gare du Nord",
+      "temps_trajet": "50 min",
+      "modes": ["Métro", "RER"],
+      "ligne": ["4", "5", "RER B", "RER D", "RER E"]
+    },
+    {
+      "ville": "Haussmann - Saint-Lazare",
+      "temps_trajet": "60 min",
+      "modes": ["RER"],
+      "ligne": ["RER E"]
+    },
+    {
+      "ville": "La Défense",
+      "temps_trajet": "90 min",
+      "modes": ["RER", "Métro", "Tram"],
+      "ligne": ["RER A", "1", "T2"],
+      "correspondance": ["Châtelet"]
+    },
+    {
+      "ville": "Nation",
+      "temps_trajet": "70 min",
+      "modes": ["Métro", "RER"],
+      "ligne": ["1", "2", "6", "9", "RER A"]
+    },
+    {
+      "ville": "Austerlitz",
+      "temps_trajet": "70 min",
+      "modes": ["Métro", "RER"],
+      "ligne": ["5", "10", "RER C"]
+    },
+    {
+      "ville": "Vincennes",
+      "temps_trajet": "80 min",
+      "modes": ["RER"],
+      "ligne": ["RER A"]
+    },
+    {
+      "ville": "Pantin",
+      "temps_trajet": "50 min",
+      "modes": ["RER", "Tram"],
+      "ligne": ["RER E", "T3b"]
+    },
+    {
+      "ville": "Bobigny - Pablo Picasso",
+      "temps_trajet": "70 min",
+      "modes": ["Tram", "Métro"],
+      "ligne": ["T1", "5"]
+    },
+    {
+      "ville": "Porte de Vincennes",
+      "temps_trajet": "60 min",
+      "modes": ["Tram", "Métro"],
+      "ligne": ["T3a", "1"]
+    },
+    {
+      "ville": "Issy-Val de Seine",
+      "temps_trajet": "80 min",
+      "modes": ["RER", "Tram"],
+      "ligne": ["RER C", "T2"]
+    },
+    {
+      "ville": "Courbevoie",
+      "temps_trajet": "90 min",
+      "modes": ["Train", "RER"],
+      "ligne": ["Transilien L", "RER A"]
+    },
+    {
+      "ville": "Levallois-Perret",
+      "temps_trajet": "80 min",
+      "modes": ["Train", "Métro"],
+      "ligne": ["Transilien L", "7"],
+      "correspondance": ["Opéra / Haussmann - Saint-Lazare"]
+    },
+    {
+      "ville": "Aubervilliers",
+      "temps_trajet": "60 min",
+      "modes": ["Métro", "Tram"],
+      "ligne": ["7", "T1"]
+    },
+    {
+      "ville": "Saint-Denis",
+      "temps_trajet": "80 min",
+      "modes": ["Métro", "RER"],
+      "ligne": ["13", "RER D"]
+    },
+    {
+      "ville": "Clichy",
+      "temps_trajet": "60 min",
+      "modes": ["Métro", "RER"],
+      "ligne": ["13", "RER C"]
+    },
+    {
+      "ville": "Issy-les-Moulineaux",
+      "temps_trajet": "90 min",
+      "modes": ["RER", "Tram"],
+      "ligne": ["RER C", "T2"]
+    },
+    {
+      "ville": "Boulogne-Billancourt",
+      "temps_trajet": "90 min",
+      "modes": ["Métro", "Tram"],
+      "ligne": ["9", "T2"]
+    },
+    {
+      "ville": "Malakoff",
+      "temps_trajet": "60 min",
+      "modes": ["Métro", "Tram"],
+      "ligne": ["13", "T3a"]
+    },
+    {
+      "ville": "Le Kremlin-Bicetre",
+      "temps_trajet": "60 min",
+      "modes": ["Métro"],
+      "ligne": ["7"]
+    },
+    {
+      "ville": "Neuilly-sur-Seine",
+      "temps_trajet": "70 min",
+      "modes": ["Métro"],
+      "ligne": ["1"]
+    },
+    {
+      "ville": "Charenton-le-Pont",
+      "temps_trajet": "70 min",
+      "modes": ["Métro", "RER"],
+      "ligne": ["8", "RER A"]
+    },
+    {
+      "ville": "Reims",
+      "temps_trajet": "10 min",
+      "modes": ["Voiture"],
+      "destination": "Paris Gare de l'Est"
+    },
+    {
+      "ville": "Châlons-en-Champagne",
+      "temps_trajet": "50 min",
+      "modes": ["Train TER"],
+      "destination": "Paris Gare de l'Est"
+    },
+    {
+      "ville": "Épernay",
+      "temps_trajet": "50 min",
+      "modes": ["Train TER"],
+      "destination": "Paris Gare de l'Est"
+    },
+    {
+      "ville": "Troyes",
+      "temps_trajet": "1h10",
+      "modes": ["Train TER"],
+      "destination": "Paris Gare de l'Est"
+    },
+    {
+      "ville": "Laon",
+      "temps_trajet": "1h15",
+      "modes": ["Train TER"],
+      "destination": "Paris Gare de l'Est"
+    },
+    {
+      "ville": "Soissons",
+      "temps_trajet": "1h25",
+      "modes": ["Train TER"],
+      "destination": "Paris Gare de l'Est"
+    },
+    {
+      "ville": "Sedan",
+      "temps_trajet": "1h30",
+      "modes": ["Train TER"],
+      "destination": "Paris Gare de l'Est"
+    },
+    {
+      "ville": "Tinqueux",
+      "temps_trajet": "15 min",
+      "modes": ["Voiture"],
+      "distance_km": "10"
+    },
+    {
+      "ville": "Bezannes",
+      "temps_trajet": "15 min",
+      "modes": ["Voiture"],
+      "distance_km": "10"
+    },
+    {
+      "ville": "Cernay-lès-Reims",
+      "temps_trajet": "20 min",
+      "modes": ["Voiture"],
+      "distance_km": "15"
+    },
+    {
+      "ville": "Verzy",
+      "temps_trajet": "25 min",
+      "modes": ["Voiture"],
+      "distance_km": "20"
+    },
+    {
+      "ville": "Muizon",
+      "temps_trajet": "25 min",
+      "modes": ["Voiture"],
+      "distance_km": "20"
+    },
+    {
+      "ville": "Courcy",
+      "temps_trajet": "30 min",
+      "modes": ["Voiture"],
+      "distance_km": "25"
+    },
+    {
+      "ville": "Rilly-la-Montagne",
+      "temps_trajet": "30 min",
+      "modes": ["Voiture"],
+      "distance_km": "25"
+    },
+    {
+      "ville": "Cormontreuil",
+      "temps_trajet": "10 min",
+      "modes": ["Voiture"],
+      "distance_km": "5"
+    },
+    {
+      "ville": "Sillery",
+      "temps_trajet": "20 min",
+      "modes": ["Voiture"],
+      "distance_km": "15"
+    },
+    {
+      "ville": "Ludes",
+      "temps_trajet": "30 min",
+      "modes": ["Voiture"],
+      "distance_km": "25"
+    },
+    {
+      "ville": "Gueux",
+      "temps_trajet": "5 min",
+      "modes": ["Voiture"],
+      "distance_km": "25"
+    }
+  ]
+  

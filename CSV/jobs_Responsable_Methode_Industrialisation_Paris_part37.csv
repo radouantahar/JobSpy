@@ -1,0 +1,351 @@
+id,site,job_url,job_url_direct,title,company,location,date_posted,job_type,salary_source,interval,min_amount,max_amount,currency,is_remote,job_level,job_function,listing_type,emails,description,company_industry,company_url,company_logo,company_url_direct,company_addresses,company_num_employees,company_revenue,company_description
+in-82107517e32b762a,indeed,https://fr.indeed.com/viewjob?jk=82107517e32b762a,https://careers.ey.com/ey/job/Paris-La-D%C3%A9fense-Consultant-Senior%2C-Manager-et-Senior-Manager-en-Mod%C3%A9lisation-et-Gestion-des-risques-ESG-HF-92037/1078712101/?feedId=338701&utm_source=Indeed&utm_campaign=EY_indeed,"Consultant Senior, Manager et Senior Manager en Modélisation et Gestion des risques ESG HF",EY,"La Défense, A8, FR",2024-12-30,,,,,,,False,,,,,"**L’opportunité :**
+
+
+Au sein du département FSO (Financial Services Office), plus de 1 200 collaborateurs en France combinent leurs expertises métiers et fonctionnelles afin de répondre efficacement aux besoins de nos clients en banque, assurance ou gestion d’actifs.
+
+  
+
+Le secteur financier européen et mondial connaît des profonds changements à travers notamment la nécessite de mobiliser des financements considérables pour la finance durable mais aussi la nécessaire adaptation des modèles d’activité et des chaines de valeurs au sein des institutions financières (banque, assurance et asset management). Par ailleurs, l’émergence de multiples réglementations liées à ces enjeux pousse l’ensemble du secteur à s’adapter et à se mettre progressivement en conformité.
+
+  
+
+Dans ce contexte, nos équipes de Conseil Financial Services accompagnent les institutions financières à mettre en œuvre leurs nouvelles initiatives stratégiques afin de soutenir la transition écologique et à mener des transformations significatives au niveau organisationnel, méthodologique et opérationnel. Pour soutenir et la croissance de nos activités, nous cherchons à recruter des Consultants Seniors, des Managers et des Seniors Managers souhaitant s’engager à travailler sur l’intégration des risques ESG au sein de leur chaine de valeur de nos clients à savoir au sein de la planification stratégique et financière, les processus métiers et la gestion des risques.
+
+ **Vos missions :**
+
+  
+
+Au sein des équipes « Finance durable et Risques ESG » d’EY France, votre rôle sera d’aider nos clients du secteur financier sur une large palette de missions dont :
+
+  
+
+Pilotage stratégique des risques ESG et gestion des ressources rares
+
+* Conception et mise en œuvre d’une cartographie des risques ESG (canaux de transmission et de propagation, intégration des facteurs ESG aux risques classiques, matérialité…)
+* Définition d’un cadre d’appétence pour les risques ESG et/ou les politiques de gestion des risques ESG (alignement du portefeuille, investissement green, score ESG ou de risques climatiques, indicateurs d’exposition/de concentration des risques climatiques, déformation d’indicateurs de risque…)
+
+  
+
+Gouvernance et gestion des risques ESG
+
+* Conception et mise en place d’un cadre de gestion des risques climatiques et ESG (gouvernance, identification, mesure, contrôle, suivi…)
+* Intégration des différentes dimensions ESG sur les différentes composantes d’un cadre de gestion des risques de crédit, de marché, de risque opérationnel et de liquidité
+
+  
+
+Conception et opérationnalisation de modèles d’évaluation des risques de transition
+
+* Conception d’indicateur de maturité climatique basée une démarche de score multicritère de pression réglementaire, d’émission carbone et d’impact financier
+* Conception de score de transition s’appuyant sur les scénarios de transition du NGFS pour évaluer la déformation états financiers des entreprises et la trajectoire financière d’un secteur ou d’une entreprise
+
+  
+
+Conception et opérationnalisation de modèles d’évaluation des risques physique
+
+* Cartographie des données internes (données portefeuilles, localisation des actifs et infrastructures des contreparties) et externes (DRIAS, Copernicus, météo France, données topographiques…)
+* Revue et analyse des différents scénarios climatiques (GIEC..) et prise en compte des de la déformation des indicateurs climatiques sur plusieurs aléas et diverses horizons
+* Modélisation de l’exposition aux aléas et de la vulnérabilité de l’actif aux aléas (chaine de valeur)
+* Développement et industrialisation d’un outil de score / Calibration des scores à différents niveaux de granularité (score de l’exposition aux aléas, score de vulnérabilité aux aléas, score agrégé…)
+* Restitution des scores et création de différents tableaux bord pour les métiers et la gestion des risques climatiques (concentration sectorielle/géographique…) et de la matérialité du risque physique
+* Opérationnalisation de la méthodologie à travers des itérations métiers et des tests sur des cas concrets et accompagnement et retour d’expérience sur les cas clients
+
+
+Conception et opérationnalisation de modèle de risques liés à la biodiversité
+
+* Développement d’un modèle de score de dépendance des portefeuilles visant à évaluer la dépendance à un ou plusieurs services écosystémiques fournis par la nature pour leur propre activité économique
+* Développement d’approche visant à calculer l’empreinte de biodiversité en vue d’identifier et de quantifier les impacts négatifs potentiels sur la biodiversité exercés par des sociétés présentes dans les portefeuilles
+
+  
+
+Conception de cadre et de méthodologies de stress tests internes climatiques
+
+* Définition du cadre cible et des scénarios de référence (NGFS,GIEC,IAE) en fonction des différents cas d’usage (alignement, planification financière, ICAAP…)
+* Synthèse des canaux de transmissions climatiques matériels et mise en perspective des principales vulnérabilités à déformer dans les différents portefeuilles
+* Scénarisation des vulnérabilités liées aux risques de transition ou de risques physiques sur les paramètres de risques classiques via des effets macro\\-économiques, de transition…
+* Modélisation des impacts sur multi\\-horizons sur des divers indicateurs de risques, indicateurs P\\&L et divers ratios de solvabilité et de liquidité
+* Développement d’outil de simulation des impacts financiers des risques climatiques et intégration à la gestion pour la prise de décision
+
+  
+
+Intégration des effets des modèles climatiques aux différents modèles de risque (PD, LGD, VaR…) et adaptation de modèles de capital économique via des add\\-on ou l’adaptation de modèles de risque Pilier 2
+
+  
+
+Conception et opérationnalisation de score ESG
+
+* Analyse sectorielle et fondamentale des principaux enjeux ESG d’un secteur
+* Mise en place de questionnaires ESG à l’octroi ou l’investissement pour influencer la prise de décisions (définition, opérationnalisation, outillage, conduite du changement…)
+
+  
+
+Réglementation relative à la gestion des risques ESG et de l’opérationnalisation de l’ESG (CRR III/CRDVI, Pilier 3, Règlement Taxonomie, CSRD, SFDR) ou à venir (ECB, EBA, EIOPA, ACPR, etc.) ;
+
+  
+
+Vous évoluerez au sein d'un département dédié aux problématiques du secteur financier, alliant forte expertise, esprit d'initiative, adaptabilité et qualités relationnelles, notamment dans un contexte de contacts permanents ave nos clients.
+
+ **Votre profil :**
+
+
+Vous êtes diplômé d’une école de commerce/d’ingénieurs ou université avec une spécialisation en Gestion des risques/Gestion des risques climatiques/Finance durable. Vous avez au moins 3 ans d’expérience, idéalement avec diverses expériences en gestion des risques climatiques ou en finance durable dans un environnement financier (Banque, Assurances, Asset Management, Cabinet de Conseil, Régulateur…). Vous avez de bonnes connaissances de l’environnement financier et une expérience réussie au sein d’une institution financière.
+
+
+Doté d’un excellent relationnel, vous savez allier le sens de l’analyse rigueur et méthode. Responsable et autonome, vous faites preuve d’esprit d’équipe. Curieux, dynamique, responsable et autonome, vous faites preuve d’esprit d’équipe. L’anglais est votre langue de travail
+
+ ***Vivez l’expérience EY, Rejoignez\\-nous !***
+
+ *Dans le cadre de sa politique Diversité, EY étudie, à compétences égales, toutes candidatures dont celles de personnes en situation de handicap.*
+
+ **A propos d’EY :**
+
+  
+
+EY rassemble aujourd’hui 365 000 associés et collaborateurs à travers le monde dans plus de 150 pays. Grâce à ce réseau, dont le niveau d’intégration et l’ampleur internationale sont gages d’une même excellence partout dans le monde, EY renforce sa position de leader mondial de l’Audit, du Conseil, des Transactions, de la Fiscalité et du Droit. Nous faisons grandir les talents afin, qu’ensemble, ils accompagnent les organisations vers une croissance pérenne. Et notre engagement envers nos équipes commence avec cette promesse : quel que soit votre parcours avec nous, l’expérience EY dure toute une vie.",,https://fr.indeed.com/cmp/Ey,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/2138292378140570afde98e7103dbb54,https://www.ey.com,"London, England","10,000+",more than $10B (USD),"At EY, we are committed to building a better working world."
+in-4d73087864cbb8d4,indeed,https://fr.indeed.com/viewjob?jk=4d73087864cbb8d4,https://cc.wd3.myworkdayjobs.com/en-US/ChanelCareers/job/Chamant/Responsable-Industrialisation-ple-cremes--F-H-_JOBREQ00098473,Responsable Industrialisation pôle cremes (F/H),CHANEL,"Chamant, HDF, FR",2024-12-20,fulltime,,,,,,False,,,,,"CHANEL est une entreprise indépendante qui croit en la liberté de la création, cultive le potentiel humain et s’engage activement pour avoir un impact positif dans le monde.
+Au sein de la Division PARFUMS BEAUTE de CHANEL, l’axe Maquillage, porté par une dynamique constante d'innovation, connait depuis plusieurs années une augmentation du nombre de lancements, et une diversité croissante de ses produits. Notre usine de maquillage, basée à Chamant, recherche un(e) Responsable Industrialisation pour intervenir sur l’industrialisation des produits Crèmes.
+Véritable maillon du développement produit, le Responsable Industrialisation est le trait d'union entre l'usine et l'ensemble des acteurs du développement. En tant que porte\\-parole des équipes industrielles et supply, vous assurez la phase d'industrialisation de nos nouveaux produits, du brief à la mise à disposition des produits sur les marchés dans le respect des objectifs de coût, de qualité et de délais définis. Dans ce cadre, vos missions principales sont les suivantes:* Vous étudiez les moyens et les méthodes permettant l'industrialisation des nouveaux produits :
+* Analyse du brief produit et présentation aux équipes industrielles
+* Identification et analyse des points à risque
+* Rédaction de l'étude de faisabilité industrielle et élaboration du plan d'action permettant de lever les risques identifiés (technique, qualité, sécurité, délais…)
+* Estimation du prix de revient
+
+* Vous êtes garant(e) du suivi opérationnel de la phase d'industrialisation jusqu'au démarrage de la production et coordonnez l'ensemble des équipes liées au projet :
+* Coordination et rédaction d'études d'industrialisation approfondies et mise en œuvre d'actions pour garantir le respect de la date de mise à disposition du produit
+* Identification, rationalisation, planification, animation et analyse des essais industriels sur les lignes de conditionnement
+* Suivi / mise à jour du planning d'industrialisation et animation et participation aux points réguliers qui jalonnent le développement produit avec les acteurs du projet
+* Consolidation et renseignement des paramètres de production dans les systèmes d'information dédiés (SAP, Team Center…)
+* Mise en œuvre de l'ensemble des actions et des conditions nécessaires au démarrage des premières productions
+
+* Dans une démarche constante d'amélioration continue et de participation à l'innovation, vous conduisez ou participez à des chantiers optimisation :
+* Amélioration de produits à la gamme (modifications pack, formule…) en vue d'améliorer les coûts, la performance ou encore les conditions de travail
+* Prospection et intégration de nouvelles technologies
+
+
+PROFIL* De formation type école d'ingénieur ou université, vous disposez d'une première expérience réussie dans une unité de production ou de développement produit.
+* Cette expérience vous a permis de développer une bonne compréhension des enjeux du développement ainsi qu'une sensibilité aux enjeux industriels.
+* Très organisé(e) et méthodique, vous êtes reconnu(e) pour votre capacité à influencer et coordonner des équipes multi\\-métier.
+* Votre réactivité et votre agilité vous permettent de répondre sereinement aux aléas du quotidien.
+* Doté(e) d'un excellent relationnel et d'une facilité à communiquer à tous les niveaux de l'organisation, vous savez également faire preuve d'initiative et prendre des décisions.
+* Vous avez le souci de l'optimisation et de l'amélioration continue.
+
+
+VIVEZ L’EXPÉRIENCE CHANEL !
+Tout au long de votre expérience, vous serez immergé(e) dans un environnement dynamique, innovant et apprenant ; où la création et l’humain sont au cœur des préoccupations.
+Vous rejoignez une activité singulière, aux méthodes et procédés uniques \\- qu’ils soient créatifs, de développement ou d’industrialisation \\- et évoluez aux côtés d’une diversité d’experts aux savoir\\-faire reconnus.",,https://fr.indeed.com/cmp/Chanel-a88d502f,,https://www.chanel.com/de/karriere/,,Decline to state,Decline to state,
+in-df550980ab2ab4a4,indeed,https://fr.indeed.com/viewjob?jk=df550980ab2ab4a4,https://www.talentdetection.com/servair/offre-106733-sxAvOV?utm_source=Indeed,STAGE – Ingénieur Méthodes et Process H/F,SERVAIR,"Roissy-en-France, A8, FR",2024-12-19,fulltime,,,,,,False,,,,,"SERVAIR, première entreprise française de restauration aérienne et de nettoyage, filiale de Gategroup, basée à l’aéroport de Roissy CDG, recherche pour son unité de production un stagiaire **Ingénieur Méthodes et Process** **H/F.**
+
+
+Rattaché au Responsable Méthodes du centre, vos missions principales sont les suivantes :
+
+* Participer à l’analyse de la performance des process,
+* Proposer des améliorations au niveau performance et ergonomie des postes,
+* Animer des chantiers Kaizen,
+* Realsier le chantier 5S,
+* Participer à la digitalisation du process,
+* Identifier et partager les bonnes pratiques opérationnelles,
+* Mettre en place des actions visant l’amélioration continue,
+* Veiller au respect du standard Groupe GATE OPEX.
+
+
+Vous préparez idéalement un diplôme Ingénieur généraliste/ Méthodes option industrialisation des process.
+
+
+Votre rigueur, votre autonomie ainsi que votre capacité à faire preuve d'initiative vous permettront de réussir pleinement vos missions.
+
+
+Votre sens de la confidentialité ainsi que vos qualités rédactionnelles sont également des éléments nécessaires à la bonne exécution de votre alternance.
+
+
+Vous maîtrisez également le pack office.
+
+
+Qui sommes nous ?
+
+
+Filiale de Gategroup, Servair est la première entreprise française de restauration aérienne et de nettoyage cabine basée à l'aéroport de Roissy CDG. Elle opère dans 22 aéroports répartis dans 16 pays et compte de 75 000 salariés.  
+
+  
+
+Privilégié par les compagnies aériennes en France et en Afrique depuis plus de 40 ans, Servair offre une expertise globale couvrant tous les besoins de ses clients. Avec un engagement envers la qualité de service et l'innovation, notre entreprise propose une gamme complète de solutions sur mesure, allant de la restauration à bord à l'assistance aéroportuaire, en passant par la restauration hors domicile.",,https://fr.indeed.com/cmp/Servair,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/5aed40e5f06f256c636b915421b4cad8,http://www.servair.fr,Roissy Charles-de-Gaulle,"5,001 to 10,000",$500M to $1B (USD),
+in-b1d8962095ae845d,indeed,https://fr.indeed.com/viewjob?jk=b1d8962095ae845d,https://www.talentdetection.com/groupe-fareva/offre-43484-SytLpc?utm_source=Indeed,Responsable Atelier H/F,COSMEVA,"Savigny-le-Temple, A8, FR",2024-12-18,fulltime,,,,,,False,,,,,"**Organisation de la Production**
+
+* Préparer l’organisation de l’atelier : participer à la phase de pré\\-industrialisation (tests de prototypes, essais de produits et emballages).
+* Participer à l’analyse du cahier des charges techniques élaboré par le projet en liaison avec le client, définir les méthodes de production, planifier les différentes phases du processus de production.
+* Mettre en œuvre le plan de production défini : déterminer les objectifs de production et les moyens (hommes, matières, outillages, machines, prestataires, sous\\-traitants, etc.).
+* Répartir et coordonner les différentes phases du processus de production entre les équipes en fonction du plan de charges élaborés, définir les priorités en lien avec le service Planification.
+* Actualiser les documents d’exploitation destinés aux opérateurs : documentations techniques, fiches du dossier machine à renseigner par les opérateurs (démarrage de ligne, autocontrôle, etc.).
+
+ **Suivi du Programme de Production**
+
+* Garantir la continuité des flux de production, depuis l’approvisionnement des stocks (matières premières, pièces primaires) jusqu’à l’expédition des produits finis.
+* Contrôler l’utilisation de l’outil de production (instruments de mesure et de test, équipements), gérer la maintenance préventive et curative, les incidents, assurer la montée en cadence de l’outil de production.
+* Veiller au quotidien à l’application du programme de production, des processus, conformément aux objectifs de qualité, coûts, délais et aux procédures de sécurité.
+* Valider la qualité définie, gérer les risques internes de non\\-qualité.
+* Traiter les incidents, adapter le programme aux aléas de la production et des prévisions des commandes, contrôler le respect du cahier des charges par les sous\\-traitants.
+
+ **Amélioration Continue de la Performance**
+
+* Analyser les différents indicateurs de l’activité de l’atelier, identifier les axes d’amélioration de la rentabilité et de la productivité.
+* Élaborer des plans de progrès et de prévention, piloter des chantiers dans différents domaines : sécurité, conditions de travail, produits, matières, équipements, processus.
+* Actualiser les bonnes pratiques de métier et les modes opératoires.
+* Proposer des évolutions, des adaptations et des actions correctives, techniques et organisationnelles.
+
+ **Organisation de l’Atelier et Pilotage d’Équipe**
+
+* Former et animer les équipes, définir les objectifs individuels, analyser les performances, mener les entretiens professionnels, accompagner dans les projets de formation (certification et habilitation professionnelles, compagnonnage).
+* Planifier, répartir la charge de travail de ses équipes, par poste ou par machine, selon les contraintes de production, coordonner au quotidien les activités, accompagner vers la réalisation des objectifs.
+* Gérer les mouvements (absences, congés, repos, remplacements, roulements d’équipes, astreintes), régler les incidents humains.
+* Contrôler l’application des procédures, des modes opératoires, des bonnes pratiques de métier, le respect des règles (sécurité, hygiène, règlement intérieur).
+* Animer des groupes projets sur la qualité et l’amélioration continue.
+
+ **Gestion Économique de son Périmètre**
+
+* Piloter au quotidien et suivre les indicateurs de production (sécurité, qualité, délais, coûts).
+* Suivre les coûts standards de production et d’investissement.
+* Gérer la comptabilité des matières premières, composants et consommables.
+* Participer à la gestion budgétaire, élaborer le bilan mensuel et annuel de son activité.
+* Assurer un reporting d’activités : tableaux de bord, rapports de production.
+
+ **Missions Éventuelles**
+
+* Organiser et suivre le stockage ou la mise à disposition des produits.
+* Participer à la sélection des sous\\-traitants, fournisseurs, prestataires.
+* Participer aux projets transversaux du site (investissements, amélioration continue).
+
+**Expérience**
+
+* Expérience confirmée de 5 à 10 ans en gestion d’atelier de production ou dans un poste similaire.
+* Expérience en organisation des processus de production et pilotage des équipes de production.
+* Expérience en management d’équipe (20 à 60 personnes selon l'activité)
+
+**Compétences Techniques**
+
+* Connaissances en méthodes d’amélioration continue (Lean Manufacturing, 5S, Kaizen).
+* Bonne connaissance des procédures qualité, hygiène et sécurité.
+* Compétence en gestion de la productivité et de l’optimisation des flux de production.
+
+**Compétences Comportementales**
+
+* Leadership et capacité à animer des équipes.
+* Sens de l’organisation et rigueur.
+* Capacité à analyser et à prendre des décisions.
+* Bonnes capacités de communication et d’adaptation.
+* Statut cadre
+* Rémunération selon profil.
+* Prime de 12,5% d'un salaire annuel brut
+* Comité Social et Économique (CSE).
+* Restaurant d'entreprise.
+* Mutuelle familiale.
+
+
+Qui sommes nous ?
+
+
+En patois ardéchois, « *faire rêver* » se dit **Fareva**. Cette devise reflète l’identité de cette entreprise familiale française.  
+
+  
+
+Fondé en 1981 par Bernard Fraisse, le Groupe FAREVA, avec ses 41 sites de production à travers le monde est aujourd’hui un des acteurs incontournables dans la production et le conditionnement à façon de produits pharmaceutiques, cosmétiques industriels et ménagers. Son savoir\\-faire reconnu et son ambition lui valent de connaitre une forte croissance et de créer de belles opportunités professionnelles au sein du groupe.  
+
+  
+
+Au sein de la BU cosmétique, le site de Cosmeva situé à Savigny le temple produit plus de 50 millions d’unités de produits par an avec une diversité importante (flacons, tubes, pots, sticks, sachets, etc.).  
+
+  
+
+Le site avec une surface de 27000m² couverts compte plus de 200 personnes et livre plusieurs dizaines de clients pour des marques internationales. De nouvelles lignes de production sont en cours d’installation pour répondre à la demande croissante.  
+
+  
+
+**Envie de rejoindre la team Cosmeva et contribuer au futur de la cosmétique ?**",,https://fr.indeed.com/cmp/Cosmeva,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/068608e2843394edd293cbf6ccee7ed2,,,,,
+in-50f4847d5085ab32,indeed,https://fr.indeed.com/viewjob?jk=50f4847d5085ab32,http://fr.indeed.com/job/ing%C3%A9nieur-m%C3%A9thodes-industrialisation-hf-50f4847d5085ab32,Ingénieur Méthodes Industrialisation H/F,DRB Méthodes et application,"Compiègne, HDF, FR",2024-12-18,fulltime,,,,,,False,,,,,"Présent depuis 2014, DRB MEA est un bureau des méthodes en forte croissance qui est composé de près de 40 salariés à ce jour.
+
+Nous sommes spécialisés dans la gestion de projet industriel avec une approche technique pragmatique terrain, de l’étude au suivi de chantier (gestion de projet de A à Z). L’application rigoureuse de nos outils et de nos méthodes, assure une qualité de prestation qui porte notre succès de croissance.
+
+Nous prenons en compte l’environnement de chacun, les souhaits évolutifs qu’ils soient personnels ou professionnels.
+
+Nos bureaux sont basés à Chemillé proche d’Angers dans le Maine et Loire (49\\) et à Noyon dans l'Oise (60\\) mais notre personnel est localisé dans la France entière pour être à proximité de nos clients.
+
+Vous ferez partie intégrante de notre entreprise en assistant à notre séminaire annuel, à nos échanges en visio, à notre réunion hebdomadaire et à nos activités inter\\-équipe.
+
+En tant que Chef de Projet, vous serez responsable de la gestion complète des projets liés à la conception, au développement et à la mise en œuvre chez des acteurs industriels en France.
+
+Vous collaborerez étroitement en mode projet avec un coordinateur technique, un chargé d’affaire ainsi que le client pour assurer la réussite des projets. Nous offrons un environnement de travail collaboratif où l’excellence est au cœur de ce que nous entreprenons.
+
+**Vos missions consisteront à :**
+
+\\- Analyser les besoins des clients et traduire ses exigences en spécifications techniques
+
+\\- Planifier, organiser et superviser toutes les phases du projet, de la conception à la livraison
+
+\\- Gérer les ressources du projet, qualité/coût/délai de nos projets
+
+\\- Assurer une communication fluide au sein de l’équipe, avec le client, les fournisseurs et/ou les différents partenaires
+
+\\- Être en étroite coordination avec les équipes du site
+
+\\- Résoudre les problèmes potentiels de manière proactive et assurer une satisfaction client optimale.
+
+**Les compétences recherchées sont :**
+
+\\- Compétences en communication
+
+\\- Capacité démontrée à travailler efficacement dans un environnement multidisciplinaire
+
+\\- Connaissance en logiciel de CAO/DAO (AUTOCAD et/ou SOLIDWORKS),
+
+\\- Connaissance de l’anglais (communication écrite et orale)
+
+**Diplôme requis :** Niveau Bac\\+5 (Master ou diplôme d’ingénieur généraliste, mécanique, ou dans un domaine connexe).
+
+Expérience souhaitée : 4 ans hors alternance
+
+**Les modalités du contrat :**
+
+CDI forfait cadre jour
+
+\\- Rémunération selon expérience
+
+\\- Déplacements réguliers sur les différents sites clients (Mobilité : régionale ou nationale)
+
+\\- Mise à disposition d’un véhicule de société pour les déplacements sur site client
+
+\\- Prise en charge des frais pendant les déplacements professionnels.
+
+*Si vous souhaitez vous épanouir dans un environnement stimulant, où votre expertise sera valorisée et où vous aurez l'opportunité de contribuer à des projets d'envergure tout en montant en compétences, alors n'hésitez plus ! Rejoignez\\-nous dès maintenant.*
+
+Type d'emploi : Temps plein  
+Statut : Cadre
+
+Rémunération : 33 000,00€ à 50 000,00€ par an
+
+Horaires :
+
+* Du lundi au vendredi
+
+Question(s) de présélection:
+
+* C'est quoi pour vous le métier de chef de projet dans l'Industrie ?
+
+Formation:
+
+* Bac \\+5 (Master / MBA) (Requis)
+
+Expérience:
+
+* Gestion de projet: 1 an (Requis)
+
+Langue:
+
+* Anglais (Optionnel)
+
+Permis/certification:
+
+* Permis B (Requis)
+
+Disposition à l'égard des déplacements professionnels:
+
+* 100 % (Requis)
+
+Lieu du poste : Déplacements fréquents",,https://fr.indeed.com/cmp/Drb-M%C3%A9thodes-Et-Application,,,,,,

@@ -1,0 +1,269 @@
+id,site,job_url,job_url_direct,title,company,location,date_posted,job_type,salary_source,interval,min_amount,max_amount,currency,is_remote,job_level,job_function,listing_type,emails,description,company_industry,company_url,company_logo,company_url_direct,company_addresses,company_num_employees,company_revenue,company_description
+in-3f001b6d8c8166d1,indeed,https://fr.indeed.com/viewjob?jk=3f001b6d8c8166d1,https://www.jobposting.pro/emploi-2071264-109,Ingénieur développement logiciel embarqué H/F,MEDIANE SYSTEME,"Le Pecq, A8, FR",2025-02-20,,,,,,,False,,,,,"**Description du poste**
+------------------------
+
+
+Pour l'un de nos clients dans le secteur de l'énergie, nous recherchons un(e) Ingénieur (e) développement logiciel embarqué. Au sein du département produits Radio et Capteurs, l'ingénieur(e) développement embarqué intègrera l'équipe Concentrateur.  
+
+  
+
+En tant que développeur logiciel, il sera en collaboration avec le responsable technique produits Concentrateur auquel il reportera, et sera en charge des missions suivantes :  
+
+* Concevoir, implémenter et tester les différents logiciels développés
+* Développer des tests unitaires
+* Participer à la définition de l'architecture logicielle pour les produits existants et pour les nouveaux produits
+* Tracer / suivre / corriger les anomalies logicielles, assurer le suivi et le traitement des tickets de support N3
+* Garantir le respect des objectifs Qualité Coûts Délais des différents livrables (binaires, spécifications, tests unitaires, respect des standards en vigueur, etc.)
+* Participer au chiffrage et à la planification les chantiers logiciels (évolutions, corrections, nouvelle variante, etc.)
+* Assurer le maintien de la gestion de configuration et de l'intégration continue
+* Participer à l'amélioration des méthodes de développement
+* Être force de proposition pour améliorer les produits et les applications
+**Profil recherché**
+--------------------
+
+
+De formation d'ingénieur informatique (Bac \\+5\\) ou Ingénieur logiciel embarqué, vous devez justifier d'une expérience significative de 3 ans sur des missions similaires, autonome, organisé (e) et avec un esprit d'initiative.  
+
+  
+
+Connaissances techniques :  
+
+* Connaissance en architecture logicielle/firmware en général
+* Maitrise du développement en C particulièrement dans un contexte RTOS (ou FreeRTOS)
+* Maitrise de l'environnement de développement Linux Embarqué (scripts bash, cross compilation, open source…)
+* Maitrise de la gestion de configuration (Connaitre GIT/GITLAB serait un plus)
+* Des connaissances en protocoles de communication (Liaisons séries synchrones et asynchrone, Ethernet, liaison série UART, sockets TCP/IP) sont nécessaires
+* Bonnes connaissances en électronique.
+* Des connaissances en télécom, NFC, Bluetooth et IOT en général seraient un plus
+* Anglais (lu et écrit, oral serait un plus)
+**A propos de nous**
+--------------------
+
+
+Et si vous embarquiez vers les nouvelles technologies ?  
+
+  
+
+Filiale du groupe industriel ICE, Médiane Système, est une société d'ingénierie innovante spécialisée en électronique, systèmes embarqués et informatique industrielle. Médiane Système a construit son identité sur une expertise technique de haut niveau en proposant à ses clients, des prestations d'accompagnement au travers de ses Départements R\\&D (DRD) et ConSulting (DCS).  
+
+  
+
+Présente en France (région Parisienne, Rhône\\-Alpes, Midi\\-Pyrénées, PACA, Grand Ouest), en Belgique et en Italie, Médiane Système est partenaire de grands comptes industriels et de nombreuses PME. Du secteur automobile au médical, en passant par l'énergie, le ferroviaire, l'aéronautique ou bien les télécoms. Médiane Système intervient exclusivement sur les métiers de l'ingénierie système (logiciel embarqué, logiciel applicatif pour l'industrie, électronique numérique et analogique, banc de tests) dans des environnements technologiques de pointe.  
+
+  
+
+Créée par des ingénieurs, Médiane Système, est une entreprise technique à taille humaine, proche de ses collaborateurs, qui privilégie depuis plus de 30 ans, le développement des compétences et l'épanouissement de ses salariés.
+
+
+  
+
+BAC \\+4/5
+  
+
+3 ans minimum",Computers And Electronics,https://fr.indeed.com/cmp/Mediane-Systeme,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/3a7ce1e2822d533565da050a0a8c0428,https://medianesysteme.com/,"54 route de Sartrouville
+78230 Le Pecq ",201 to 500,$25M to $100M (USD),"Médiane Système est un société familiale à taille humaine, qui s'appuie sur quatre valeurs : Confiance. Respect. Ecoute. Engagement."
+in-16dd3f3febe90d2f,indeed,https://fr.indeed.com/viewjob?jk=16dd3f3febe90d2f,https://jobs.smartrecruiters.com/GroupementLesMousquetaires/744000043682494-employe-commercial-26h-h-f-,EMPLOYE COMMERCIAL - 26H (H/F),Intermarché,"Vanves, A8, FR",2025-02-20,fulltime,,,,,,False,,,,,"**Description de l'entreprise**  
+
+Rejoindre le Groupement Les Mousquetaires, c’est intégrer un acteur majeur de la grande distribution avec 7 enseignes. C’est aussi évoluer au sein d’un groupe singulier, présent sur 3 marchés (alimentaire, bricolage, mobilité), qui réunit 150 000 collaborateurs et compte plus de 3 000 chefs d’entreprise !
+
+
+Intermarché, c’est l’enseigne historique du Groupement Les Mousquetaires. Son positionnement unique de Producteurs \\& Commerçants fait sa force. S’appuyant sur le pôle agroalimentaire du Groupement Les Mousquetaires, Intermarché propose des produits sains, accessibles et issus d’une production française et responsable. Agir pour placer le mieux manger à la portée de tous, c’est l’engagement qui anime les équipes au quotidien. Et ce modèle plaît ; Intermarché, enseigne solidaire et de proximité, figure parmi les enseignes de grande distribution préférées des Français qui bénéficient directement de ses 1 800 points de vente répartis sur l’ensemble du territoire.
+
+
+Le magasin Intermarché de Vanves, pour poursuivre ses engagements et la valorisation des bons produits locaux et accessibles, renforce son rayon Produits Grande Consommation (PGC) en recrutant **un employé commercial H/F**.
+
+ **Description du poste**  
+
+Après une période d’intégration pendant laquelle vous vous familiariserez avec les différents rayons puis nos process et méthodes dans le rayon, vous serez responsable de votre périmètre. À l’écoute des besoins clients, **vous disposerez les produits et marchandises dans les rayons** selon les consignes de rangement, d’emplacement et de présentation. Vous réaliserez **l’inventaire des produits en stock** et serez acteur de leur renouvellement, en collaboration avec votre manager, chef de rayon PGC. Vous assisterez avec sourire et bienveillance les clients dans votre rayon.
+
+
+Pour ce poste votre planning sera du lundi au samedi à partir de 5h.
+
+ **Qualifications** **Chez Intermarché, l’audace et l’envie d’entreprendre sont un véritable état d’esprit. Vous avez envie de vous investir et d’évoluer au sein d’une équipe de passionnés et qui saura reconnaître votre talent ?** Grâce à vos qualités relationnelles, et commerçant dans l’âme, vous savez créer avec vos clients des liens de confiance et de proximité pour toujours leur apporter conseils et valeur ajoutée. **Avec ou sans formation, avec ou sans expérience, vous aimez faire plaisir et valoriser des produits qui vous tiennent à cœur**.
+
+
+Vous bénéficiez d’une rémunération attractive composée d’un salaire fixe \\+ mutuelle \\+ prime d'assiduité \\+ prime d'intéressement \\+ prime annuelle \\+ 5 semaines de congés payés et 5% de remise sur vos achats.  
+
+**Nos parcours de développement des compétences vous aideront à évoluer rapidement.**  
+
+**Vivez votre passion et engagez\\-vous à nos côtés au sein d’une équipe humaine et conviviale !**",,https://fr.indeed.com/cmp/Intermarch%C3%A9-1,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/1eea482bdc3a1dc1691f89866bcfed74,https://www.carrieres-mousquetaires.com,Bondoufle,"10,000+",more than $10B (USD),"Intermarché, enseigne alimentaire des Mousquetaires, est le réseau N°1 de supermarchés en France (1860 points de vente) promouvant une consommation responsable et soutenant la production française."
+in-4ec268be29fa5b94,indeed,https://fr.indeed.com/viewjob?jk=4ec268be29fa5b94,https://jobs.smartrecruiters.com/GroupementLesMousquetaires/744000043681205-employe-commercial-h-f-,EMPLOYE COMMERCIAL (H/F),Intermarché,"Vanves, A8, FR",2025-02-20,fulltime,,,,,,False,,,,,"**Description de l'entreprise**  
+
+Rejoindre le Groupement Les Mousquetaires, c’est intégrer un acteur majeur de la grande distribution avec 7 enseignes. C’est aussi évoluer au sein d’un groupe singulier, présent sur 3 marchés (alimentaire, bricolage, mobilité), qui réunit 150 000 collaborateurs et compte plus de 3 000 chefs d’entreprise !
+
+
+Intermarché, c’est l’enseigne historique du Groupement Les Mousquetaires. Son positionnement unique de Producteurs \\& Commerçants fait sa force. S’appuyant sur le pôle agroalimentaire du Groupement Les Mousquetaires, Intermarché propose des produits sains, accessibles et issus d’une production française et responsable. Agir pour placer le mieux manger à la portée de tous, c’est l’engagement qui anime les équipes au quotidien. Et ce modèle plaît ; Intermarché, enseigne solidaire et de proximité, figure parmi les enseignes de grande distribution préférées des Français qui bénéficient directement de ses 1 800 points de vente répartis sur l’ensemble du territoire.
+
+
+Le magasin Intermarché de Vanves, pour poursuivre ses engagements et la valorisation des bons produits locaux et accessibles, renforce son rayon Produits Grande Consommation (PGC) en recrutant **un employé commercial H/F**.
+
+ **Description du poste**  
+
+Après une période d’intégration pendant laquelle vous vous familiariserez avec les différents rayons puis nos process et méthodes dans le rayon, vous serez responsable de votre périmètre. À l’écoute des besoins clients, **vous disposerez les produits et marchandises dans les rayons** selon les consignes de rangement, d’emplacement et de présentation. Vous réaliserez **l’inventaire des produits en stock** et serez acteur de leur renouvellement, en collaboration avec votre manager, chef de rayon PGC. Vous assisterez avec sourire et bienveillance les clients dans votre rayon.
+
+ **Qualifications** **Chez Intermarché, l’audace et l’envie d’entreprendre sont un véritable état d’esprit. Vous avez envie de vous investir et d’évoluer au sein d’une équipe de passionnés et qui saura reconnaître votre talent ?** Grâce à vos qualités relationnelles, et commerçant dans l’âme, vous savez créer avec vos clients des liens de confiance et de proximité pour toujours leur apporter conseils et valeur ajoutée. **Avec ou sans formation, avec ou sans expérience, vous aimez faire plaisir et valoriser des produits qui vous tiennent à cœur**.
+
+
+Vous bénéficiez d’une rémunération attractive composée d’un salaire fixe \\+ mutuelle \\+ prime d'assiduité \\+ prime d'intéressement \\+ prime annuelle \\+ 5 semaines de congés payés et 5% de remise sur vos achats.  
+
+**Nos parcours de développement des compétences vous aideront à évoluer rapidement.**  
+
+**Vivez votre passion et engagez\\-vous à nos côtés au sein d’une équipe humaine et conviviale !**",,https://fr.indeed.com/cmp/Intermarch%C3%A9-1,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/1eea482bdc3a1dc1691f89866bcfed74,https://www.carrieres-mousquetaires.com,Bondoufle,"10,000+",more than $10B (USD),"Intermarché, enseigne alimentaire des Mousquetaires, est le réseau N°1 de supermarchés en France (1860 points de vente) promouvant une consommation responsable et soutenant la production française."
+in-6671e1ce352bfce2,indeed,https://fr.indeed.com/viewjob?jk=6671e1ce352bfce2,http://fr.indeed.com/job/data-scientist-hf-6671e1ce352bfce2,Data Scientist H/F,LOIGPREM-F,"Paris, A8, FR",2025-02-20,fulltime,,,,,,False,,,,,"La société Logipren développe un logiciel d’aide à la prescription utilisé dans les services hospitaliers de néonatologie (nouveau\\-nés malades). En parallèle de cette activité de sécurisation des prescriptions, Logipren a constitué une base de données qui contient la totalité des prescriptions rédigées via son logiciel. Cette base est centralisée et pseudonymisée. Elle a reçu l’agrément Entrepôt de Données de Santé de la CNIL. Elle contient les données de plus de 230 000 patients, et est alimentée automatiquement mensuellement.
+
+Nous souhaitons développer un nouveau plan d’activité de la société, en exploitant les données recueillies. L’idée est de développer un module prédictif des risques patients, entrainé sur la base de données centralisée, mais qui serait utilisé en production directement dans les services de soins (ex : risque de développer un retard de croissance, de décès, d’infection nosocomiale…).
+
+Bien que cette activité (IA) soit à monter totalement chez Logipren, nous avons déjà bénéficié d’un DiagIA qui confirme la faisabilité, et d’une subvention de recherche.
+
+Vous rejoindrez une équipe de développeurs, ingénieurs produit, médecins et infirmiers.
+
+Au coeur de la dynamique de développement de Logipren, votre périmètre d’action comporte trois volets :
+
+* Analyser les données de notre base de données centralisée de prescriptions
+* Exploiter des données au travers de projets d’intelligence artificielle en collaboration avec les différentes équipes : scientifique, développement et conception afin d’en maximiser la valeur pour les utilisateurs finaux de Logipren. A ce titre vous serez responsable du développement, du déploiement et de l'optimisation de modèles d'intelligence artificielle de prédiction des risques patient
+* Participer à la maintenance de notre base de données de santé : guider l’automatisation des tâches de nettoyage de la donnée, en collaboration avec le développeur en charge de la base.
+
+**Missions principales :**
+
+* Concevoir, entraîner et optimiser des modèles complexes d’apprentissage automatisé.
+* Implémenter et industrialiser des pipelines de traitement des données et des modèles en production.
+* Collaborer avec les équipes métier pour identifier des cas d’usage pertinents.
+* Optimiser les performances des modèles en termes de précision, rapidité et consommation de ressources.
+* Suivre les tendances technologiques et proposer des améliorations continues des algorithmes et des outils utilisés.
+* Participer à la mise en place d’une architecture robuste pour l’exploitation des modèles en production.
+
+Vous disposez d’expériences significatives en analyse de données, modèles d’apprentissage (Machine Learning, deep learning) et en traitement des données.
+
+**Compétences :**
+
+**Principales compétences demandées : statistiques et machine learning**
+
+\\- Langages : Python, R, SQL.
+
+\\- Connaissance approfondie des frameworks IA : TensorFlow, PyTorch, Scikit\\-learn
+
+\\- Data ETL: Apache, Hadoop, Spark, Apache Kafka
+
+**Atouts complémentaires :**
+
+\\- Expérience en santé
+
+\\- Connaissance de Dataiku
+
+\\- Outils de gestion de performance type Datadog
+
+\\- Maitrise d’outils de visualisation de données et de reporting
+
+\\- Statistiques et mathématiques appliquées, notamment pour traiter des jeux de données complexes
+
+**Savoir être :**
+
+\\- Curiosité, appétence pour les sujets de néonatologie  
+\\- Organisation, rigueur et méthode  
+\\- Autonomie et force de proposition  
+\\- Travail en équipe  
+\\- Capacité de vulgarisation
+
+**Qualifications requises :**
+
+\\- Diplôme de niveau Bac \\+5 minimum  
+\\- Expérience 5 ans minimum  
+\\- Anglais courant (optionnel)
+
+Lieu Saint\\-Pierre ( Réunion) ou Paris (France)
+
+Type d'emploi : Temps plein, CDI  
+Statut : Cadre
+
+Rémunération : 55 000,00€ par an
+
+Avantages :
+
+* RTT
+
+Horaires :
+
+* Du lundi au vendredi
+* Repos le week\\-end
+* Travail en journée
+
+Lieu du poste : Télétravail hybride (75013 Paris)",,https://fr.indeed.com/cmp/Loigprem--f,,,,,,Présentation de l'entreprise : https://www.youtube.com/watch?v=7EJxmphtSWg
+in-78182e25a7dacc28,indeed,https://fr.indeed.com/viewjob?jk=78182e25a7dacc28,http://fr.indeed.com/job/aide-soignant-hf-78182e25a7dacc28,Aide soignant H/F,emeis,"Le Chesnay, A8, FR",2025-02-20,fulltime,,,,,,False,,,,,"***La résidence les Lys, située à Rocquencourt (78\\), est une maison de retraite médicalisée (EHPAD)*** qui accueille des personnes âgées autonomes, semi\\-valides et dépendantes.
+
+L'établissement a une capacité d'accueil de 90 résidents et dispose des services ci\\-dessous:
+
+* 1 Unité de soins adaptés spécialisée dans l’accueil des personnes désorientées ou atteintes de la maladie d’Alzheimer (et pathologies apparentées).
+* 1 Unité protégée
+* 1 Pôle d’Activités et de Soins Adaptés (PASA)
+
+**Accès:** Gare de Versailles rive droite et bus 5 et un parking est mis à la disposition des collaborateurs
+
+***L'établissement recherche un.e Aide\\-Soignant.e en CDI*** pour prendre soin des résidents et de leur famille dans la durée, leur redonner le sourire !
+
+**Ce que nous vous proposons:**
+
+* **Amplitude horaire**: de 8h30 à 20h (1h de pause)
+* **Rémunération** : à partir de 2000€ brut mensuel hors Ségur
+
+**Vos missions**
+
+En collaboration avec l’équipe soignante pluridisciplinaire et la direction, vous aurez pour missions principales :
+
+* Contribuer à l’accueil et l’information du résident et de son entourage
+* Observer l’état de santé du résident, dispenser les soins d’hygiène, l’accompagner dans la durée (dans ses déplacements, dans sa bonne installation…)
+* Recueillir et transmettre les observations afin de maintenir la continuité des soins
+
+**Votre profil:**
+
+* **Obtention du Diplôme d’Etat d’Aide\\-Soignant.e**
+* Les débutants sont les bienvenus, que vous ayez une expérience de stage ou non !
+
+**Qui sommes\\-nous?**
+
+**L’accompagnement et le soin personnalisés pour chaque personne fragilisée**
+
+Nous sommes 78 000 médecins, infirmiers, aides\\-soignants, auxiliaires de vie, rééducateurs, psychologues, cuisiniers, gouvernants, et métiers d’appui… engagés chaque jour auprès des plus fragiles.
+
+**En rejoignant EMEIS**, vous pourrez vous projeter sur le long terme et bénéficier également des avantages liés à un grand Groupe.
+
+* Prime dite de 13ème mois
+* Titres Restaurants ou restauration sur nos établissements à tarif préférentiel
+* Accord d’entreprise permettant la réalisation d’heures supplémentaires au\\-delà du contingent conventionnel
+* Subrogation
+* Accord d’intéressement
+* Primes de cooptation
+* Services à taille humaine : un management en proximité, un esprit d’équipe et d’entraide entre collègues…
+* Avantages CSE en région et CSE Central
+* Accès facilité à la formation (possibilités de financement de DU par exemple)
+* Gestion de carrière individualisée et accompagnement à la mobilité (géographique et professionnelle) : par exemple, en tant qu’infirmier.ère, possibilité d’évoluer vers différentes spécialités de soins et vers des fonctions d’encadrement (IDEC, responsable de soins, direction d’établissement)
+* Procédures qualité et méthodes innovantes pour une prise en charge de qualité
+
+**Chez emeis, nous sommes forces de vie**
+
+\\#arcdeseine
+
+Type d'emploi : Temps plein, CDI
+
+Rémunération : à partir de 2 000,00€ par mois
+
+Avantages :
+
+* Prise en charge du transport quotidien
+
+Horaires :
+
+* Travail en journée
+
+Rémunération supplémentaire :
+
+* Primes
+
+Capacité à faire le trajet ou à déménager:
+
+* 78150 Le Chesnay: Faire le trajet sans problème ou prévoir un déménagement avant de prendre son poste (Requis)
+
+Permis/certification:
+
+* Diplôme d'état aide\\-soignant (Requis)
+
+Lieu du poste : En présentiel",,https://fr.indeed.com/cmp/Emeis-1,,https://www.emeis-group.com/,Puteaux,Decline to state,Decline to state,"Le Groupe ORPEA, acteur européen de la dépendance, développe une politique de recrutement dynamique et pérenne, rejoignez-nous !"

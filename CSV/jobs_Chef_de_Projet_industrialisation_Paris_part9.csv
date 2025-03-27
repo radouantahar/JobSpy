@@ -1,0 +1,381 @@
+id,site,job_url,job_url_direct,title,company,location,date_posted,job_type,salary_source,interval,min_amount,max_amount,currency,is_remote,job_level,job_function,listing_type,emails,description,company_industry,company_url,company_logo,company_url_direct,company_addresses,company_num_employees,company_revenue,company_description
+gd-1009615542888,glassdoor,https://www.glassdoor.fr/job-listing/j?jl=1009615542888,,Chef(fe) de Projet SI - Data Produits (F/H),Louis Vuitton,Paris,2025-01-29,,,,,,,False,,,organic,,"### **Position**
+
+**La Maison**
+
+Depuis 1854, les femmes et les hommes de Louis Vuitton partagent le même esprit d'excellence et réinventent chaque jour leur métier. Chaque parcours est un véritable voyage, nourri d'émotion et de conquête, d'envie et d'audace. Aujourd'hui, dans un contexte de forte croissance, Louis Vuitton vous invite à imaginer votre propre voyage en rejoignant nos équipes.
+
+
+Louis Vuitton respecte et promeut l'égalité des chances. Nous célébrons et accueillons toutes les singularités et nous engageons à créer un environnement de travail inclusif.
+
+
+***LV\\_NEO \\- Tech For Luxury Experiences***
+
+Chez LV\\_NEO, notre mission est d’accompagner les transformations de la Maison en apportant le meilleur de la technologie à l’ensemble des métiers et ce, sur toute la chaine de valeur : Développement produit, Manufacturing, Supply\\-Chain, E\\-commerce, Logistique et Retail...
+
+
+Avec un esprit pionnier et dans une approche partenariale avec les directions métiers, nous élaborons des expériences omnicanales, exclusives, surprenantes et immersives à offrir à nos clients partout dans le monde.
+
+
+**L’équipe**
+
+Au sein de LV\\_NEO, vous rejoignez notre département Enterprise Architecture \\& Data et plus particulièrement la tribu Data Referentials. En tant que Chef(fe) de Projet SI \\- Data Produits, vous allez développer, maintenir et promouvoir l’usage des référentiels de données dans la Maison et plus particulièrement celui des produits finis. L’enjeu sera de participer à la construction d’un PIM (Product Information Management) afin d’enrichir et d’élever l’expérience client sur tous les points de contact, pour assurer une gestion omnicanal de cette information, et enfin, optimiser les travaux des différentes équipes métiers.
+
+
+Vous devenez l’interlocuteur(rice) privilégié(e) LV NEO avec les utilisateurs clés de l'ensemble du cycle de vie des produits finis (Master Data PLM, ERP, Digital, OmniRetail). Vous êtes partie prenante dans le développement et la bonne application de la data gouvernance associée à votre domaine. A ce titre, vous travaillez de concert avec les architectes d’Entreprise et les architectes Solutions Applicatives sur l'évolution des normes et processus associés.
+
+
+### **Job responsibilities**
+
+* Vous êtes responsable du maintien des connaissances fonctionnelles et techniques nécessaires à la pérennité de l’application. Vous êtes le/la référent(e) pour les interlocuteurs métiers en lien étroit avec les interlocuteurs métiers ( Business Owner et Product Owner) .
+* Vous construisez et animez la roadmap des solutions applicatives autour des produits finis en cohérence avec la stratégie de l’entreprise.
+* En complément du projet d’implémentation du PIM (Product Information Management), vous assurez et coordonnez les activités d'évolution et de maintenance corrective de ce dernier. Vous devrez conduire les évolutions depuis leur conception jusqu’à leur réception par les utilisateurs avec des exigences de qualité, de délais, de coût et de sécurité.
+* Vous co\\-animez, avec le Product Owner, la squad délivrant les solutions PIM (priorisation du backlog, suivi des sprints, challenge des solutions…) et coordonnez les déploiements avec les utilisateurs en zones.
+* Vous garantissez les performances, la sécurité et la pérennité des solutions (industrialisation, optimisation, non régression).
+* Vous réalisez de la veille technologique et concurrentielle sur votre domaine.
+### **Profile**
+
+* Vous êtes diplômé(e) d’un bac \\+5 en école d'ingénieur/école de commerce avec une spécialisation dans les technologies de l'information ou équivalent universitaire
+* Vous justifiez d'une expérience de 5 ans minimum sur des postes de chef de projet applicatif sur un outil de Master Data Management / PIM, idéalement dans le secteur du Luxe (avec une distribution omnicanal) et un contexte international
+* Vous avez une expérience dans l'intégration d’un PIM (idéalement Akeneo) ou d’un MDM (Master Data Management) avec d'autres systèmes (ERP \\= SAP, e\\-commerce \\= SFB2C, CRM/Clienteling \\= Salesforce, PLM \\= Centric) et des technologies d’intégration (ETL, EDA et surtout API, idéalement Mulesoft). La connaissance d’un DAM (Digital Asset Managemen) est un plus
+* Vous maitrisez le domaine des données produits avec une
+	+ Compétence en gestion et modélisation des données produits finis
+	+ Connaissance des standards de qualité des données et des bonnes pratiques de gouvernance des données
+* Vous savez piloter, suivre et gérer des projets dans un contexte AGILE et vous êtes capable de challenger vos interlocuteurs et de prendre des initiatives
+* Vous êtes reconnu(e) pour vos capacités relationnelles et vos aptitudes en communication
+* Vous maîtrisez le français et l'anglais, à l'écrit comme à l'oral
+
+**Pourquoi participer à l’aventure ?**
+
+* Pour travailler dans une entreprise en forte croissance et devenir vous aussi un acteur/une actrice de cette réussite.
+* Pour rejoindre des équipes qui incarnent des valeurs fortes : le sens du collectif, l’authenticité, l’audace, la passion, l’excellence au service des métiers et de nos clients !
+* Pour évoluer dans un environnement moderne, connecté, performant, adapté à chaque besoin et reposant sur un système d’information global et robuste.
+* Pour grandir et bénéficier d’un suivi RH personnalisé tout au long de votre carrière.
+
+Vous êtes partant(e) ? Nous vous attendons !
+
+
+***LOUIS VUITTON***
+**MAISON**
+------------------------------
+
+Founded in Paris in 1854, Louis Vuitton perpetuates the ambitious vision of its namesake. From his origins as a master trunk maker, manufacturing boxes used to pack both everyday objects as well as voluminous wardrobes, Louis Vuitton and his successors introduced numerous innovations including the advent of the flat\\-top trunk, lightweight canvas, signature patterns, and the tumbler lock. Today, Louis Vuitton’s legacy is expressed through its rigorous spirit of innovation, the boldness of its creations and an uncompromising demand for excellence.",,https://www.glassdoor.fr/Overview/W-EI_IE667150.htm,https://media.glassdoor.com/sql/667150/louis-vuitton-squarelogo-1510674933751.png,,,,,
+gd-1009615119945,glassdoor,https://www.glassdoor.fr/job-listing/j?jl=1009615119945,,Program Manager industrialisation / production (H/F),Thales,Élancourt,2025-01-29,,,,,,,False,,,organic,,"Lieu : Elancourt, France**Construisons ensemble un avenir de confiance**
+------------------------------------------------
+
+
+Thales est un leader mondial des hautes technologies spécialisé dans trois secteurs d’activité : Défense \\& Sécurité, Aéronautique \\& Spatial, et Cyber \\& Digital. Il développe des produits et solutions qui contribuent à un monde plus sûr, plus respectueux de l’environnement et plus inclusif. Le Groupe investit près de 4 milliards d’euros par an en Recherche \\& Développement, notamment dans des domaines clés de l’innovation tels que l’IA, la cybersécurité, le quantique, les technologies du cloud et la 6G. Thales compte près de 81 000 collaborateurs dans 68 pays.
+
+
+**Nos engagements, vos avantages**
+----------------------------------
+
+* Une réussite portée par notre excellence technologique, votre expérience et notre ambition partagée
+* Un package de rémunération attractif
+* Un développement des compétences en continu : parcours de formation, académies et communautés internes
+* Un environnement inclusif, bienveillant et respectant l’équilibre des collaborateurs
+* Un engagement sociétal et environnemental reconnu
+
+**Votre quotidien**
+-------------------
+
+
+Au coeur de Saint Quentin en Yvelines, le site d'Elancourt est un des centres d’excellence technologique les plus importants. La diversité et la technicité des systèmes et équipements mobilisent des savoir\\-faire dans plus de 80 métiers dans les solutions de défense, de sécurité de haute technologie et de services numériques.
+Au sein de l’entité Optronique et Electronique de Missile (OME) vous intégrez le Département Emports Optroniques (DEO) du Secteur Optronique Aéroportée (SAO). Ce département est dédié aux pods optroniques sur l'ensemble des programmes de développement et de production, pour les marchés France \\& Export.
+
+
+En tant que responsable projets production et industrialisation, vous serez en charge du suivi de la production jusqu'à l'acceptation des équipements avec le Client ainsi que de l'industrialisation des nouveaux standards du produit. Vous aurez à réaliser les activités suivantes en coordination avec les responsables projets des différents marchés du département :
+
+* Tenue du COPIL Indus/Prod hebdomadaire avec les parties prenantes principales : APRU, Ingénierie produit, Qualité, soutien.
+* Participation aux revues mensuelles d'industrialisation/production de Centre de Compétences Industrielles (CCI)
+* Piloter avec CCI la production des pods, des rechanges ainsi que des prototypes ou pré\\-série (y compris leur retrofit si nécessaire)
+* Assurer la transition Développement / Industrialisation / Production du produit en collaboration avec l'EDM
+* Maitriser avec l'ingénierie du Secteur (DDAO) la configuration et la variabilité du produit en fonction des marchés
+* Contribuer aux revues de veille des obsolescences du produit et lancer les approvisionnements des LBO retenus
+
+**Votre profil**
+----------------
+
+
+Vous êtes titulaire d’un BAC\\+5 et avez de l’expérience dans :
+
+* Un rôle de chef d’orchestre des activités d’un projet qui impliquent un large panel d’acteurs
+* La gestion de projets, idéalement dans un environnement de défense/militaire.
+* Un environnement international
+
+
+La rigueur, l’autonomie, de bonnes aptitudes relationnelles sont des qualités que l’on vous reconnait.
+
+
+Le poste pouvant nécessiter d'accéder à des informations relevant du secret de la défense nationale, la personne retenue fera l'objet d'une procédure d’habilitation, conformément aux dispositions des articles R.2311\\-1 et suivants du Code de la défense et de l’IGI 1300 SGDSN/PSE du 09 août 2021\\.
+Thales reconnait tous les talents, la diversité est notre meilleur atout. Postulez et rejoignez nous !",,https://www.glassdoor.fr/Overview/W-EI_IE10358.htm,https://media.glassdoor.com/sql/10358/thales-squareLogo-1711111971327.png,,,,,
+gd-1009612726114,glassdoor,https://www.glassdoor.fr/job-listing/j?jl=1009612726114,,Chargé(e) d'Etudes Mécaniques F/H,MBDA,Le Plessis-Robinson,2025-01-26,,,,,,,False,,,organic,,"MBDA recrute :
+
+
+MBDA est le seul groupe européen capable de concevoir et de produire des missiles et systèmes de missiles pour répondre à toute la gamme des besoins opérationnels présents et futurs des trois armées (terre, marine et air).  
+
+Partenaire européen et acteur mondial, MBDA se positionne au coeur de la souveraineté de nos nations européennes et de leurs alliés en leur fournissant des capacités militaires décisives à des fins de sécurité nationale et d'autonomie stratégique. Les produits du Groupe sont en service dans plus de 90 forces armées dans le monde. Avec plus de 13 000 personnes travaillant ensemble en France, au Royaume\\-Uni, en Italie, en Allemagne et en Espagne, MBDA est l'exemple le plus abouti d'intégration industrielle réussie dans le secteur de la défense en Europe. Les compétences des collaborateurs couvrent tous les aspects de la conception, du développement, de la production, du support et des services des systèmes d'armes complexes.  
+
+Chez MBDA, le sens de notre mission est ce qui nous unit : contribuer à la souveraineté des nations et préserver notre sécurité et notre liberté en Europe. Pour y parvenir, la collaboration et la confiance sont essentielles. MBDA doit relever des défis uniques pour répondre aux besoins des forces armées face à de nouvelles menaces. Motivés par les challenges technologiques, nous repoussons les limites de l'innovation, de la science et de la technologie pour développer des solutions au meilleur niveau.
+  
+
+Nous encourageons le dépassement de soi dans un environnement unique qui offre des opportunités à chacun d'entre nous. Ensemble, nous sommes fiers du rôle que nous jouons.  
+
+  
+
+**Description du poste**  
+
+Intégré(e) au bureau d'études mécaniques et en étroite collaboration avec le Chef de projet, vous êtes force de proposition pour la conception des sous\\-ensembles mécaniques. Vous prenez en charge la réalisation des dossiers de définition dès la phase d'avant\\-projet.  
+
+  
+
+En tant que chargé(e) d'études mécanique, vous :  
+
+* Concevez des sous\\-ensembles mécaniques
+* Réalisez les plans de définition et les nomenclatures
+* Participez aux essais de validation
+* Analysez et traitez les faits techniques
+* Suivez les évolutions de définition
+* Participez aux réunions projet, en contact avec les autres métiers
+* Appliquez le Référentiel Qualité de la société, les règles internes d'utilisation des outils de conception, de gestion des données et les règles strictes de sécurité industrielle et de défense
+
+
+Notre rémunération comporte un salaire fixe et des éléments additionnels individuels (une part variable pour nos salariés cadres et une prime d'ancienneté ainsi qu'une prime annuelle pour nos salariés non\\-cadres) ou collectifs dépendant de la performance et des résultats de l'entreprise (participation, intéressement).  
+
+De nombreux services/avantages sont également proposés : restaurant d'entreprise, épargne salariale (PEG, PERCOL), protection sociale (mutuelle et prévoyance), comité social et économique, infirmerie et service de santé au travail interne...  
+
+* Rejoignez les équipes de l'ingénierie mécanique; un département organisé, à taille humaine qui travaille sur des sujets techniquement stimulants
+* Travaillez sur des projets très variés avec des technologies différentes
+* Environnement propice à l'innovation et à la prise d'initiatives
+* Bienveillance au quotidien
+MBDA recherche :
+
+
+* Formation : BTS, DUT ou d'une licence dans le domaine de la conception mécanique
+* Expérience : minimum 3 ans d'expérience en bureau d'études mécaniques sur de la mise au point ou de la vie série
+* Connaissances : mécanique générale (conception mécanique, calculs de pré\\-dimensionnement simples, ...), système CAO, gestion des données techniques
+* Anglais : technique
+
+
+015
+Résumé :
+
+
+**Référence** : R22843
+
+
+Le Plessis\\-Robinson \\- Ile\\-de\\-France \\- France
+CDI
+2 à 4 ans d'expérience
+Industrialisation, Production",,https://www.glassdoor.fr/Overview/W-EI_IE36412.htm,https://media.glassdoor.com/sql/36412/mbda-squareLogo-1681292345443.png,,,,,
+gd-1009610516592,glassdoor,https://www.glassdoor.fr/job-listing/j?jl=1009610516592,,Strategic Marketing Manager F/H,HTL Biotechnology,Paris,2025-01-24,,,,,,,False,,,organic,,"**Qui sommes\\-nous ?**  
+
+Vous souhaitez évoluer dans une entreprise en pleine croissance, performante et dynamique ?
+
+
+
+Pour soutenir notre ambition et développer nos activités, nous cherchons activement des talents pour renforcer notamment nos équipes en production, R\\&D et qualité.
+
+  
+
+
+
+HTL Biotechnology est une entreprise de biotechnologie, leader mondial dans le développement et la production de biopolymères de grade pharmaceutique. Nos produits sont utilisés par les plus grandes entreprises du secteur de la santé dans des domaines thérapeutiques tels que l’ophtalmologie, la dermatologie, l’esthétique médicale ou la rhumatologie.
+
+  
+
+
+
+Pionnière dans la bioproduction de l’acide hyaluronique depuis plus de 30 ans, nous sommes à l’avant\\-garde de l’innovation dans le secteur des biopolymères afin de répondre aux besoins médicaux de demain.
+
+  
+
+
+
+Acteur industriel en pleine croissance internationale, nous exportons près de 75% de notre production dans plus de 30 pays. Afin de répondre aux besoins des clients, nous avons ouvert des filiales à Singapour, aux Etats\\-Unis ainsi que des bureaux en Chine. HTL Biotechnology a un ancrage historique à Javené (Ille\\-et\\-Vilaine, Bretagne) où sont situées nos activités industrielles et R\\&D.
+
+  
+
+
+
+ Au total près de 300 talentueux collaborateurs travaillent chez HTL Biotechnology.
+
+  
+
+
+
+Notre ambition est de consolider notre leadership mondial et de créer de la valeur pour nos clients avec quatre priorités :
+
+
+* Un Positionnement premium en garantissant un haut niveau de qualité et de sûreté de nos produits
+
+
+* L’Innovation, en étant moteur de la recherche dans le secteur des biopolymères.
+
+
+* L’expansion internationale, en mettant la production et la R\\&D au service de nouveaux marchés et clients
+
+
+* La responsabilité sociétale, grâce à laquelle nous souhaitons transformer le secteur des biopolymères en une force positive et durable.
+
+ **Principaux rôle et responsabilités**  
+
+Rattaché(e) à la Directrice Innovation et Stratégie de Portefeuille, vous orientez le développement stratégique des produits actuels et futurs d’HTL, en assurant leur positionnement sur le marché et en maximisant leur rentabilité tout au long de leur cycle de vie.
+
+  
+
+
+
+Vos missions sont les suivantes :
+
+  
+
+
+
+Définition de la Stratégie du portefeuille :
+
+
+* Stratégie Produit : vous élaborez la stratégie de chaque produit pour ceux en développement ou ceux déjà commercialisés, incluant la vision à long terme et les objectifs marché.
+* Plan de Déploiement : vous développez et mettez en œuvre le plan de déploiement tout au long du cycle de vie des produits, de leur lancement jusqu’à l’identification de nouveaux relais de croissance.
+
+  
+
+
+
+Support au Développement et à la Commercialisation :
+
+
+* Identification et Valorisation : vous soutenez l’identification de nouvelles opportunités de développement de produit et leur valorisation en ligne avec la stratégie d’innovation de l'entreprise.
+* Commercialisation et Industrialisation : vous collaborez avec les équipes pour le lancement et l’industrialisation des nouveaux produits et pilotage de programme en tant que chef de projet.
+
+  
+
+
+
+Élaboration des Plans Commerciaux et Objectifs :
+
+
+* Plans Commerciaux et Marketing : vous participez à la conception des plans commerciaux et marketing en collaboration avec les équipes concernées, incluant les objectifs de chiffre d’affaires et de rentabilité et élaborer la proposition de valeur des différents produits.
+
+
+* Coordination Interne : vous travaillez en étroite collaboration avec les équipes IRD, industrielles et marketing pour assurer la mise en œuvre efficace des plans (maintien des deadlines).
+
+  
+
+
+
+Gestion du Portefeuille :  
+
+* Produits commercialisés : vous gérez les principaux produits dans le portefeuille, en assurant leur développement continu et leur alignement avec les besoins du marché.
+* Produits en Développement : vous supervisez les projets de développement produit en assurant leur progression conforme aux objectifs de l’entreprise.
+  
+
+
+
+Vous encadrez un Chef de Produit strategique junior.
+
+ **Et vous ?**  
+
+* De formation Bac \\+5 ou PhD (double diplôme fortement apprécié)
+* Expérience minimum 8 ans idéalement en environnement pharmaceutique \\- cellules marketing stratégique / business développement / stratégie
+* Haut degré d’autonomie et de travail en équipe attendu
+* Connaissance fine du cycle de vie d’un produit pharmaceutique et des enjeux associés (développement, mise sur le marché, etc.)
+* Qualités d'analyse et de synthèse (valorisation produit, montage de plans financiers) et dynamisme opérationnel
+* Rigoureux/se et autonome, vous organisez votre travail de manière efficace, vous aimez le travail en équipe et vous êtes reconnu/e pour votre excellent relationnel, votre rigueur analytique et votre leadership
+
+
+Anglais courant
+
+
+
+Poste basé à Paris (avec déplacements réguliers sur site de production en Ille et Vilaine) ou Ille et Vilaine.",,https://www.glassdoor.fr/Overview/W-EI_IE4559502.htm,https://media.glassdoor.com/sql/4559502/htl-biotechnology-squarelogo-1623065556030.png,,,,,
+gd-1009607114189,glassdoor,https://www.glassdoor.fr/job-listing/j?jl=1009607114189,,Chef de Projet Developpement et Transfert Industriel - CDD,NextPharma GmbH,Limay,2025-01-22,,,,,,,False,,,organic,-germany@nextpharma.com,"Chef de Projet Developpement et Transfert Industriel \\- CDD
+
+
+**Lieu:**Limay, FR, 78520
+**Famille d'emplois:** Développement
+**Date de départ anticipé:** 23/01/2024
+**Type d'emploi:** Temps plein
+Nous sommes un des leaders Européens de la sous\\-traitance pharmaceutique, biotechnologique et de la santé, avec plus de 2 200 employés en Allemagne, en France, en Finlande, en Norvège et au Royaume\\-Uni. Pour nous, toujours aller de l’avant pour faire progresser notre entreprise et mieux servir nos clients est ce qui compte le plus.
+Notre constante proactivité nous pousse toujours vers l’avant, rendant plus vivant notre environnement de travail et stimulant chaque jour notre évolution.  
+
+Notre formule gagnante pour un succès partagé : toujours une place pour la passion. Parce que nous savons que la passion est le meilleur remède quand il s’agit de fournir le meilleur des services dans le monde entie.  
+
+Bienvenue chez NextPharma.  
+
+
+Rattaché(e) au Responsable Développement et Transfert Industriel Site, après une période de formation à nos outils et process, vous assurez les missions ci\\-dessous dans le respect de la sécurité des règles pharmaceutiques, des coûts et des délais :  
+
+
+GERER LES PROJETS DE DEVELOPPEMENT :  
+
+
+* Prendre part à l’élaboration des plans de développement
+* Animer les réunions projet avec les équipes internes (formulation, analytique, achat, HSE, qualité, réglementaire, industrialisation...) et le client
+* Etre l’interface privilégiée avec le client sur la partie procédés et projet global
+* Planifier, coordonner les activités de développement, être garant du respect des délais et rédiger la documentation projet associée en français et anglais
+* Conduire sur le terrain le développement du procédé de fabrication des nouveaux produits et/ou des transferts de produit sur le site
+* Participer à l’étude de faisabilité industrielle et/ou au plan de transfert
+* Organiser et participer sur le terrain aux essais de développement sur lignes pilotes et lignes de production avec le support de l’équipe
+* Effectuer la validation des procédés de fabrication développés et élaborer la rédaction de la documentation associée en français et anglais
+* Participer à la transposition industrielle de nouveaux produits
+* Effectuer le transfert du projet à l’équipe transposition industrielle une fois l’étape de développement terminée (dépôt de dossier d’AMM / variations)
+* Estimer les coûts et le planning prévisionnel en concertation avec les différents départements.
+* S’assurer du respect du délai de l’envoi de l’offre de développement et en effectuer son suivi
+
+
+* Réaliser ou participer à la réalisation des lots d’essai
+
+  
+
+
+TRANSFERT INDUSTRIEL :  
+
+
+* Analyser les appels d’offres
+
+
+* Réaliser la carte des coûts et rédiger l’offre commerciale en respectant les délais.
+
+
+* Maitriser le processus de transfert industriel et utiliser les standards du site
+
+
+* Gérer la documentation liée au projet en participant à la rédaction des protocoles et rapports avec le service Prod / AQ
+
+
+* S’assurer que les projets sont mis en œuvre conformément aux exigences réglementaires applicables et attentes du client
+
+  
+
+
+PROJECT MANAGEMENT :  
+
+* Evaluer les risques et rédiger les risk assessments en préparant la mise sous maitrise du projet
+
+
+* Préparer et animer les réunions de projets
+
+
+* Assurer le reporting des projets dont vous avez la charge auprès du responsable de service, du comité de pilotage site, etc…
+
+  
+
+
+Vous avez un diplôme d’Ingénieur ou Master en galénique, formaulation, développement des procédés avec une expérience d’au moins 2 ans dans l’industrie pharmaceutique.  
+
+
+Vous êtes doté(e) de fortes capacités d’analyse, de synthèse et de rigueur.
+Vous êtes pragmatique, force de propositions , rigoureux(se), autonome et possédez de réelles aptitudes relationnelles pour travailler en équipe dans un contexte de communication transversale et de collaboration constructive.  
+
+
+Vous possédez de solides connaissances des référentiels applicables aux médicaments et maitrisez l’anglais oral, écrit et les logiciels de gestion de projet (Gantt, Ms Project, Sharepoint,Teams)  
+
+
+**La réactivité, l‘ouverture au changement, le leadership** **sont** **nécéssaires à ce poste.**  
+
+
+**The most important step is your next** **:** Nous nous réjouissons de recevoir votre candidature, par e\\-mail de préférence. Merci d’y inclure la date à laquelle vous pourriez intégrer notre équipe ainsi que vos attentes salariales. NextPharma GmbH Personalabteilung, Hildebrandstraße 10\\-12, 37081 Göttingen, hr\\-germany@nextpharma.com
+**www****.****nextpharma.com/careers**
+Surfez sur la prochaine vague:
+Nous attendons avec impatience de recevoir votre candidature",,https://www.glassdoor.fr/Overview/W-EI_IE931590.htm,https://media.glassdoor.com/sql/931590/nextpharma-squareLogo-1692824807466.png,,,,,
